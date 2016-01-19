@@ -106,9 +106,9 @@
         <mark key="^" line="163" column="40" />
         <mark key="." line="163" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values-fr/strings.xml" timestamp="1453198977617">
-        <mark key="[" line="462" column="52" />
-        <mark key="]" line="462" column="63" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values-fr/strings.xml" timestamp="1453223572541">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="72" />
         <mark key="." line="462" column="63" />
         <mark key="^" line="462" column="63" />
       </file>
@@ -165,9 +165,9 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/CreatePostActivity.java" timestamp="1452874644248">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values/strings.xml" timestamp="1453198958695">
-        <mark key="[" line="277" column="0" />
-        <mark key="]" line="278" column="80" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values/strings.xml" timestamp="1453223531044">
+        <mark key="[" line="245" column="18" />
+        <mark key="]" line="245" column="28" />
         <mark key="." line="278" column="70" />
         <mark key="^" line="278" column="70" />
       </file>
@@ -655,7 +655,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFnbWVudC5pcwo=</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYnV0dG9uX3Nob3AiIGZvcm1hdHRlZD0iZmFsc2UiPjxiPkFDSEVURVI8L2I+PC9zdHJpbmc+Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -692,7 +692,7 @@
         <text>setting</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0idm91Y2hlcl9hcHBsaWVkIj5Wb3VjaGVyIEFwcGxpZWQ8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0idm91Y2hlcl9hcHBsaWVkX3dpdGhfZGVzY3JpcHRpb24iPlZvdWNoZXIgQXBwbGllZDogJXM8L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYnV0dG9uX3Nob3AiIGZvcm1hdHRlZD0iZmFsc2UiPjxiPkFDSEVURVI8L2I+PC9zdHJpbmc+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBmcmFnbWVudC5pcwo=</text>
