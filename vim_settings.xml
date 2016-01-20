@@ -24,14 +24,16 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/AbstractActivityUnitTest.java" timestamp="1453293612712">
         <mark key="'" line="86" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MyService.java" timestamp="1453306747658">
-        <mark key="'" line="15" column="53" />
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="9" />
-        <mark key="." line="9" column="9" />
-        <mark key="^" line="9" column="9" />
+      <file name="/a.dummy" timestamp="1453308514939">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/preference/PreferenceManager.java" timestamp="1453293982492" />
+      <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MyService.java" timestamp="1453308588566">
+        <mark key="'" line="14" column="7" />
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="22" column="34" />
+        <mark key="^" line="22" column="34" />
+        <mark key="." line="22" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/SecondActivity.java" timestamp="1453303762450">
         <mark key="'" line="184" column="45" />
         <mark key="[" line="279" column="34" />
@@ -52,20 +54,24 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MainActivity.java" timestamp="1453306879891">
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="31" column="41" />
-        <mark key="^" line="31" column="41" />
-        <mark key="." line="31" column="41" />
+      <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MainActivity.java" timestamp="1453308637314">
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="24" column="75" />
+        <mark key="." line="24" column="75" />
+        <mark key="^" line="24" column="75" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/Activity.java" timestamp="1453294096915">
         <mark key="'" line="771" column="38" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ContextThemeWrapper.java" timestamp="1453294159287" />
+      <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/res/layout/activity_main.xml" timestamp="1453308687904">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="12" column="37" />
+        <mark key="^" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+      </file>
       <file name="/fragment.java" timestamp="1453295261364">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/IntentService.java" timestamp="1453306365991" />
     </filemarks>
     <jumps>
       <jump line="13" column="28" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/MediaGalleryActivity.java" />
@@ -83,43 +89,44 @@
       <jump line="258" column="91" filename="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/SecondActivity.java" />
       <jump line="184" column="45" filename="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/SecondActivity.java" />
       <jump line="15" column="53" filename="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MyService.java" />
+      <jump line="14" column="7" filename="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MyService.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>PreferenceManager.getDefaultSharedPreferences(this)</text>
+        <text>((MyService.LocalBinder) service)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Hello World!</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Hello World!</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>TextView</text>
       </register>
       <register name="3" type="4">
-        <text>:</text>
+        <text>run</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>:</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbVNlcnZpY2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9ndgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBIYW5kbGVyIGdldFNlcnZpY2VIYW5kbGVyKCkgewogICAgICAgIHJldHVybiBtU2VydmljZUhhbmRsZXI7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Hello World!</text>
       </register>
     </registers>
     <search>
