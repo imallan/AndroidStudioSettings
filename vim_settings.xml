@@ -24,8 +24,12 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/AbstractActivityUnitTest.java" timestamp="1453293612712">
         <mark key="'" line="86" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MyService.java" timestamp="1453304854461">
-        <mark key="[" line="27" column="5" />
+      <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MyService.java" timestamp="1453306747658">
+        <mark key="'" line="15" column="53" />
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+        <mark key="^" line="9" column="9" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/preference/PreferenceManager.java" timestamp="1453293982492" />
       <file name="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/SecondActivity.java" timestamp="1453303762450">
@@ -48,6 +52,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MainActivity.java" timestamp="1453306879891">
+        <mark key="[" line="31" column="41" />
+        <mark key="]" line="31" column="41" />
+        <mark key="^" line="31" column="41" />
+        <mark key="." line="31" column="41" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/Activity.java" timestamp="1453294096915">
         <mark key="'" line="771" column="38" />
       </file>
@@ -55,7 +65,7 @@
       <file name="/fragment.java" timestamp="1453295261364">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/IntentService.java" timestamp="1453305257003" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/IntentService.java" timestamp="1453306365991" />
     </filemarks>
     <jumps>
       <jump line="13" column="28" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/MediaGalleryActivity.java" />
@@ -72,43 +82,44 @@
       <jump line="183" column="23" filename="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/SecondActivity.java" />
       <jump line="258" column="91" filename="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/SecondActivity.java" />
       <jump line="184" column="45" filename="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/SecondActivity.java" />
+      <jump line="15" column="53" filename="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MyService.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>PreferenceManager.getDefaultSharedPreferences(this)</text>
       </register>
-      <register name="1" type="4">
-        <text>LocalBinder</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>LocalBinder</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgfQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="3" type="4">
+        <text>:</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IHB1YmxpYyBjbGFzcyBMb2NhbEJpbmRlciBleHRlbmRzIEJpbmRlciB7CiAgICAgICAgCiAgICA=</text>
+        <text>:</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSUJpbmRlciBtQmluZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9ndgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>LocalBinder</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
