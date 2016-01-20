@@ -9,28 +9,93 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1453285218240">
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ContextImpl.java" timestamp="1453294341479">
+        <mark key="'" line="2030" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1453294941299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1453293263727">
-        <mark key="[" line="71" column="21" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1453293844228">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="450" column="0" />
+        <mark key="]" line="450" column="0" />
+        <mark key="." line="450" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1453285210108">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/AbstractActivityUnitTest.java" timestamp="1453293612712">
+        <mark key="'" line="86" column="20" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/preference/PreferenceManager.java" timestamp="1453293982492" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/content/ContextWrapper.java" timestamp="1453294335564">
+        <mark key="'" line="768" column="0" />
+        <mark key="[" line="53" column="11" />
+        <mark key="]" line="53" column="24" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityThread.java" timestamp="1453294448154">
+        <mark key="'" line="25" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/TreatmentApplication.java" timestamp="1453295246632">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/Activity.java" timestamp="1453294096915">
+        <mark key="'" line="771" column="38" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ContextThemeWrapper.java" timestamp="1453294159287" />
+      <file name="/fragment.java" timestamp="1453295261364">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="13" column="28" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/MediaGalleryActivity.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityThread.java" />
+      <jump line="25" column="30" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityThread.java" />
+      <jump line="86" column="20" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/AbstractActivityUnitTest.java" />
+      <jump line="160" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/Activity.java" />
+      <jump line="89" column="12" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/content/ContextWrapper.java" />
+      <jump line="768" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/content/ContextWrapper.java" />
+      <jump line="771" column="38" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/Activity.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ContextImpl.java" />
+      <jump line="2030" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ContextImpl.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiMjEgCg==</text>
+      <register name="0" type="4">
+        <text>ContextWrapper</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiMjEgCg==</text>
+      <register name="1" type="4">
+        <text>m</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>m</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBQcmVmZXJlbmNlTWFuYWdlci4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzaGFyZWRQcmVmZXJlbmNlcy4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTaGFyZWRQcmVmZXJlbmNlcyBzcCA9IG5ldyAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTaGFyZWRQcmVmZXJlbmNlc0NvbXBhdC4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRSZWZlcnJlcigpCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>m</text>
       </register>
     </registers>
     <search>
