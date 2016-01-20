@@ -15,22 +15,21 @@
       <file name="/Dummy.txt" timestamp="1453294941299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1453300481086">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="463" column="0" />
-        <mark key="]" line="463" column="0" />
-        <mark key="." line="463" column="0" />
-        <mark key="^" line="462" column="20" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1453302397141">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="453" column="0" />
+        <mark key="]" line="453" column="0" />
+        <mark key="." line="453" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/AbstractActivityUnitTest.java" timestamp="1453293612712">
         <mark key="'" line="86" column="20" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/preference/PreferenceManager.java" timestamp="1453293982492" />
-      <file name="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/SecondActivity.java" timestamp="1453300829113">
-        <mark key="[" line="106" column="8" />
-        <mark key="]" line="106" column="4" />
-        <mark key="^" line="106" column="4" />
-        <mark key="." line="106" column="4" />
+      <file name="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/SecondActivity.java" timestamp="1453302754353">
+        <mark key="'" line="184" column="45" />
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="251" column="0" />
+        <mark key="." line="251" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/content/ContextWrapper.java" timestamp="1453294335564">
         <mark key="'" line="768" column="0" />
@@ -65,40 +64,43 @@
       <jump line="771" column="38" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/Activity.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ContextImpl.java" />
       <jump line="2030" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ContextImpl.java" />
+      <jump line="183" column="23" filename="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/SecondActivity.java" />
+      <jump line="258" column="91" filename="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/SecondActivity.java" />
+      <jump line="184" column="45" filename="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/SecondActivity.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>PreferenceManager.getDefaultSharedPreferences(this)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="4">
-        <text>/</text>
-      </register>
-      <register name="3" type="4">
-        <text>/</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJlYWQucnVuKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBIYW5kbGVyIGhhbmRsZXIgPSBuZXcgSGFuZGxlcigpOwogICAgICAgIFRocmVhZCB0aHJlYWQgPSBuZXcgVGhyZWFkKCgpIC0+IHsKICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIGhhbmRsZXIucG9zdCgoKSAtPiB7CgogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Ow==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBIYW5kbGVyKGdldE1haW5Mb29wZXIoKSkucG9zdCgoKSAtPiB7CgogICAgICAgICAgICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL3VwZGF0ZSB1aQo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
