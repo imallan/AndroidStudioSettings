@@ -24,6 +24,9 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/AbstractActivityUnitTest.java" timestamp="1453293612712">
         <mark key="'" line="86" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MyService.java" timestamp="1453304854461">
+        <mark key="[" line="27" column="5" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/preference/PreferenceManager.java" timestamp="1453293982492" />
       <file name="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/SecondActivity.java" timestamp="1453303762450">
         <mark key="'" line="184" column="45" />
@@ -52,6 +55,7 @@
       <file name="/fragment.java" timestamp="1453295261364">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/IntentService.java" timestamp="1453305257003" />
     </filemarks>
     <jumps>
       <jump line="13" column="28" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/MediaGalleryActivity.java" />
@@ -74,37 +78,37 @@
         <text>PreferenceManager.getDefaultSharedPreferences(this)</text>
       </register>
       <register name="1" type="4">
-        <text>new Message();</text>
+        <text>LocalBinder</text>
       </register>
       <register name="&quot;" type="4">
-        <text>new Message();</text>
+        <text>LocalBinder</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNZXNzYWdlLm9idGFpbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHB1YmxpYyBjbGFzcyBMb2NhbEJpbmRlciBleHRlbmRzIEJpbmRlciB7CiAgICAgICAgCiAgICA=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWQucnVuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSUJpbmRlciBtQmluZGVyCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBIYW5kbGVyIGhhbmRsZXIgPSBuZXcgSGFuZGxlcigpOwogICAgICAgIFRocmVhZCB0aHJlYWQgPSBuZXcgVGhyZWFkKCgpIC0+IHsKICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIGhhbmRsZXIucG9zdCgoKSAtPiB7CgogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Ow==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>new Message();</text>
+        <text>LocalBinder</text>
       </register>
     </registers>
     <search>
