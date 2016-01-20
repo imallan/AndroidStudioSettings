@@ -41,6 +41,11 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/Activity.java" timestamp="1453294096915">
         <mark key="'" line="771" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/MainActivity.java" timestamp="1453298343438">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ContextThemeWrapper.java" timestamp="1453294159287" />
       <file name="/fragment.java" timestamp="1453295261364">
         <mark key="[" line="0" column="0" />
@@ -64,34 +69,34 @@
         <text>PreferenceManager.getDefaultSharedPreferences(this)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFRyZWF0bWVudEFwcGxpY2F0aW9uIHNUcmVhdG1lbnRBcHBsaWNhdGlvbjsKCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFRyZWF0bWVudEFwcGxpY2F0aW9uIHNUcmVhdG1lbnRBcHBsaWNhdGlvbjsKCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFRyZWF0bWVudEFwcGxpY2F0aW9uIHNUcmVhdG1lbnRBcHBsaWNhdGlvbjsKCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQlzU2hhcmVkUHJlZmVyZW5jZXMgPSBQcmVmZXJlbmNlTWFuYWdlci5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXModGhpcyk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>Activity</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CXByaXZhdGUgc3QK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>new</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>getDefaultSharedPreferences</text>
       </register>
-      <register name="8" type="4">
-        <text>this</text>
-      </register>
       <register name="9" type="4">
-        <text>m</text>
+        <text>this</text>
       </register>
       <register name="-" type="4">
         <text>Activity</text>
