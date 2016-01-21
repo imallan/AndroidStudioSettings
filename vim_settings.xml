@@ -39,12 +39,24 @@
         <mark key="^" line="17" column="49" />
         <mark key="." line="17" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" timestamp="1453374525309">
+        <mark key="'" line="317" column="0" />
+        <mark key="[" line="510" column="41" />
+        <mark key="]" line="510" column="41" />
+        <mark key="." line="510" column="41" />
+        <mark key="^" line="510" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/SecondActivity.java" timestamp="1453303762450">
         <mark key="'" line="184" column="45" />
         <mark key="[" line="279" column="34" />
         <mark key="]" line="279" column="50" />
         <mark key="^" line="279" column="50" />
         <mark key="." line="279" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Post.java" timestamp="1453374458886">
+        <mark key="'" line="44" column="20" />
+        <mark key="[" line="417" column="0" />
+        <mark key="]" line="419" column="9" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/content/ContextWrapper.java" timestamp="1453294335564">
         <mark key="'" line="768" column="0" />
@@ -80,6 +92,25 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" timestamp="1453374531641">
+        <mark key="'" line="973" column="77" />
+        <mark key="[" line="146" column="61" />
+        <mark key="]" line="146" column="70" />
+        <mark key="^" line="146" column="70" />
+        <mark key="." line="146" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/DBHelper.java" timestamp="1453374372306">
+        <mark key="[" line="200" column="49" />
+        <mark key="]" line="200" column="55" />
+        <mark key="^" line="200" column="55" />
+        <mark key="." line="200" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" timestamp="1453374522844">
+        <mark key="[" line="90" column="20" />
+        <mark key="]" line="90" column="20" />
+        <mark key="." line="90" column="20" />
+        <mark key="^" line="90" column="26" />
+      </file>
       <file name="/fragment.java" timestamp="1453295261364">
         <mark key="[" line="0" column="0" />
       </file>
@@ -105,47 +136,47 @@
       <jump line="52" column="19" filename="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MyService.java" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MyService.java" />
       <jump line="52" column="0" filename="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/SecondActivity.java" />
+      <jump line="973" column="77" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" />
+      <jump line="59" column="18" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" />
+      <jump line="44" column="20" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Post.java" />
+      <jump line="317" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJUaHJlYWQ6ICIgKyBUaHJlYWQuY3VycmVudFRocmVhZCgpLmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobGlrZUNvdW50ICE9IG51bGwpIHsKICAgICAgICAgICAgdmFsdWVzLnB1dChUYWJsZS5Qb3N0LkxJS0VfQ09VTlQsIGxpa2VDb3VudCk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJUaHJlYWQ6ICIgKyBUaHJlYWQuY3VycmVudFRocmVhZCgpLmdldE5hbWUoKSk7Cg==</text>
+      <register name="1" type="4">
+        <text>COMMENT_COUNT</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJUaHJlYWQ6ICIgKyBUaHJlYWQuY3VycmVudFRocmVhZCgpLmdldE5hbWUoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>COMMENT_COUNT</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>D</text>
       </register>
       <register name="3" type="4">
-        <text>try {
-                        Thread.sleep(10000);
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
-                    }</text>
+        <text>D</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtU2VydmljZS4K</text>
+      <register name="4" type="4">
+        <text>d</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtU2VydmljZS5zdG9wU2VsZigpOwo=</text>
+      <register name="5" type="4">
+        <text>D</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bmJpbmRTZXJ2aWNlKG1Db25uZWN0aW9uKTsK</text>
+      <register name="6" type="4">
+        <text>Post</text>
       </register>
-      <register name="7" type="4">
-        <text>ServiceConnthis</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bmJpbmRTZXJ2aWNlKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgIEBTZXJpYWxpemVkTmFtZSgiIikK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbQo=</text>
+      <register name="9" type="4">
+        <text>ShoppingCart</text>
       </register>
       <register name="-" type="4">
-        <text>ServiceConnthis</text>
+        <text>COMMENT_COUNT</text>
       </register>
     </registers>
     <search>
