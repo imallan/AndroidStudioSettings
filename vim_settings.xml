@@ -21,11 +21,10 @@
         <mark key="." line="253" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ListLikersFragment.java" timestamp="1453376869981" />
-      <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MainActivity.java" timestamp="1453396601450">
-        <mark key="[" line="26" column="17" />
-        <mark key="]" line="26" column="20" />
-        <mark key="." line="26" column="20" />
-        <mark key="^" line="26" column="20" />
+      <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MainActivity.java" timestamp="1453397500410">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_product_likers.xml" timestamp="1453381034995">
         <mark key="[" line="9" column="0" />
@@ -130,11 +129,11 @@
         <mark key="]" line="270" column="0" />
         <mark key="." line="270" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/res/layout/fragment_my.xml" timestamp="1453396548912">
+      <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/res/layout/fragment_my.xml" timestamp="1453397357612">
         <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="33" />
-        <mark key="^" line="10" column="33" />
-        <mark key="." line="10" column="33" />
+        <mark key="]" line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="10" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1453393892595">
         <mark key="[" line="0" column="0" />
@@ -163,6 +162,12 @@
         <mark key="]" line="12" column="37" />
         <mark key="^" line="12" column="37" />
         <mark key="." line="12" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/AndroidManifest.xml" timestamp="1453397302164">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="4" column="64" />
+        <mark key="^" line="4" column="64" />
+        <mark key="." line="4" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" timestamp="1453387682702">
         <mark key="'" line="502" column="51" />
@@ -229,11 +234,11 @@
       <jump line="811" column="20" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIGet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>replace</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dChNYWluQWN0aXZpdHkudGhpcywgZ2V0U3VwcG9ydEZyYWdtZW50TWFuYWdlcigpLmZpbmQsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>replace</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -241,32 +246,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBGcmFnbWVudCBmcmFnbWVudCA9IGdldFN1cHBvcnRGcmFnbWVudE1hbmFnZXIoKS5maW5kRnJhZ21lbnRCeVRhZyhNeUZyYWdtZW50LlRBRyk7CiAgICAgICAgZ2V0U3VwcG9ydEZyYWdtZW50TWFuYWdlcigpCiAgICAgICAgICAgICAgICAuYmVnaW5UcmFuc2FjdGlvbigpCiAgICAgICAgICAgICAgICAucmVwbGFjZShSLmlkLmxheW91dF9jb250YWluZXIsCiAgICAgICAgICAgICAgICAgICAgICAgIGZyYWdtZW50ID09IG51bGwgPyBNeUZyYWdtZW50Lm5ld0luc3RhbmNlKCkgOiBmcmFnbWVudCwgTXlGcmFnbWVudC5UQUcpCiAgICAgICAgICAgICAgICAuY29tbWl0KCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>replace</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dChNYWluQWN0aXZpdHkudGhpcywgZ2V0U3VwcG9ydEZyYWdtZW50TWFuYWdlcigpLmZpbmQsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
       </register>
       <register name="2" type="4">
+        <text>false</text>
+      </register>
+      <register name="3" type="4">
+        <text>add</text>
+      </register>
+      <register name="4" type="4">
+        <text>replace</text>
+      </register>
+      <register name="5" type="4">
         <text>true</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZnJhZ21lbnQgPT0gbnVsbCA/IAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBGcmFnbWVudCBmcmFnbWVudCA9IGdldFN1cHBvcnRGcmFnbWVudE1hbmFnZXIoKS5maW5kRnJhZ21lbnRCeVRhZyhNeUZyYWdtZW50LlRBRyk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgRnJhZ21lbnQgZnJhZ21lbnQgPSBnZXRTdXBwb3J0RnJhZ21lbnRNYW5hZ2VyKCkuZmluZEZyYWdtZW50QnlUYWcoTXlGcmFnbWVudC5UQUcpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRUb0JhY2tTdGFjaygpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZnJhZ21lbnQgIT0gbnVsbCkgewogICAgICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgRnJhZ21lbnQgZnJhZ21lbnQgPSBnZXRTdXBwb3J0RnJhZ21lbnRNYW5hZ2VyKCkuZmluZEZyYWdtZW50QnlUYWcoTXlGcmFnbWVudC5UQUcpOwo=</text>
       </register>
     </registers>
     <search>
