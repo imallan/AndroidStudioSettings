@@ -3,13 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_product.xml" timestamp="1453382117391">
-        <mark key="[" line="215" column="52" />
-        <mark key="]" line="215" column="53" />
-        <mark key="." line="215" column="53" />
-        <mark key="^" line="215" column="53" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_product.xml" timestamp="1453387155326">
+        <mark key="[" line="215" column="57" />
       </file>
-      <file name="/a.dummy" timestamp="1453383233088">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIGet.java" timestamp="1453388726073">
+        <mark key="[" line="395" column="12" />
+        <mark key="]" line="395" column="22" />
+        <mark key="." line="395" column="22" />
+        <mark key="^" line="395" column="22" />
+      </file>
+      <file name="/a.dummy" timestamp="1453389160857">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" timestamp="1453381622142">
@@ -53,7 +56,13 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="15" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/FixedHeightFrameLayout.java" timestamp="1453383497380">
+      <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MainActivity.java" timestamp="1453309955960">
+        <mark key="[" line="46" column="84" />
+        <mark key="]" line="47" column="35" />
+        <mark key="^" line="47" column="35" />
+        <mark key="." line="47" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/FixedHeightFrameLayout.java" timestamp="1453387126893">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="66" />
@@ -67,6 +76,7 @@
         <mark key="[" line="244" column="0" />
         <mark key="]" line="244" column="83" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/payloads/PayloadLike.java" timestamp="1453388541969" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProductLikersActivity.java" timestamp="1453380900835">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -80,6 +90,11 @@
         <mark key="." line="97" column="0" />
         <mark key="^" line="96" column="95" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/LikeService.java" timestamp="1453388018572">
+        <mark key="[" line="270" column="0" />
+        <mark key="]" line="270" column="0" />
+        <mark key="." line="270" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_look_likers.xml" timestamp="1453381033630">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="36" />
@@ -88,11 +103,16 @@
         <mark key="[" line="302" column="0" />
         <mark key="]" line="305" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/ProductService.java" timestamp="1453382048500">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="22" />
-        <mark key="." line="153" column="0" />
-        <mark key="^" line="117" column="3" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/ProductService.java" timestamp="1453389077833">
+        <mark key="[" line="287" column="0" />
+        <mark key="]" line="290" column="11" />
+        <mark key="." line="287" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/AndroidManifest.xml" timestamp="1453309581047">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="17" column="49" />
+        <mark key="^" line="17" column="49" />
+        <mark key="." line="17" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" timestamp="1453380342416">
         <mark key="'" line="14" column="62" />
@@ -107,12 +127,18 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" timestamp="1453380617299">
+      <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/res/layout/activity_main.xml" timestamp="1453308687904">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="12" column="37" />
+        <mark key="^" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" timestamp="1453387682702">
         <mark key="'" line="502" column="51" />
-        <mark key="[" line="774" column="30" />
-        <mark key="]" line="774" column="74" />
-        <mark key="^" line="774" column="74" />
-        <mark key="." line="774" column="74" />
+        <mark key="[" line="1802" column="27" />
+        <mark key="]" line="1802" column="28" />
+        <mark key="^" line="1802" column="28" />
+        <mark key="." line="1802" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" timestamp="1453378045136">
         <mark key="[" line="748" column="24" />
@@ -123,12 +149,12 @@
       <file name="/fragment.java" timestamp="1453381886376">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" timestamp="1453376677369">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" timestamp="1453388717793">
         <mark key="'" line="479" column="203" />
-        <mark key="[" line="479" column="209" />
-        <mark key="]" line="479" column="220" />
-        <mark key="^" line="479" column="208" />
-        <mark key="." line="479" column="209" />
+        <mark key="[" line="505" column="19" />
+        <mark key="]" line="505" column="29" />
+        <mark key="^" line="505" column="29" />
+        <mark key="." line="505" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/ListService.java" timestamp="1453378654111">
         <mark key="[" line="386" column="8" />
@@ -172,43 +198,44 @@
       <jump line="15" column="62" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
       <jump line="56" column="0" filename="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/res/layout/layout_dashboard.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/FixedHeightFrameLayout.java" />
+      <jump line="263" column="22" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/ProductService.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgb3JpZ2luYWxXaWR0aCA9IE1lYXN1cmVTcGVjLmdldFNpemUod2lkdGhNZWFzdXJlU3BlYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKgogICAgICAgICAqIERPIE5PVCB1c2UgcmVxdWVzdC5nZXRQYXlsb2FkKCkuZ2V0U3RhdHVzKCkgZmllbGQKICAgICAgICAgKiBJdCdzIG5vdCBzdGFuZGFyZCBhbmQgdXNlcyAib2siLyJ3aGF0ZXZlciIgaW5zdGVhZCBvZiB0cnVlL2ZhbHNlCiAgICAgICAgICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgb3JpZ2luYWxXaWR0aCA9IE1lYXN1cmVTcGVjLmdldFNpemUod2lkdGhNZWFzdXJlU3BlYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKgogICAgICAgICAqIERPIE5PVCB1c2UgcmVxdWVzdC5nZXRQYXlsb2FkKCkuZ2V0U3RhdHVzKCkgZmllbGQKICAgICAgICAgKiBJdCdzIG5vdCBzdGFuZGFyZCBhbmQgdXNlcyAib2siLyJ3aGF0ZXZlciIgaW5zdGVhZCBvZiB0cnVlL2ZhbHNlCiAgICAgICAgICovCg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICA8TGluZWFyTGF5b3V0CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiCiAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCI+CgogICAgPC9MaW5lYXJMYXlvdXQ+</text>
+        <text>PayloadProduct</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text>PayloadProduct</text>
       </register>
       <register name="4" type="4">
-        <text>3</text>
+        <text>PayloadProduct</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text>PayloadProduct</text>
       </register>
-      <register name="6" type="4">
-        <text>3</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmdldAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>match_parent</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0PFBheT4gcmVxdWVzdCA9IGFwaS5wcm9kdWN0V2FudCh1c2VyLCBwcm9kdWN0SWQpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>padding</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmdldAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>padding</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>PayloadProduct</text>
       </register>
     </registers>
     <search>
