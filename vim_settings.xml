@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ContextImpl.java" timestamp="1453294341479">
+        <mark key="'" line="2030" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1453389160857">
         <mark key="[" line="0" column="0" />
       </file>
@@ -21,6 +24,9 @@
         <mark key="." line="253" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ListLikersFragment.java" timestamp="1453376869981" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityThread.java" timestamp="1453294448154">
+        <mark key="'" line="25" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MainActivity.java" timestamp="1453397500410">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -77,6 +83,9 @@
         <mark key="]" line="395" column="22" />
         <mark key="." line="395" column="22" />
         <mark key="^" line="395" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/AbstractActivityUnitTest.java" timestamp="1453293612712">
+        <mark key="'" line="86" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" timestamp="1453374525309">
         <mark key="'" line="317" column="0" />
@@ -150,12 +159,18 @@
         <mark key="^" line="17" column="49" />
         <mark key="." line="17" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Griffin/app/build.gradle" timestamp="1453397649157">
+        <mark key="'" line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" timestamp="1453380342416">
         <mark key="'" line="14" column="62" />
         <mark key="[" line="103" column="73" />
         <mark key="]" line="104" column="55" />
         <mark key="." line="104" column="55" />
         <mark key="^" line="104" column="55" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/Activity.java" timestamp="1453294096915">
+        <mark key="'" line="771" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/res/layout/activity_main.xml" timestamp="1453308687904">
         <mark key="[" line="11" column="11" />
@@ -168,6 +183,9 @@
         <mark key="]" line="4" column="64" />
         <mark key="^" line="4" column="64" />
         <mark key="." line="4" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Griffin/build.gradle" timestamp="1453397719733">
+        <mark key="[" line="7" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" timestamp="1453387682702">
         <mark key="'" line="502" column="51" />
@@ -232,13 +250,15 @@
       <jump line="670" column="16" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIGet.java" />
       <jump line="734" column="21" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIGet.java" />
       <jump line="811" column="20" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIGet.java" />
+      <jump line="100" column="0" filename="$USER_HOME$/Documents/GitHub/Griffin/app/build.gradle" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/Griffin/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dChNYWluQWN0aXZpdHkudGhpcywgZ2V0U3VwcG9ydEZyYWdtZW50TWFuYWdlcigpLmZpbmQsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>2.0.0-alpha5</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>2.0.0-alpha5</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -246,32 +266,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBGcmFnbWVudCBmcmFnbWVudCA9IGdldFN1cHBvcnRGcmFnbWVudE1hbmFnZXIoKS5maW5kRnJhZ21lbnRCeVRhZyhNeUZyYWdtZW50LlRBRyk7CiAgICAgICAgZ2V0U3VwcG9ydEZyYWdtZW50TWFuYWdlcigpCiAgICAgICAgICAgICAgICAuYmVnaW5UcmFuc2FjdGlvbigpCiAgICAgICAgICAgICAgICAucmVwbGFjZShSLmlkLmxheW91dF9jb250YWluZXIsCiAgICAgICAgICAgICAgICAgICAgICAgIGZyYWdtZW50ID09IG51bGwgPyBNeUZyYWdtZW50Lm5ld0luc3RhbmNlKCkgOiBmcmFnbWVudCwgTXlGcmFnbWVudC5UQUcpCiAgICAgICAgICAgICAgICAuY29tbWl0KCk7Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>2.0.0-alpha5</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dChNYWluQWN0aXZpdHkudGhpcywgZ2V0U3VwcG9ydEZyYWdtZW50TWFuYWdlcigpLmZpbmQsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>false</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>add</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>replace</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>true</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZnJhZ21lbnQgPT0gbnVsbCA/IAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBGcmFnbWVudCBmcmFnbWVudCA9IGdldFN1cHBvcnRGcmFnbWVudE1hbmFnZXIoKS5maW5kRnJhZ21lbnRCeVRhZyhNeUZyYWdtZW50LlRBRyk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgRnJhZ21lbnQgZnJhZ21lbnQgPSBnZXRTdXBwb3J0RnJhZ21lbnRNYW5hZ2VyKCkuZmluZEZyYWdtZW50QnlUYWcoTXlGcmFnbWVudC5UQUcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
