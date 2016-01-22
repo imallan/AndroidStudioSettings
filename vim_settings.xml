@@ -36,12 +36,8 @@
         <mark key="^" line="284" column="151" />
         <mark key="." line="284" column="151" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" timestamp="1453376858405">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" timestamp="1453485023658">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="253" column="52" />
-        <mark key="]" line="253" column="51" />
-        <mark key="^" line="253" column="51" />
-        <mark key="." line="253" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" timestamp="1453374525309">
         <mark key="'" line="317" column="0" />
@@ -150,6 +146,12 @@
         <mark key="]" line="17" column="49" />
         <mark key="^" line="17" column="49" />
         <mark key="." line="17" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Griffin/app/src/main/java/com/imallan/griffin/api/Oauth1SigningInterceptor.java" timestamp="1453399359473">
+        <mark key="'" line="21" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Griffin/app/build.gradle" timestamp="1453399520867">
+        <mark key="'" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" timestamp="1453380342416">
         <mark key="'" line="14" column="62" />
