@@ -71,6 +71,14 @@
         <mark key="." line="52" column="37" />
         <mark key="^" line="52" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/AppDetailsFragment.java" timestamp="1453466810051" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/PostCardViewHolder.java" timestamp="1453466925812" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1453466638261">
+        <mark key="'" line="178" column="30" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MainActivity.java" timestamp="1453397500410">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -82,6 +90,7 @@
         <mark key="^" line="47" column="35" />
         <mark key="." line="47" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/menu/look_options.xml" timestamp="1453467466827" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_product_likers.xml" timestamp="1453381034995">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="40" />
@@ -93,12 +102,12 @@
         <mark key="^" line="22" column="64" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1453465575177">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="8" column="17" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1453467859688">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="99" column="23" />
+        <mark key="]" line="99" column="27" />
+        <mark key="." line="99" column="27" />
+        <mark key="^" line="99" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MyFragment.java" timestamp="1453396592261">
         <mark key="'" line="15" column="3" />
@@ -174,6 +183,11 @@
         <mark key="]" line="12" column="37" />
         <mark key="^" line="12" column="37" />
         <mark key="." line="12" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ExploreFragment.java" timestamp="1453467312160">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/AndroidManifest.xml" timestamp="1453397302164">
         <mark key="[" line="2" column="48" />
@@ -260,13 +274,15 @@
       <jump line="21" column="35" filename="$USER_HOME$/Documents/GitHub/Griffin/app/src/main/java/com/imallan/griffin/api/Oauth1SigningInterceptor.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="126" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/header_post.xml" />
+      <jump line="178" column="30" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZToxLjUuMCcK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>@dimen/text_large</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -274,32 +290,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5zcXVhcmV1cC5yZXRyb2ZpdDI6Y29udmVydGVyLWdzb246JHJldHJvZml0VmVyc2lvbiIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZToxLjUuMCcK</text>
+      <register name="1" type="4">
+        <text>true</text>
       </register>
-      <register name="2" type="4">
-        <text>@dimen/text_large</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>large</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgVmlldyBtSGVhZGVyVmlldzsK</text>
       </register>
       <register name="4" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>1.5.0</text>
+        <text>implements View.OnClickListener</text>
       </register>
-      <register name="6" type="4">
-        <text>1.5.0</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>1.5.0</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5zcXVhcmV1cC5va2h0dHAzOm9raHR0cDozLjAuMScK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHYpIHsKICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5zcXVhcmV1cC5yZXRyb2ZpdDI6Y29udmVydGVyLWdzb246JHJldHJvZml0VmVyc2lvbiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
