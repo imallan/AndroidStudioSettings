@@ -102,6 +102,12 @@
         <mark key="^" line="22" column="64" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/PostsService.java" timestamp="1453471040475">
+        <mark key="[" line="305" column="94" />
+        <mark key="]" line="306" column="23" />
+        <mark key="^" line="306" column="23" />
+        <mark key="." line="306" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1453467859688">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="99" column="23" />
@@ -276,43 +282,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5zcXVhcmV1cC5yZXRyb2ZpdDI6Y29udmVydGVyLWdzb246JHJldHJvZml0VmVyc2lvbiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRlbnRSZXNvbHZlci5kZWxldGUoVXNlclByb3ZpZGVyLnVyaVVzZXJzKCksIG51bGwsIG51bGwpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>true</text>
+        <text>null</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>null</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmlldyBtSGVhZGVyVmlldzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="4">
-        <text>implements View.OnClickListener</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFJlc29sdmVyLmRlbGV0ZShVc2VyUHJvdmlkZXIudXJpVXNlcnMoKSwgbnVsbCwgbnVsbCk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHYpIHsKICAgIH0=</text>
+      <register name="6" type="4">
+        <text>)</text>
+      </register>
+      <register name="7" type="4">
+        <text>true</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVmlldyBtSGVhZGVyVmlldzsK</text>
       </register>
     </registers>
     <search>
