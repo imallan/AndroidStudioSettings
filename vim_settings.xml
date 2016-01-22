@@ -36,12 +36,11 @@
         <mark key="^" line="284" column="151" />
         <mark key="." line="284" column="151" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" timestamp="1453376858405">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="253" column="52" />
-        <mark key="]" line="253" column="51" />
-        <mark key="^" line="253" column="51" />
-        <mark key="." line="253" column="51" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" timestamp="1453486282233">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" timestamp="1453374525309">
         <mark key="'" line="317" column="0" />
@@ -78,7 +77,6 @@
         <mark key="." line="52" column="37" />
         <mark key="^" line="52" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/AppDetailsFragment.java" timestamp="1453466810051" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ListRecyclerAdapter.java" timestamp="1453481146103">
         <mark key="'" line="117" column="4" />
         <mark key="[" line="116" column="49" />
@@ -86,7 +84,6 @@
         <mark key="." line="116" column="49" />
         <mark key="^" line="116" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/PostCardViewHolder.java" timestamp="1453466925812" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1453466638261">
         <mark key="'" line="177" column="30" />
         <mark key="[" line="214" column="0" />
@@ -99,7 +96,6 @@
         <mark key="^" line="47" column="35" />
         <mark key="." line="47" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/menu/look_options.xml" timestamp="1453467466827" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProductLikersActivity.java" timestamp="1453380900835">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -133,6 +129,10 @@
         <mark key="." line="97" column="0" />
         <mark key="^" line="96" column="95" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ListProductsListFragment.java" timestamp="1453486105656">
+        <mark key="[" line="157" column="1" />
+        <mark key="]" line="157" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/res/layout/fragment_my.xml" timestamp="1453397357612">
         <mark key="[" line="10" column="29" />
         <mark key="]" line="10" column="32" />
@@ -144,6 +144,13 @@
         <mark key="]" line="7" column="62" />
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_list.xml" timestamp="1453486246176">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="28" />
+        <mark key="]" line="44" column="36" />
+        <mark key="^" line="44" column="36" />
+        <mark key="." line="44" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/AndroidManifest.xml" timestamp="1453309581047">
         <mark key="[" line="16" column="19" />
@@ -277,46 +284,50 @@
       <jump line="377" column="59" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/ListService.java" />
       <jump line="114" column="39" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProfileListFragment.java" />
       <jump line="117" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ListRecyclerAdapter.java" />
+      <jump line="79" column="3" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" />
+      <jump line="258" column="42" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_list.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL2Rpc2FibGUgcHJvZ3Jlc3NiYXIgYmVjYXVzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgMQ==</text>
+        <text>gone</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKChNQVNLX0xJU1RfREVBTFMgJiBzcGVjaWFsTGlzdHMpID4gMCkgewogICAgICAgICAgICAgICAgc3BlY2lhbExpc3RTdHJMaXN0LmFkZCgiZGVhbHMiKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFjdGl2aXR5Lm1TaG91bGRIaWRlRmFiID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3Rpdml0eS51cGRhdGVGYWJTdGF0dXMoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL2Rpc2FibGUgcHJvZ3Jlc3NiYXIgYmVjYXVzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICsgMQ==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">IC0gMQ==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgTGlzdFNlcnZpY2UuU1BFQ0lBTF9MSVNUW117TGlzdFNlcnZpY2UuU1BFQ0lBTF9MSVNULkRFQUxTLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgTGlzdFNlcnZpY2UuU1BFQ0lBTF9MSVNULlJFQ0VOVFMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaXN0U2VydmljZS5TUEVDSUFMX0xJU1QuV0FOVFN9Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBMaWtlU2VydmljZS5yZXF1ZXN0VG9nZ2xlTGlrZUxpc3QodGhpcywgc2VydmljZXNSZWNlaXZlciwgbGlzdFNlcnZlcklkKTsKICAgICAgICBzZXRMaWtlRmFiKCFsaWtlZCwgdHJ1ZSk7Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>gone</text>
+      </register>
+      <register name="5" type="4">
+        <text>gone</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJyZW50UGFnZSAqIHBhZ2VTaXplICsgc2tpcE1vZGlmaWNhdG9yLCBwYWdlU2l6ZSwKICAgICAgICAgICAgICAgICAgICBuZXcgTGlzdFNlcnZpY2UuU1BFQ0lBTF9MSVNUW117TGlzdFNlcnZpY2UuU1BFQ0lBTF9MSVNULkRFQUxTLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFjdGl2aXR5LnVwZGF0ZUZhYlN0YXR1cygpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text />
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFjdGl2aXR5LnVwZGF0ZUZhYlN0YXR1cygpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW4K</text>
+      <register name="8" type="4">
+        <text>false</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Z0J1aWxkZXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgICAgICBpZiAoKE1BU0tfTElTVF9ERUFMUyAmIHNwZWNpYWxMaXN0cykgPiAwKSB7CiAgICAgICAgICAgICAgICBpZiAoc2IubGVuZ3RoKCkgIT0gMCkgewogICAgICAgICAgICAgICAgICAgIHNiLmFwcGVuZCgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBzcGVjaWFsTGlzdFN0ckxpc3QuYWRkKCJkZWFscyIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICgoTUFTS19MSVNUX1JFQ0VOVFMgJiBzcGVjaWFsTGlzdHMpID4gMCkgewogICAgICAgICAgICAgICAgc3BlY2lhbExpc3RTdHJMaXN0LmFkZCgicmVjZW50cyIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICgoTUFTS19MSVNUX1dBTlRTICYgc3BlY2lhbExpc3RzKSA+IDApIHsKICAgICAgICAgICAgICAgIHNwZWNpYWxMaXN0U3RyTGlzdC5hZGQoIndhbnRzIik7CiAgICAgICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
@@ -329,6 +340,7 @@
     <history>
       <history-search>
         <entry>user</entry>
+        <entry>list</entry>
       </history-search>
       <history-cmd />
       <history-expr />
