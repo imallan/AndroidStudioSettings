@@ -10,7 +10,7 @@
         <mark key="^" line="64" column="89" />
         <mark key="." line="64" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/build.gradle" timestamp="1453464378115">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/build.gradle" timestamp="1453465647758">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="7" column="62" />
         <mark key="^" line="7" column="61" />
@@ -93,11 +93,11 @@
         <mark key="^" line="22" column="64" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1453464938009">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1453465575177">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="8" column="17" />
-        <mark key="." line="8" column="17" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MyFragment.java" timestamp="1453396592261">
@@ -262,8 +262,8 @@
       <jump line="126" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/header_post.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>@dimen/text_large</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZToxLjUuMCcK</text>
       </register>
       <register name="-" type="4">
         <text>@dimen/text_large</text>
@@ -274,17 +274,17 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5zcXVhcmV1cC5yZXRyb2ZpdDI6Y29udmVydGVyLWdzb246JHJldHJvZml0VmVyc2lvbiIK</text>
       </register>
-      <register name="1" type="4">
-        <text>@dimen/text_large</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZToxLjUuMCcK</text>
       </register>
       <register name="2" type="4">
-        <text>large</text>
+        <text>@dimen/text_large</text>
       </register>
       <register name="3" type="4">
-        <text>a</text>
+        <text>large</text>
       </register>
       <register name="4" type="4">
-        <text>1.5.0</text>
+        <text>a</text>
       </register>
       <register name="5" type="4">
         <text>1.5.0</text>
@@ -292,14 +292,14 @@
       <register name="6" type="4">
         <text>1.5.0</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5zcXVhcmV1cC5va2h0dHAzOm9raHR0cDozLjAuMScK</text>
+      <register name="7" type="4">
+        <text>1.5.0</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5zcXVhcmV1cC5yZXRyb2ZpdDI6Y29udmVydGVyLWdzb246JHJldHJvZml0VmVyc2lvbiIK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5zcXVhcmV1cC5va2h0dHAzOm9raHR0cDozLjAuMScK</text>
       </register>
-      <register name="9" type="4">
-        <text>com.squareup.retrofit2:converter-gson:$retrofitVersion</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5zcXVhcmV1cC5yZXRyb2ZpdDI6Y29udmVydGVyLWdzb246JHJldHJvZml0VmVyc2lvbiIK</text>
       </register>
     </registers>
     <search>
