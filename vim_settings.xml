@@ -10,6 +10,12 @@
         <mark key="^" line="64" column="89" />
         <mark key="." line="64" column="89" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/build.gradle" timestamp="1453464378115">
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="7" column="62" />
+        <mark key="^" line="7" column="61" />
+        <mark key="." line="7" column="62" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_product.xml" timestamp="1453387155326">
         <mark key="[" line="215" column="57" />
       </file>
@@ -58,6 +64,13 @@
         <mark key="^" line="279" column="50" />
         <mark key="." line="279" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/header_post.xml" timestamp="1453464801330">
+        <mark key="'" line="126" column="0" />
+        <mark key="[" line="52" column="36" />
+        <mark key="]" line="52" column="37" />
+        <mark key="." line="52" column="37" />
+        <mark key="^" line="52" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MainActivity.java" timestamp="1453397500410">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -80,8 +93,12 @@
         <mark key="^" line="22" column="64" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1453463066295">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1453464938009">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MyFragment.java" timestamp="1453396592261">
         <mark key="'" line="15" column="3" />
@@ -108,7 +125,7 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1453393892595">
+      <file name="/Dummy.txt" timestamp="1453464658793">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/ProductService.java" timestamp="1453460253159">
@@ -116,11 +133,11 @@
         <mark key="]" line="290" column="11" />
         <mark key="." line="287" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453396743167">
-        <mark key="[" line="7" column="53" />
-        <mark key="]" line="7" column="54" />
-        <mark key="^" line="7" column="54" />
-        <mark key="." line="7" column="54" />
+      <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="7" column="62" />
+        <mark key="^" line="7" column="62" />
+        <mark key="." line="7" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/AndroidManifest.xml" timestamp="1453309581047">
         <mark key="[" line="16" column="19" />
@@ -164,7 +181,7 @@
         <mark key="^" line="4" column="64" />
         <mark key="." line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Griffin/build.gradle" timestamp="1453397719733">
+      <file name="$USER_HOME$/Documents/GitHub/Griffin/build.gradle" timestamp="1453464337709">
         <mark key="[" line="7" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" timestamp="1453387682702">
@@ -242,13 +259,14 @@
       <jump line="64" column="36" filename="$USER_HOME$/Documents/GitHub/Griffin/app/src/main/java/com/imallan/griffin/ui/activity/LoginActivity.java" />
       <jump line="21" column="35" filename="$USER_HOME$/Documents/GitHub/Griffin/app/src/main/java/com/imallan/griffin/api/Oauth1SigningInterceptor.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="126" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/header_post.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5zcXVhcmV1cC5va2h0dHAzOm9raHR0cDozLjAuMScK</text>
+      <register name="&quot;" type="4">
+        <text>@dimen/text_large</text>
       </register>
       <register name="-" type="4">
-        <text>com.squareup.retrofit2:converter-gson:$retrofitVersion</text>
+        <text>@dimen/text_large</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -256,32 +274,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5zcXVhcmV1cC5yZXRyb2ZpdDI6Y29udmVydGVyLWdzb246JHJldHJvZml0VmVyc2lvbiIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5zcXVhcmV1cC5va2h0dHAzOm9raHR0cDozLjAuMScK</text>
+      <register name="1" type="4">
+        <text>@dimen/text_large</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5zcXVhcmV1cC5yZXRyb2ZpdDI6Y29udmVydGVyLWdzb246JHJldHJvZml0VmVyc2lvbiIK</text>
+      <register name="2" type="4">
+        <text>large</text>
       </register>
       <register name="3" type="4">
-        <text>com.squareup.retrofit2:converter-gson:$retrofitVersion</text>
+        <text>a</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>1.5.0</text>
       </register>
       <register name="5" type="4">
-        <text>2.0.0-alpha5</text>
+        <text>1.5.0</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dChNYWluQWN0aXZpdHkudGhpcywgZ2V0U3VwcG9ydEZyYWdtZW50TWFuYWdlcigpLmZpbmQsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
+      <register name="6" type="4">
+        <text>1.5.0</text>
       </register>
-      <register name="7" type="4">
-        <text>false</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5zcXVhcmV1cC5va2h0dHAzOm9raHR0cDozLjAuMScK</text>
       </register>
-      <register name="8" type="4">
-        <text>add</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5zcXVhcmV1cC5yZXRyb2ZpdDI6Y29udmVydGVyLWdzb246JHJldHJvZml0VmVyc2lvbiIK</text>
       </register>
       <register name="9" type="4">
-        <text>replace</text>
+        <text>com.squareup.retrofit2:converter-gson:$retrofitVersion</text>
       </register>
     </registers>
     <search>
