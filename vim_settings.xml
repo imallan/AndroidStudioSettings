@@ -26,7 +26,7 @@
         <mark key="." line="395" column="22" />
         <mark key="^" line="395" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1453389160857">
+      <file name="/a.dummy" timestamp="1453468246419">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" timestamp="1453381622142">
@@ -74,10 +74,10 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/AppDetailsFragment.java" timestamp="1453466810051" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/PostCardViewHolder.java" timestamp="1453466925812" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1453466638261">
-        <mark key="'" line="178" column="30" />
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="215" column="0" />
-        <mark key="." line="215" column="0" />
+        <mark key="'" line="177" column="30" />
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MainActivity.java" timestamp="1453397500410">
         <mark key="[" line="20" column="0" />
@@ -133,9 +133,6 @@
         <mark key="]" line="10" column="32" />
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1453464658793">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/ProductService.java" timestamp="1453460253159">
         <mark key="[" line="287" column="0" />
