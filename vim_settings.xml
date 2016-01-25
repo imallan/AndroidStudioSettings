@@ -26,7 +26,7 @@
         <mark key="^" line="357" column="101" />
         <mark key="." line="358" column="97" />
       </file>
-      <file name="/a.dummy" timestamp="1453486525207">
+      <file name="/a.dummy" timestamp="1453719018401">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" timestamp="1453381622142">
@@ -139,6 +139,12 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/ShoppingBasketProductViewHolder.java" timestamp="1453718686216">
+        <mark key="[" line="299" column="87" />
+        <mark key="]" line="299" column="99" />
+        <mark key="." line="299" column="87" />
+        <mark key="^" line="299" column="86" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="7" column="62" />
@@ -185,9 +191,9 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/UserListsFragment.java" timestamp="1453480590172">
         <mark key="[" line="106" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_shopping_cart_product.xml" timestamp="1453716624523">
-        <mark key="[" line="113" column="42" />
-        <mark key="]" line="113" column="54" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_shopping_cart_product.xml" timestamp="1453718680949">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="52" />
         <mark key="^" line="113" column="54" />
         <mark key="." line="113" column="54" />
       </file>
@@ -297,43 +303,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dark_grey</text>
+        <text>shopcade_dar</text>
       </register>
       <register name="-" type="4">
-        <text>dark_grey</text>
+        <text>shopcade_dar</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFjdGl2aXR5Lm1TaG91bGRIaWRlRmFiID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3Rpdml0eS51cGRhdGVGYWJTdGF0dXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvZGFya19ncmV5Igo=</text>
       </register>
       <register name="1" type="4">
+        <text>shopcade_dar</text>
+      </register>
+      <register name="2" type="4">
+        <text>pink</text>
+      </register>
+      <register name="3" type="4">
         <text>dark_grey</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaWtlU2VydmljZS5yZXF1ZXN0VG9nZ2xlTGlrZUxpc3QodGhpcywgc2VydmljZXNSZWNlaXZlciwgbGlzdFNlcnZlcklkKTsKICAgICAgICBzZXRMaWtlRmFiKCFsaWtlZCwgdHJ1ZSk7Cg==</text>
-      </register>
       <register name="5" type="4">
-        <text>gone</text>
+        <text>dark_grey</text>
       </register>
-      <register name="6" type="4">
-        <text>gone</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFjdGl2aXR5LnVwZGF0ZUZhYlN0YXR1cygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFjdGl2aXR5LnVwZGF0ZUZhYlN0YXR1cygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaWtlU2VydmljZS5yZXF1ZXN0VG9nZ2xlTGlrZUxpc3QodGhpcywgc2VydmljZXNSZWNlaXZlciwgbGlzdFNlcnZlcklkKTsKICAgICAgICBzZXRMaWtlRmFiKCFsaWtlZCwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>false</text>
+        <text>gone</text>
       </register>
     </registers>
     <search>
