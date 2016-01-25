@@ -9,7 +9,8 @@
         <mark key="^" line="7" column="61" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/ScreenContainerImpl.java" timestamp="1453741075039">
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/presenters/TopArticleListPresenterImpl.java" timestamp="1453744828769" />
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/ScreenContainerImpl.java" timestamp="1453743000784">
         <mark key="'" line="122" column="4" />
         <mark key="[" line="50" column="8" />
         <mark key="]" line="50" column="7" />
@@ -17,7 +18,11 @@
         <mark key="." line="50" column="7" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding/rxbinding/0.3.0/af8575e1a95b9518a0e835513919d5a1a42015d7/rxbinding-0.3.0-sources.jar!/com/jakewharton/rxbinding/view/ViewClickOnSubscribe.java" timestamp="1453723037960" />
-      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/EffectiveActivity.java" timestamp="1453741335889" />
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/EffectiveActivity.java" timestamp="1453743468549">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1453730432176">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,6 +47,24 @@
         <mark key="^" line="95" column="23" />
         <mark key="." line="95" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/ui/ScreenContainerImpl.java" timestamp="1453742971959">
+        <mark key="[" line="44" column="5" />
+        <mark key="]" line="45" column="3" />
+        <mark key="^" line="45" column="3" />
+        <mark key="." line="45" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/ui/views/ScreenContainerView.java" timestamp="1453742716166">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1453466638261">
+        <mark key="'" line="177" column="30" />
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/PresenterHolder.java" timestamp="1453737197343" />
       <file name="$USER_HOME$/Documents/GitHub/Griffin/app/src/main/java/com/imallan/griffin/util/RxUtils.java" timestamp="1453724001820" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/DBHelper.java" timestamp="1453378108102">
@@ -58,12 +81,18 @@
         <mark key="^" line="78" column="71" />
         <mark key="." line="78" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/build.gradle" timestamp="1453721139141">
-        <mark key="'" line="21" column="34" />
-        <mark key="[" line="46" column="39" />
-        <mark key="]" line="47" column="54" />
-        <mark key="." line="47" column="54" />
-        <mark key="^" line="47" column="54" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/values/styles.xml" timestamp="1453744270578">
+        <mark key="[" line="3" column="57" />
+        <mark key="]" line="3" column="67" />
+        <mark key="^" line="3" column="67" />
+        <mark key="." line="3" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" timestamp="1453744652137">
+        <mark key="'" line="54" column="4" />
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="30" />
+        <mark key="^" line="36" column="30" />
+        <mark key="." line="36" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_list.xml" timestamp="1453486246176">
         <mark key="'" line="0" column="0" />
@@ -76,28 +105,55 @@
         <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.4.3/jars/classes.jar!/com/twitter/sdk/android/core/TwitterApiClient.class" timestamp="1453736610101" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453744104180">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/res/layout/activity_main.xml" timestamp="1453394058182">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="36" />
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PresenterHolder.java" timestamp="1453743612921">
+        <mark key="'" line="11" column="24" />
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="18" column="17" />
+        <mark key="^" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/TopImagesListActivity.java" timestamp="1453740660869">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ExploreFragment.java" timestamp="1453467312160">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/layout/activity_base.xml" timestamp="1453742921334">
+        <mark key="'" line="35" column="41" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="7" />
+        <mark key="." line="33" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/UserListsFragment.java" timestamp="1453480590172">
         <mark key="[" line="106" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/layout/activity_main.xml" timestamp="1453721531374">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="10" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="12" column="10" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/layout/activity_main.xml" timestamp="1453743410160">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="31" />
+        <mark key="^" line="9" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/presenters/Presenter.java" timestamp="1453741689732">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/ui/activity/BaseActivity.java" timestamp="1453743063197">
+        <mark key="[" line="17" column="61" />
+        <mark key="]" line="17" column="61" />
+        <mark key="^" line="34" column="52" />
+        <mark key="." line="17" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" timestamp="1453729129580">
         <mark key="'" line="480" column="203" />
@@ -151,6 +207,12 @@
         <mark key="^" line="120" column="15" />
         <mark key="." line="77" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModelImpl.java" timestamp="1453744122223">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="30" />
+        <mark key="." line="13" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/header_post.xml" timestamp="1453464801330">
         <mark key="'" line="126" column="0" />
         <mark key="[" line="52" column="36" />
@@ -168,11 +230,6 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/media/MediaPlayer.java" timestamp="1453719872318">
         <mark key="'" line="846" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1453734253379">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/service/TimelineService.java" timestamp="1453736775454" />
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/fabric.properties" timestamp="1453735676403">
         <mark key="[" line="0" column="0" />
@@ -186,7 +243,10 @@
         <mark key="^" line="47" column="35" />
         <mark key="." line="47" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/TopArticleListActivity.java" timestamp="1453741467329">
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/presenters/MyPresenter.java" timestamp="1453744527833">
+        <mark key="[" line="8" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/TopArticleListActivity.java" timestamp="1453743674382">
         <mark key="'" line="87" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/fabric.properties" timestamp="1453736437612">
@@ -206,6 +266,18 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="22" column="64" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/ui/activity/MainActivity.java" timestamp="1453744770576">
+        <mark key="'" line="43" column="4" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/ui/ScreenContainer.java" timestamp="1453744965621">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="14" column="34" />
+        <mark key="^" line="14" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1453467859688">
         <mark key="'" line="35" column="0" />
@@ -233,6 +305,9 @@
         <mark key="]" line="299" column="99" />
         <mark key="." line="299" column="87" />
         <mark key="^" line="299" column="86" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1453742764794">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
@@ -267,11 +342,13 @@
         <mark key="." line="104" column="55" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding/rxbinding/0.3.0/af8575e1a95b9518a0e835513919d5a1a42015d7/rxbinding-0.3.0-sources.jar!/com/jakewharton/rxbinding/internal/MainThreadSubscription.java" timestamp="1453723135260" />
-      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/build.gradle" timestamp="1453736255465">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="40" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/ScreenContainer.java" timestamp="1453740857533" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel/MyModel.java" timestamp="1453743966814">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/res/layout/activity_main.xml" timestamp="1453308687904">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="12" column="37" />
@@ -293,11 +370,6 @@
         <mark key="^" line="4" column="64" />
         <mark key="." line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/VideoPlayerView.java" timestamp="1453734247214">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" timestamp="1453738474776">
         <mark key="'" line="1850" column="0" />
         <mark key="[" line="1802" column="27" />
@@ -311,7 +383,7 @@
         <mark key="^" line="765" column="38" />
         <mark key="." line="765" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1453381886376">
+      <file name="/fragment.java" timestamp="1453743990368">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -395,13 +467,20 @@
       <jump line="60" column="21" filename="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/ScreenContainerImpl.java" />
       <jump line="122" column="4" filename="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/ScreenContainerImpl.java" />
       <jump line="87" column="23" filename="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/TopArticleListActivity.java" />
+      <jump line="29" column="20" filename="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PresenterHolder.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PresenterHolder.java" />
+      <jump line="11" column="24" filename="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PresenterHolder.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/GitHub/Playground/app/build.gradle" />
+      <jump line="39" column="41" filename="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/layout/activity_base.xml" />
+      <jump line="35" column="4" filename="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/ui/activity/MainActivity.java" />
+      <jump line="54" column="4" filename="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>G1RpuaXqWj1SyvOWR8KPCzFqo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>G1RpuaXqWj1SyvOWR8KPCzFqo</text>
+        <text>loadData</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -409,35 +488,32 @@
       <register name="0" type="4">
         <text>twitterConsumerKey</text>
       </register>
-      <register name="1" type="4">
-        <text>G1RpuaXqWj1SyvOWR8KPCzFqo</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text>5571a658548c2b8b420066e2</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBkZAo=</text>
       </register>
       <register name="3" type="4">
-        <text>3a80615bd6c33055677c261058280e76e7f11939ce13f406ede40ccbd30b2f82</text>
+        <text>loadData</text>
       </register>
       <register name="4" type="4">
-        <text>twitterPluginId</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>apiSecret</text>
+        <text>int</text>
       </register>
-      <register name="6" type="4">
-        <text>;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobVZpZXcgPT0gbnVsbCkgewo=</text>
       </register>
       <register name="9" type="4">
-        <text>public class Foo {
-        public Foo() {
-        }
-    }</text>
+        <text>loadData</text>
       </register>
     </registers>
     <search>
