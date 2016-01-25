@@ -84,6 +84,9 @@
         <mark key="^" line="116" column="53" />
         <mark key="." line="116" column="49" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/media/MediaPlayer.java" timestamp="1453719872318">
+        <mark key="'" line="846" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1453466638261">
         <mark key="'" line="177" column="30" />
         <mark key="[" line="214" column="0" />
@@ -300,6 +303,7 @@
       <jump line="258" column="42" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" />
       <jump line="66" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_list.xml" />
+      <jump line="846" column="65" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/media/MediaPlayer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
