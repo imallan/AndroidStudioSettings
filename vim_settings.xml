@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/Griffin/app/src/main/java/com/imallan/griffin/ui/activity/LoginActivity.java" timestamp="1453399394733">
+      <file name="$USER_HOME$/Documents/GitHub/Griffin/app/src/main/java/com/imallan/griffin/ui/activity/LoginActivity.java" timestamp="1453724046111">
         <mark key="'" line="64" column="36" />
         <mark key="[" line="64" column="90" />
         <mark key="]" line="64" column="89" />
@@ -82,11 +82,10 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/media/MediaPlayer.java" timestamp="1453719872318">
         <mark key="'" line="846" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1453723719059">
-        <mark key="[" line="66" column="26" />
-        <mark key="]" line="66" column="26" />
-        <mark key="." line="66" column="26" />
-        <mark key="^" line="66" column="26" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1453724267601">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1453466638261">
         <mark key="'" line="177" column="30" />
@@ -261,8 +260,8 @@
       <jump line="17" column="3" filename="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidXR0b24uc2V0T25DbGlja0xpc3RlbmVyKG51bGwpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -271,34 +270,34 @@
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCiAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKFNjaGVkdWxlcnMuaW8oKSkK</text>
-      </register>
-      <register name="1" type="4">
-        <text>.</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vYnNlcnZlT24oKQo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidXR0b24uc2V0T25DbGlja0xpc3RlbmVyKG51bGwpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">T2JzZXJ2YWJsZS5PblN1YnNjcmliZTxWb2lkPiBvblN1YnNjcmliZSA9IHN1YnNjcmliZXIgLT4gewogICAgICAgICAgICBpZiAoIXN1YnNjcmliZXIuaXNVbnN1YnNjcmliZWQoKSkgewogICAgICAgICAgICAgICAgYnV0dG9uLnNldE9uQ2xpY2tMaXN0ZW5lcih2IC0+IHN1YnNjcmliZXIub25OZXh0KG51bGwpKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBzdWJzY3JpYmVyLmFkZChuZXcgU3Vic2NyaXB0aW9uKCkgewogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCB1bnN1YnNjcmliZSgpIHsKICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJ1bnN1YnNjcmliZSIpOwogICAgICAgICAgICAgICAgICAgIGJ1dHRvbi5zZXRPbkNsaWNrTGlzdGVuZXIobnVsbCk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBpc1Vuc3Vic2NyaWJlZCgpIHsKICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJpc1Vuc3Vic2NyaWJlZDogIik7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsKICAgICAgICAgICAgc3Vic2NyaWJlci5hZGQobmV3IFN1YnNjcmlwdGlvbigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgdW5zdWJzY3JpYmUoKSB7CiAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLCAidW5zdWJzY3JpYmU6IERVTU1ZIik7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBpc1Vuc3Vic2NyaWJlZCgpIHsKICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJpc1Vuc3Vic2NyaWJlZDogRFVNTVkiKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogICAgICAgIH07CiAgICAgICAgbVN1YnNjcmlwdGlvbiA9IE9ic2VydmFibGUuY3JlYXRlKG9uU3Vic2NyaWJlKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSkKICAgICAgICAgICAgICAgIC5vYnNlcnZlT24oU2NoZWR1bGVycy5pbygpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZShhVm9pZCAtPiB7CiAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLCAiQ0xJQ0tFRCIpOwogICAgICAgICAgICAgICAgfSwgdGhyb3dhYmxlIC0+IHsKICAgICAgICAgICAgICAgICAgICBMb2cuZShUQUcsICJDTElDS0VEOiAiICsgdGhyb3dhYmxlLmdldE1lc3NhZ2UoKSwgdGhyb3dhYmxlKTsKICAgICAgICAgICAgICAgIH0pOw==</text>
+      </register>
+      <register name="4" type="4">
+        <text>.</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtU3Vic2NyaXB0aW9uLnVuc3Vic2NyaWJlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vYnNlcnZlT24oKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBtU3Vic2NyaXB0aW9uLnVuc3Vic2NyaWJlKCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>true</text>
-      </register>
-      <register name="8" type="4">
-        <text>true</text>
-      </register>
-      <register name="9" type="4">
-        <text>subscriber.isUnsubscribed();</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBtU3Vic2NyaXB0aW9uLnVuc3Vic2NyaWJlKCk7Cg==</text>
       </register>
     </registers>
     <search>
