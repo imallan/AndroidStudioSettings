@@ -9,14 +9,15 @@
         <mark key="^" line="7" column="61" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/ScreenContainerImpl.java" timestamp="1453737944162">
-        <mark key="[" line="31" column="82" />
-        <mark key="]" line="31" column="81" />
-        <mark key="^" line="31" column="81" />
-        <mark key="." line="31" column="81" />
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/ScreenContainerImpl.java" timestamp="1453741075039">
+        <mark key="'" line="122" column="4" />
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="50" column="7" />
+        <mark key="^" line="50" column="7" />
+        <mark key="." line="50" column="7" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding/rxbinding/0.3.0/af8575e1a95b9518a0e835513919d5a1a42015d7/rxbinding-0.3.0-sources.jar!/com/jakewharton/rxbinding/view/ViewClickOnSubscribe.java" timestamp="1453723037960" />
-      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/EffectiveActivity.java" timestamp="1453737284317" />
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/EffectiveActivity.java" timestamp="1453741335889" />
       <file name="/a.dummy" timestamp="1453730432176">
         <mark key="[" line="0" column="0" />
       </file>
@@ -185,6 +186,9 @@
         <mark key="^" line="47" column="35" />
         <mark key="." line="47" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/TopArticleListActivity.java" timestamp="1453741467329">
+        <mark key="'" line="87" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/fabric.properties" timestamp="1453736437612">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="71" />
@@ -236,6 +240,12 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/models/ScreenContainerModelImpl.java" timestamp="1453741130018">
+        <mark key="[" line="13" column="71" />
+        <mark key="]" line="13" column="70" />
+        <mark key="^" line="13" column="70" />
+        <mark key="." line="13" column="70" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/LoginActivity.java" timestamp="1453735940711" />
       <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/AndroidManifest.xml" timestamp="1453309581047">
         <mark key="[" line="16" column="19" />
@@ -261,7 +271,7 @@
         <mark key="[" line="15" column="23" />
         <mark key="]" line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/ScreenContainer.java" timestamp="1453737367011" />
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/ScreenContainer.java" timestamp="1453740857533" />
       <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/res/layout/activity_main.xml" timestamp="1453308687904">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="12" column="37" />
@@ -382,6 +392,9 @@
       <jump line="153" column="0" filename="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/TopImagesListActivity.java" />
       <jump line="80" column="24" filename="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/TopImagesListActivity.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/TopImagesListActivity.java" />
+      <jump line="60" column="21" filename="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/ScreenContainerImpl.java" />
+      <jump line="122" column="4" filename="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/ScreenContainerImpl.java" />
+      <jump line="87" column="23" filename="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/TopArticleListActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
