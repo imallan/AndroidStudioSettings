@@ -3,7 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/build.gradle" timestamp="1453465647758">
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="7" column="62" />
+        <mark key="^" line="7" column="61" />
+        <mark key="." line="7" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/ScreenContainerImpl.java" timestamp="1453737944162">
+        <mark key="[" line="31" column="82" />
+        <mark key="]" line="31" column="81" />
+        <mark key="^" line="31" column="81" />
+        <mark key="." line="31" column="81" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding/rxbinding/0.3.0/af8575e1a95b9518a0e835513919d5a1a42015d7/rxbinding-0.3.0-sources.jar!/com/jakewharton/rxbinding/view/ViewClickOnSubscribe.java" timestamp="1453723037960" />
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/EffectiveActivity.java" timestamp="1453737284317" />
       <file name="/a.dummy" timestamp="1453730432176">
         <mark key="[" line="0" column="0" />
       </file>
@@ -28,6 +41,7 @@
         <mark key="^" line="95" column="23" />
         <mark key="." line="95" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/PresenterHolder.java" timestamp="1453737197343" />
       <file name="$USER_HOME$/Documents/GitHub/Griffin/app/src/main/java/com/imallan/griffin/util/RxUtils.java" timestamp="1453724001820" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/DBHelper.java" timestamp="1453378108102">
         <mark key="'" line="96" column="77" />
@@ -60,6 +74,13 @@
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.4.3/jars/classes.jar!/com/twitter/sdk/android/core/TwitterApiClient.class" timestamp="1453736610101" />
+      <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/res/layout/activity_main.xml" timestamp="1453394058182">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ExploreFragment.java" timestamp="1453467312160">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -88,12 +109,12 @@
         <mark key="." line="332" column="95" />
         <mark key="^" line="332" column="95" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Griffin/app/src/main/java/com/imallan/griffin/ui/activity/LoginActivity.java" timestamp="1453724046111">
+      <file name="$USER_HOME$/Documents/GitHub/Griffin/app/src/main/java/com/imallan/griffin/ui/activity/LoginActivity.java" timestamp="1453735646984">
         <mark key="'" line="64" column="36" />
-        <mark key="[" line="64" column="90" />
-        <mark key="]" line="64" column="89" />
+        <mark key="[" line="44" column="30" />
+        <mark key="]" line="44" column="30" />
         <mark key="^" line="64" column="89" />
-        <mark key="." line="64" column="89" />
+        <mark key="." line="44" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_product.xml" timestamp="1453387155326">
         <mark key="[" line="215" column="57" />
@@ -140,13 +161,41 @@
         <mark key="^" line="279" column="50" />
         <mark key="." line="279" column="50" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/media/MediaPlayer.java" timestamp="1453719872318">
-        <mark key="'" line="846" column="65" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1453734253379">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/service/TimelineService.java" timestamp="1453736775454" />
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/fabric.properties" timestamp="1453735676403">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="40" />
+        <mark key="^" line="3" column="40" />
+        <mark key="." line="3" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MainActivity.java" timestamp="1453309955960">
+        <mark key="[" line="46" column="84" />
+        <mark key="]" line="47" column="35" />
+        <mark key="^" line="47" column="35" />
+        <mark key="." line="47" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/fabric.properties" timestamp="1453736437612">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="71" />
+        <mark key="." line="2" column="71" />
+        <mark key="^" line="2" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/PostsService.java" timestamp="1453471040475">
+        <mark key="[" line="305" column="94" />
+        <mark key="]" line="306" column="23" />
+        <mark key="^" line="306" column="23" />
+        <mark key="." line="306" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProductLikersActivity.java" timestamp="1453380900835">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="22" column="64" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1453467859688">
         <mark key="'" line="35" column="0" />
@@ -162,11 +211,31 @@
         <mark key="^" line="39" column="40" />
         <mark key="." line="39" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/service/CustomApiClient.java" timestamp="1453736624681" />
+      <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/res/layout/fragment_my.xml" timestamp="1453397357612">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="10" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/ShoppingBasketProductViewHolder.java" timestamp="1453718686216">
         <mark key="[" line="299" column="87" />
         <mark key="]" line="299" column="99" />
         <mark key="." line="299" column="87" />
         <mark key="^" line="299" column="86" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="7" column="62" />
+        <mark key="^" line="7" column="62" />
+        <mark key="." line="7" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/LoginActivity.java" timestamp="1453735940711" />
+      <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/AndroidManifest.xml" timestamp="1453309581047">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="17" column="49" />
+        <mark key="^" line="17" column="49" />
+        <mark key="." line="17" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/LinkUtils.java" timestamp="1453726758946">
         <mark key="[" line="184" column="105" />
@@ -182,6 +251,17 @@
         <mark key="." line="104" column="55" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding/rxbinding/0.3.0/af8575e1a95b9518a0e835513919d5a1a42015d7/rxbinding-0.3.0-sources.jar!/com/jakewharton/rxbinding/internal/MainThreadSubscription.java" timestamp="1453723135260" />
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/build.gradle" timestamp="1453736255465">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/ScreenContainer.java" timestamp="1453737367011" />
+      <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/res/layout/activity_main.xml" timestamp="1453308687904">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="12" column="37" />
+        <mark key="^" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_shopping_cart_product.xml" timestamp="1453718680949">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="52" />
@@ -191,17 +271,29 @@
       <file name="$USER_HOME$/Documents/GitHub/Griffin/build.gradle" timestamp="1453464337709">
         <mark key="[" line="7" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/AndroidManifest.xml" timestamp="1453397302164">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="4" column="64" />
+        <mark key="^" line="4" column="64" />
+        <mark key="." line="4" column="64" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/VideoPlayerView.java" timestamp="1453734247214">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" timestamp="1453387682702">
-        <mark key="'" line="502" column="51" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" timestamp="1453738474776">
+        <mark key="'" line="1850" column="0" />
         <mark key="[" line="1802" column="27" />
         <mark key="]" line="1802" column="28" />
         <mark key="^" line="1802" column="28" />
         <mark key="." line="1802" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" timestamp="1453378045136">
+        <mark key="[" line="748" column="24" />
+        <mark key="]" line="748" column="34" />
+        <mark key="^" line="765" column="38" />
+        <mark key="." line="765" column="38" />
       </file>
       <file name="/fragment.java" timestamp="1453381886376">
         <mark key="[" line="0" column="0" />
@@ -279,49 +371,51 @@
       <jump line="248" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" />
       <jump line="78" column="15" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ListProductsListFragment.java" />
+      <jump line="1321" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" />
+      <jump line="1850" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>G1RpuaXqWj1SyvOWR8KPCzFqo</text>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text>G1RpuaXqWj1SyvOWR8KPCzFqo</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text>list.getUser().getId()</text>
+        <text>twitterConsumerKey</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>G1RpuaXqWj1SyvOWR8KPCzFqo</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text>5571a658548c2b8b420066e2</text>
       </register>
       <register name="3" type="4">
+        <text>3a80615bd6c33055677c261058280e76e7f11939ce13f406ede40ccbd30b2f82</text>
+      </register>
+      <register name="4" type="4">
+        <text>twitterPluginId</text>
+      </register>
+      <register name="5" type="4">
+        <text>apiSecret</text>
+      </register>
+      <register name="6" type="4">
+        <text>;</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="4">
         <text>public class Foo {
         public Foo() {
         }
     }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYWluQWN0aXZpdHkuRm9vIGZvbyA9IG5ldyBNYWluQWN0aXZpdHkuRm9vKCk7Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>static</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgRm9vIHsKICAgICAgICBwdWJsaWMgRm9vKCkgewogICAgICAgIH0K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
