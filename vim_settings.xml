@@ -81,6 +81,9 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/TopImagesListActivity.java" timestamp="1453739163452">
+        <mark key="'" line="153" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ExploreFragment.java" timestamp="1453467312160">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -160,6 +163,9 @@
         <mark key="]" line="279" column="50" />
         <mark key="^" line="279" column="50" />
         <mark key="." line="279" column="50" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/media/MediaPlayer.java" timestamp="1453719872318">
+        <mark key="'" line="846" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1453734253379">
         <mark key="[" line="20" column="0" />
@@ -373,6 +379,7 @@
       <jump line="78" column="15" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ListProductsListFragment.java" />
       <jump line="1321" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" />
       <jump line="1850" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" />
+      <jump line="153" column="0" filename="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/TopImagesListActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
