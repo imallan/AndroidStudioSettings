@@ -444,12 +444,12 @@
         <mark key="^" line="48" column="46" />
         <mark key="." line="48" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1453825042430">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1453827869040">
         <mark key="'" line="141" column="38" />
         <mark key="[" line="103" column="23" />
-        <mark key="]" line="103" column="27" />
-        <mark key="^" line="103" column="27" />
-        <mark key="." line="103" column="27" />
+        <mark key="]" line="103" column="26" />
+        <mark key="^" line="103" column="26" />
+        <mark key="." line="103" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/ShoppingBasketProductViewHolder.java" timestamp="1453814749359">
         <mark key="'" line="290" column="4" />
@@ -625,10 +625,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -637,31 +637,31 @@
         <text>ButtonWhiteShopcade</text>
       </register>
       <register name="1" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="2" type="4">
-        <text>BlackShopcade</text>
+        <text>true</text>
       </register>
       <register name="3" type="4">
-        <text>PrimaryShopcade</text>
-      </register>
-      <register name="4" type="4">
-        <text>WhiteShopcade</text>
-      </register>
-      <register name="5" type="4">
         <text>BlackShopcade</text>
       </register>
+      <register name="4" type="4">
+        <text>PrimaryShopcade</text>
+      </register>
+      <register name="5" type="4">
+        <text>WhiteShopcade</text>
+      </register>
       <register name="6" type="4">
-        <text>dark_grey</text>
+        <text>BlackShopcade</text>
       </register>
       <register name="7" type="4">
         <text>dark_grey</text>
       </register>
       <register name="8" type="4">
-        <text>targetApi</text>
+        <text>dark_grey</text>
       </register>
       <register name="9" type="4">
-        <text>center</text>
+        <text>targetApi</text>
       </register>
     </registers>
     <search>
