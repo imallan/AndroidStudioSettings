@@ -9,7 +9,6 @@
         <mark key="^" line="7" column="61" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/presenters/TopArticleListPresenterImpl.java" timestamp="1453744828769" />
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/ScreenContainerImpl.java" timestamp="1453743000784">
         <mark key="'" line="122" column="4" />
         <mark key="[" line="50" column="8" />
@@ -17,7 +16,6 @@
         <mark key="^" line="50" column="7" />
         <mark key="." line="50" column="7" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding/rxbinding/0.3.0/af8575e1a95b9518a0e835513919d5a1a42015d7/rxbinding-0.3.0-sources.jar!/com/jakewharton/rxbinding/view/ViewClickOnSubscribe.java" timestamp="1453723037960" />
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/EffectiveActivity.java" timestamp="1453743468549">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -65,8 +63,6 @@
         <mark key="]" line="214" column="0" />
         <mark key="." line="214" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/PresenterHolder.java" timestamp="1453737197343" />
-      <file name="$USER_HOME$/Documents/GitHub/Griffin/app/src/main/java/com/imallan/griffin/util/RxUtils.java" timestamp="1453724001820" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/DBHelper.java" timestamp="1453378108102">
         <mark key="'" line="96" column="77" />
         <mark key="[" line="97" column="0" />
@@ -104,7 +100,6 @@
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.4.3/jars/classes.jar!/com/twitter/sdk/android/core/TwitterApiClient.class" timestamp="1453736610101" />
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453744104180">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
@@ -230,7 +225,6 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/media/MediaPlayer.java" timestamp="1453719872318">
         <mark key="'" line="846" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/service/TimelineService.java" timestamp="1453736775454" />
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/fabric.properties" timestamp="1453735676403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="40" />
@@ -293,7 +287,6 @@
         <mark key="^" line="39" column="40" />
         <mark key="." line="39" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/service/CustomApiClient.java" timestamp="1453736624681" />
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/res/layout/fragment_my.xml" timestamp="1453397357612">
         <mark key="[" line="10" column="29" />
         <mark key="]" line="10" column="32" />
@@ -321,7 +314,6 @@
         <mark key="^" line="13" column="70" />
         <mark key="." line="13" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/LoginActivity.java" timestamp="1453735940711" />
       <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/AndroidManifest.xml" timestamp="1453309581047">
         <mark key="[" line="16" column="19" />
         <mark key="]" line="17" column="49" />
@@ -341,8 +333,6 @@
         <mark key="^" line="104" column="55" />
         <mark key="." line="104" column="55" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding/rxbinding/0.3.0/af8575e1a95b9518a0e835513919d5a1a42015d7/rxbinding-0.3.0-sources.jar!/com/jakewharton/rxbinding/internal/MainThreadSubscription.java" timestamp="1453723135260" />
-      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/ScreenContainer.java" timestamp="1453740857533" />
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel/MyModel.java" timestamp="1453743966814">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="15" />
