@@ -50,7 +50,7 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1453765669820">
+      <file name="/a.dummy" timestamp="1453845045078">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/LinkUtils.java" timestamp="1453726758946">
@@ -102,6 +102,16 @@
         <mark key="." line="25" column="28" />
         <mark key="^" line="25" column="28" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.3.0/e2d92406c2f3f6ff202dddeb69eae22b3e7c80d5/stetho-okhttp-1.3.0-sources.jar!/com/facebook/stetho/okhttp/StethoInterceptor.java" timestamp="1453842630832">
+        <mark key="[" line="42" column="36" />
+        <mark key="]" line="42" column="80" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/api/TwitterServiceFactory.java" timestamp="1453844040387">
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="43" column="38" />
+        <mark key="." line="43" column="38" />
+        <mark key="^" line="43" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/header_post.xml" timestamp="1453464801330">
         <mark key="'" line="126" column="0" />
         <mark key="[" line="52" column="36" />
@@ -143,11 +153,23 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/build.gradle" timestamp="1453844366769">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="89" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_product.xml" timestamp="1453387155326">
         <mark key="[" line="215" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/LoginActivity.java" timestamp="1453842894958">
+        <mark key="'" line="38" column="12" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel/MyModel.java" timestamp="1453743966814">
         <mark key="[" line="6" column="7" />
@@ -161,11 +183,6 @@
         <mark key="]" line="99" column="27" />
         <mark key="^" line="99" column="27" />
         <mark key="." line="99" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/TopImagesListActivity.java" timestamp="1453760365375">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" timestamp="1453374525309">
         <mark key="'" line="317" column="0" />
@@ -357,8 +374,12 @@
         <mark key="^" line="120" column="15" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1453761668272">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/api/Oauth1SigningInterceptor.java" timestamp="1453842805670">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="153" column="11" />
+        <mark key="]" line="154" column="18" />
+        <mark key="." line="154" column="18" />
+        <mark key="^" line="154" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/models/MyModelImpl.java" timestamp="1453765485222">
         <mark key="[" line="18" column="46" />
@@ -432,6 +453,11 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/api/TwitterService.java" timestamp="1453844123891">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/ui/adapters/MyDataAdapter.java" timestamp="1453761935793">
         <mark key="[" line="25" column="8" />
         <mark key="]" line="25" column="30" />
@@ -475,12 +501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="30" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityThread.java" />
-      <jump line="86" column="20" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/AbstractActivityUnitTest.java" />
-      <jump line="160" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/Activity.java" />
-      <jump line="89" column="12" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/content/ContextWrapper.java" />
-      <jump line="768" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/content/ContextWrapper.java" />
-      <jump line="771" column="38" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/Activity.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ContextImpl.java" />
       <jump line="2030" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ContextImpl.java" />
       <jump line="183" column="23" filename="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/SecondActivity.java" />
@@ -575,46 +595,52 @@
       <jump line="70" column="0" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
       <jump line="53" column="35" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
+      <jump line="86" column="26" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/api/Oauth1SigningInterceptor.java" />
+      <jump line="159" column="18" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/api/Oauth1SigningInterceptor.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/api/Oauth1SigningInterceptor.java" />
+      <jump line="64" column="38" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/LoginActivity.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/LoginActivity.java" />
+      <jump line="38" column="12" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/LoginActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5zcXVhcmV1cC5yZXRyb2ZpdDpjb252ZXJ0ZXItZ3NvbjokcmV0cm9maXRWZXJzaW9uIgogICAgY29tcGlsZSAiY29tLnNxdWFyZXVwLnJldHJvZml0OmFkYXB0ZXItcnhqYXZhOiRyZXRyb2ZpdFZlcnNpb24iCg==</text>
       </register>
       <register name="-" type="4">
-        <text>mView</text>
+        <text>sOkHttpClient</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>myView.get()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc09rSHR0cENsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQuQnVpbGRlcigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5zcXVhcmV1cC5yZXRyb2ZpdDpjb252ZXJ0ZXItZ3NvbjokcmV0cm9maXRWZXJzaW9uIgogICAgY29tcGlsZSAiY29tLnNxdWFyZXVwLnJldHJvZml0OmFkYXB0ZXItcnhqYXZhOiRyZXRyb2ZpdFZlcnNpb24iCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">V2Vha1JlZmVyZW5jZTxNeVZpZXc+IG15VmlldyA9IG5ldyBXZWFrUmVmZXJlbmNlPD4obVZpZXcpOwogICAgICAgIGlmIChtU3Vic2NyaXB0aW9uICE9IG51bGwpIHsKICAgICAgICAgICAgbVN1YnNjcmlwdGlvbi51bnN1YnNjcmliZSgpOwogICAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHJldHJvZml0Lmh0dHAuUXVlcnk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtVmlldy5zZXREYXRhKG1EYXRhKTsK</text>
+        <text encoding="base64">aW1wb3J0IHJldHJvZml0Lmh0dHAuR0VUOwo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUocyAtPiB7CiAgICAgICAgICAgICAgICAgICAgbURhdGEgPSBzOwovLyAgICAgICAgICAgICAgICAgICAgaWYgKG15Vmlldy5nZXQoKSAhPSBudWxsKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgbXlWaWV3LmdldCgpLnNldERhdGEobURhdGEpOwovLyAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgIA==</text>
+        <text>sOkHttpClient</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LnN1YnNjcmliZShuZXcgQWN0aW9uMTxMaXN0PFN0cmluZz4+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIGNhbGwoTGlzdDxTdHJpbmc+IHN0cmluZ3MpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdmlldy5zZXREYXRhKHN0cmluZ3MpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBidWlsZGVyLmFkZE5ldHdvcmtJbnRlcmNlcHRvcihvKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNeVZpZXcgdmlldyA9IG1WaWV3Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRJbnRlcmNlcHRvcigpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>mView</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGRDb25maWcuREVCVUcpIHsKICAgICAgICAgICAgYnVpbGRlci5hZGROZXR3b3JrSW50ZXJjZXB0b3Ioc1N0ZXRob0ludGVyY2VwdG9yKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>mSubscription.isUnsubscribed()</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
