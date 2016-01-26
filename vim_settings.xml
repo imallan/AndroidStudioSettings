@@ -50,6 +50,9 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
+      <file name="/a.dummy" timestamp="1453765669820">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/LinkUtils.java" timestamp="1453726758946">
         <mark key="[" line="184" column="105" />
         <mark key="]" line="184" column="109" />
@@ -76,11 +79,10 @@
         <mark key="^" line="78" column="71" />
         <mark key="." line="78" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1453762978072">
-        <mark key="[" line="65" column="26" />
-        <mark key="]" line="66" column="32" />
-        <mark key="." line="66" column="32" />
-        <mark key="^" line="66" column="32" />
+      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1453764867074">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/utils/RxUtils.java" timestamp="1453760675838">
         <mark key="[" line="15" column="0" />
@@ -178,6 +180,11 @@
         <mark key="." line="9" column="31" />
         <mark key="^" line="9" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/utils/WeakCallback.java" timestamp="1453764927388">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/fabric.properties" timestamp="1453755776597">
         <mark key="[" line="0" column="44" />
         <mark key="]" line="1" column="71" />
@@ -199,8 +206,10 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/UserListsFragment.java" timestamp="1453480590172">
         <mark key="[" line="106" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenter.java" timestamp="1453762770374">
-        <mark key="[" line="16" column="23" />
+      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenter.java" timestamp="1453764864121">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/res/layout/view_item_data.xml" timestamp="1453761796474">
         <mark key="[" line="7" column="13" />
@@ -221,12 +230,11 @@
         <mark key="^" line="113" column="54" />
         <mark key="." line="113" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" timestamp="1453763001469">
-        <mark key="'" line="32" column="12" />
-        <mark key="[" line="48" column="8" />
-        <mark key="]" line="48" column="20" />
-        <mark key="^" line="48" column="20" />
-        <mark key="." line="48" column="20" />
+      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" timestamp="1453766582375">
+        <mark key="'" line="51" column="35" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/ListService.java" timestamp="1453729103267">
         <mark key="'" line="382" column="59" />
@@ -249,11 +257,11 @@
         <mark key="^" line="29" column="78" />
         <mark key="." line="29" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453762096894">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="13" column="18" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="13" column="18" />
+      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453764526037">
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="13" column="40" />
+        <mark key="^" line="13" column="40" />
+        <mark key="." line="13" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/build.gradle" timestamp="1453465647758">
         <mark key="[" line="7" column="61" />
@@ -352,11 +360,11 @@
       <file name="/Dummy.txt" timestamp="1453761668272">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/models/MyModelImpl.java" timestamp="1453762149112">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="37" />
-        <mark key="^" line="17" column="37" />
-        <mark key="." line="17" column="37" />
+      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/models/MyModelImpl.java" timestamp="1453765485222">
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="19" column="35" />
+        <mark key="^" line="19" column="35" />
+        <mark key="." line="19" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" timestamp="1453381622142">
         <mark key="'" line="422" column="0" />
@@ -467,9 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="28" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/MediaGalleryActivity.java" />
-      <jump line="69" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityThread.java" />
       <jump line="25" column="30" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityThread.java" />
       <jump line="86" column="20" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/AbstractActivityUnitTest.java" />
       <jump line="160" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/Activity.java" />
@@ -567,46 +572,49 @@
       <jump line="35" column="15" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
       <jump line="46" column="12" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
       <jump line="33" column="12" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
+      <jump line="53" column="35" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>mView</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1WaWV3LmdldCgpICE9IG51bGwpIHsK</text>
+      <register name="0" type="4">
+        <text>myView.get()</text>
       </register>
-      <register name="1" type="4">
-        <text>n</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ZXcgV2Vha1JlZmVyZW5jZTw+KHZpZXcpOw==</text>
+        <text encoding="base64">V2Vha1JlZmVyZW5jZTxNeVZpZXc+IG15VmlldyA9IG5ldyBXZWFrUmVmZXJlbmNlPD4obVZpZXcpOwogICAgICAgIGlmIChtU3Vic2NyaXB0aW9uICE9IG51bGwpIHsKICAgICAgICAgICAgbVN1YnNjcmlwdGlvbi51bnN1YnNjcmliZSgpOwogICAgICAgIH0=</text>
       </register>
-      <register name="3" type="4">
-        <text>.get()</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtVmlldy5zZXREYXRhKG1EYXRhKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUocyAtPiB7CiAgICAgICAgICAgICAgICAgICAgbURhdGEgPSBzOwovLyAgICAgICAgICAgICAgICAgICAgaWYgKG15Vmlldy5nZXQoKSAhPSBudWxsKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgbXlWaWV3LmdldCgpLnNldERhdGEobURhdGEpOwovLyAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobVZpZXcuZ2V0KCkgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>.get()</text>
+        <text encoding="base64">LnN1YnNjcmliZShuZXcgQWN0aW9uMTxMaXN0PFN0cmluZz4+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIGNhbGwoTGlzdDxTdHJpbmc+IHN0cmluZ3MpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdmlldy5zZXREYXRhKHN0cmluZ3MpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBNeVZpZXcgdmlldyA9IG1WaWV3Owo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1WaWV3LmdldCgpICE9IG51bGwpIHsK</text>
+      <register name="8" type="4">
+        <text>mView</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>mSubscription.isUnsubscribed()</text>
       </register>
     </registers>
     <search>
