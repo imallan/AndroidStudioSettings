@@ -32,11 +32,6 @@
         <mark key="^" line="284" column="151" />
         <mark key="." line="284" column="151" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenter.java" timestamp="1453764864121">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
         <mark key="[" line="51" column="38" />
         <mark key="]" line="51" column="50" />
@@ -55,6 +50,7 @@
         <mark key="]" line="214" column="0" />
         <mark key="." line="214" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" timestamp="1453829158068" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ListProductsListFragment.java" timestamp="1453729541502">
         <mark key="'" line="78" column="15" />
         <mark key="[" line="78" column="71" />
@@ -282,11 +278,6 @@
         <mark key="^" line="765" column="38" />
         <mark key="." line="765" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/activities/EffectiveActivity.java" timestamp="1453763177937">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/res/values/styles.xml" timestamp="1453755173674">
         <mark key="[" line="3" column="57" />
         <mark key="]" line="3" column="67" />
@@ -354,11 +345,6 @@
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/ui/ScreenContainerImpl.java" timestamp="1453756562281">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/res/layout/activity_main.xml" timestamp="1453394058182">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="36" />
@@ -421,8 +407,8 @@
         <mark key="^" line="510" column="41" />
         <mark key="." line="510" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/header_post.xml" timestamp="1453464801330">
-        <mark key="'" line="126" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/header_post.xml" timestamp="1453829014787">
+        <mark key="'" line="72" column="45" />
         <mark key="[" line="52" column="36" />
         <mark key="]" line="52" column="37" />
         <mark key="^" line="52" column="37" />
@@ -443,6 +429,12 @@
         <mark key="]" line="48" column="46" />
         <mark key="^" line="48" column="46" />
         <mark key="." line="48" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_post_recycler.xml" timestamp="1453828782331">
+        <mark key="[" line="4" column="73" />
+        <mark key="]" line="4" column="82" />
+        <mark key="^" line="4" column="82" />
+        <mark key="." line="4" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1453827869040">
         <mark key="'" line="141" column="38" />
@@ -494,16 +486,6 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/utils/WeakCallback.java" timestamp="1453764927388">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1453764867074">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453764526037">
         <mark key="[" line="13" column="41" />
         <mark key="]" line="13" column="40" />
@@ -522,7 +504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/Activity.java" />
       <jump line="89" column="12" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/content/ContextWrapper.java" />
       <jump line="768" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/content/ContextWrapper.java" />
       <jump line="771" column="38" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/Activity.java" />
@@ -622,13 +603,14 @@
       <jump line="53" column="35" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
       <jump line="288" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/ShoppingBasketProductViewHolder.java" />
       <jump line="141" column="38" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="72" column="45" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/header_post.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>Target</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>Target</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -637,31 +619,31 @@
         <text>ButtonWhiteShopcade</text>
       </register>
       <register name="1" type="4">
-        <text>false</text>
+        <text>Target</text>
       </register>
       <register name="2" type="4">
-        <text>true</text>
+        <text>enw</text>
       </register>
       <register name="3" type="4">
-        <text>BlackShopcade</text>
+        <text>hero</text>
       </register>
       <register name="4" type="4">
-        <text>PrimaryShopcade</text>
+        <text>hero</text>
       </register>
       <register name="5" type="4">
-        <text>WhiteShopcade</text>
+        <text>false</text>
       </register>
       <register name="6" type="4">
-        <text>BlackShopcade</text>
+        <text>true</text>
       </register>
       <register name="7" type="4">
-        <text>dark_grey</text>
+        <text>BlackShopcade</text>
       </register>
       <register name="8" type="4">
-        <text>dark_grey</text>
+        <text>PrimaryShopcade</text>
       </register>
       <register name="9" type="4">
-        <text>targetApi</text>
+        <text>WhiteShopcade</text>
       </register>
     </registers>
     <search>
