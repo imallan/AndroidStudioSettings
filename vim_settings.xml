@@ -444,12 +444,12 @@
         <mark key="^" line="48" column="46" />
         <mark key="." line="48" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1453810460701">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="139" column="55" />
-        <mark key="]" line="139" column="56" />
-        <mark key="^" line="99" column="27" />
-        <mark key="." line="139" column="56" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1453825042430">
+        <mark key="'" line="141" column="38" />
+        <mark key="[" line="103" column="23" />
+        <mark key="]" line="103" column="27" />
+        <mark key="^" line="103" column="27" />
+        <mark key="." line="103" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/ShoppingBasketProductViewHolder.java" timestamp="1453814749359">
         <mark key="'" line="290" column="4" />
@@ -522,7 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="20" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/AbstractActivityUnitTest.java" />
       <jump line="160" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/Activity.java" />
       <jump line="89" column="12" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/content/ContextWrapper.java" />
       <jump line="768" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/content/ContextWrapper.java" />
@@ -622,13 +621,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
       <jump line="53" column="35" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
       <jump line="288" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/ShoppingBasketProductViewHolder.java" />
+      <jump line="141" column="38" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BlackShopcade</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>BlackShopcade</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -637,31 +637,31 @@
         <text>ButtonWhiteShopcade</text>
       </register>
       <register name="1" type="4">
-        <text>BlackShopcade</text>
+        <text>true</text>
       </register>
       <register name="2" type="4">
-        <text>PrimaryShopcade</text>
-      </register>
-      <register name="3" type="4">
-        <text>WhiteShopcade</text>
-      </register>
-      <register name="4" type="4">
         <text>BlackShopcade</text>
       </register>
+      <register name="3" type="4">
+        <text>PrimaryShopcade</text>
+      </register>
+      <register name="4" type="4">
+        <text>WhiteShopcade</text>
+      </register>
       <register name="5" type="4">
-        <text>dark_grey</text>
+        <text>BlackShopcade</text>
       </register>
       <register name="6" type="4">
         <text>dark_grey</text>
       </register>
       <register name="7" type="4">
-        <text>targetApi</text>
+        <text>dark_grey</text>
       </register>
       <register name="8" type="4">
-        <text>center</text>
+        <text>targetApi</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHRhbAo=</text>
+      <register name="9" type="4">
+        <text>center</text>
       </register>
     </registers>
     <search>
