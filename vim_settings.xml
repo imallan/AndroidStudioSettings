@@ -50,8 +50,8 @@
         <mark key="]" line="214" column="0" />
         <mark key="." line="214" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" timestamp="1453897241435">
-        <mark key="'" line="417" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" timestamp="1453902552701">
+        <mark key="'" line="345" column="8" />
         <mark key="[" line="376" column="86" />
         <mark key="]" line="376" column="93" />
         <mark key="." line="376" column="93" />
@@ -296,11 +296,11 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" timestamp="1453891848065">
-        <mark key="[" line="160" column="56" />
-        <mark key="]" line="160" column="55" />
-        <mark key="." line="160" column="55" />
-        <mark key="^" line="160" column="55" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" timestamp="1453903103312">
+        <mark key="[" line="152" column="54" />
+        <mark key="]" line="152" column="77" />
+        <mark key="." line="152" column="77" />
+        <mark key="^" line="152" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" timestamp="1453729408683">
         <mark key="'" line="1" column="0" />
@@ -520,7 +520,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="91" filename="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/SecondActivity.java" />
       <jump line="184" column="45" filename="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/SecondActivity.java" />
       <jump line="14" column="7" filename="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MyService.java" />
       <jump line="51" column="4" filename="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/SecondActivity.java" />
@@ -620,13 +619,14 @@
       <jump line="142" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" />
       <jump line="389" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" />
       <jump line="348" column="44" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" />
+      <jump line="345" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRNaXhwYW5lbEFQSShhY3Rpdml0eSkuZ2V0UGVvcGxlKCkuc3VydmV5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUNsaWVudC51bnJlZ2lzdGVyQ29ubmVjdGlvbkNhbGxiYWNrcygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>DESCRIPTION</text>
+        <text encoding="base64">ICYmIGdldEFwcFVyaSgpICE9IG51bGw=</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -635,31 +635,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gVGV4dFV0aWxzLmlzRW1wdHkobVRpdGxlKSA/IG51bGwgOiBtVGl0bGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRNaXhwYW5lbEFQSShhY3Rpdml0eSkuZ2V0UGVvcGxlKCkuc3VydmV5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUNsaWVudC51bnJlZ2lzdGVyQ29ubmVjdGlvbkNhbGxiYWNrcygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoKEFic3RyYWN0QWN0aXZpdHkpZ2V0QWN0aXZpdHkoKSkuc3RhcnRHb29nbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXREZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUNsaWVudC5kaXNjb25uZWN0KCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRBY3Rpb25TdGF0dXMoQWN0aW9uLlNUQVRVU19UWVBFX0NPTVBMRVRFRCkK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICYmIGdldEFwcFVyaSgpICE9IG51bGw=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXQK</text>
+        <text encoding="base64">ICAgICAgICBnZXRNaXhwYW5lbEFQSShhY3Rpdml0eSkuZ2V0UGVvcGxlKCkuc3VydmV5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoKEFic3RyYWN0QWN0aXZpdHkpZ2V0QWN0aXZpdHkoKSkuc3RhcnRHb29nbGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRJZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXREZXMK</text>
       </register>
-      <register name="8" type="4">
-        <text>DESCRIPTION</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRBY3Rpb25TdGF0dXMoQWN0aW9uLlNUQVRVU19UWVBFX0NPTVBMRVRFRCkK</text>
       </register>
-      <register name="9" type="4">
-        <text>Description</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXQK</text>
       </register>
     </registers>
     <search>
