@@ -102,11 +102,10 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="17" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Analytics.java" timestamp="1453811605429">
-        <mark key="[" line="391" column="0" />
-        <mark key="]" line="391" column="0" />
-        <mark key="." line="391" column="0" />
-        <mark key="^" line="390" column="65" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Analytics.java" timestamp="1453893334844">
+        <mark key="[" line="392" column="0" />
+        <mark key="]" line="392" column="0" />
+        <mark key="." line="392" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/ui/ContentView.java" timestamp="1453756108683">
         <mark key="[" line="6" column="28" />
@@ -486,7 +485,7 @@
         <mark key="^" line="17" column="49" />
         <mark key="." line="17" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/VideoUtils.java" timestamp="1453810425927">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/VideoUtils.java" timestamp="1453893860882">
         <mark key="'" line="295" column="0" />
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -624,7 +623,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoKEFic3RyYWN0QWN0aXZpdHkpZ2V0QWN0aXZpdHkoKSkuc3RhcnRHb29nbGUK</text>
+        <text encoding="base64">ICAgICAgICBnZXRNaXhwYW5lbEFQSShhY3Rpdml0eSkuZ2V0UGVvcGxlKCkuc3VydmV5Cg==</text>
       </register>
       <register name="-" type="4">
         <text>DESCRIPTION</text>
@@ -636,31 +635,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gVGV4dFV0aWxzLmlzRW1wdHkobVRpdGxlKSA/IG51bGwgOiBtVGl0bGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoKEFic3RyYWN0QWN0aXZpdHkpZ2V0QWN0aXZpdHkoKSkuc3RhcnRHb29nbGUK</text>
+        <text encoding="base64">ICAgICAgICBnZXRNaXhwYW5lbEFQSShhY3Rpdml0eSkuZ2V0UGVvcGxlKCkuc3VydmV5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXREZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoKEFic3RyYWN0QWN0aXZpdHkpZ2V0QWN0aXZpdHkoKSkuc3RhcnRHb29nbGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRBY3Rpb25TdGF0dXMoQWN0aW9uLlNUQVRVU19UWVBFX0NPTVBMRVRFRCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXREZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRBY3Rpb25TdGF0dXMoQWN0aW9uLlNUQVRVU19UWVBFX0NPTVBMRVRFRCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXQK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXQK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRJZCgpCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>DESCRIPTION</text>
       </register>
-      <register name="8" type="4">
-        <text>Description</text>
-      </register>
       <register name="9" type="4">
-        <text>mTitle</text>
+        <text>Description</text>
       </register>
     </registers>
     <search>
