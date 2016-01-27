@@ -85,10 +85,11 @@
         <mark key="^" line="78" column="71" />
         <mark key="." line="78" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1453764867074">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1453934696897">
+        <mark key="[" line="47" column="35" />
+        <mark key="]" line="47" column="38" />
+        <mark key="^" line="47" column="38" />
+        <mark key="." line="47" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/utils/RxUtils.java" timestamp="1453760675838">
         <mark key="[" line="15" column="0" />
@@ -140,6 +141,12 @@
         <mark key="]" line="303" column="51" />
         <mark key="." line="303" column="51" />
         <mark key="^" line="303" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/AndroidManifest.xml" timestamp="1453933277227">
+        <mark key="[" line="2" column="69" />
+        <mark key="]" line="4" column="75" />
+        <mark key="^" line="4" column="75" />
+        <mark key="." line="4" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/ui/ScreenContainer.java" timestamp="1453744965621">
         <mark key="[" line="14" column="23" />
@@ -659,43 +666,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Y</text>
+        <text>getApplicationContext()</text>
       </register>
       <register name="-" type="4">
-        <text>Y</text>
+        <text>getApplicationContext()</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>ButtonWhiteShopcade</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCByYXdYID0gKGludCkgZXZlbnQuZ2V0UmF3WCgpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>Y</text>
+        <text>getApplicationContext()</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBPYXV0aEludGVyCg==</text>
+      <register name="2" type="4">
+        <text>this</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLmF1dGhlbnRpY2F0b3IoKHJvdXRlLCByZXNwb25zZSkgLT4gbnVsbCkK</text>
+      <register name="3" type="4">
+        <text>OVERLAY</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLmF1dGhlbnRpY2F0b3IoKHJvdXRlLCByZXNwb25zZSkgLT4gbnVsbCkK</text>
+      <register name="4" type="4">
+        <text>APPLICATION</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENyZWRlbnRpYWxzIGNyZWRlbnRpYWxzID0gbmV3IENyZWRlbnRpYWxzKCkK</text>
+      <register name="5" type="4">
+        <text>YSTEM_ERROR</text>
       </register>
-      <register name="6" type="4">
-        <text>BlackShopcade</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgTW90aW9uRXZlbnQuQUNUSU9OX0RPV046CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>PrimaryShopcade</text>
+        <text />
       </register>
       <register name="8" type="4">
-        <text>WhiteShopcade</text>
+        <text>:</text>
       </register>
-      <register name="9" type="4">
-        <text>BlackShopcade</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
     </registers>
     <search>
