@@ -28,14 +28,8 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
-      <file name="/a.dummy" timestamp="1453892050051">
+      <file name="/a.dummy" timestamp="1453904877066">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" timestamp="1453903103312">
-        <mark key="[" line="152" column="54" />
-        <mark key="]" line="152" column="77" />
-        <mark key="." line="152" column="77" />
-        <mark key="^" line="152" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" timestamp="1453381622142">
         <mark key="'" line="422" column="0" />
@@ -87,13 +81,6 @@
         <mark key="[" line="214" column="0" />
         <mark key="]" line="214" column="0" />
         <mark key="." line="214" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" timestamp="1453902552701">
-        <mark key="'" line="345" column="8" />
-        <mark key="[" line="376" column="86" />
-        <mark key="]" line="376" column="93" />
-        <mark key="." line="376" column="93" />
-        <mark key="^" line="376" column="93" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/Presenter.java" timestamp="1453757110667">
         <mark key="[" line="6" column="7" />
@@ -363,11 +350,12 @@
         <mark key="^" line="4" column="82" />
         <mark key="." line="4" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1453904648771">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1453904685207">
         <mark key="'" line="99" column="35" />
         <mark key="[" line="160" column="42" />
         <mark key="]" line="160" column="43" />
         <mark key="." line="160" column="43" />
+        <mark key="^" line="160" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MyFragment.java" timestamp="1453396592261">
         <mark key="'" line="15" column="3" />
