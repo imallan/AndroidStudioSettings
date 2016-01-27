@@ -112,11 +112,10 @@
         <mark key="[" line="42" column="36" />
         <mark key="]" line="42" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/api/TwitterServiceFactory.java" timestamp="1453844040387">
-        <mark key="[" line="43" column="24" />
-        <mark key="]" line="43" column="38" />
-        <mark key="." line="43" column="38" />
-        <mark key="^" line="43" column="38" />
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/api/TwitterServiceFactory.java" timestamp="1453852669530">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/header_post.xml" timestamp="1453464801330">
         <mark key="'" line="126" column="0" />
@@ -658,8 +657,8 @@
       <jump line="288" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/ShoppingBasketProductViewHolder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BlackShopcade</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBPYXV0aEludGVyCg==</text>
       </register>
       <register name="-" type="4">
         <text>BlackShopcade</text>
@@ -670,32 +669,32 @@
       <register name="0" type="4">
         <text>ButtonWhiteShopcade</text>
       </register>
-      <register name="1" type="4">
-        <text>BlackShopcade</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBPYXV0aEludGVyCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>PrimaryShopcade</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBidWlsZGVyLmF1dGhlbnRpY2F0b3IoKHJvdXRlLCByZXNwb25zZSkgLT4gbnVsbCkK</text>
       </register>
-      <register name="3" type="4">
-        <text>WhiteShopcade</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBidWlsZGVyLmF1dGhlbnRpY2F0b3IoKHJvdXRlLCByZXNwb25zZSkgLT4gbnVsbCkK</text>
       </register>
-      <register name="4" type="4">
-        <text>BlackShopcade</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENyZWRlbnRpYWxzIGNyZWRlbnRpYWxzID0gbmV3IENyZWRlbnRpYWxzKCkK</text>
       </register>
       <register name="5" type="4">
-        <text>dark_grey</text>
+        <text>BlackShopcade</text>
       </register>
       <register name="6" type="4">
-        <text>dark_grey</text>
+        <text>PrimaryShopcade</text>
       </register>
       <register name="7" type="4">
-        <text>targetApi</text>
+        <text>WhiteShopcade</text>
       </register>
       <register name="8" type="4">
-        <text>center</text>
+        <text>BlackShopcade</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHRhbAo=</text>
+      <register name="9" type="4">
+        <text>dark_grey</text>
       </register>
     </registers>
     <search>
