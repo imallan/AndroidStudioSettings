@@ -64,12 +64,11 @@
         <mark key="^" line="11" column="46" />
         <mark key="." line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" timestamp="1453744652137">
-        <mark key="'" line="54" column="4" />
-        <mark key="[" line="36" column="26" />
-        <mark key="]" line="36" column="30" />
-        <mark key="^" line="36" column="30" />
-        <mark key="." line="36" column="30" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" timestamp="1453979651320">
+        <mark key="'" line="34" column="15" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453744104180">
         <mark key="[" line="10" column="21" />
@@ -95,6 +94,11 @@
         <mark key="]" line="17" column="61" />
         <mark key="^" line="34" column="52" />
         <mark key="." line="17" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Analytics.java" timestamp="1453893334844">
+        <mark key="[" line="392" column="0" />
+        <mark key="]" line="392" column="0" />
+        <mark key="." line="392" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/ui/ContentView.java" timestamp="1453756108683">
         <mark key="[" line="6" column="28" />
@@ -132,11 +136,10 @@
         <mark key="." line="130" column="51" />
         <mark key="^" line="130" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModelImpl.java" timestamp="1453744122223">
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="31" />
-        <mark key="^" line="13" column="30" />
-        <mark key="." line="13" column="31" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModelImpl.java" timestamp="1453979875556">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/SecondActivity.java" timestamp="1453303762450">
         <mark key="'" line="184" column="45" />
@@ -182,7 +185,7 @@
         <mark key="^" line="22" column="64" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/ui/activity/MainActivity.java" timestamp="1453744770576">
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/ui/activity/MainActivity.java" timestamp="1453979635345">
         <mark key="'" line="43" column="4" />
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -552,7 +555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="973" column="77" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" />
       <jump line="59" column="18" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" />
       <jump line="44" column="20" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Post.java" />
       <jump line="317" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" />
@@ -652,13 +654,14 @@
       <jump line="57" column="32" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/SideNavigationLayout.java" />
       <jump line="361" column="21" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
       <jump line="50" column="38" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_settings.xml" />
+      <jump line="35" column="15" filename="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>grey</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>grey</text>
+        <text>observable</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -666,32 +669,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9IkBzdHlsZS9UZXh0QXBwZWFyYW5jZS5BcHBDb21wYXQuTWVudSIK</text>
       </register>
-      <register name="1" type="4">
-        <text>grey</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>AppCompatActivity</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9IkBzdHlsZS9UZXh0QXBwZWFyYW5jZS5BcHBDb21wYXQuTWVkaXVtIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaWJlci5vbkNvbXBsZXRlZCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9IkBzdHlsZS9UZXh0QXBwZWFyYW5jZS5BcHBDb21wYXQuTWVkaXVtIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlICh0cnVlKSB7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>Display4</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="6" type="4">
-        <text>Display1</text>
+        <text>observable</text>
       </register>
       <register name="7" type="4">
-        <text>Small</text>
+        <text>Integer</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9IkBzdHlsZS9UZXh0QXBwZWFyYW5jZS5BcHBDb21wYXQuIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Medium</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
