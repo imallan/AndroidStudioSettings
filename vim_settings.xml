@@ -161,11 +161,12 @@
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/FloatingService.java" timestamp="1453999685500">
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/FloatingService.java" timestamp="1454002945163">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="35" column="36" />
+        <mark key="." line="35" column="36" />
+        <mark key="^" line="35" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453744104180">
         <mark key="[" line="10" column="21" />
@@ -313,9 +314,9 @@
         <mark key="^" line="279" column="50" />
         <mark key="." line="279" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1453999312222">
-        <mark key="[" line="16" column="62" />
-        <mark key="]" line="17" column="16" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1454002580390">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="23" column="30" />
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
       </file>
@@ -682,48 +683,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>url</text>
+        <text>setOnLongClickListener</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>setOnLongClickListener</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9ucy5hZGQobmV3IEFjdGlvbihhY3Rpdml0eSwgIkJVWSIsIFIuZHJhd2FibGUuaWNfY2FydF93aGl0ZV8yNGRwLCBQcm9kdWN0QWN0aW9uSG9sZGVyLkFDVElPTl9CVVkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBJbnRlbnQgaW50ZW50ID0gbmV3IEludGVudChTZXR0aW5ncy5BQ1RJT05fTUFOQUdFX09WRVJMQVlfUEVSTUlTU0lPTiwKICAgICAgICAgICAgICAgIFVyaS5wYXJzZSgicGFja2FnZToiICsgZ2V0UGFja2FnZU5hbWUoKSkpOwogICAgICAgIHN0YXJ0QWN0aXZpdHkoaW50ZW50KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>url</text>
+        <text>setOnLongClickListener</text>
       </register>
-      <register name="2" type="4">
-        <text>url</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICBnZXRXaW5kb3dNYW5hZ2VyKCkuYWRkVmlldyhtVmlldywgbGF5b3V0UGFyYW1zKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text>url</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBBQ1RJT05fQlVZOgo=</text>
+      <register name="6" type="4">
+        <text>url</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>try {
-                    WebViewActivity.startActivity(mActivity, product.getBuy_url());
-                } catch (MalformedURLException e) {
-                    Log.e(TAG, &quot;onActionSelected: &quot;, e);
-                    LinkUtils.launchLink(mActivity, product.getBuy_url());
-                }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
     </registers>
     <search>
