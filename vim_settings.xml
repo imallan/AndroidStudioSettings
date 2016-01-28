@@ -35,7 +35,7 @@
         <mark key="^" line="226" column="46" />
         <mark key="." line="226" column="47" />
       </file>
-      <file name="/a.dummy" timestamp="1453990543731">
+      <file name="/a.dummy" timestamp="1453992772174">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/layout_side_navigation.xml" timestamp="1453976021524">
@@ -433,11 +433,12 @@
         <mark key="^" line="17" column="49" />
         <mark key="." line="17" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/LinkUtils.java" timestamp="1453726758946">
-        <mark key="[" line="184" column="105" />
-        <mark key="]" line="184" column="109" />
-        <mark key="." line="184" column="109" />
-        <mark key="^" line="184" column="109" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/LinkUtils.java" timestamp="1453992770877">
+        <mark key="'" line="397" column="6" />
+        <mark key="[" line="190" column="79" />
+        <mark key="]" line="190" column="82" />
+        <mark key="." line="190" column="82" />
+        <mark key="^" line="190" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/res/layout/view_item_data.xml" timestamp="1453761796474">
         <mark key="[" line="7" column="13" />
@@ -539,8 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="77" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/DBHelper.java" />
-      <jump line="420" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" />
       <jump line="15" column="62" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
       <jump line="56" column="0" filename="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/res/layout/layout_dashboard.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/FixedHeightFrameLayout.java" />
@@ -639,46 +638,48 @@
       <jump line="71" column="20" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" />
       <jump line="279" column="12" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" />
       <jump line="220" column="26" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/LinkUtils.java" />
+      <jump line="392" column="6" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/LinkUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtVG9vbGJhci5pc1RpdGxlVHJ1bmNhdGVkKCkK</text>
+      <register name="&quot;" type="4">
+        <text>url</text>
       </register>
       <register name="-" type="4">
-        <text>mShouldHideFab</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9IkBzdHlsZS9UZXh0QXBwZWFyYW5jZS5BcHBDb21wYXQuTWVudSIK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZWxzZSBpZiAoZmlyc3RTZWdtZW50LmVxdWFscyhTZWdtZW50cy5HT09ESUVTKSAmJiBzZWdtZW50U2l6ZSA9PSAxKSB7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIFdlYlZpZXdBY3Rpdml0eS5zdGFydEFjdGl2aXR5KGNvbnRleHQsIFNob3BjYWRlVVJMcy5CQVNFX0hUVFBTICsgIi8iICsgZmlyc3RTZWdtZW50LCBmYWxzZSk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChNYWxmb3JtZWRVUkxFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtVG9vbGJhci5pc1RpdGxlVHJ1bmNhdGVkKCkK</text>
+      <register name="1" type="4">
+        <text>url</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFNQRUNJQUxfTElTVFMuY29udGFpbnMobUxpc3RTZXJ2ZXJJZCkpIHsKICAgICAgICAgICAgICAgIG1QYWdlclRhYi5zZXRWaXNpYmlsaXR5KFZpZXcuR09ORSk7CiAgICAgICAgICAgIH0K</text>
+      <register name="2" type="4">
+        <text>url</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtVG9vbGJhci5zZXQK</text>
+      <register name="3" type="4">
+        <text>context, ShopcadeURLs.BASE_HTTPS + &quot;/&quot; + firstSegment, false</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtVAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICYmIHNlZ21lbnRTaXplID09IDE=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>GOODIES</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVBhZ2VyVGFiLnNldFZpc2liaWxpdHkoVmlldy5HT05FKTsK</text>
+      <register name="6" type="4">
+        <text>goodies</text>
       </register>
       <register name="7" type="4">
-        <text>mShouldHideFab</text>
+        <text>GOODIES</text>
       </register>
-      <register name="8" type="4">
-        <text>void</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBtVG9vbGJhci5pc1RpdGxlVHJ1bmNhdGVkKCkK</text>
       </register>
-      <register name="9" type="4">
-        <text>id</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFNQRUNJQUxfTElTVFMuY29udGFpbnMobUxpc3RTZXJ2ZXJJZCkpIHsKICAgICAgICAgICAgICAgIG1QYWdlclRhYi5zZXRWaXNpYmlsaXR5KFZpZXcuR09ORSk7CiAgICAgICAgICAgIH0K</text>
       </register>
     </registers>
     <search>
