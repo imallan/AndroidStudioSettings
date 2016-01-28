@@ -69,6 +69,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/FloatingService.java" timestamp="1453999685500">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453744104180">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
@@ -377,6 +383,12 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/build.gradle" timestamp="1453996863063">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/ui/adapters/MyDataAdapter.java" timestamp="1453761935793">
         <mark key="[" line="25" column="8" />
         <mark key="]" line="25" column="30" />
@@ -434,6 +446,12 @@
         <mark key="." line="332" column="95" />
         <mark key="^" line="332" column="95" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/AndroidManifest.xml" timestamp="1453999266275">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="20" column="49" />
+        <mark key="^" line="20" column="49" />
+        <mark key="." line="20" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIGet.java" timestamp="1453821593068">
         <mark key="'" line="814" column="20" />
         <mark key="[" line="335" column="53" />
@@ -460,6 +478,12 @@
         <mark key="]" line="52" column="37" />
         <mark key="^" line="52" column="37" />
         <mark key="." line="52" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1453999312222">
+        <mark key="[" line="16" column="62" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="17" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MainActivity.java" timestamp="1453309955960">
         <mark key="[" line="46" column="84" />
@@ -556,11 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="26" filename="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MyFragment.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MyFragment.java" />
-      <jump line="37" column="29" filename="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MyFragment.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MyFragment.java" />
-      <jump line="15" column="3" filename="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MyFragment.java" />
       <jump line="670" column="16" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIGet.java" />
       <jump line="734" column="21" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIGet.java" />
       <jump line="811" column="20" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIGet.java" />
@@ -656,51 +675,51 @@
       <jump line="39" column="3" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
       <jump line="45" column="28" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
       <jump line="120" column="12" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
+      <jump line="31" column="21" filename="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/FloatingService.java" />
+      <jump line="73" column="4" filename="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/FloatingService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/FloatingService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>url</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9ucy5hZGQobmV3IEFjdGlvbihhY3Rpdml0eSwgIkJVWSIsIFIuZHJhd2FibGUuaWNfY2FydF93aGl0ZV8yNGRwLCBQcm9kdWN0QWN0aW9uSG9sZGVyLkFDVElPTl9CVVkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfCBXaW5kb3dNYW5hZ2VyLkxheW91dFBhcmFtcy5GTEFHX1NIT1dfV0hFTl9MT0NLRUQK</text>
       </register>
-      <register name="1" type="4">
-        <text>url</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>url</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBmbG9hdCBpbml0aWFsVG91Y2hZOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBmbG9hdCBpbml0aWFsVG91Y2hYOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBpbnQgaW5pdGlhbFk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBBQ1RJT05fQlVZOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBpbnQgaW5pdGlhbFg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gCg==</text>
+        <text encoding="base64">ICAgICAgICBtVmlldy5zZXRPblRvdWNoTGlzdGVuZXIobmV3IFZpZXcuT25Ub3VjaExpc3RlbmVyKCkgewo=</text>
       </register>
       <register name="8" type="4">
-        <text>try {
-                    WebViewActivity.startActivity(mActivity, product.getBuy_url());
-                } catch (MalformedURLException e) {
-                    Log.e(TAG, &quot;onActionSelected: &quot;, e);
-                    LinkUtils.launchLink(mActivity, product.getBuy_url());
-                }</text>
+        <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlIHB1YmxpYyBib29sZWFuIG9uVG91Y2goVmlldyB2LCBNb3Rpb25FdmVudCBldmVudCkgewogICAgICAgICAgICAgICAgc3dpdGNoIChldmVudC5nZXRBY3Rpb24oKSkgewogICAgICAgICAgICAgICAgICAgIGNhc2UgTW90aW9uRXZlbnQuQUNUSU9OX0RPV046CiAgICAgICAgICAgICAgICAgICAgICAgIGluaXRpYWxYID0gbGF5b3V0UGFyYW1zLng7CiAgICAgICAgICAgICAgICAgICAgICAgIGluaXRpYWxZID0gbGF5b3V0UGFyYW1zLnk7CiAgICAgICAgICAgICAgICAgICAgICAgIGluaXRpYWxUb3VjaFggPSBldmVudC5nZXRSYXdYKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGluaXRpYWxUb3VjaFkgPSBldmVudC5nZXRSYXdZKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICAgICAgIGNhc2UgTW90aW9uRXZlbnQuQUNUSU9OX1VQOgogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICBjYXNlIE1vdGlvbkV2ZW50LkFDVElPTl9NT1ZFOgogICAgICAgICAgICAgICAgICAgICAgICBsYXlvdXRQYXJhbXMueCA9IGluaXRpYWxYICsgKGludCkgKGV2ZW50LmdldFJhd1goKSAtIGluaXRpYWxUb3VjaFgpOwogICAgICAgICAgICAgICAgICAgICAgICBsYXlvdXRQYXJhbXMueSA9IGluaXRpYWxZICsgKGludCkgKGV2ZW50LmdldFJhd1koKSAtIGluaXRpYWxUb3VjaFkpOwogICAgICAgICAgICAgICAgICAgICAgICB3aW5kb3dNYW5hZ2VyLnVwZGF0ZVZpZXdMYXlvdXQobVZpZXcsIHBhcmFtcyk7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
       </register>
     </registers>
     <search>
