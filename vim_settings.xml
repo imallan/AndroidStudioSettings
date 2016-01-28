@@ -102,6 +102,12 @@
         <mark key="^" line="15" column="25" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1454020416502">
+        <mark key="[" line="64" column="4" />
+        <mark key="]" line="70" column="4" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="68" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/ui/views/ScreenContainerView.java" timestamp="1453742716166">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="15" />
@@ -410,11 +416,11 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/models/MyModelImpl.java" timestamp="1453765485222">
-        <mark key="[" line="18" column="46" />
-        <mark key="]" line="19" column="35" />
-        <mark key="^" line="19" column="35" />
-        <mark key="." line="19" column="35" />
+      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/models/MyModelImpl.java" timestamp="1454019509714">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="31" />
+        <mark key="^" line="17" column="35" />
+        <mark key="." line="17" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" timestamp="1453381622142">
         <mark key="'" line="422" column="0" />
@@ -658,48 +664,55 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>url</text>
+        <text>@Override
+    public void onBackPressed() {
+        Intent intent = new Intent(Intent.ACTION_MAIN);
+        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        intent.addCategory(Intent.CATEGORY_HOME);
+        startActivity(intent);
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9ucy5hZGQobmV3IEFjdGlvbihhY3Rpdml0eSwgIkJVWSIsIFIuZHJhd2FibGUuaWNfY2FydF93aGl0ZV8yNGRwLCBQcm9kdWN0QWN0aW9uSG9sZGVyLkFDVElPTl9CVVkpKTsK</text>
+      <register name="0" type="4">
+        <text>@Override
+    public void onBackPressed() {
+        Intent intent = new Intent(Intent.ACTION_MAIN);
+        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        intent.addCategory(Intent.CATEGORY_HOME);
+        startActivity(intent);
+    }</text>
       </register>
-      <register name="1" type="4">
-        <text>url</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHN1cGVyLm9uQmFja1ByZXNzZWQoKTsK</text>
       </register>
       <register name="2" type="4">
-        <text>url</text>
+        <text>0</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>LAUNCHER</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgQnV0dG9uIGJ1dHRvbiA9IG5ldyBCdXR0b24odGhpcyk7CiAgICAgICAgYnV0dG9uLnNldFRleHQoIkJ1dHRvbiIpOwogICAgICAgIExheW91dFBhcmFtcyBsYXlvdXRQYXJhbXMgPSBuZXcgTGF5b3V0UGFyYW1zKAogICAgICAgICAgICAgICAgVmlld0dyb3VwLkxheW91dFBhcmFtcy5XUkFQX0NPTlRFTlQsIFZpZXdHcm91cC5MYXlvdXRQYXJhbXMuV1JBUF9DT05URU5ULAogICAgICAgICAgICAgICAgMCwgMCwgUGl4ZWxGb3JtYXQuVFJBTlNQQVJFTlQpOwogICAgICAgIGxheW91dFBhcmFtcy5mbGFncyA9IExheW91dFBhcmFtcy5GTEFHX05PVF9UT1VDSF9NT0RBTAogICAgICAgICAgICAgICAgfCBMYXlvdXRQYXJhbXMuRkxBR19OT1RfRk9DVVNBQkxFCiAgICAgICAgICAgICAgICB8IExheW91dFBhcmFtcy5GTEFHX1NIT1dfV0hFTl9MT0NLRUQ7CiAgICAgICAgbGF5b3V0UGFyYW1zLmdyYXZpdHkgPSBHcmF2aXR5LlNUQVJUIHwgR3Jhdml0eS5UT1A7Ci8vICAgICAgICBsYXlvdXRQYXJhbXMueCA9IDEwMDsKLy8gICAgICAgIGxheW91dFBhcmFtcy55ID0gMzAwOwogICAgICAgIGxheW91dFBhcmFtcy50eXBlID0gTGF5b3V0UGFyYW1zLlRZUEVfU1lTVEVNX0VSUk9SOwogICAgICAgIGdldFdpbmRvd01hbmFnZXIoKS5hZGRWaWV3KGJ1dHRvbiwgbGF5b3V0UGFyYW1zKTsKCiAgICAgICAgYnV0dG9uLnNldE9uVG91Y2hMaXN0ZW5lcigodiwgZXZlbnQpIC0+IHsKICAgICAgICAgICAgaW50IHJhd1ggPSAoaW50KSBldmVudC5nZXRSYXdYKCk7CiAgICAgICAgICAgIGludCByYXdZID0gKGludCkgZXZlbnQuZ2V0UmF3WSgpOwogICAgICAgICAgICBzd2l0Y2ggKGV2ZW50LmdldEFjdGlvbigpKSB7CiAgICAgICAgICAgICAgICBjYXNlIE1vdGlvbkV2ZW50LkFDVElPTl9NT1ZFOgogICAgICAgICAgICAgICAgICAgIGxheW91dFBhcmFtcy54ID0gcmF3WDsKICAgICAgICAgICAgICAgICAgICBsYXlvdXRQYXJhbXMueSA9IHJhd1k7CiAgICAgICAgICAgICAgICAgICAgZ2V0V2luZG93TWFuYWdlcigpLnVwZGF0ZVZpZXdMYXlvdXQoYnV0dG9uLCBsYXlvdXRQYXJhbXMpOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9KTs=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBBQ1RJT05fQlVZOgo=</text>
+      <register name="6" type="4">
+        <text>url</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gCg==</text>
+      <register name="7" type="4">
+        <text>url</text>
       </register>
-      <register name="8" type="4">
-        <text>try {
-                    WebViewActivity.startActivity(mActivity, product.getBuy_url());
-                } catch (MalformedURLException e) {
-                    Log.e(TAG, &quot;onActionSelected: &quot;, e);
-                    LinkUtils.launchLink(mActivity, product.getBuy_url());
-                }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
     </registers>
     <search>
