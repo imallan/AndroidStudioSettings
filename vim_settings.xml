@@ -70,9 +70,6 @@
         <mark key="^" line="51" column="50" />
         <mark key="." line="51" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/SideNavigationLayout.java" timestamp="1453975944551">
-        <mark key="'" line="57" column="32" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ListRecyclerAdapter.java" timestamp="1453729639410">
         <mark key="'" line="121" column="4" />
         <mark key="[" line="94" column="83" />
@@ -409,6 +406,12 @@
         <mark key="." line="303" column="51" />
         <mark key="^" line="303" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" timestamp="1453994044713">
+        <mark key="[" line="260" column="20" />
+        <mark key="]" line="260" column="34" />
+        <mark key="." line="260" column="34" />
+        <mark key="^" line="260" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/models/ScreenContainerModelImpl.java" timestamp="1453741130018">
         <mark key="[" line="13" column="71" />
         <mark key="]" line="13" column="70" />
@@ -477,6 +480,13 @@
         <mark key="." line="25" column="28" />
         <mark key="^" line="25" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" timestamp="1453993406570">
+        <mark key="'" line="45" column="28" />
+        <mark key="[" line="45" column="43" />
+        <mark key="]" line="45" column="42" />
+        <mark key="^" line="45" column="42" />
+        <mark key="." line="45" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel/MyModel.java" timestamp="1453743966814">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="15" />
@@ -540,9 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="62" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
-      <jump line="56" column="0" filename="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/res/layout/layout_dashboard.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/FixedHeightFrameLayout.java" />
       <jump line="263" column="22" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/ProductService.java" />
       <jump line="10" column="26" filename="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MyFragment.java" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MyFragment.java" />
@@ -640,46 +647,49 @@
       <jump line="220" column="26" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/LinkUtils.java" />
       <jump line="392" column="6" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/LinkUtils.java" />
+      <jump line="132" column="49" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
+      <jump line="39" column="3" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
+      <jump line="45" column="28" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>url</text>
+        <text>getPurchasable</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>getPurchasable</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZWxzZSBpZiAoZmlyc3RTZWdtZW50LmVxdWFscyhTZWdtZW50cy5HT09ESUVTKSAmJiBzZWdtZW50U2l6ZSA9PSAxKSB7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIFdlYlZpZXdBY3Rpdml0eS5zdGFydEFjdGl2aXR5KGNvbnRleHQsIFNob3BjYWRlVVJMcy5CQVNFX0hUVFBTICsgIi8iICsgZmlyc3RTZWdtZW50LCBmYWxzZSk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChNYWxmb3JtZWRVUkxFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9ucy5hZGQobmV3IEFjdGlvbihhY3Rpdml0eSwgIkJVWSIsIFIuZHJhd2FibGUuaWNfY2FydF93aGl0ZV8yNGRwLCBQcm9kdWN0QWN0aW9uSG9sZGVyLkFDVElPTl9CVVkpKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>url</text>
+        <text>getPurchasable</text>
       </register>
       <register name="2" type="4">
-        <text>url</text>
+        <text>lock_white_24dp</text>
       </register>
       <register name="3" type="4">
-        <text>context, ShopcadeURLs.BASE_HTTPS + &quot;/&quot; + firstSegment, false</text>
+        <text>cart_white_24dp</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICYmIHNlZ21lbnRTaXplID09IDE=</text>
+        <text>cart_white_24dp</text>
       </register>
       <register name="5" type="4">
-        <text>GOODIES</text>
+        <text>LIKE</text>
       </register>
       <register name="6" type="4">
-        <text>goodies</text>
+        <text>BUY</text>
       </register>
       <register name="7" type="4">
-        <text>GOODIES</text>
+        <text>BUY</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtVG9vbGJhci5pc1RpdGxlVHJ1bmNhdGVkKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFNQRUNJQUxfTElTVFMuY29udGFpbnMobUxpc3RTZXJ2ZXJJZCkpIHsKICAgICAgICAgICAgICAgIG1QYWdlclRhYi5zZXRWaXNpYmlsaXR5KFZpZXcuR09ORSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
