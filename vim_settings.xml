@@ -50,6 +50,11 @@
         <mark key="]" line="214" column="0" />
         <mark key="." line="214" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" timestamp="1454081187745">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ListProductsListFragment.java" timestamp="1453991545115">
         <mark key="'" line="78" column="15" />
         <mark key="[" line="159" column="108" />
@@ -374,7 +379,7 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/DeviceUtils.java" timestamp="1454079507896">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/DeviceUtils.java" timestamp="1454080940631">
         <mark key="'" line="104" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/Presenter.java" timestamp="1453757110667">
@@ -528,11 +533,11 @@
         <mark key="^" line="48" column="46" />
         <mark key="." line="48" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_post_recycler.xml" timestamp="1453828782331">
-        <mark key="[" line="4" column="73" />
-        <mark key="]" line="4" column="82" />
-        <mark key="^" line="4" column="82" />
-        <mark key="." line="4" column="82" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_post_recycler.xml" timestamp="1454081053635">
+        <mark key="[" line="3" column="84" />
+        <mark key="]" line="4" column="76" />
+        <mark key="^" line="4" column="76" />
+        <mark key="." line="4" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1454070821998">
         <mark key="'" line="46" column="17" />
@@ -705,7 +710,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW49IkBkaW1lbi9zcGFjZV9sYXJnZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidW5kbGUgPSBBY3Rpdml0eU9wdGlvbnMubWFrZVNjZW5lVHJhbnNpdGlvbkFuaW1hdGlvbihhY3Rpdml0eSwgdmlldywgImhlcm8iKS50b0J1bmRsZSgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>GONE</text>
@@ -717,31 +722,31 @@
         <text>ContentLoadingProgressBar</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidW5kbGUgPSBBY3Rpdml0eU9wdGlvbnMubWFrZVNjZW5lVHJhbnNpdGlvbkFuaW1hdGlvbihhY3Rpdml0eSwgdmlldywgImhlcm8iKS50b0J1bmRsZSgpOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW49IkBkaW1lbi9zcGFjZV9sYXJnZSIK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>GONE</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>VISIBLE</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>padding</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci90d19fY29tcG9zZXJfcmVkIgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text />
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>:</text>
       </register>
-      <register name="8" type="4">
-        <text>tools</text>
-      </register>
       <register name="9" type="4">
-        <text>android</text>
+        <text>tools</text>
       </register>
     </registers>
     <search>
