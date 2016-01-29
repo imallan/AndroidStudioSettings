@@ -347,6 +347,12 @@
         <mark key="^" line="113" column="52" />
         <mark key="." line="113" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/PostsFragment.java" timestamp="1454084715812">
+        <mark key="[" line="69" column="87" />
+        <mark key="]" line="69" column="86" />
+        <mark key="^" line="69" column="86" />
+        <mark key="." line="69" column="86" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" timestamp="1453992065929">
         <mark key="'" line="223" column="26" />
         <mark key="[" line="123" column="0" />
@@ -387,6 +393,12 @@
         <mark key="]" line="6" column="15" />
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_posts.xml" timestamp="1454084731065">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/DBHelper.java" timestamp="1453378108102">
         <mark key="'" line="96" column="77" />
@@ -611,7 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/Griffin/app/build.gradle" />
       <jump line="64" column="36" filename="$USER_HOME$/Documents/GitHub/Griffin/app/src/main/java/com/imallan/griffin/ui/activity/LoginActivity.java" />
       <jump line="21" column="35" filename="$USER_HOME$/Documents/GitHub/Griffin/app/src/main/java/com/imallan/griffin/api/Oauth1SigningInterceptor.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
@@ -711,10 +722,11 @@
       <jump line="3753" column="31" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/provider/Settings.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_main_drawer.xml" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_post_recycler.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_posts.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidW5kbGUgPSBBY3Rpdml0eU9wdGlvbnMubWFrZVNjZW5lVHJhbnNpdGlvbkFuaW1hdGlvbihhY3Rpdml0eSwgdmlldywgImhlcm8iKS50b0J1bmRsZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>GONE</text>
@@ -726,31 +738,31 @@
         <text>ContentLoadingProgressBar</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidW5kbGUgPSBBY3Rpdml0eU9wdGlvbnMubWFrZVNjZW5lVHJhbnNpdGlvbkFuaW1hdGlvbihhY3Rpdml0eSwgdmlldywgImhlcm8iKS50b0J1bmRsZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW49IkBkaW1lbi9zcGFjZV9sYXJnZSIK</text>
+        <text encoding="base64">PC9hbmRyb2lkLnN1cHBvcnQuZGVzaWduLndpZGdldC5Db29yZGluYXRvckxheW91dD4K</text>
       </register>
-      <register name="3" type="4">
-        <text>GONE</text>
+      <register name="3" type="2">
+        <text encoding="base64">PGFuZHJvaWQK</text>
       </register>
       <register name="4" type="4">
-        <text>VISIBLE</text>
+        <text encoding="base64">LnN1cHBvcnQuZGVzaWduLndpZGdldC5Db29yZGluYXRvckxheW91dCAKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>padding</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci90d19fY29tcG9zZXJfcmVkIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidW5kbGUgPSBBY3Rpdml0eU9wdGlvbnMubWFrZVNjZW5lVHJhbnNpdGlvbkFuaW1hdGlvbihhY3Rpdml0eSwgdmlldywgImhlcm8iKS50b0J1bmRsZSgpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text />
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW49IkBkaW1lbi9zcGFjZV9sYXJnZSIK</text>
       </register>
       <register name="8" type="4">
-        <text>:</text>
+        <text>GONE</text>
       </register>
       <register name="9" type="4">
-        <text>tools</text>
+        <text>VISIBLE</text>
       </register>
     </registers>
     <search>
