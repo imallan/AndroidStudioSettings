@@ -587,11 +587,10 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/RemoteServiceImpl.java" timestamp="1454088606894">
-        <mark key="[" line="13" column="48" />
-        <mark key="]" line="14" column="3" />
-        <mark key="." line="14" column="3" />
-        <mark key="^" line="14" column="3" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/RemoteServiceImpl.java" timestamp="1454089875679">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/AndroidManifest.xml" timestamp="1453309581047">
         <mark key="[" line="16" column="19" />
@@ -739,8 +738,8 @@
       <jump line="103" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IE5vdGlmaWNhdGlvbi5CdWlsZGVyKHRoaXMpLnNldFRpY2tlcigpCg==</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
@@ -751,32 +750,32 @@
       <register name="0" type="4">
         <text>ContentLoadingProgressBar</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IE5vdGlmaWNhdGlvbi5CdWlsZGVyKHRoaXMpLnNldFRpY2tlcigpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTm90aWZpY2F0aW9uTWFuYWdlckNvbXBhdC5mcm9tKHRoaXMpLgo=</text>
+      </register>
+      <register name="3" type="4">
         <text>null</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>0</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBJQmluZGVyIGFzQmluZGVyKCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgZ2V0UGlkKCkgdGhyb3dzIFJlbW90ZUV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIFByb2Nlc3MubXlQaWQoKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGJhc2ljVHlwZXMoaW50IGFuSW50LCBsb25nIGFMb25nLCBib29sZWFuIGFCb29sZWFuLCBmbG9hdCBhRmxvYXQsIGRvdWJsZSBhRG91YmxlLCBTdHJpbmcgYVN0cmluZykgdGhyb3dzIFJlbW90ZUV4Y2VwdGlvbiB7CgogICAgfQ==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">aW1wbGVtZW50cyBJUmVtb3RlU2VydmljZSA=</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBJQmluZGVyIGFzQmluZGVyKCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgZ2V0UGlkKCkgdGhyb3dzIFJlbW90ZUV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIFByb2Nlc3MubXlQaWQoKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGJhc2ljVHlwZXMoaW50IGFuSW50LCBsb25nIGFMb25nLCBib29sZWFuIGFCb29sZWFuLCBmbG9hdCBhRmxvYXQsIGRvdWJsZSBhRG91YmxlLCBTdHJpbmcgYVN0cmluZykgdGhyb3dzIFJlbW90ZUV4Y2VwdGlvbiB7CgogICAgfQ==</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text encoding="base64">aW1wbGVtZW50cyBJUmVtb3RlU2VydmljZSA=</text>
       </register>
     </registers>
     <search>
