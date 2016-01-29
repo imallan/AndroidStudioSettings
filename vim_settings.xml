@@ -435,6 +435,12 @@
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/aidl/com/imallan/playground/IRemoteService.aidl" timestamp="1454088380615">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/provider/Settings.java" timestamp="1454079489828">
         <mark key="'" line="3753" column="31" />
       </file>
@@ -518,7 +524,7 @@
         <mark key="^" line="52" column="37" />
         <mark key="." line="52" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1454069360248">
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1454088397328">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -581,11 +587,20 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/RemoteServiceImpl.java" timestamp="1454088606894">
+        <mark key="[" line="13" column="48" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/AndroidManifest.xml" timestamp="1453309581047">
         <mark key="[" line="16" column="19" />
         <mark key="]" line="17" column="49" />
         <mark key="^" line="17" column="49" />
         <mark key="." line="17" column="49" />
+      </file>
+      <file name="/a.regexp" timestamp="1454088273903">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/VideoUtils.java" timestamp="1453893860882">
         <mark key="'" line="295" column="0" />
@@ -724,11 +739,11 @@
       <jump line="103" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>GONE</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -736,32 +751,32 @@
       <register name="0" type="4">
         <text>ContentLoadingProgressBar</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>null</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PC9hbmRyb2lkLnN1cHBvcnQuZGVzaWduLndpZGdldC5Db29yZGluYXRvckxheW91dD4K</text>
+      <register name="2" type="4">
+        <text>0</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGFuZHJvaWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LnN1cHBvcnQuZGVzaWduLndpZGdldC5Db29yZGluYXRvckxheW91dCAKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBJQmluZGVyIGFzQmluZGVyKCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidW5kbGUgPSBBY3Rpdml0eU9wdGlvbnMubWFrZVNjZW5lVHJhbnNpdGlvbkFuaW1hdGlvbihhY3Rpdml0eSwgdmlldywgImhlcm8iKS50b0J1bmRsZSgpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgZ2V0UGlkKCkgdGhyb3dzIFJlbW90ZUV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIFByb2Nlc3MubXlQaWQoKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGJhc2ljVHlwZXMoaW50IGFuSW50LCBsb25nIGFMb25nLCBib29sZWFuIGFCb29sZWFuLCBmbG9hdCBhRmxvYXQsIGRvdWJsZSBhRG91YmxlLCBTdHJpbmcgYVN0cmluZykgdGhyb3dzIFJlbW90ZUV4Y2VwdGlvbiB7CgogICAgfQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW49IkBkaW1lbi9zcGFjZV9sYXJnZSIK</text>
+      <register name="7" type="4">
+        <text encoding="base64">aW1wbGVtZW50cyBJUmVtb3RlU2VydmljZSA=</text>
       </register>
       <register name="8" type="4">
-        <text>GONE</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>VISIBLE</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
