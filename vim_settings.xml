@@ -202,7 +202,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/api/Oauth1SigningInterceptor.java" timestamp="1454171509085" />
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MyFragment.java" timestamp="1453396592261">
         <mark key="'" line="15" column="3" />
         <mark key="[" line="39" column="31" />
@@ -222,6 +221,11 @@
         <mark key="]" line="17" column="49" />
         <mark key="^" line="17" column="49" />
         <mark key="." line="17" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/MainActivity.java" timestamp="1454171802146">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/drawable/ic_plus_pink_16dp.xml" timestamp="1453814170282">
         <mark key="[" line="2" column="24" />
@@ -506,6 +510,7 @@
         <mark key="^" line="47" column="35" />
         <mark key="." line="47" column="35" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/23.1.1/appcompat-v7-23.1.1-sources.jar!/android/support/v7/widget/Toolbar.java" timestamp="1454172300087" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/provider/Settings.java" timestamp="1454079489828">
         <mark key="'" line="3753" column="31" />
       </file>
@@ -521,6 +526,11 @@
         <mark key="]" line="3" column="40" />
         <mark key="^" line="3" column="40" />
         <mark key="." line="3" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/BaseActivity.java" timestamp="1454171888464">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProductLikersActivity.java" timestamp="1453380900835">
         <mark key="[" line="34" column="0" />
@@ -726,7 +736,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>GONE</text>
@@ -738,31 +748,31 @@
         <text>ContentLoadingProgressBar</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC9hbmRyb2lkLnN1cHBvcnQuZGVzaWduLndpZGdldC5Db29yZGluYXRvckxheW91dD4K</text>
+        <text encoding="base64">ICAgIEFjdGlvbmJhcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGFuZHJvaWQK</text>
+        <text encoding="base64">ICAgICAgICBUb29sYmFyCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LnN1cHBvcnQuZGVzaWduLndpZGdldC5Db29yZGluYXRvckxheW91dCAKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBUb29sYmFyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidW5kbGUgPSBBY3Rpdml0eU9wdGlvbnMubWFrZVNjZW5lVHJhbnNpdGlvbkFuaW1hdGlvbihhY3Rpdml0eSwgdmlldywgImhlcm8iKS50b0J1bmRsZSgpOwo=</text>
+        <text encoding="base64">PC9hbmRyb2lkLnN1cHBvcnQuZGVzaWduLndpZGdldC5Db29yZGluYXRvckxheW91dD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW49IkBkaW1lbi9zcGFjZV9sYXJnZSIK</text>
+        <text encoding="base64">PGFuZHJvaWQK</text>
       </register>
       <register name="8" type="4">
-        <text>GONE</text>
+        <text encoding="base64">LnN1cHBvcnQuZGVzaWduLndpZGdldC5Db29yZGluYXRvckxheW91dCAKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>VISIBLE</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIK</text>
       </register>
     </registers>
     <search>
