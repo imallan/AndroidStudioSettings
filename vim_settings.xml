@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/layout/activity_main.xml" timestamp="1454178056400">
-        <mark key="[" line="7" column="47" />
-        <mark key="]" line="7" column="47" />
-        <mark key="." line="7" column="47" />
-        <mark key="^" line="7" column="47" />
+      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/layout/activity_main.xml" timestamp="1454246788310">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="1" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/values/styles.xml" timestamp="1454176103830">
         <mark key="[" line="3" column="57" />
@@ -27,6 +27,7 @@
         <mark key="^" line="306" column="23" />
         <mark key="." line="306" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/PresenterHolder.java" timestamp="1454245668929" />
       <file name="/a.dummy" timestamp="1454238204906">
         <mark key="[" line="0" column="0" />
       </file>
@@ -36,11 +37,11 @@
         <mark key="^" line="10" column="21" />
         <mark key="." line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/presenters/MyPresenter.java" timestamp="1454179344224">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
-        <mark key="^" line="14" column="16" />
+      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/presenters/MyPresenter.java" timestamp="1454246020406">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" timestamp="1454081187745">
         <mark key="[" line="154" column="0" />
@@ -132,12 +133,11 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/activities/MainActivity.java" timestamp="1454180246628">
-        <mark key="'" line="15" column="31" />
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="27" />
-        <mark key="." line="19" column="27" />
-        <mark key="^" line="19" column="27" />
+      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/activities/MainActivity.java" timestamp="1454246777002">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="10" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SettingsActivity.java" timestamp="1453976182670">
         <mark key="[" line="16" column="38" />
@@ -169,11 +169,10 @@
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/activities/SecondaryActivity.java" timestamp="1454176838200">
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="11" column="38" />
-        <mark key="^" line="11" column="38" />
-        <mark key="." line="11" column="38" />
+      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/activities/SecondaryActivity.java" timestamp="1454243266043">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/presenters/Presenter.java" timestamp="1454174946423">
         <mark key="[" line="6" column="0" />
@@ -217,17 +216,23 @@
         <mark key="^" line="182" column="87" />
         <mark key="." line="182" column="87" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/PresenterHolder.java" timestamp="1454244958934">
+        <mark key="[" line="37" column="19" />
+        <mark key="]" line="37" column="18" />
+        <mark key="." line="37" column="18" />
+        <mark key="^" line="37" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/fabric.properties" timestamp="1453755776597">
         <mark key="[" line="0" column="44" />
         <mark key="]" line="1" column="71" />
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/models/MyModelImpl.java" timestamp="1454180738882">
-        <mark key="[" line="29" column="10" />
-        <mark key="]" line="29" column="10" />
-        <mark key="." line="29" column="10" />
-        <mark key="^" line="29" column="10" />
+      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/models/MyModelImpl.java" timestamp="1454246925938">
+        <mark key="[" line="22" column="52" />
+        <mark key="]" line="22" column="53" />
+        <mark key="." line="22" column="53" />
+        <mark key="^" line="24" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/ui/ScreenContainerImpl.java" timestamp="1453742971959">
         <mark key="[" line="44" column="5" />
@@ -256,7 +261,7 @@
         <mark key="^" line="198" column="54" />
         <mark key="." line="198" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" timestamp="1454177850221">
+      <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" timestamp="1454245709425">
         <mark key="'" line="51" column="35" />
         <mark key="[" line="31" column="4" />
         <mark key="]" line="31" column="4" />
@@ -344,7 +349,7 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1454238204866">
+      <file name="/Dummy.txt" timestamp="1454248042132">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/models/MyModelImpl.java" timestamp="1453765485222">
@@ -375,11 +380,19 @@
         <mark key="^" line="48" column="38" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/presenters/MyPresenterImpl.java" timestamp="1454180748377">
-        <mark key="[" line="39" column="59" />
-        <mark key="]" line="39" column="57" />
-        <mark key="." line="39" column="57" />
-        <mark key="^" line="39" column="57" />
+      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/presenters/MyPresenterImpl.java" timestamp="1454245901584">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="59" column="9" />
+        <mark key="]" line="60" column="30" />
+        <mark key="." line="60" column="30" />
+        <mark key="^" line="60" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/customviews/TimelineView.java" timestamp="1454248349243">
+        <mark key="'" line="75" column="4" />
+        <mark key="[" line="42" column="72" />
+        <mark key="]" line="43" column="15" />
+        <mark key="." line="43" column="15" />
+        <mark key="^" line="43" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ShoppingOrderFragment.java" timestamp="1453913967864">
         <mark key="[" line="139" column="103" />
@@ -435,17 +448,23 @@
         <mark key="^" line="11" column="46" />
         <mark key="." line="11" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/layout/recycler_timeline.xml" timestamp="1454248312816">
+        <mark key="[" line="4" column="76" />
+        <mark key="]" line="4" column="76" />
+        <mark key="^" line="4" column="76" />
+        <mark key="." line="4" column="76" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/layout_side_navigation.xml" timestamp="1453976021524">
         <mark key="[" line="113" column="46" />
         <mark key="]" line="113" column="52" />
         <mark key="^" line="113" column="52" />
         <mark key="." line="113" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/AndroidManifest.xml" timestamp="1454176922329">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="17" column="66" />
-        <mark key="^" line="17" column="66" />
-        <mark key="." line="17" column="66" />
+      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/AndroidManifest.xml" timestamp="1454245637497">
+        <mark key="[" line="11" column="54" />
+        <mark key="]" line="11" column="54" />
+        <mark key="." line="11" column="54" />
+        <mark key="^" line="11" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/activities/BaseActivity.java" timestamp="1454177219588">
         <mark key="[" line="28" column="56" />
@@ -470,10 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="30" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
-      <jump line="56" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProfileListFragment.java" />
-      <jump line="352" column="15" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/ListService.java" />
       <jump line="377" column="59" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/ListService.java" />
       <jump line="114" column="39" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProfileListFragment.java" />
       <jump line="117" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ListRecyclerAdapter.java" />
@@ -570,48 +585,50 @@
       <jump line="20" column="31" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/activities/MainActivity.java" />
       <jump line="24" column="4" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/adatpers/MyDataAdapter.java" />
       <jump line="39" column="40" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/adatpers/MyDataAdapter.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/presenters/MyPresenterImpl.java" />
+      <jump line="48" column="22" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/activities/MainActivity.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/customviews/TimelineView.java" />
+      <jump line="77" column="4" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/customviews/TimelineView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.subscribeOn(Schedulers.io())
-                .observeOn(AndroidSchedulers.mainThread());</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG1SZWN5Y2xlclZpZXcgPSBuZXcgUmVjeWNsZXJWaWV3KGdldENvbnRleHQoKSk7Ci8vICAgICAgICB0aGlzLmFkZFZpZXcobVJlY3ljbGVyVmlldywgTGF5b3V0UGFyYW1zLk1BVENIX1BBUkVOVCwgTGF5b3V0UGFyYW1zLk1BVENIX1BBUkVOVCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>i</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFByZXNlbnRlckhvbGRlci5nZXRJbnN0YW5jZSgpLnJlbW92ZVByZXNlbnRlcihUaW1lbGluZVZpZXcuY2xhc3MpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>.subscribeOn(Schedulers.io())
-                .observeOn(AndroidSchedulers.mainThread());</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG1SZWN5Y2xlclZpZXcgPSBuZXcgUmVjeWNsZXJWaWV3KGdldENvbnRleHQoKSk7Ci8vICAgICAgICB0aGlzLmFkZFZpZXcobVJlY3ljbGVyVmlldywgTGF5b3V0UGFyYW1zLk1BVENIX1BBUkVOVCwgTGF5b3V0UGFyYW1zLk1BVENIX1BBUkVOVCk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmxlPExpc3Q8U3RyaW5nPj4gb2JzZXJ2YWJsZTEgPSBvYnNlcnZhYmxlCg==</text>
+      <register name="3" type="4">
+        <text>this</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>.</text>
+      <register name="5" type="2">
+        <text encoding="base64">PC9hbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LlJlY3ljbGVyVmlldz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCiAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy52KCJNWU1PREVMIiwgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS50b1N0cmluZygpKTsK</text>
+      <register name="7" type="4">
+        <text>LinearLayout</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy52KCJNWU1PREVMIiwgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgzMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICBtUmVjeWNsZXJWaWV3LnNldElkKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCiAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSkK</text>
+        <text encoding="base64">ICAgICAgICBzYXZlSW4K</text>
       </register>
     </registers>
     <search>
