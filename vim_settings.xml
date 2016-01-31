@@ -425,11 +425,11 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/AIDLService.java" timestamp="1454279476471">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/AIDLService.java" timestamp="1454283143110">
+        <mark key="[" line="21" column="75" />
+        <mark key="]" line="21" column="74" />
+        <mark key="." line="21" column="74" />
+        <mark key="^" line="21" column="74" />
       </file>
       <file name="/Dummy.txt" timestamp="1454278005177">
         <mark key="[" line="0" column="0" />
@@ -450,11 +450,12 @@
         <mark key="." line="60" column="30" />
         <mark key="^" line="60" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/AIDLActivity.java" timestamp="1454280565300">
+      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/AIDLActivity.java" timestamp="1454283073950">
         <mark key="h" line="57" column="26" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+        <mark key="[" line="29" column="45" />
+        <mark key="]" line="29" column="44" />
+        <mark key="." line="29" column="44" />
+        <mark key="^" line="29" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ShoppingOrderFragment.java" timestamp="1453913967864">
         <mark key="[" line="139" column="103" />
@@ -630,10 +631,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG5ldyBJUmVtb3RlU2VydmljZSgpLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>asInterface</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -642,31 +643,31 @@
         <text>showBook</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIG5ldyBJUmVtb3RlU2VydmljZSgpLgo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>asInterface</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAxMQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>)</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKFRBRywgInNob3dCb29rOiAiLCApOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>showPid</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoQUlETEFjdGl2aXR5LnRoaXMsICIiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
-      </register>
-      <register name="8" type="4">
-        <text>PID</text>
-      </register>
-      <register name="9" type="4">
-        <text>pid</text>
       </register>
     </registers>
     <search>
