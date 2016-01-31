@@ -12,6 +12,12 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/res/layout/activity_aidl.xml" timestamp="1454279504680">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="25" />
+        <mark key="^" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostRecyclerAdapter.java" timestamp="1454072193164">
         <mark key="[" line="111" column="56" />
         <mark key="]" line="111" column="62" />
@@ -85,6 +91,12 @@
         <mark key="]" line="20" column="26" />
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/aidl/com/imallan/aidlexample/Book.aidl" timestamp="1454279356161">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/WebViewActivity.java" timestamp="1453995425658">
         <mark key="[" line="182" column="72" />
@@ -230,6 +242,12 @@
         <mark key="]" line="260" column="34" />
         <mark key="^" line="260" column="34" />
         <mark key="." line="260" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/Book.java" timestamp="1454279047843">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/menu/notifications.xml" timestamp="1453976048907">
         <mark key="[" line="7" column="37" />
@@ -381,12 +399,12 @@
         <mark key="^" line="22" column="64" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/AndroidManifest.xml" timestamp="1454275608633">
+      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/AndroidManifest.xml" timestamp="1454279194762">
         <mark key="'" line="10" column="56" />
-        <mark key="[" line="24" column="29" />
-        <mark key="]" line="24" column="38" />
-        <mark key="^" line="24" column="38" />
-        <mark key="." line="24" column="38" />
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="26" column="35" />
+        <mark key="^" line="26" column="35" />
+        <mark key="." line="26" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_shopping_basket.xml" timestamp="1453814453562">
         <mark key="[" line="10" column="44" />
@@ -407,7 +425,13 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1454274023223">
+      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/AIDLService.java" timestamp="1454279476471">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1454278005177">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/models/MyModelImpl.java" timestamp="1453765485222">
@@ -425,6 +449,13 @@
         <mark key="]" line="60" column="30" />
         <mark key="." line="60" column="30" />
         <mark key="^" line="60" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/AIDLActivity.java" timestamp="1454279600064">
+        <mark key="h" line="57" column="26" />
+        <mark key="[" line="69" column="16" />
+        <mark key="]" line="69" column="16" />
+        <mark key="." line="69" column="93" />
+        <mark key="^" line="69" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ShoppingOrderFragment.java" timestamp="1453913967864">
         <mark key="[" line="139" column="103" />
@@ -485,6 +516,12 @@
         <mark key="]" line="14" column="37" />
         <mark key="." line="14" column="37" />
         <mark key="^" line="14" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/aidl/com/imallan/aidlexample/IRemoteService.aidl" timestamp="1454279378711">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="35" />
+        <mark key="." line="5" column="31" />
       </file>
       <file name="/fragment.java" timestamp="1454276053335">
         <mark key="[" line="0" column="0" />
@@ -594,43 +631,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>text</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text>BUNDLE_TEXT</text>
+        <text>showBook</text>
       </register>
       <register name="1" type="4">
-        <text>text</text>
+        <text>)</text>
       </register>
-      <register name="2" type="4">
-        <text>ParcelableText</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>private</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKFRBRywgInNob3dCb29rOiAiLCApOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>new ParcelableText(&quot;Hello&quot;);</text>
+        <text>showPid</text>
       </register>
-      <register name="5" type="4">
-        <text>new Text(&quot;Hello&quot;);</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoQUlETEFjdGl2aXR5LnRoaXMsICIiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>PID</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGNsYXNzIFRleHQgaW1wbGVtZW50cyBQYXJjZWxhYmxlIHsKCiAgICAgICAgcHVibGljIFN0cmluZyB0ZXh0OwoKICAgICAgICBwdWJsaWMgVGV4dChTdHJpbmcgdGV4dCkgewogICAgICAgICAgICB0aGlzLnRleHQgPSB0ZXh0OwogICAgICAgIH0KCiAgICAgICAgcHJvdGVjdGVkIFRleHQoUGFyY2VsIGluKSB7CiAgICAgICAgICAgIHRleHQgPSBpbi5yZWFkU3RyaW5nKCk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RhdGljIGZpbmFsIENyZWF0b3I8VGV4dD4gQ1JFQVRPUiA9IG5ldyBDcmVhdG9yPFRleHQ+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIFRleHQgY3JlYXRlRnJvbVBhcmNlbChQYXJjZWwgaW4pIHsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgVGV4dChpbik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgVGV4dFtdIG5ld0FycmF5KGludCBzaXplKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbmV3IFRleHRbc2l6ZV07CiAgICAgICAgICAgIH0KICAgICAgICB9OwoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgaW50IGRlc2NyaWJlQ29udGVudHMoKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgd3JpdGVUb1BhcmNlbChQYXJjZWwgZGVzdCwgaW50IGZsYWdzKSB7CiAgICAgICAgICAgIGRlc3Qud3JpdGVTdHJpbmcodGV4dCk7CiAgICAgICAgfQogICAgfQ==</text>
+        <text>pid</text>
       </register>
       <register name="8" type="4">
-        <text>String</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
