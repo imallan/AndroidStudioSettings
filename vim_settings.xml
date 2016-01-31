@@ -217,6 +217,7 @@
         <mark key="^" line="182" column="87" />
         <mark key="." line="182" column="87" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/presenter/DisplayMediaPresenter.java" timestamp="1454255658187" />
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/PresenterHolder.java" timestamp="1454244958934">
         <mark key="[" line="37" column="19" />
         <mark key="]" line="37" column="18" />
@@ -377,19 +378,18 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/presenters/MyPresenterImpl.java" timestamp="1454245901584">
+      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/presenters/MyPresenterImpl.java" timestamp="1454255516075">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="59" column="9" />
         <mark key="]" line="60" column="30" />
         <mark key="." line="60" column="30" />
         <mark key="^" line="60" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/customviews/TimelineView.java" timestamp="1454255076939">
-        <mark key="'" line="64" column="4" />
-        <mark key="[" line="56" column="35" />
-        <mark key="]" line="57" column="37" />
-        <mark key="." line="57" column="37" />
-        <mark key="^" line="57" column="37" />
+      <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/customviews/TimelineView.java" timestamp="1454255341606">
+        <mark key="'" line="69" column="12" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ShoppingOrderFragment.java" timestamp="1453913967864">
         <mark key="[" line="139" column="103" />
@@ -486,7 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ListRecyclerAdapter.java" />
       <jump line="79" column="3" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" />
       <jump line="258" column="42" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" />
       <jump line="66" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" />
@@ -586,10 +585,11 @@
       <jump line="77" column="4" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/customviews/TimelineView.java" />
       <jump line="89" column="6" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/customviews/TimelineView.java" />
       <jump line="61" column="4" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/customviews/TimelineView.java" />
+      <jump line="69" column="12" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/customviews/TimelineView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiVGltZWxpbmVWaWV3IjsK</text>
       </register>
       <register name="-" type="4">
         <text>center</text>
@@ -601,31 +601,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFByZXNlbnRlckhvbGRlci5nZXRJbnN0YW5jZSgpLnJlbW92ZVByZXNlbnRlcihUaW1lbGluZVZpZXcuY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiVGltZWxpbmVWaWV3IjsK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>center</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVzZW50ZXJIb2xkZXIuZ2V0SW5zdGFuY2UoKS5yZW1vdmVQcmVzZW50ZXIoVGltZWxpbmVWaWV3LmNsYXNzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcmVzZW50ZXJIb2xkZXIuZ2V0SW5zdGFuY2UoKS5yZW1vdmVQcmVzZW50ZXIoVGltZWxpbmVWaWV3LmNsYXNzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVzZW50ZXJIb2xkZXIuZ2V0SW5zdGFuY2UoKS5wdXRQcmVzZW50ZXIoVGltZWxpbmVWaWV3LmNsYXNzLCBtUHJlc2VudGVyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBQcmVzZW50ZXJIb2xkZXIuZ2V0SW5zdGFuY2UoKS5wdXRQcmVzZW50ZXIoVGltZWxpbmVWaWV3LmNsYXNzLCBtUHJlc2VudGVyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBQcmVzZW50ZXJIb2xkZXIuZ2V0SW5zdGFuY2UoKS5wdXRQcmVzZW50ZXIoVGltZWxpbmVWaWV3LmNsYXNzLCBtUHJlc2VudGVyKTsK</text>
       </register>
     </registers>
     <search>
