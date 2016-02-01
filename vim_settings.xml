@@ -442,6 +442,9 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImagePinchZoomActivity.java" timestamp="1454343191653">
+        <mark key="'" line="103" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/models/MyModelImpl.java" timestamp="1453765485222">
         <mark key="[" line="18" column="46" />
         <mark key="]" line="19" column="35" />
@@ -642,11 +645,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostImageViewPagerAdapter.java" timestamp="1454342555630">
-        <mark key="[" line="53" column="32" />
-        <mark key="]" line="53" column="41" />
-        <mark key="^" line="53" column="41" />
-        <mark key="." line="53" column="41" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostImageViewPagerAdapter.java" timestamp="1454343448842">
+        <mark key="[" line="70" column="28" />
+        <mark key="]" line="70" column="34" />
+        <mark key="^" line="70" column="34" />
+        <mark key="." line="70" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/layout/activity_main.xml" timestamp="1454255030595">
         <mark key="[" line="1" column="51" />
@@ -689,12 +692,12 @@
         <mark key="^" line="4" column="76" />
         <mark key="." line="4" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1454333245010">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1454343017244">
         <mark key="'" line="84" column="34" />
-        <mark key="[" line="144" column="45" />
-        <mark key="]" line="144" column="46" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
         <mark key="^" line="144" column="46" />
-        <mark key="." line="144" column="46" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/aidl/com/imallan/playground/User.aidl" timestamp="1454336947016">
         <mark key="[" line="2" column="11" />
@@ -785,7 +788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="12" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
       <jump line="35" column="15" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
       <jump line="46" column="12" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
       <jump line="33" column="12" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
@@ -885,13 +887,14 @@
       <jump line="341" column="38" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.allan1st.stetho/stetho/v1.3.3/a4f4327c606d5dbfd715c26a88b17d36e6cc1ac1/stetho-v1.3.3-sources.jar!/com/facebook/stetho/Stetho.java" />
       <jump line="199" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.allan1st.stetho/stetho/v1.3.3/a4f4327c606d5dbfd715c26a88b17d36e6cc1ac1/stetho-v1.3.3-sources.jar!/com/facebook/stetho/Stetho.java" />
       <jump line="105" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/PostCardViewHolder.java" />
+      <jump line="103" column="39" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImagePinchZoomActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>viewHolder.mDraweeController</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5zcXVhcmV1cC5waWNhc3NvOnBpY2Fzc286Mi41LjInCg==</text>
       </register>
       <register name="-" type="4">
-        <text>viewHolder.mDraweeController</text>
+        <text>stringExtra</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -904,23 +907,23 @@
                 .build();
         mImagePost.setController(mDraweeController);</text>
       </register>
-      <register name="1" type="4">
-        <text>viewHolder.mDraweeController</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5zcXVhcmV1cC5waWNhc3NvOnBpY2Fzc286Mi41LjInCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>getImageView()</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBJCg==</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>stringExtra</text>
       </register>
       <register name="4" type="4">
-        <text>viewHolder</text>
+        <text>getIntent().getStringExtra(EXTRA_IMAGE_URL)</text>
       </register>
       <register name="5" type="4">
-        <text>controller</text>
+        <text>viewHolder.mDraweeController</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ID0gbURyYXdlZUNvbnRyb2xsZXI7</text>
+        <text>getImageView()</text>
       </register>
       <register name="7" type="4">
         <text>.</text>
@@ -928,8 +931,8 @@
       <register name="8" type="4">
         <text>viewHolder</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmxvd3JlCg==</text>
+      <register name="9" type="4">
+        <text>controller</text>
       </register>
     </registers>
     <search>
