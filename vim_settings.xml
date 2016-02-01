@@ -22,7 +22,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1454333844639">
+      <file name="/a.dummy" timestamp="1454346831921">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" timestamp="1453381622142">
@@ -77,6 +77,7 @@
         <mark key="^" line="11" column="46" />
         <mark key="." line="11" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/TransformGestureDetector.java" timestamp="1454345170884" />
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/FloatingService.java" timestamp="1454060741892">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="35" column="14" />
@@ -146,6 +147,12 @@
         <mark key="^" line="14" column="37" />
         <mark key="." line="14" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_image_drawee.xml" timestamp="1454345881358">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/res/layout/activity_base.xml" timestamp="1453755236977">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="12" column="41" />
@@ -200,6 +207,9 @@
         <mark key="^" line="3" column="40" />
         <mark key="." line="3" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/DefaultZoomableController.java" timestamp="1454345206231">
+        <mark key="'" line="519" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/PresenterHolder.java" timestamp="1453763262494">
         <mark key="'" line="33" column="4" />
         <mark key="[" line="20" column="4" />
@@ -236,9 +246,6 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="22" column="64" />
         <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/stetho/stetho/build.gradle" timestamp="1454329424204">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MyFragment.java" timestamp="1453396592261">
         <mark key="'" line="15" column="3" />
@@ -278,9 +285,6 @@
         <mark key="^" line="260" column="34" />
         <mark key="." line="260" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/StartActivity.java" timestamp="1454326855524">
-        <mark key="'" line="59" column="49" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/models/ScreenContainerModelImpl.java" timestamp="1453741130018">
         <mark key="[" line="13" column="71" />
         <mark key="]" line="13" column="70" />
@@ -312,12 +316,12 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" timestamp="1454326792027">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" timestamp="1454345822071">
         <mark key="'" line="62" column="26" />
-        <mark key="[" line="269" column="39" />
-        <mark key="]" line="269" column="54" />
-        <mark key="^" line="269" column="54" />
-        <mark key="." line="269" column="54" />
+        <mark key="[" line="293" column="51" />
+        <mark key="]" line="293" column="69" />
+        <mark key="." line="293" column="69" />
+        <mark key="^" line="293" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/models/MyModelImpl.java" timestamp="1454246925938">
         <mark key="[" line="22" column="52" />
@@ -442,8 +446,11 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImagePinchZoomActivity.java" timestamp="1454343191653">
-        <mark key="'" line="103" column="39" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImagePinchZoomActivity.java" timestamp="1454346271708">
+        <mark key="[" line="60" column="44" />
+        <mark key="]" line="60" column="48" />
+        <mark key="^" line="60" column="48" />
+        <mark key="." line="60" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/models/MyModelImpl.java" timestamp="1453765485222">
         <mark key="[" line="18" column="46" />
@@ -469,9 +476,6 @@
         <mark key="]" line="97" column="0" />
         <mark key="^" line="96" column="95" />
         <mark key="." line="97" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.allan1st.stetho/stetho/v1.3.3/a4f4327c606d5dbfd715c26a88b17d36e6cc1ac1/stetho-v1.3.3-sources.jar!/com/facebook/stetho/Stetho.java" timestamp="1454331304677">
-        <mark key="'" line="199" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/values/styles.xml" timestamp="1453744270578">
         <mark key="[" line="3" column="57" />
@@ -512,6 +516,13 @@
         <mark key="]" line="8" column="36" />
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImageDraweeActivity.java" timestamp="1454346290864">
+        <mark key="'" line="37" column="25" />
+        <mark key="[" line="51" column="44" />
+        <mark key="]" line="51" column="44" />
+        <mark key="^" line="37" column="26" />
+        <mark key="." line="51" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/layout/recycler_timeline.xml" timestamp="1454248312816">
         <mark key="[" line="4" column="76" />
@@ -645,11 +656,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostImageViewPagerAdapter.java" timestamp="1454343448842">
-        <mark key="[" line="70" column="28" />
-        <mark key="]" line="70" column="34" />
-        <mark key="^" line="70" column="34" />
-        <mark key="." line="70" column="34" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostImageViewPagerAdapter.java" timestamp="1454346279333">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="84" />
+        <mark key="^" line="65" column="68" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/layout/activity_main.xml" timestamp="1454255030595">
         <mark key="[" line="1" column="51" />
@@ -739,8 +750,11 @@
       <file name="/a.regexp" timestamp="1454088273903">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/VideoUtils.java" timestamp="1454343604487">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/VideoUtils.java" timestamp="1454343871015">
         <mark key="'" line="33" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/ui/activities/BaseActivity.java" timestamp="1453760869287">
         <mark key="[" line="24" column="68" />
@@ -786,19 +800,11 @@
         <mark key="^" line="13" column="40" />
         <mark key="." line="13" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1454276053335">
+      <file name="/fragment.java" timestamp="1454345173774">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="12" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
-      <jump line="33" column="12" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
-      <jump line="70" column="0" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
-      <jump line="53" column="35" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
-      <jump line="288" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/ShoppingBasketProductViewHolder.java" />
-      <jump line="141" column="38" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
-      <jump line="72" column="45" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/header_post.xml" />
       <jump line="408" column="10" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/CreatePostActivity.java" />
       <jump line="99" column="35" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="190" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" />
@@ -891,51 +897,54 @@
       <jump line="105" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/PostCardViewHolder.java" />
       <jump line="103" column="39" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImagePinchZoomActivity.java" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/VideoUtils.java" />
+      <jump line="83" column="29" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImagePinchZoomActivity.java" />
+      <jump line="130" column="21" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImagePinchZoomActivity.java" />
+      <jump line="23" column="5" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/DefaultZoomableController.java" />
+      <jump line="485" column="1" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/DefaultZoomableController.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImagePinchZoomActivity.java" />
+      <jump line="117" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImageDraweeActivity.java" />
+      <jump line="72" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImageDraweeActivity.java" />
+      <jump line="37" column="25" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImageDraweeActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5zcXVhcmV1cC5waWNhc3NvOnBpY2Fzc286Mi41LjInCg==</text>
+      <register name="&quot;" type="4">
+        <text>ImagePinchZoomActivity</text>
       </register>
       <register name="-" type="4">
-        <text>stringExtra</text>
+        <text>ImagePinchZoomActivity</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>mDraweeController = Fresco.newDraweeControllerBuilder()
-                .setUri(
-                        Uri.parse(ImagesUtils.requestImage(post.getPoster()))
-                ).setAutoPlayAnimations(true)
-                .build();
-        mImagePost.setController(mDraweeController);</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJjb20uc2hvcGNhZGUudWkuYWN0aXZpdHkuSW1hZ2VQaW5jaFpvb21BY3Rpdml0eSIKICAgICAgICAgICAgYW5kcm9pZDpjb25maWdDaGFuZ2VzPSJrZXlib2FyZHxvcmllbnRhdGlvbnxzY3JlZW5TaXplIgogICAgICAgICAgICBhbmRyb2lkOnRoZW1lPSJAc3R5bGUvVGhlbWUuU2hvcGNhZGUuVG9vbGJhci5UcmFuc3BhcmVudCIvPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5zcXVhcmV1cC5waWNhc3NvOnBpY2Fzc286Mi41LjInCg==</text>
+      <register name="1" type="4">
+        <text>ImagePinchZoomActivity</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW1hZ2VQaW5jaFpvb21BY3Rpdml0eS5zdGFydEFjdGl2aXR5KG1Db250ZXh0LCBpbWFnZVVSTCwgdik7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>stringExtra</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW1hZ2VEcmF3ZWVBY3Rpdml0eS5zdGFydEFjdGl2aXR5KG1Db250ZXh0LCBpbWFnZVVSTCwgdik7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>getIntent().getStringExtra(EXTRA_IMAGE_URL)</text>
+        <text>ImagePinchZoomActivity</text>
       </register>
       <register name="5" type="4">
-        <text>viewHolder.mDraweeController</text>
+        <text>!</text>
       </register>
-      <register name="6" type="4">
-        <text>getImageView()</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW1hZ2VQaW5jaFpvb21BY3Rpdml0eS5zdGFydEFjdGl2aXR5KG1Db250ZXh0LCBpbWFnZVVSTCwgdik7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>viewHolder</text>
+        <text>pinch_zoom</text>
       </register>
       <register name="9" type="4">
-        <text>controller</text>
+        <text>pinch_zoom</text>
       </register>
     </registers>
     <search>
