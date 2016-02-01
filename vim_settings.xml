@@ -26,7 +26,7 @@
         <mark key="'" line="318" column="7" />
         <mark key="[" line="274" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1454328787221">
+      <file name="/a.dummy" timestamp="1454329912964">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" timestamp="1453381622142">
@@ -67,12 +67,12 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/stetho/stetho/src/main/java/com/facebook/stetho/Stetho.java" timestamp="1454329255026">
+      <file name="$USER_HOME$/Documents/GitHub/stetho/stetho/src/main/java/com/facebook/stetho/Stetho.java" timestamp="1454329907339">
         <mark key="'" line="201" column="0" />
         <mark key="[" line="126" column="66" />
-        <mark key="]" line="126" column="106" />
-        <mark key="^" line="126" column="106" />
-        <mark key="." line="126" column="106" />
+        <mark key="]" line="126" column="66" />
+        <mark key="^" line="125" column="75" />
+        <mark key="." line="126" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ListProductsListFragment.java" timestamp="1453991545115">
         <mark key="'" line="78" column="15" />
@@ -259,6 +259,9 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="22" column="64" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/stetho/stetho/build.gradle" timestamp="1454329424204">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MyFragment.java" timestamp="1453396592261">
         <mark key="'" line="15" column="3" />
@@ -468,6 +471,7 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.allan1st.stetho/stetho/v1.3.2/4432958f05712f08b20d9894c1ba0f890c51b9e3/stetho-v1.3.2-sources.jar!/com/facebook/stetho/Stetho.java" timestamp="1454329890635" />
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/models/MyModelImpl.java" timestamp="1453765485222">
         <mark key="[" line="18" column="46" />
         <mark key="]" line="19" column="35" />
@@ -702,7 +706,7 @@
         <mark key="^" line="4" column="76" />
         <mark key="." line="4" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1454328866789">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1454329643019">
         <mark key="'" line="84" column="34" />
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
@@ -715,6 +719,9 @@
         <mark key="]" line="303" column="51" />
         <mark key="^" line="303" column="51" />
         <mark key="." line="303" column="51" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1454329912954">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
@@ -792,7 +799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="4" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/PresenterHolder.java" />
       <jump line="28" column="3" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/MainActivity.java" />
       <jump line="31" column="21" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
@@ -892,13 +898,14 @@
       <jump line="522" column="0" filename="$USER_HOME$/Documents/GitHub/stetho/stetho/src/main/java/com/facebook/stetho/Stetho.java" />
       <jump line="116" column="0" filename="$USER_HOME$/Documents/GitHub/stetho/stetho/src/main/java/com/facebook/stetho/Stetho.java" />
       <jump line="201" column="0" filename="$USER_HOME$/Documents/GitHub/stetho/stetho/src/main/java/com/facebook/stetho/Stetho.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/stetho/stetho/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5mYWNlYm9vay5zdGV0aG86c3RldGhvOjEuMy4wJwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -906,32 +913,32 @@
       <register name="0" type="4">
         <text>showBook</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5mYWNlYm9vay5zdGV0aG86c3RldGhvOjEuMy4wJwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>true</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="3" type="4">
-        <text>false</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="4" type="4">
-        <text>mInspectorModules</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>mInspectorModules</text>
+        <text>initializer.getViewInspectorEnabled()</text>
       </register>
-      <register name="6" type="4">
-        <text>false</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuYWxsYW4xc3Q6c3RldGhvOnYxLjMuMicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5mYWNlYm9vay5zdGV0aG86c3RldGhvOjEuMy4wJwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text>true</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RldGhvLm5ld0luaXRpYWxpemVyQnVpbGRlcih0aGlzKQo=</text>
+      <register name="9" type="4">
+        <text>false</text>
       </register>
     </registers>
     <search>
