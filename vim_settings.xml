@@ -26,7 +26,7 @@
         <mark key="'" line="318" column="7" />
         <mark key="[" line="274" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1454331945766">
+      <file name="/a.dummy" timestamp="1454333844639">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" timestamp="1453381622142">
@@ -106,11 +106,11 @@
         <mark key="^" line="10" column="21" />
         <mark key="." line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ShopcadeApplication.java" timestamp="1454332293860">
-        <mark key="[" line="85" column="39" />
-        <mark key="]" line="85" column="11" />
-        <mark key="." line="85" column="11" />
-        <mark key="^" line="85" column="11" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ShopcadeApplication.java" timestamp="1454333759495">
+        <mark key="[" line="98" column="19" />
+        <mark key="]" line="98" column="45" />
+        <mark key="." line="98" column="45" />
+        <mark key="^" line="98" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/layout/activity_base.xml" timestamp="1453742921334">
         <mark key="'" line="35" column="41" />
@@ -708,7 +708,7 @@
         <mark key="^" line="4" column="76" />
         <mark key="." line="4" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1454332553559">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1454333245010">
         <mark key="'" line="84" column="34" />
         <mark key="[" line="144" column="45" />
         <mark key="]" line="144" column="46" />
@@ -721,9 +721,6 @@
         <mark key="]" line="303" column="51" />
         <mark key="^" line="303" column="51" />
         <mark key="." line="303" column="51" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1454329912954">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
@@ -909,11 +906,11 @@
       <jump line="199" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.allan1st.stetho/stetho/v1.3.3/a4f4327c606d5dbfd715c26a88b17d36e6cc1ac1/stetho-v1.3.3-sources.jar!/com/facebook/stetho/Stetho.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmVuYWJsZVdlYktpdEluc3BlY3RvcihuZXcgRXh0SW5zcGVjdG9yTW9kdWxlc1Byb3ZpZGVyKGNvbnRleHQpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>newInitializerBuilder(this).enableViewInspector(false).build();</text>
       </register>
       <register name="-" type="4">
-        <text>initializeWithDefaults</text>
+        <text>newInitializerBuilder(this).enableViewInspector(false).build();</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -921,32 +918,32 @@
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmVuYWJsZVdlYktpdEluc3BlY3RvcihuZXcgRXh0SW5zcGVjdG9yTW9kdWxlc1Byb3ZpZGVyKGNvbnRleHQpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGQuCg==</text>
+      <register name="1" type="4">
+        <text>newInitializerBuilder(this).enableViewInspector(false).build();</text>
       </register>
-      <register name="2" type="4">
-        <text>initializeWithDefaults</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RldGhvLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RldGhvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGQuCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBGcmVzY28uCg==</text>
+      <register name="5" type="4">
+        <text>initializeWithDefaults</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBGcmVzY28uZ2V0SW1hZ2VQaXBlbGluZSgpLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RldGhvLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGcmVzY28uaW5pdGlhbGl6ZSh0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgICAgICBGcmVzY28uCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBGcmVzY28uZ2V0SW1hZ2VQaXBlbGluZSgpLgo=</text>
       </register>
     </registers>
     <search>
