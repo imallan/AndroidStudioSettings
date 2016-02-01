@@ -5,6 +5,7 @@
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
   </action>
+  <action id="ExportToTextFile" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
