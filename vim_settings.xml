@@ -26,7 +26,7 @@
         <mark key="'" line="318" column="7" />
         <mark key="[" line="274" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1454326873318">
+      <file name="/a.dummy" timestamp="1454328787221">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" timestamp="1453381622142">
@@ -67,12 +67,12 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/stetho/stetho/src/main/java/com/facebook/stetho/Stetho.java" timestamp="1454328769654">
-        <mark key="'" line="116" column="0" />
-        <mark key="[" line="111" column="15" />
-        <mark key="]" line="111" column="19" />
-        <mark key="^" line="111" column="19" />
-        <mark key="." line="111" column="19" />
+      <file name="$USER_HOME$/Documents/GitHub/stetho/stetho/src/main/java/com/facebook/stetho/Stetho.java" timestamp="1454329255026">
+        <mark key="'" line="201" column="0" />
+        <mark key="[" line="126" column="66" />
+        <mark key="]" line="126" column="106" />
+        <mark key="^" line="126" column="106" />
+        <mark key="." line="126" column="106" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ListProductsListFragment.java" timestamp="1453991545115">
         <mark key="'" line="78" column="15" />
@@ -702,12 +702,12 @@
         <mark key="^" line="4" column="76" />
         <mark key="." line="4" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1454327216798">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1454328866789">
         <mark key="'" line="84" column="34" />
-        <mark key="[" line="145" column="49" />
-        <mark key="]" line="145" column="50" />
-        <mark key="^" line="140" column="58" />
-        <mark key="." line="145" column="50" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="^" line="144" column="46" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/ShoppingBasketProductViewHolder.java" timestamp="1453814749359">
         <mark key="'" line="290" column="4" />
@@ -715,9 +715,6 @@
         <mark key="]" line="303" column="51" />
         <mark key="^" line="303" column="51" />
         <mark key="." line="303" column="51" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1454278005177">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
@@ -795,7 +792,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="32" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/PresenterHolder.java" />
       <jump line="32" column="4" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/PresenterHolder.java" />
       <jump line="28" column="3" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/MyPresenterImpl.java" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/MainActivity.java" />
@@ -895,10 +891,11 @@
       <jump line="71" column="9" filename="$USER_HOME$/Documents/GitHub/stetho/stetho/src/main/java/com/facebook/stetho/Stetho.java" />
       <jump line="522" column="0" filename="$USER_HOME$/Documents/GitHub/stetho/stetho/src/main/java/com/facebook/stetho/Stetho.java" />
       <jump line="116" column="0" filename="$USER_HOME$/Documents/GitHub/stetho/stetho/src/main/java/com/facebook/stetho/Stetho.java" />
+      <jump line="201" column="0" filename="$USER_HOME$/Documents/GitHub/stetho/stetho/src/main/java/com/facebook/stetho/Stetho.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5mYWNlYm9vay5zdGV0aG86c3RldGhvOjEuMy4wJwo=</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -909,32 +906,32 @@
       <register name="0" type="4">
         <text>showBook</text>
       </register>
-      <register name="1" type="4">
-        <text>true</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5mYWNlYm9vay5zdGV0aG86c3RldGhvOjEuMy4wJwo=</text>
       </register>
       <register name="2" type="4">
-        <text>false</text>
+        <text>true</text>
       </register>
       <register name="3" type="4">
-        <text>mInspectorModules</text>
+        <text>false</text>
       </register>
       <register name="4" type="4">
         <text>mInspectorModules</text>
       </register>
       <register name="5" type="4">
+        <text>mInspectorModules</text>
+      </register>
+      <register name="6" type="4">
         <text>false</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RldGhvLm5ld0luaXRpYWxpemVyQnVpbGRlcih0aGlzKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZW5hYmxlV2ViS2l0SW5zcGVjdG9yKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RldGhvLm5ld0luaXRpYWxpemVyQnVpbGRlcih0aGlzKQo=</text>
       </register>
     </registers>
     <search>
