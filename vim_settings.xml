@@ -471,14 +471,12 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.allan1st.stetho/stetho/v1.3.2/4432958f05712f08b20d9894c1ba0f890c51b9e3/stetho-v1.3.2-sources.jar!/com/facebook/stetho/Stetho.java" timestamp="1454329890635" />
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/models/MyModelImpl.java" timestamp="1453765485222">
         <mark key="[" line="18" column="46" />
         <mark key="]" line="19" column="35" />
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIFactory.java" timestamp="1454331945257" />
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/AIDLService.java" timestamp="1454284173361">
         <mark key="[" line="18" column="22" />
         <mark key="]" line="18" column="22" />
@@ -710,7 +708,7 @@
         <mark key="^" line="4" column="76" />
         <mark key="." line="4" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1454329960327">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1454332553559">
         <mark key="'" line="84" column="34" />
         <mark key="[" line="144" column="45" />
         <mark key="]" line="144" column="46" />
@@ -792,8 +790,6 @@
         <mark key="^" line="62" column="11" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/stetho/stetho/src/main/java/com/facebook/stetho/inspector/elements/android/ActivityTracker.java" timestamp="1454331933466" />
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/InstagramUtils.java" timestamp="1454331985937" />
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453764526037">
         <mark key="[" line="13" column="41" />
         <mark key="]" line="13" column="40" />
