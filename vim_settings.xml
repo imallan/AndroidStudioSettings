@@ -21,12 +21,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ReactActivity.java" timestamp="1454430237907">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="37" column="69" />
-        <mark key="]" line="37" column="79" />
-        <mark key="^" line="37" column="79" />
-        <mark key="." line="37" column="79" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ReactActivity.java" timestamp="1454433700899">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="74" column="34" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/Book.java" timestamp="1454279047843">
         <mark key="[" line="9" column="7" />
@@ -40,7 +39,7 @@
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1454418230888">
+      <file name="/a.dummy" timestamp="1454433866953">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" timestamp="1453381622142">
@@ -1066,43 +1065,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJjb20uc2hvcGNhZGUudWkuYWN0aXZpdHkuUmVhY3RBY3Rpdml0eSIKICAgICAgICAgICAgYW5kcm9pZDpjb25maWdDaGFuZ2VzPSJrZXlib2FyZEhpZGRlbnxvcmllbnRhdGlvbnxzY3JlZW5TaXplIgogICAgICAgICAgICBhbmRyb2lkOnRoZW1lPSJAc3R5bGUvVGhlbWUuU2hvcGNhZGUuVG9vbGJhciIvPgogICAgICAgIDxhY3Rpdml0eSBhbmRyb2lkOm5hbWU9IiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVJlYWN0SW5zdGFuY2VNYW5hZ2VyLnNob3dEZXZPcHRpb25zRGlhbG9nKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>libbitmaps.so</text>
+        <text>Up</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZSAibGliL2FybTY0LXY4YS8iCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIUJ1aWxkQ29uZmlnLkRFQlVHKSB7CiAgICAgICAgICAgIHJldHVybiBzdXBlci5vbktleVVwKGtleUNvZGUsIGV2ZW50KTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJjb20uc2hvcGNhZGUudWkuYWN0aXZpdHkuUmVhY3RBY3Rpdml0eSIKICAgICAgICAgICAgYW5kcm9pZDpjb25maWdDaGFuZ2VzPSJrZXlib2FyZEhpZGRlbnxvcmllbnRhdGlvbnxzY3JlZW5TaXplIgogICAgICAgICAgICBhbmRyb2lkOnRoZW1lPSJAc3R5bGUvVGhlbWUuU2hvcGNhZGUuVG9vbGJhciIvPgogICAgICAgIDxhY3Rpdml0eSBhbmRyb2lkOm5hbWU9IiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVJlYWN0SW5zdGFuY2VNYW5hZ2VyLnNob3dEZXZPcHRpb25zRGlhbG9nKCk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">YW5kcm9pZC51c2VEZXByZWNhdGVkTmRrPXRydWUK</text>
+      <register name="2" type="4">
+        <text>Up</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">YW5kcm9pZC51c2VEZXByZWNhdGVkTmRrPXRydWUK</text>
+      <register name="3" type="4">
+        <text>Up</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZSAibGliL2FybTY0LXY4YS9saWJiaXRtYXBzLnNvIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZSAibGliL2FybTY0LXY4YS9saWJiaXRtYXBzLnNvIgo=</text>
+      <register name="6" type="4">
+        <text>KEYCODE_MENU</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZSAibGliL2FybTY0LXY4YS9saWJiaXRtYXBzLnNvIgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZSAibGliL2FybTY0LXY4YS9saWJiaXRtYXBzLnNvIgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZSAibGliL2FybTY0LXY4YS9saWJiaXRtYXBzLnNvIgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
     </registers>
     <search>
