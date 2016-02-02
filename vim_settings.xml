@@ -16,12 +16,12 @@
         <mark key="^" line="50" column="7" />
         <mark key="." line="50" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ReactActivity.java" timestamp="1454428157976">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ReactActivity.java" timestamp="1454430237907">
         <mark key="'" line="70" column="0" />
-        <mark key="[" line="33" column="28" />
-        <mark key="]" line="33" column="53" />
-        <mark key="^" line="33" column="53" />
-        <mark key="." line="33" column="53" />
+        <mark key="[" line="37" column="69" />
+        <mark key="]" line="37" column="79" />
+        <mark key="^" line="37" column="79" />
+        <mark key="." line="37" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/Book.java" timestamp="1454279047843">
         <mark key="[" line="9" column="7" />
@@ -1070,10 +1070,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>launchLinkInternally</text>
+        <text>MyAwesomeApp</text>
       </register>
       <register name="-" type="4">
-        <text>launchLinkInternally</text>
+        <text>MyAwesomeApp</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1082,31 +1082,31 @@
         <text>LinkAndroid</text>
       </register>
       <register name="1" type="4">
-        <text>launchLinkInternally</text>
+        <text>MyAwesomeApp</text>
       </register>
       <register name="2" type="4">
-        <text>launchLink</text>
+        <text>launchLinkInternally</text>
       </register>
       <register name="3" type="4">
-        <text>getReactApplicationContext</text>
+        <text>launchLink</text>
       </register>
       <register name="4" type="4">
-        <text>null</text>
+        <text>getReactApplicationContext</text>
       </register>
       <register name="5" type="4">
         <text>null</text>
       </register>
       <register name="6" type="4">
+        <text>null</text>
+      </register>
+      <register name="7" type="4">
         <text>getPackages()</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgTGlzdDxSZWFjdFBhY2thZ2U+IGdldFBhY2thZ2VzKCkgewogICAgICAgIHJldHVybiBBcnJheXMuPFJlYWN0UGFja2FnZT5hc0xpc3QoCiAgICAgICAgICAgICAgICBuZXcgTWFpblJlYWN0UGFja2FnZSgpLAogICAgICAgICAgICAgICAgbmV3IFNob3BjYWRlUmVhY3RQYWNrYWdlKCkpOwogICAgfQ==</text>
-      </register>
       <register name="9" type="4">
-        <text>MainReactPackage</text>
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgTGlzdDxSZWFjdFBhY2thZ2U+IGdldFBhY2thZ2VzKCkgewogICAgICAgIHJldHVybiBBcnJheXMuPFJlYWN0UGFja2FnZT5hc0xpc3QoCiAgICAgICAgICAgICAgICBuZXcgTWFpblJlYWN0UGFja2FnZSgpLAogICAgICAgICAgICAgICAgbmV3IFNob3BjYWRlUmVhY3RQYWNrYWdlKCkpOwogICAgfQ==</text>
       </register>
     </registers>
     <search>
