@@ -297,10 +297,10 @@
         <mark key="^" line="17" column="49" />
         <mark key="." line="17" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIGet.java" timestamp="1453821593068">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIGet.java" timestamp="1454452220511">
         <mark key="'" line="814" column="20" />
-        <mark key="[" line="335" column="53" />
-        <mark key="]" line="335" column="55" />
+        <mark key="[" line="458" column="10" />
+        <mark key="]" line="458" column="24" />
         <mark key="^" line="335" column="55" />
         <mark key="." line="335" column="55" />
       </file>
@@ -774,12 +774,12 @@
         <mark key="." line="73" column="87" />
         <mark key="^" line="73" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" timestamp="1453913366300">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" timestamp="1454452390510">
         <mark key="'" line="480" column="203" />
-        <mark key="[" line="110" column="75" />
-        <mark key="]" line="110" column="75" />
-        <mark key="^" line="110" column="84" />
-        <mark key="." line="110" column="75" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/fabric.properties" timestamp="1453735676403">
         <mark key="[" line="0" column="0" />
@@ -1073,7 +1073,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mContext</text>
+        <text>/user/get-users</text>
       </register>
       <register name="-" type="4">
         <text>mContext</text>
@@ -1081,8 +1081,8 @@
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIUJ1aWxkQ29uZmlnLkRFQlVHKSB7CiAgICAgICAgICAgIHJldHVybiBzdXBlci5vbktleVVwKGtleUNvZGUsIGV2ZW50KTsKICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>/user/get-users</text>
       </register>
       <register name="1" type="4">
         <text>mContext</text>
