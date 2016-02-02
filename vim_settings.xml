@@ -21,11 +21,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ReactActivity.java" timestamp="1454433700899">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="74" column="34" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ReactActivity.java" timestamp="1454435777470">
+        <mark key="'" line="106" column="12" />
+        <mark key="[" line="42" column="46" />
+        <mark key="]" line="42" column="53" />
+        <mark key="^" line="42" column="53" />
+        <mark key="." line="42" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/Book.java" timestamp="1454279047843">
         <mark key="[" line="9" column="7" />
@@ -315,12 +316,12 @@
         <mark key="^" line="22" column="64" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ExploreRecyclerAdapter.java" timestamp="1454418878200">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ExploreRecyclerAdapter.java" timestamp="1454435766101">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="79" column="25" />
-        <mark key="]" line="83" column="42" />
-        <mark key="." line="83" column="42" />
-        <mark key="^" line="83" column="42" />
+        <mark key="[" line="95" column="27" />
+        <mark key="]" line="96" column="58" />
+        <mark key="." line="96" column="58" />
+        <mark key="^" line="96" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MyFragment.java" timestamp="1453396592261">
         <mark key="'" line="15" column="3" />
@@ -477,6 +478,7 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/CategoriesActivity.java" timestamp="1454435703546" />
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/IBookManager.java" timestamp="1454368395127">
         <mark key="[" line="22" column="27" />
         <mark key="]" line="22" column="50" />
@@ -962,7 +964,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="20" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" />
       <jump line="279" column="12" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" />
       <jump line="220" column="26" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/LinkUtils.java" />
@@ -1062,13 +1063,14 @@
       <jump line="70" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ReactActivity.java" />
       <jump line="362" column="58" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
       <jump line="359" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
+      <jump line="92" column="12" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ReactActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVJlYWN0SW5zdGFuY2VNYW5hZ2VyLnNob3dEZXZPcHRpb25zRGlhbG9nKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>mContext</text>
       </register>
       <register name="-" type="4">
-        <text>Up</text>
+        <text>mContext</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1076,32 +1078,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIUJ1aWxkQ29uZmlnLkRFQlVHKSB7CiAgICAgICAgICAgIHJldHVybiBzdXBlci5vbktleVVwKGtleUNvZGUsIGV2ZW50KTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVJlYWN0SW5zdGFuY2VNYW5hZ2VyLnNob3dEZXZPcHRpb25zRGlhbG9nKCk7Cg==</text>
+      <register name="1" type="4">
+        <text>mContext</text>
       </register>
       <register name="2" type="4">
-        <text>Up</text>
+        <text>mContext</text>
       </register>
-      <register name="3" type="4">
-        <text>Up</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29udGV4dC5zdGFydEFjdGl2aXR5KG5ldyBJbnRlbnQobUNvbnRleHQsIFJlYWN0QWN0aXZpdHkuY2xhc3MpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShhY3Rpdml0eSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>Context</text>
       </register>
       <register name="6" type="4">
-        <text>KEYCODE_MENU</text>
+        <text>activity</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>CategoriesActivity</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>activity</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
