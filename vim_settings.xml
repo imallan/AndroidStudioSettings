@@ -16,6 +16,13 @@
         <mark key="^" line="50" column="7" />
         <mark key="." line="50" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ReactActivity.java" timestamp="1454411821703">
+        <mark key="'" line="55" column="27" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="74" column="32" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/Book.java" timestamp="1454279047843">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="12" />
@@ -365,12 +372,12 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" timestamp="1454345822071">
-        <mark key="'" line="62" column="26" />
-        <mark key="[" line="293" column="51" />
-        <mark key="]" line="293" column="69" />
-        <mark key="." line="293" column="69" />
-        <mark key="^" line="293" column="69" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" timestamp="1454411680998">
+        <mark key="'" line="293" column="69" />
+        <mark key="[" line="362" column="40" />
+        <mark key="]" line="362" column="58" />
+        <mark key="." line="362" column="58" />
+        <mark key="^" line="362" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/AndroidManifest.xml" timestamp="1454370464143">
         <mark key="'" line="10" column="56" />
@@ -804,12 +811,12 @@
         <mark key="^" line="4" column="76" />
         <mark key="." line="4" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1454343017244">
-        <mark key="'" line="84" column="34" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="^" line="144" column="46" />
-        <mark key="." line="136" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1454411427771">
+        <mark key="'" line="136" column="22" />
+        <mark key="[" line="166" column="53" />
+        <mark key="]" line="167" column="51" />
+        <mark key="^" line="167" column="51" />
+        <mark key="." line="167" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BookService.java" timestamp="1454409639600">
         <mark key="[" line="13" column="28" />
@@ -931,9 +938,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="389" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" />
-      <jump line="348" column="44" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" />
-      <jump line="345" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" />
       <jump line="173" column="33" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Order.java" />
       <jump line="209" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
       <jump line="57" column="26" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
@@ -1031,46 +1035,49 @@
       <jump line="79" column="0" filename="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/MainActivity.java" />
       <jump line="27" column="0" filename="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/MainActivity.java" />
       <jump line="30" column="25" filename="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BookManagerImpl.java" />
+      <jump line="136" column="22" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="41" column="27" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ReactActivity.java" />
+      <jump line="293" column="69" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PUSH</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="-" type="4">
-        <text>PUSH</text>
+        <text>BuildConfig.DEBUG</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobUJvdW5kICYmIG1NYW5hZ2VyICE9IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpjb25maWdDaGFuZ2VzPSJrZXlib2FyZEhpZGRlbnxvcmllbnRhdGlvbnxzY3JlZW5TaXplIgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>PUSH</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>pop</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBldmVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBrZXlDb2RlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="6" type="4">
-        <text>public</text>
+        <text>BuildConfig.DEBUG</text>
       </register>
       <register name="7" type="4">
-        <text>public</text>
+        <text>!</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgSUJvb2tNYW5hZ2VyIG1NYW5hZ2VyOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSUJvb2tNYW5hZ2VyLgo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkJhY2tQcmVzc2VkKCk7Cg==</text>
       </register>
     </registers>
     <search>
