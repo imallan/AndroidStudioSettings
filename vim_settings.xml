@@ -35,7 +35,7 @@
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1454409953516">
+      <file name="/a.dummy" timestamp="1454418230888">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" timestamp="1453381622142">
@@ -300,12 +300,12 @@
       <file name="$USER_HOME$/Documents/GitHub/stetho/stetho/build.gradle" timestamp="1454329424204">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ExploreRecyclerAdapter.java" timestamp="1454418011853">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ExploreRecyclerAdapter.java" timestamp="1454418878200">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="96" column="54" />
-        <mark key="]" line="96" column="61" />
-        <mark key="." line="96" column="61" />
-        <mark key="^" line="96" column="61" />
+        <mark key="[" line="79" column="25" />
+        <mark key="]" line="83" column="42" />
+        <mark key="." line="83" column="42" />
+        <mark key="^" line="83" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/java/com/imallan/adaptiveexample/MyFragment.java" timestamp="1453396592261">
         <mark key="'" line="15" column="3" />
@@ -851,9 +851,6 @@
         <mark key="]" line="303" column="51" />
         <mark key="^" line="303" column="51" />
         <mark key="." line="303" column="51" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1454368074413">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BoomManagerImpl.java" timestamp="1454409645831">
         <mark key="'" line="24" column="0" />
