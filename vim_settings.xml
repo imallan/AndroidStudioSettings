@@ -644,11 +644,10 @@
         <mark key="^" line="4" column="76" />
         <mark key="." line="4" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/reactnative/modules/LinkModule.java" timestamp="1454429061015">
-        <mark key="[" line="24" column="18" />
-        <mark key="]" line="24" column="28" />
-        <mark key="." line="24" column="28" />
-        <mark key="^" line="24" column="28" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/reactnative/modules/LinkModule.java" timestamp="1454516701206">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PresenterHolder.java" timestamp="1453743612921">
         <mark key="'" line="11" column="24" />
@@ -1054,11 +1053,11 @@
       <jump line="92" column="12" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ReactActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mContext</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBSZWFjdE1ldGhvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>mContext</text>
+        <text>callback</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1066,29 +1065,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIUJ1aWxkQ29uZmlnLkRFQlVHKSB7CiAgICAgICAgICAgIHJldHVybiBzdXBlci5vbktleVVwKGtleUNvZGUsIGV2ZW50KTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>mContext</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEBSZWFjdE1ldGhvCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>mContext</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29udGV4dC5zdGFydEFjdGl2aXR5KG5ldyBJbnRlbnQobUNvbnRleHQsIFJlYWN0QWN0aXZpdHkuY2xhc3MpKTsK</text>
+      <register name="3" type="4">
+        <text>d
+    public void getValue(Promise promise) {
+        promise.resolve(1);
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShhY3Rpdml0eSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWxsYmFjay5pbnZva2UoMSk7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>Context</text>
+        <text>callback</text>
       </register>
       <register name="6" type="4">
-        <text>activity</text>
+        <text>Callback</text>
       </register>
-      <register name="7" type="4">
-        <text>CategoriesActivity</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>activity</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
