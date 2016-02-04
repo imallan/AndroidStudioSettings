@@ -284,6 +284,10 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/menu/browser.xml" timestamp="1454591510236">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="55" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values/strings.xml" timestamp="1453975709999">
         <mark key="[" line="29" column="51" />
         <mark key="]" line="29" column="57" />
@@ -738,7 +742,7 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIGet.java" timestamp="1454587766854">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIGet.java" timestamp="1454590918440">
         <mark key="'" line="814" column="20" />
         <mark key="[" line="335" column="53" />
         <mark key="]" line="335" column="55" />
@@ -1061,7 +1065,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>ic_arrow_left_black_24dp</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -1069,8 +1073,8 @@
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIUJ1aWxkQ29uZmlnLkRFQlVHKSB7CiAgICAgICAgICAgIHJldHVybiBzdXBlci5vbktleVVwKGtleUNvZGUsIGV2ZW50KTsKICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>ic_arrow_left_black_24dp</text>
       </register>
       <register name="1" type="4">
         <text>1</text>
