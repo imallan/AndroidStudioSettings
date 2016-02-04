@@ -95,6 +95,12 @@
         <mark key="^" line="125" column="40" />
         <mark key="." line="125" column="40" />
       </file>
+      <file name="$USER_HOME$/Desktop/reactExample/android/build.gradle" timestamp="1454584012838">
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="7" column="54" />
+        <mark key="^" line="7" column="54" />
+        <mark key="." line="7" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ListProductsListFragment.java" timestamp="1453991545115">
         <mark key="'" line="78" column="15" />
         <mark key="[" line="159" column="108" />
@@ -572,6 +578,7 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/index.android.js" timestamp="1454583947890" />
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/AIDLService.java" timestamp="1454284173361">
         <mark key="[" line="18" column="22" />
         <mark key="]" line="18" column="22" />
@@ -1053,11 +1060,11 @@
       <jump line="92" column="12" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ReactActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBSZWFjdE1ldGhvCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>callback</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1065,35 +1072,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIUJ1aWxkQ29uZmlnLkRFQlVHKSB7CiAgICAgICAgICAgIHJldHVybiBzdXBlci5vbktleVVwKGtleUNvZGUsIGV2ZW50KTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBSZWFjdE1ldGhvCg==</text>
+      <register name="1" type="4">
+        <text>1</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>.</text>
       </register>
       <register name="3" type="4">
+        <text>3</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBSZWFjdE1ldGhvCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>d
     public void getValue(Promise promise) {
         promise.resolve(1);
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjYWxsYmFjay5pbnZva2UoMSk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>callback</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>Callback</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
