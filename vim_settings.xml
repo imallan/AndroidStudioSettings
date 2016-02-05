@@ -26,7 +26,7 @@
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1454668561982">
+      <file name="/a.dummy" timestamp="1454673701183">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -54,10 +54,10 @@
         <mark key="." line="18" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" timestamp="1454666769522">
-        <mark key="[" line="198" column="62" />
-        <mark key="]" line="198" column="65" />
-        <mark key="." line="198" column="65" />
-        <mark key="^" line="198" column="65" />
+        <mark key="[" line="212" column="62" />
+        <mark key="]" line="212" column="65" />
+        <mark key="." line="212" column="65" />
+        <mark key="^" line="212" column="65" />
       </file>
       <file name="$USER_HOME$/Desktop/reactExample/android/build.gradle" timestamp="1454584012838">
         <mark key="[" line="7" column="52" />
@@ -66,11 +66,11 @@
         <mark key="." line="7" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ListProductsListFragment.java" timestamp="1454667755979">
-        <mark key="'" line="78" column="15" />
-        <mark key="[" line="104" column="76" />
-        <mark key="]" line="104" column="90" />
-        <mark key="." line="104" column="90" />
-        <mark key="^" line="104" column="90" />
+        <mark key="'" line="80" column="15" />
+        <mark key="[" line="114" column="76" />
+        <mark key="]" line="114" column="90" />
+        <mark key="." line="114" column="90" />
+        <mark key="^" line="114" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/ui/ScreenContainer.java" timestamp="1453756233075">
         <mark key="[" line="8" column="34" />
@@ -244,11 +244,11 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_list_view.xml" timestamp="1454668268227">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="38" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_list_view.xml" timestamp="1454673663121">
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="18" column="41" />
+        <mark key="." line="18" column="41" />
+        <mark key="^" line="18" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostRecyclerAdapter.java" timestamp="1454341182479">
         <mark key="[" line="64" column="76" />
@@ -286,12 +286,7 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/LinkUtils.java" timestamp="1454668056332">
-        <mark key="'" line="396" column="6" />
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="268" column="0" />
-        <mark key="." line="268" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/LinkUtils.java" timestamp="1454673653721" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ShoppingOrderFragment.java" timestamp="1453913967864">
         <mark key="[" line="139" column="103" />
         <mark key="]" line="139" column="103" />
@@ -636,6 +631,9 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="11" />
       </file>
+      <file name="/Dummy.txt" timestamp="1454673701177">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="7" column="62" />
@@ -811,10 +809,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PCFbQ0RBVEFbT2ggbm8hIGFuIGVtcHR5IGxpc3TigKYgYWRkIHByb2R1Y3RzIHF1aWNrIGZyb20gdGhlIDxhIGhyZWY9Imh0dHBzOi8vd3d3LnNob3BjYWRlLmNvbSI+VHJlbmRzPC9hPiwgPGEgaHJlZj0iaHR0cHM6Ly93d3cuc2hvcGNhZGUuY29tL2RlYWxzIj5EZWFsczwvYT4gYW5kIDxhIGhyZWY9Imh0dHBzOi8vd3d3LnNob3BjYWRlLmNvbS9zZWFyY2giPkZpbmQ8L2E+IHNlY3Rpb25zXV0+PC9zdHJpbmc+</text>
+        <text>match_parent</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PCFbQ0RBVEFbT2ggbm8hIGFuIGVtcHR5IGxpc3TigKYgYWRkIHByb2R1Y3RzIHF1aWNrIGZyb20gdGhlIDxhIGhyZWY9Imh0dHBzOi8vd3d3LnNob3BjYWRlLmNvbSI+VHJlbmRzPC9hPiwgPGEgaHJlZj0iaHR0cHM6Ly93d3cuc2hvcGNhZGUuY29tL2RlYWxzIj5EZWFsczwvYT4gYW5kIDxhIGhyZWY9Imh0dHBzOi8vd3d3LnNob3BjYWRlLmNvbS9zZWFyY2giPkZpbmQ8L2E+IHNlY3Rpb25zXV0+PC9zdHJpbmc+</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -823,31 +821,31 @@
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZW1wdHlfbGlzdF91c2VyIj48IVtDREFUQVtPaCBubyEgYW4gZW1wdHkgbGlzdOKApiBhZGQgcHJvZHVjdHMgcXVpY2sgZnJvbSB0aGUgPGEgaHJlZj0iaHR0cHM6Ly93d3cuc2hvcGNhZGUuY29tIj5UcmVuZHM8L2E+LCA8YSBocmVmPSJodHRwczovL3d3dy5zaG9wY2FkZS5jb20vZGVhbHMiPkRlYWxzPC9hPiBhbmQgPGEgaHJlZj0iaHR0cHM6Ly93d3cuc2hvcGNhZGUuY29tL3NlYXJjaCI+RmluZDwvYT4gc2VjdGlvbnNdXT48L3N0cmluZz4K</text>
       </register>
       <register name="1" type="4">
+        <text>match_parent</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">PCFbQ0RBVEFbT2ggbm8hIGFuIGVtcHR5IGxpc3TigKYgYWRkIHByb2R1Y3RzIHF1aWNrIGZyb20gdGhlIDxhIGhyZWY9Imh0dHBzOi8vd3d3LnNob3BjYWRlLmNvbSI+VHJlbmRzPC9hPiwgPGEgaHJlZj0iaHR0cHM6Ly93d3cuc2hvcGNhZGUuY29tL2RlYWxzIj5EZWFsczwvYT4gYW5kIDxhIGhyZWY9Imh0dHBzOi8vd3d3LnNob3BjYWRlLmNvbS9zZWFyY2giPkZpbmQ8L2E+IHNlY3Rpb25zXV0+PC9zdHJpbmc+</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFRvcD0idHJ1ZSIK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>layout_centerHorizontal</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoZmlyc3RTZWdtZW50LmVxdWFscyhTZWdtZW50cy5TRUFSQ0gpKSB7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZWFyY2hBY3Rpdml0eS5zdGFydEFjdGl2aXR5KGNvbnRleHQsICIqIik7Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZWFyY2hBY3Rpdml0eS5zdGFydEFjdGl2aXR5KGNvbnRleHQsICIqIik7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXQK</text>
       </register>
-      <register name="9" type="4">
-        <text>keyword</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXQK</text>
       </register>
     </registers>
     <search>
