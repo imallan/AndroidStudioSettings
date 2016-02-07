@@ -858,6 +858,9 @@
         <mark key="^" line="392" column="81" />
         <mark key="." line="392" column="81" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/widget/Toast.java" timestamp="1454805912729">
+        <mark key="'" line="326" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/reactnative/packages/ShopcadeReactPackage.java" timestamp="1454428151317">
         <mark key="[" line="33" column="15" />
         <mark key="]" line="33" column="37" />
@@ -1031,7 +1034,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="43" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_posts_list.xml" />
       <jump line="3753" column="31" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/provider/Settings.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_main_drawer.xml" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_post_recycler.xml" />
@@ -1131,6 +1133,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/android-DocumentCentricApps/Application/src/main/AndroidManifest.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/PostsService.java" />
       <jump line="3647" column="38" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/com/android/internal/policy/PhoneWindow.java" />
+      <jump line="326" column="25" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/widget/Toast.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
