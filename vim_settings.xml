@@ -226,6 +226,7 @@
         <mark key="^" line="24" column="68" />
         <mark key="." line="22" column="53" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/com/android/server/am/ActivityStackSupervisor.java" timestamp="1454807740979" />
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/res/layout/view_item_data.xml" timestamp="1453761796474">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="8" column="33" />
@@ -238,6 +239,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="11" column="7" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/IActivityManager.java" timestamp="1454807127413">
+        <mark key="'" line="614" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/LooksService.java" timestamp="1454692037124">
         <mark key="[" line="380" column="139" />
@@ -845,6 +849,9 @@
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="37" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityManagerNative.java" timestamp="1454807172997">
+        <mark key="'" line="301" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProductLikersActivity.java" timestamp="1453380900835">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -1034,8 +1041,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3753" column="31" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/provider/Settings.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_main_drawer.xml" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_post_recycler.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_posts.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/build.gradle" />
@@ -1134,6 +1139,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/PostsService.java" />
       <jump line="3647" column="38" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/com/android/internal/policy/PhoneWindow.java" />
       <jump line="326" column="25" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/widget/Toast.java" />
+      <jump line="614" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/IActivityManager.java" />
+      <jump line="301" column="36" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityManagerNative.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
