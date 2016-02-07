@@ -64,12 +64,12 @@
         <mark key="." line="114" column="90" />
         <mark key="^" line="114" column="90" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BookManagerImpl.java" timestamp="1454371370343">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="64" column="33" />
-        <mark key="]" line="65" column="24" />
-        <mark key="^" line="65" column="24" />
-        <mark key="." line="65" column="24" />
+      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BookManagerImpl.java" timestamp="1454885463902">
+        <mark key="'" line="103" column="8" />
+        <mark key="[" line="20" column="47" />
+        <mark key="]" line="20" column="46" />
+        <mark key="^" line="20" column="46" />
+        <mark key="." line="20" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/res/layout/activity_aidl.xml" timestamp="1454279504680">
         <mark key="[" line="17" column="22" />
@@ -214,6 +214,12 @@
         <mark key="^" line="182" column="87" />
         <mark key="." line="182" column="87" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BookBinderService.java" timestamp="1454885549654">
+        <mark key="[" line="19" column="71" />
+        <mark key="]" line="19" column="70" />
+        <mark key="^" line="19" column="70" />
+        <mark key="." line="19" column="70" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/fabric.properties" timestamp="1453755776597">
         <mark key="[" line="0" column="44" />
         <mark key="]" line="1" column="71" />
@@ -255,6 +261,7 @@
         <mark key="^" line="332" column="95" />
         <mark key="." line="332" column="95" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BinderActivity.java" timestamp="1454884395385" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/build.gradle" timestamp="1453465647758">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="7" column="62" />
@@ -629,6 +636,13 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/build/generated/source/aidl/debug/com/imallan/aidlexample/IRemoteService.java" timestamp="1454886019382">
+        <mark key="'" line="5" column="17" />
+        <mark key="[" line="8" column="109" />
+        <mark key="]" line="8" column="108" />
+        <mark key="^" line="8" column="108" />
+        <mark key="." line="8" column="108" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SettingsActivity.java" timestamp="1453976182670">
         <mark key="[" line="16" column="38" />
         <mark key="]" line="16" column="53" />
@@ -736,6 +750,7 @@
         <mark key="^" line="37" column="18" />
         <mark key="." line="37" column="18" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/os/IBinder.java" timestamp="1454884755101" />
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/MessengerServiceActivity.java" timestamp="1454280624282">
         <mark key="'" line="43" column="12" />
         <mark key="[" line="66" column="0" />
@@ -1042,8 +1057,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_posts.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/build.gradle" />
       <jump line="20" column="31" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/activities/MainActivity.java" />
       <jump line="24" column="4" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/adatpers/MyDataAdapter.java" />
       <jump line="39" column="40" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/adatpers/MyDataAdapter.java" />
@@ -1142,6 +1155,8 @@
       <jump line="614" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/IActivityManager.java" />
       <jump line="301" column="36" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityManagerNative.java" />
       <jump line="1030" column="6" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/Window.java" />
+      <jump line="102" column="8" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BookManagerImpl.java" />
+      <jump line="5" column="17" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/build/generated/source/aidl/debug/com/imallan/aidlexample/IRemoteService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
