@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/com/android/internal/policy/PhoneWindow.java" timestamp="1454804281152">
+        <mark key="'" line="3647" column="38" />
+        <mark key="m" line="3970" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ListRecyclerAdapter.java" timestamp="1453729639410">
         <mark key="'" line="121" column="4" />
         <mark key="[" line="94" column="83" />
@@ -644,6 +648,7 @@
       <file name="$USER_HOME$/Desktop/android-DocumentCentricApps/Application/src/main/AndroidManifest.xml" timestamp="1454688845024">
         <mark key="'" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/ImagesUtils.java" timestamp="1454803458978" />
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/RemoteServiceImpl.java" timestamp="1454337049987">
         <mark key="[" line="35" column="28" />
         <mark key="]" line="35" column="33" />
@@ -1026,7 +1031,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="43" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_posts_list.xml" />
       <jump line="6" column="43" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_posts_list.xml" />
       <jump line="3753" column="31" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/provider/Settings.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_main_drawer.xml" />
@@ -1126,6 +1130,7 @@
       <jump line="320" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/VideoUtils.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/android-DocumentCentricApps/Application/src/main/AndroidManifest.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/PostsService.java" />
+      <jump line="3647" column="38" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/com/android/internal/policy/PhoneWindow.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
