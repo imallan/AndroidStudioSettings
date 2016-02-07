@@ -34,11 +34,6 @@
       <file name="/a.dummy" timestamp="1454684178352">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/index.android.js" timestamp="1454607348329">
-        <mark key="[" line="61" column="27" />
-        <mark key="]" line="61" column="27" />
-        <mark key="." line="61" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BookService.java" timestamp="1454409639600">
         <mark key="[" line="13" column="28" />
         <mark key="]" line="13" column="39" />
@@ -94,11 +89,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="23" column="24" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/reactnative/modules/LinkModule.java" timestamp="1454516701206">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" timestamp="1453378045136">
         <mark key="[" line="748" column="24" />
@@ -232,6 +222,9 @@
         <mark key="^" line="24" column="68" />
         <mark key="." line="22" column="53" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/WindowManagerGlobal.java" timestamp="1454887281858">
+        <mark key="'" line="230" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/res/layout/view_item_data.xml" timestamp="1453761796474">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="8" column="33" />
@@ -319,10 +312,8 @@
         <mark key="^" line="50" column="7" />
         <mark key="." line="50" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1454336832637">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/WindowManager.java" timestamp="1454887218058">
+        <mark key="'" line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/AbstractProductsListFragment.java" timestamp="1454674202088">
         <mark key="'" line="79" column="8" />
@@ -385,21 +376,11 @@
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/Book.java" timestamp="1454407196111">
         <mark key="[" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" timestamp="1454683809390">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/layout_side_navigation.xml" timestamp="1453976021524">
         <mark key="[" line="113" column="46" />
         <mark key="]" line="113" column="52" />
         <mark key="^" line="113" column="52" />
         <mark key="." line="113" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/aidl/com/imallan/binderexample/IMyAidlInterface.aidl" timestamp="1454407959247">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Order.java" timestamp="1453914040326">
         <mark key="'" line="173" column="33" />
@@ -477,11 +458,6 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/node_modules/react-native/ReactAndroid/gradle.properties" timestamp="1454431798647">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/aidl/com/imallan/playground/IRemoteService.aidl" timestamp="1454336977109">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="18" />
@@ -536,6 +512,9 @@
         <mark key="]" line="10" column="21" />
         <mark key="^" line="10" column="21" />
         <mark key="." line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/com/android/server/wm/Session.java" timestamp="1454887662352">
+        <mark key="'" line="97" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" timestamp="1453994717357">
         <mark key="[" line="260" column="20" />
@@ -611,11 +590,6 @@
         <mark key="]" line="19" column="17" />
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/gradle/wrapper/gradle-wrapper.properties" timestamp="1454431874360">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/ShoppingBasketProductViewHolder.java" timestamp="1453814749359">
         <mark key="'" line="290" column="4" />
@@ -771,6 +745,7 @@
         <mark key="^" line="45" column="3" />
         <mark key="." line="45" column="3" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ViewRootImpl.java" timestamp="1454887497504" />
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/ui/activity/BaseActivity.java" timestamp="1453743063197">
         <mark key="[" line="17" column="61" />
         <mark key="]" line="17" column="61" />
@@ -1057,9 +1032,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="31" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/activities/MainActivity.java" />
-      <jump line="24" column="4" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/adatpers/MyDataAdapter.java" />
-      <jump line="39" column="40" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/adatpers/MyDataAdapter.java" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/presenters/MyPresenterImpl.java" />
       <jump line="48" column="22" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/activities/MainActivity.java" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/customviews/TimelineView.java" />
@@ -1157,6 +1129,9 @@
       <jump line="1030" column="6" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/Window.java" />
       <jump line="102" column="8" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BookManagerImpl.java" />
       <jump line="5" column="17" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/build/generated/source/aidl/debug/com/imallan/aidlexample/IRemoteService.java" />
+      <jump line="97" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/WindowManager.java" />
+      <jump line="230" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/WindowManagerGlobal.java" />
+      <jump line="97" column="15" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/com/android/server/wm/Session.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
