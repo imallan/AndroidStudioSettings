@@ -1037,9 +1037,11 @@
       <file name="/fragment.java" timestamp="1454407183894">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/Window.java" timestamp="1454883401046">
+        <mark key="'" line="1030" column="6" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_post_recycler.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_posts.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/build.gradle" />
       <jump line="20" column="31" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/activities/MainActivity.java" />
@@ -1139,6 +1141,7 @@
       <jump line="326" column="25" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/widget/Toast.java" />
       <jump line="614" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/IActivityManager.java" />
       <jump line="301" column="36" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityManagerNative.java" />
+      <jump line="1030" column="6" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/Window.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
