@@ -598,6 +598,12 @@
         <mark key="^" line="25" column="46" />
         <mark key="." line="25" column="46" />
       </file>
+      <file name="$USER_HOME$/Desktop/FragmentAsAService/app/src/main/java/com/imallan/fragmentasaservice/MainActivity.java" timestamp="1454927670993">
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="29" column="46" />
+        <mark key="." line="29" column="46" />
+        <mark key="^" line="29" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ListRecyclerAdapter.java" timestamp="1453729639410">
         <mark key="'" line="121" column="4" />
         <mark key="[" line="94" column="83" />
@@ -1042,7 +1048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_posts.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/build.gradle" />
       <jump line="20" column="31" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/activities/MainActivity.java" />
       <jump line="24" column="4" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/adatpers/MyDataAdapter.java" />
@@ -1142,13 +1147,14 @@
       <jump line="614" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/IActivityManager.java" />
       <jump line="301" column="36" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityManagerNative.java" />
       <jump line="1030" column="6" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/Window.java" />
+      <jump line="27" column="47" filename="$USER_HOME$/Desktop/FragmentAsAService/app/src/main/java/com/imallan/fragmentasaservice/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>newDocumentIntent</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>newDocumentIntent</text>
+        <text>addOnBackStackChangedListener</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1156,32 +1162,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBuZXdEb2N1bWVudEludGVudC5hZGRGbGFncyhJbnRlbnQuRkxBR19BQ1RJVklUWV9ORVdfRE9DVU1FTlQpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>newDocumentIntent</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>newDocumentIntent</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZtLgo=</text>
       </register>
       <register name="3" type="4">
-        <text>JELLY_BEAN</text>
+        <text>addOnBackStackChangedListener</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>hvideo</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvL25vaW5zcGVjdGlvbiB1bmNoZWNrZWQK</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>Fragment</text>
       </register>
       <register name="8" type="4">
-        <text>hls</text>
+        <text>KService</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQXJyYXlMaXN0PFZpbWVvVmlkZW9TdHJ1Y3R1cmUuVmltZW9Qcm9ncmVzc2l2ZVZpZGVvPiBwcm9ncmVzc2l2ZSA9IGZpbGVzLnByb2dyZXNzaXZlOwo=</text>
+      <register name="9" type="4">
+        <text>newDocumentIntent</text>
       </register>
     </registers>
     <search>
