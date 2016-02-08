@@ -31,9 +31,6 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1454684178352">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BookService.java" timestamp="1454409639600">
         <mark key="[" line="13" column="28" />
         <mark key="]" line="13" column="39" />
@@ -109,9 +106,6 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="20" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/presenters/MyPresenter.java" timestamp="1453744527833">
-        <mark key="[" line="8" column="18" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/PostsFragment.java" timestamp="1454084715812">
         <mark key="[" line="69" column="87" />
         <mark key="]" line="69" column="86" />
@@ -136,6 +130,9 @@
         <mark key="]" line="13" column="48" />
         <mark key="." line="13" column="48" />
         <mark key="^" line="13" column="48" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/java/lang/Thread.java" timestamp="1454891550143">
+        <mark key="'" line="145" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BookManagerImpl.java" timestamp="1454410394240">
         <mark key="'" line="30" column="25" />
@@ -373,9 +370,6 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/Book.java" timestamp="1454407196111">
-        <mark key="[" line="8" column="40" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/layout_side_navigation.xml" timestamp="1453976021524">
         <mark key="[" line="113" column="46" />
         <mark key="]" line="113" column="52" />
@@ -476,6 +470,9 @@
         <mark key="]" line="4" column="64" />
         <mark key="^" line="4" column="64" />
         <mark key="." line="4" column="64" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/java/lang/ThreadLocal.java" timestamp="1454891522214">
+        <mark key="'" line="368" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/layout/activity_base.xml" timestamp="1453742921334">
         <mark key="'" line="35" column="41" />
@@ -651,12 +648,6 @@
         <mark key="^" line="22" column="50" />
         <mark key="." line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_product.xml" timestamp="1453387155326">
-        <mark key="[" line="215" column="57" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
-        <mark key="[" line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_settings.xml" timestamp="1453976407041">
         <mark key="'" line="50" column="38" />
         <mark key="[" line="23" column="49" />
@@ -755,9 +746,6 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/SignUpFragment.java" timestamp="1454667736435">
         <mark key="[" line="481" column="27" />
         <mark key="]" line="481" column="69" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/UserListsFragment.java" timestamp="1453480590172">
-        <mark key="[" line="106" column="84" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_shopping_cart_product.xml" timestamp="1453815005996">
         <mark key="[" line="198" column="40" />
@@ -919,18 +907,12 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Griffin/build.gradle" timestamp="1453464337709">
-        <mark key="[" line="7" column="50" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/presenters/MyPresenterImpl.java" timestamp="1454255516075">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="59" column="9" />
         <mark key="]" line="60" column="30" />
         <mark key="^" line="60" column="30" />
         <mark key="." line="60" column="30" />
-      </file>
-      <file name="/a.regexp" timestamp="1454088273903">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ShoppingOrderFragment.java" timestamp="1453913967864">
         <mark key="[" line="139" column="103" />
@@ -1024,19 +1006,11 @@
         <mark key="." line="70" column="46" />
         <mark key="^" line="70" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1454407183894">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/Window.java" timestamp="1454883401046">
         <mark key="'" line="1030" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/presenters/MyPresenterImpl.java" />
-      <jump line="48" column="22" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/activities/MainActivity.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/customviews/TimelineView.java" />
-      <jump line="77" column="4" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/customviews/TimelineView.java" />
-      <jump line="89" column="6" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/customviews/TimelineView.java" />
       <jump line="61" column="4" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/customviews/TimelineView.java" />
       <jump line="69" column="12" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/customviews/TimelineView.java" />
       <jump line="18" column="40" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/LocalService.java" />
@@ -1132,6 +1106,11 @@
       <jump line="97" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/WindowManager.java" />
       <jump line="230" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/WindowManagerGlobal.java" />
       <jump line="97" column="15" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/com/android/server/wm/Session.java" />
+      <jump line="143" column="22" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/java/lang/ThreadLocal.java" />
+      <jump line="157" column="17" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/java/lang/ThreadLocal.java" />
+      <jump line="148" column="41" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/java/lang/ThreadLocal.java" />
+      <jump line="368" column="17" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/java/lang/ThreadLocal.java" />
+      <jump line="145" column="34" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/java/lang/Thread.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
