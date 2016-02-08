@@ -521,8 +521,11 @@
         <mark key="^" line="765" column="38" />
         <mark key="." line="765" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" timestamp="1454607479931">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" timestamp="1454932216771">
         <mark key="'" line="1" column="0" />
+        <mark key="[" line="415" column="0" />
+        <mark key="]" line="415" column="0" />
+        <mark key="." line="415" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/AppIndexingUtils.java" timestamp="1453890372165">
         <mark key="[" line="20" column="27" />
@@ -665,6 +668,7 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/os/AsyncTask.java" timestamp="1454932209338" />
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/build.gradle" timestamp="1453996863063">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="24" />
@@ -1151,7 +1155,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSeExvCg==</text>
       </register>
       <register name="-" type="4">
         <text>addOnBackStackChangedListener</text>
@@ -1163,31 +1167,31 @@
         <text encoding="base64">ICAgICAgICBuZXdEb2N1bWVudEludGVudC5hZGRGbGFncyhJbnRlbnQuRkxBR19BQ1RJVklUWV9ORVdfRE9DVU1FTlQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSeExvCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZtLgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>addOnBackStackChangedListener</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvL25vaW5zcGVjdGlvbiB1bmNoZWNrZWQK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>Fragment</text>
       </register>
-      <register name="8" type="4">
-        <text>KService</text>
-      </register>
       <register name="9" type="4">
-        <text>newDocumentIntent</text>
+        <text>KService</text>
       </register>
     </registers>
     <search>
