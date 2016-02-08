@@ -247,6 +247,7 @@
         <mark key="^" line="14" column="37" />
         <mark key="." line="14" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/RichQuickAction/quickaction/src/main/java/com/imallan/quickaction/RichActionHolder.java" timestamp="1454933300244" />
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/res/layout/activity_base.xml" timestamp="1453755236977">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="12" column="41" />
@@ -992,6 +993,13 @@
       <file name="/a.regexp" timestamp="1454088273903">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/RichQuickAction/app/src/main/java/com/imallan/richquickaction/SampleActivity.java" timestamp="1454933364343">
+        <mark key="'" line="78" column="22" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="21" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/VideoUtils.java" timestamp="1454675757673">
         <mark key="'" line="324" column="0" />
         <mark key="[" line="69" column="91" />
@@ -1052,8 +1060,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/build.gradle" />
-      <jump line="20" column="31" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/activities/MainActivity.java" />
       <jump line="24" column="4" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/adatpers/MyDataAdapter.java" />
       <jump line="39" column="40" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/adatpers/MyDataAdapter.java" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/presenters/MyPresenterImpl.java" />
@@ -1152,46 +1158,48 @@
       <jump line="301" column="36" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityManagerNative.java" />
       <jump line="1030" column="6" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/Window.java" />
       <jump line="27" column="47" filename="$USER_HOME$/Desktop/FragmentAsAService/app/src/main/java/com/imallan/fragmentasaservice/MainActivity.java" />
+      <jump line="120" column="0" filename="$USER_HOME$/Documents/GitHub/RichQuickAction/app/src/main/java/com/imallan/richquickaction/SampleActivity.java" />
+      <jump line="77" column="22" filename="$USER_HOME$/Documents/GitHub/RichQuickAction/app/src/main/java/com/imallan/richquickaction/SampleActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBSeExvCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJvbkNyZWF0ZTogIiArIChhY3Rpb25zID09IGFjdGlvbnMyKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>addOnBackStackChangedListener</text>
+        <text>ent</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdEb2N1bWVudEludGVudC5hZGRGbGFncyhJbnRlbnQuRkxBR19BQ1RJVklUWV9ORVdfRE9DVU1FTlQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8QWN0aW9uPiBhY3Rpb25zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgYWN0aW9ucy5hZGQobmV3IEFjdGlvbih0aGlzLCAiQWN0aW9uMSIsIGFuZHJvaWQuUi5kcmF3YWJsZS5zeW1fZGVmX2FwcF9pY29uLCAxKSk7CiAgICAgICAgYWN0aW9ucy5hZGQobmV3IEFjdGlvbih0aGlzLCAiQWN0aW9uMiIsIGFuZHJvaWQuUi5kcmF3YWJsZS5zeW1fZGVmX2FwcF9pY29uLCAyKSk7CiAgICAgICAgYWN0aW9ucy5hZGQobmV3IEFjdGlvbih0aGlzLCAiQWN0aW9uMyIsIGFuZHJvaWQuUi5kcmF3YWJsZS5zeW1fZGVmX2FwcF9pY29uLCAzKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBSeExvCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJvbkNyZWF0ZTogIiArIChhY3Rpb25zID09IGFjdGlvbnMyKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gb25Ub3VjaEV2ZW50KE1vdGlvbkV2ZW50IGV2ZW50KSB7CiAgICAgICAgcmV0dXJuIHN1cGVyLm9uVG91Y2hFdmVudChldmVudCk7CiAgICB9Cgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZtLgo=</text>
+      <register name="3" type="4">
+        <text>ent</text>
       </register>
-      <register name="4" type="4">
-        <text>addOnBackStackChangedListener</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobUFjdGlvblZpZXcuaXNWaWV3U2hvd24oKSkgewogICAgICAgICAgICBtQWN0aW9uVmlldy5vblRvdWNoRXZlbnQoZXZlbnQpOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL25vaW5zcGVjdGlvbiB1bmNoZWNrZWQK</text>
+        <text encoding="base64">ICAgIEBSeExvCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>Fragment</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZtLgo=</text>
       </register>
       <register name="9" type="4">
-        <text>KService</text>
+        <text>addOnBackStackChangedListener</text>
       </register>
     </registers>
     <search>
