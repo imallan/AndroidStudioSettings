@@ -125,6 +125,7 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityThread.java" timestamp="1454892796508" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_loading.xml" timestamp="1454674261095">
         <mark key="[" line="13" column="38" />
         <mark key="]" line="13" column="48" />
@@ -251,7 +252,11 @@
         <mark key="^" line="332" column="95" />
         <mark key="." line="332" column="95" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BinderActivity.java" timestamp="1454884395385" />
+      <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BinderActivity.java" timestamp="1454893643747">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="52" />
+        <mark key="." line="107" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/build.gradle" timestamp="1453465647758">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="7" column="62" />
@@ -1113,8 +1118,8 @@
       <jump line="145" column="34" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/java/lang/Thread.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>newDocumentIntent</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAiYmluZGVyRGllZDogcmVjb25uZWN0Iik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>newDocumentIntent</text>
@@ -1125,32 +1130,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBuZXdEb2N1bWVudEludGVudC5hZGRGbGFncyhJbnRlbnQuRkxBR19BQ1RJVklUWV9ORVdfRE9DVU1FTlQpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>newDocumentIntent</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAiYmluZGVyRGllZDogcmVjb25uZWN0Iik7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>newDocumentIntent</text>
-      </register>
-      <register name="3" type="4">
-        <text>JELLY_BEAN</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>hvideo</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>hls</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmluZEJvb2tTZXJ2aWNlKCk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQXJyYXlMaXN0PFZpbWVvVmlkZW9TdHJ1Y3R1cmUuVmltZW9Qcm9ncmVzc2l2ZVZpZGVvPiBwcm9ncmVzc2l2ZSA9IGZpbGVzLnByb2dyZXNzaXZlOwo=</text>
+      <register name="4" type="4">
+        <text>newDocumentIntent</text>
+      </register>
+      <register name="5" type="4">
+        <text>newDocumentIntent</text>
+      </register>
+      <register name="6" type="4">
+        <text>JELLY_BEAN</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>hvideo</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
