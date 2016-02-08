@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/com/android/internal/policy/PhoneWindow.java" timestamp="1454804281152">
-        <mark key="'" line="3647" column="38" />
-        <mark key="m" line="3970" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ListRecyclerAdapter.java" timestamp="1453729639410">
         <mark key="'" line="121" column="4" />
         <mark key="[" line="94" column="83" />
@@ -209,6 +205,11 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/AwesomeProject/MyServiceExample/app/src/main/java/com/imallan/myserviceexample/MyStickyService.java" timestamp="1454968142205">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/models/MyModelImpl.java" timestamp="1454246925938">
         <mark key="[" line="22" column="52" />
         <mark key="]" line="22" column="53" />
@@ -301,6 +302,10 @@
         <mark key="]" line="44" column="36" />
         <mark key="^" line="44" column="36" />
         <mark key="." line="44" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/AwesomeProject/MyServiceExample/app/src/main/AndroidManifest.xml" timestamp="1454967679569">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/src/main/java/com/israelferrer/effectiveandroid/ui/ScreenContainerImpl.java" timestamp="1453756526568">
         <mark key="'" line="122" column="4" />
@@ -398,6 +403,11 @@
         <mark key="]" line="197" column="43" />
         <mark key="." line="197" column="43" />
         <mark key="^" line="197" column="43" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/IntentService.java" timestamp="1454968734592">
+        <mark key="'" line="83" column="5" />
+        <mark key="[" line="56" column="20" />
+        <mark key="]" line="56" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453744104180">
         <mark key="[" line="10" column="21" />
@@ -570,6 +580,12 @@
         <mark key="]" line="141" column="267" />
         <mark key="^" line="141" column="266" />
         <mark key="." line="141" column="266" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/AwesomeProject/MyServiceExample/app/src/main/java/com/imallan/myserviceexample/MainActivity.java" timestamp="1454968339254">
+        <mark key="[" line="12" column="62" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="13" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_post_recycler.xml" timestamp="1454083504706">
         <mark key="'" line="17" column="0" />
@@ -818,6 +834,9 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityManagerNative.java" timestamp="1454807172997">
         <mark key="'" line="301" column="36" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/os/HandlerThread.java" timestamp="1454967121851">
+        <mark key="'" line="31" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProductLikersActivity.java" timestamp="1453380900835">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -1001,11 +1020,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="4" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/customviews/TimelineView.java" />
-      <jump line="69" column="12" filename="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/customviews/TimelineView.java" />
-      <jump line="18" column="40" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/LocalService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/build.gradle" />
-      <jump line="36" column="4" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/MainActivity.java" />
       <jump line="10" column="56" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/AndroidManifest.xml" />
       <jump line="65" column="16" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/MessengerServiceActivity.java" />
       <jump line="60" column="29" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/MessengerServiceActivity.java" />
@@ -1101,46 +1115,51 @@
       <jump line="148" column="41" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/java/lang/ThreadLocal.java" />
       <jump line="368" column="17" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/java/lang/ThreadLocal.java" />
       <jump line="145" column="34" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/java/lang/Thread.java" />
+      <jump line="148" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/os/HandlerThread.java" />
+      <jump line="31" column="3" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/os/HandlerThread.java" />
+      <jump line="114" column="12" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/IntentService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/AwesomeProject/MyServiceExample/app/src/main/AndroidManifest.xml" />
+      <jump line="83" column="5" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/IntentService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAiYmluZGVyRGllZDogcmVjb25uZWN0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>newDocumentIntent</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdEb2N1bWVudEludGVudC5hZGRGbGFncyhJbnRlbnQuRkxBR19BQ1RJVklUWV9ORVdfRE9DVU1FTlQpOwo=</text>
+      <register name="0" type="4">
+        <text>mRedelivery</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAiYmluZGVyRGllZDogcmVjb25uZWN0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZEJvb2tTZXJ2aWNlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>newDocumentIntent</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGxvZ2R0CiAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>newDocumentIntent</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>JELLY_BEAN</text>
+        <text>name</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+      <register name="7" type="4">
+        <text>String name</text>
       </register>
-      <register name="8" type="4">
-        <text>hvideo</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlcyBhbiBJbnRlbnRTZXJ2aWNlLiAgSW52b2tlZCBieSB5b3VyIHN1YmNsYXNzJ3MgY29uc3RydWN0b3IuCiAgICAgKgogICAgICogQHBhcmFtIG5hbWUgVXNlZCB0byBuYW1lIHRoZSB3b3JrZXIgdGhyZWFkLCBpbXBvcnRhbnQgb25seSBmb3IgZGVidWdnaW5nLgo=</text>
       </register>
     </registers>
     <search>
