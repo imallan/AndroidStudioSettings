@@ -141,6 +141,10 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values/attrs.xml" timestamp="1454935369674">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_image_drawee.xml" timestamp="1454345881358">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="36" />
@@ -483,6 +487,12 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/BrandsAdapter.java" timestamp="1454935343428">
+        <mark key="[" line="60" column="77" />
+        <mark key="]" line="60" column="76" />
+        <mark key="." line="60" column="76" />
+        <mark key="^" line="60" column="76" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/res/layout/activity_messenger_service.xml" timestamp="1454274197801">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="8" column="36" />
@@ -642,9 +652,8 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/com/android/internal/policy/PhoneWindow.java" timestamp="1454804281152">
-        <mark key="'" line="3647" column="38" />
-        <mark key="m" line="3970" column="17" />
+      <file name="/Dummy.txt" timestamp="1454935087863">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
@@ -718,6 +727,12 @@
       </file>
       <file name="/fragment.java" timestamp="1454933553012">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_brand.xml" timestamp="1454935387484">
+        <mark key="[" line="43" column="29" />
+        <mark key="]" line="38" column="25" />
+        <mark key="^" line="38" column="25" />
+        <mark key="." line="38" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -824,7 +839,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RichActionHolder richActionHolder</text>
+        <text>onlyIcon</text>
       </register>
       <register name="-" type="4">
         <text>RichActionHolder richActionHolder</text>
@@ -833,34 +848,34 @@
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text>RichActionView richActionView</text>
+        <text>onlyIcon</text>
       </register>
-      <register name="1" type="4">
-        <text>RichActionHolder richActionHolder</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBob2xkZXIubGlrZUJ1dHRvbi4K</text>
       </register>
       <register name="2" type="4">
+        <text>RichActionHolder richActionHolder</text>
+      </register>
+      <register name="3" type="4">
         <text>richActionHolder</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5iaW5kUmljaEFjdGlvblZpZXcodmlldywgcmljaEFjdGlvbkhvbGRlciwgbUFjdGlvbnMpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgbVVybDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgbVVybDsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmlldy5zZXRUYWcobVVybCk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>public</text>
-      </register>
       <register name="9" type="4">
-        <text>y</text>
+        <text>public</text>
       </register>
     </registers>
     <search>
