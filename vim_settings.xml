@@ -36,7 +36,7 @@
         <mark key="." line="197" column="43" />
         <mark key="^" line="197" column="43" />
       </file>
-      <file name="/a.dummy" timestamp="1454935388525">
+      <file name="/a.dummy" timestamp="1454936450865">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" timestamp="1453381622142">
@@ -96,6 +96,9 @@
         <mark key="^" line="380" column="138" />
         <mark key="." line="380" column="138" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ProductsColumnsAdapter.java" timestamp="1454674185236">
+        <mark key="'" line="176" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/stetho/stetho/src/main/java/com/facebook/stetho/Stetho.java" timestamp="1454331878603">
         <mark key="'" line="201" column="0" />
         <mark key="[" line="124" column="30" />
@@ -116,6 +119,9 @@
         <mark key="." line="114" column="90" />
         <mark key="^" line="114" column="90" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/widget/Toast.java" timestamp="1454805912729">
+        <mark key="'" line="326" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/ui/ScreenContainer.java" timestamp="1453756233075">
         <mark key="[" line="8" column="34" />
         <mark key="]" line="11" column="46" />
@@ -128,6 +134,9 @@
         <mark key="]" line="35" column="36" />
         <mark key="^" line="35" column="36" />
         <mark key="." line="35" column="36" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/IActivityManager.java" timestamp="1454807127413">
+        <mark key="'" line="614" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453744104180">
         <mark key="[" line="10" column="21" />
@@ -296,6 +305,9 @@
         <mark key="^" line="11" column="55" />
         <mark key="." line="11" column="54" />
       </file>
+      <file name="$USER_HOME$/Desktop/android-DocumentCentricApps/Application/src/main/AndroidManifest.xml" timestamp="1454688845024">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/IBookManager.java" timestamp="1454407221277">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="20" column="14" />
@@ -409,11 +421,12 @@
         <mark key="^" line="31" column="3" />
         <mark key="." line="31" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" timestamp="1454936242006">
-        <mark key="[" line="260" column="12" />
-        <mark key="]" line="260" column="35" />
-        <mark key="." line="260" column="12" />
-        <mark key="^" line="263" column="106" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" timestamp="1454937130589">
+        <mark key="'" line="153" column="8" />
+        <mark key="[" line="259" column="119" />
+        <mark key="]" line="259" column="120" />
+        <mark key="^" line="259" column="120" />
+        <mark key="." line="259" column="120" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/res/layout/activity_binder.xml" timestamp="1454369766467">
         <mark key="[" line="17" column="22" />
@@ -472,11 +485,8 @@
         <mark key="." line="71" column="67" />
         <mark key="^" line="71" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" timestamp="1454936290033">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" timestamp="1454937108697">
+        <mark key="'" line="44" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/reactnative/packages/ReactPackage.java" timestamp="1454426553357">
         <mark key="[" line="6" column="13" />
@@ -496,6 +506,9 @@
         <mark key="]" line="12" column="37" />
         <mark key="^" line="12" column="37" />
         <mark key="." line="12" column="37" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/Window.java" timestamp="1454883401046">
+        <mark key="'" line="1030" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BookManagerImpl.java" timestamp="1454371370343">
         <mark key="'" line="74" column="0" />
@@ -594,6 +607,9 @@
         <mark key="]" line="23" column="60" />
         <mark key="^" line="23" column="60" />
         <mark key="." line="23" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/AbstractProductsListFragment.java" timestamp="1454674202088">
+        <mark key="'" line="79" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/build.gradle" timestamp="1454409837509">
         <mark key="'" line="0" column="0" />
@@ -832,8 +848,11 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" timestamp="1453374525309">
-        <mark key="'" line="317" column="0" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityManagerNative.java" timestamp="1454807172997">
+        <mark key="'" line="301" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" timestamp="1454936872187">
+        <mark key="'" line="89" column="25" />
         <mark key="[" line="510" column="41" />
         <mark key="]" line="510" column="41" />
         <mark key="^" line="510" column="41" />
@@ -1040,10 +1059,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/MessengerServiceActivity.java" />
-      <jump line="43" column="12" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/MessengerServiceActivity.java" />
-      <jump line="35" column="12" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/AIDLActivity.java" />
-      <jump line="24" column="54" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/build/generated/source/aidl/debug/com/imallan/aidlexample/IRemoteService.java" />
       <jump line="39" column="0" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/build/generated/source/aidl/debug/com/imallan/aidlexample/IRemoteService.java" />
       <jump line="52" column="0" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/build/generated/source/aidl/debug/com/imallan/aidlexample/IRemoteService.java" />
       <jump line="70" column="49" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/build/generated/source/aidl/debug/com/imallan/aidlexample/IRemoteService.java" />
@@ -1140,51 +1155,50 @@
       <jump line="123" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
       <jump line="80" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
       <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
+      <jump line="89" column="25" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
+      <jump line="141" column="34" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
+      <jump line="153" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>Liked</text>
       </register>
       <register name="-" type="4">
-        <text>product.getPurchasable()</text>
+        <text>Liked</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>product.getDirectSale()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBBQ1RJT05fTElLRToKICAgICAgICAgICAgICAgIFByb2R1Y3RTZXJ2aWNlLndhbnRQcm9kdWN0KG1BY3Rpdml0eSwgbnVsbCwgcHJvZHVjdC5nZXRJZCgpKTsKICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KG1BY3Rpdml0eSwgIkxpa2VkIiwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7CiAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="1" type="4">
+        <text>Liked</text>
       </register>
       <register name="2" type="4">
-        <text>try {
-                        WebViewActivity.startActivity(mActivity, product.getBuy_url());
-                    } catch (MalformedURLException e) {
-                        Log.e(TAG, &quot;onActionSelected: &quot;, e);
-                        LinkUtils.launchLink(mActivity, product.getBuy_url());
-                    }</text>
+        <text>LIKE</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBBQ1RJT05fQUREOgogICAgICAgICAgICAgICAgQWRkUHJvZHVjdFRvTGlzdEFjdGl2aXR5LnN0YXJ0QWN0aXZpdHkobUFjdGl2aXR5LCBwcm9kdWN0LmdldElkKCkpOwogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwcm9kdWN0LmdldERpcmVjdFNhbGUoKSkgewo=</text>
+      <register name="4" type="4">
+        <text>white_24dp</text>
       </register>
       <register name="5" type="4">
-        <text>product.getPurchasable()</text>
+        <text>actions.add(new Action(activity, &quot;UNLIKE&quot;, R.drawable.ic_like_</text>
       </register>
       <register name="6" type="4">
-        <text>VIEW</text>
+        <text>fill_pink_24dp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9ucy5hZGQobmV3IEFjdGlvbihhY3Rpdml0eSwgIlZJRVciLCBSLmRyYXdhYmxlLmljX2xvZ28sIFByb2R1Y3RBY3Rpb25Ib2xkZXIuQUNUSU9OX1ZJRVcpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9ucy5hZGQobmV3IEFjdGlvbihhY3Rpdml0eSwgIkJVWSIsIFIuZHJhd2FibGUuaWNfY2FyZF92aXNhLCBQcm9kdWN0QWN0aW9uSG9sZGVyLkFDVElPTl9WSUVXKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb25zLmFkZChuZXcgQWN0aW9uKGFjdGl2aXR5LCAiTElLRSIsIFIuZHJhd2FibGUuaWNfbGlrZV9maWxsX3BpbmtfMjRkcCwgUHJvZHVjdEFjdGlvbkhvbGRlci5BQ1RJT05fTElLRSkpOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>VIEW</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
