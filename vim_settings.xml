@@ -458,6 +458,7 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/InstagramWebViewActivity.java" timestamp="1455030860070" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_shopping_cart.xml" timestamp="1453814990775">
         <mark key="[" line="157" column="48" />
         <mark key="]" line="157" column="62" />
@@ -880,11 +881,6 @@
         <mark key="[" line="415" column="0" />
         <mark key="]" line="415" column="0" />
         <mark key="." line="415" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/IntentService.java" timestamp="1454968734592">
-        <mark key="'" line="83" column="5" />
-        <mark key="[" line="56" column="20" />
-        <mark key="]" line="56" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Order.java" timestamp="1453914040326">
         <mark key="'" line="173" column="33" />
