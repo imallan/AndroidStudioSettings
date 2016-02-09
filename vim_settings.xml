@@ -124,15 +124,18 @@
         <mark key="^" line="110" column="84" />
         <mark key="." line="110" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values/attrs.xml" timestamp="1454935369674">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_image_drawee.xml" timestamp="1454345881358">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="36" />
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/RichQuickAction/quickaction/src/main/java/com/imallan/quickaction/RichActionHolder.java" timestamp="1454934730964">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="52" />
+        <mark key="." line="18" column="52" />
+        <mark key="^" line="18" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/res/layout/activity_base.xml" timestamp="1453755236977">
         <mark key="[" line="11" column="16" />
@@ -284,7 +287,7 @@
         <mark key="^" line="24" column="68" />
         <mark key="." line="22" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" timestamp="1453995203763">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" timestamp="1455012541937">
         <mark key="'" line="118" column="12" />
         <mark key="[" line="138" column="22" />
         <mark key="]" line="140" column="16" />
@@ -575,6 +578,13 @@
       <file name="/a.regexp" timestamp="1454088273903">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/RichQuickAction/app/src/main/java/com/imallan/richquickaction/SampleActivity.java" timestamp="1454935025254">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="81" column="50" />
+        <mark key="]" line="81" column="79" />
+        <mark key="." line="81" column="50" />
+        <mark key="^" line="83" column="55" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/VideoUtils.java" timestamp="1454675757673">
         <mark key="'" line="324" column="0" />
         <mark key="[" line="69" column="91" />
@@ -843,6 +853,13 @@
         <mark key="]" line="139" column="103" />
         <mark key="^" line="139" column="118" />
         <mark key="." line="139" column="103" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/RichQuickAction/quickaction/src/main/java/com/imallan/quickaction/QuickActionOnTouchListener.java" timestamp="1454934752918">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="71" column="64" />
+        <mark key="]" line="71" column="67" />
+        <mark key="." line="71" column="67" />
+        <mark key="^" line="71" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/res/layout/activity_main.xml" timestamp="1453762324136">
         <mark key="'" line="2" column="11" />
