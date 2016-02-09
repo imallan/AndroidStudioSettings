@@ -592,6 +592,13 @@
         <mark key="^" line="25" column="28" />
         <mark key="." line="25" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/UserService.java" timestamp="1455020528999">
+        <mark key="'" line="583" column="23" />
+        <mark key="[" line="1160" column="0" />
+        <mark key="]" line="1160" column="0" />
+        <mark key="." line="1160" column="0" />
+        <mark key="^" line="1161" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/LocalService.java" timestamp="1454280695846">
         <mark key="'" line="18" column="40" />
         <mark key="[" line="18" column="40" />
@@ -947,6 +954,13 @@
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SocialNetworksSettingsActivity.java" timestamp="1455020689445">
+        <mark key="'" line="454" column="0" />
+        <mark key="[" line="131" column="35" />
+        <mark key="]" line="131" column="34" />
+        <mark key="." line="131" column="34" />
+        <mark key="^" line="131" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/res/layout/activity_messenger_service.xml" timestamp="1454274197801">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="8" column="36" />
@@ -1157,8 +1171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1135" column="45" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/os/Parcel.java" />
-      <jump line="88" column="42" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BookManagerImpl.java" />
       <jump line="116" column="12" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BookManagerImpl.java" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BookManagerImpl.java" />
       <jump line="129" column="20" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BookManagerImpl.java" />
@@ -1257,13 +1269,15 @@
       <jump line="357" column="56" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
       <jump line="160" column="37" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="87" column="13" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/graphics/drawable/NinePatchDrawable.java" />
+      <jump line="583" column="23" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/UserService.java" />
+      <jump line="454" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SocialNetworksSettingsActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>android</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVzZXIgdXNlciA9IFVzZXIuaW5zdGFuY2UodGhpcyk7CiAgICAgICAgICAgICAgICB1c2VyLnNldEluc3RhZ3JhbUFjY2Vzc1Rva2VuKG51bGwpOwogICAgICAgICAgICAgICAgdXNlci5zYXZlKHRoaXMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>android</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1271,32 +1285,32 @@
       <register name="0" type="4">
         <text encoding="base64">b2JzZXJ2YWJsZQogICAgICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkKICAgICAgICAgICAgICAgIC5vYnNlcnZlT24oQW5kcm9pZFNjaGVkdWxlcnMubWFpblRocmVhZCgpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZShhTG9uZyAtPiB7CiAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLCAib25DcmVhdGU6ICIgKyBhTG9uZyk7CiAgICAgICAgICAgICAgICB9KTs=</text>
       </register>
-      <register name="1" type="4">
-        <text>android</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVzZXIgdXNlciA9IFVzZXIuaW5zdGFuY2UodGhpcyk7CiAgICAgICAgICAgICAgICB1c2VyLnNldEluc3RhZ3JhbUFjY2Vzc1Rva2VuKG51bGwpOwogICAgICAgICAgICAgICAgdXNlci5zYXZlKHRoaXMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbklkICJjb20uYW4iCg==</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSBVc2VyLmluc3RhbmNlKHRoaXMpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydFNlcnZpY2UobmV3IEludGVudCh0aGlzLCBNeVNlcnZpY2UuY2xhc3MpKTsK</text>
+      <register name="3" type="4">
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>onCreate</text>
+        <text>(</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtRXhlY3V0b3JTZXJ2aWNlCg==</text>
+      <register name="5" type="4">
+        <text>SocialNetworksSettingsActivity</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>session.getAccessToken()</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgb25TdGFydENvbW1hbmQoSW50ZW50IGludGVudCwgaW50IGZsYWdzLCBpbnQgc3RhcnRJZCkgewogICAgICAgIHJldHVybiBzdXBlci5vblN0YXJ0Q29tbWFuZChpbnRlbnQsIGZsYWdzLCBzdGFydElkKTsKICAgIH0=</text>
+        <text>SocialNetworksSettingsActivity.this</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtRXhlY3V0b3JTZXJ2aWNlLigpOwo=</text>
+      <register name="8" type="4">
+        <text>session.getAccessToken()</text>
       </register>
       <register name="9" type="4">
-        <text>shutdown</text>
+        <text>SocialNetworksSettingsActivity.this</text>
       </register>
     </registers>
     <search>
