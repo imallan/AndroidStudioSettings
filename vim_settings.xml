@@ -705,6 +705,9 @@
         <mark key="^" line="33" column="7" />
         <mark key="." line="33" column="38" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/graphics/drawable/NinePatchDrawable.java" timestamp="1455018670240">
+        <mark key="'" line="87" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_loading.xml" timestamp="1454674261095">
         <mark key="[" line="13" column="38" />
         <mark key="]" line="13" column="48" />
@@ -1154,7 +1157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="18" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BookManagerImpl.java" />
       <jump line="1135" column="45" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/os/Parcel.java" />
       <jump line="88" column="42" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BookManagerImpl.java" />
       <jump line="116" column="12" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BookManagerImpl.java" />
@@ -1254,6 +1256,7 @@
       <jump line="19" column="49" filename="$USER_HOME$/Documents/GitHub/MyApplication/app/src/main/java/com/imallan/myplayground/MyService.java" />
       <jump line="357" column="56" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
       <jump line="160" column="37" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="87" column="13" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/graphics/drawable/NinePatchDrawable.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
