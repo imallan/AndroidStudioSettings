@@ -456,6 +456,12 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/LinksActivity.java" timestamp="1455102963333">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="41" column="75" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_shopping_cart.xml" timestamp="1453814990775">
         <mark key="[" line="157" column="48" />
         <mark key="]" line="157" column="62" />
@@ -1252,40 +1258,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>token.toString()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text>request.getPayload().getSocialTokens().getTwitterTokens()</text>
+        <text>referrerUri</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyLnNldFR3aXR0ZXJBY2Nlc3NUb2tlbihyZXF1ZXN0LmdldFBheWxvYWQoKS5nZXRTb2NpYWxUb2tlbnMoKS5nZXRUd2l0dGVyVG9rZW5zKCkuZ2V0VG9rZW4oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBHb29nbGXnmoTniKzomavmnaXnnYDvvIzliKvmiorov5nkuKrnrpfkvZxhcHDkvb/nlKjkuoYK</text>
       </register>
-      <register name="3" type="4">
-        <text>token.toString()</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>TwitterAccessToken</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuLi4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>FacebookAccessToken</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDlnKjov5nph4zlop7liqDliIbmnpDnmoTku6PnoIHku6XorrDlvZXku45Hb29nbGUgYXBw54K55Ye76L+b5p2l55qE5rWB6YePCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oU2VydmljZUV4Y2VwdGlvbi5FUlJPUl9VTktOT1dOLCByZXF1ZXN0LmdldEVycm9yTWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oU2VydmljZUV4Y2VwdGlvbi5FUlJPUl9VTktOT1dOLCByZXF1ZXN0LmdldEVycm9yTWVzc2FnZSgpKTsKICAgICAgICAgICAgdXNlci5zZXRGYWNlYm9va0FjY2Vzc1Rva2VuKG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBob3N05Lya5YyF5ZCraG9zdOi3r+W+hCAo5q+U5aaCd3d3Lmdvb2dsZS5jb20pCg==</text>
       </register>
-      <register name="9" type="4">
-        <text />
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBBcHDku45Hb29nbGUgYXBw6KKr5omT5byACg==</text>
       </register>
     </registers>
     <search>
