@@ -52,8 +52,8 @@
         <mark key="^" line="45" column="3" />
         <mark key="." line="45" column="3" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ViewRootImpl.java" timestamp="1455026193909">
-        <mark key="'" line="4677" column="32" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ViewRootImpl.java" timestamp="1455108075118">
+        <mark key="'" line="7171" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/models/MyModel.java" timestamp="1454179630834">
         <mark key="[" line="12" column="45" />
@@ -76,12 +76,6 @@
         <mark key="]" line="36" column="15" />
         <mark key="." line="36" column="15" />
         <mark key="^" line="36" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/MyApplication/app/src/main/java/com/imallan/myplayground/MainActivity.java" timestamp="1454971294408">
-        <mark key="'" line="5" column="52" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453744104180">
         <mark key="[" line="10" column="21" />
@@ -189,6 +183,7 @@
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="37" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/content/Context.java" timestamp="1455107513094" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values/strings.xml" timestamp="1454668512756">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="267" />
@@ -238,6 +233,9 @@
         <mark key="]" line="10" column="32" />
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/com/android/server/wm/WindowManagerService.java" timestamp="1455107711708">
+        <mark key="'" line="210" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" timestamp="1454937130589">
         <mark key="'" line="153" column="8" />
@@ -305,6 +303,9 @@
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/Window.java" timestamp="1454883401046">
         <mark key="'" line="1030" column="6" />
+      </file>
+      <file name="/Volumes/android/WORKING_DIRECTORY/frameworks/support/v7/recyclerview/src/android/support/v7/widget/RecyclerView.java" timestamp="1455107674920">
+        <mark key="'" line="10217" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_shopping_cart_product.xml" timestamp="1453815005996">
         <mark key="[" line="198" column="40" />
@@ -388,8 +389,8 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityThread.java" timestamp="1455105155853">
-        <mark key="'" line="5411" column="0" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityThread.java" timestamp="1455107738314">
+        <mark key="'" line="5420" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImagePinchZoomActivity.java" timestamp="1454346271708">
         <mark key="[" line="60" column="44" />
@@ -518,6 +519,9 @@
         <mark key="^" line="30" column="45" />
         <mark key="." line="30" column="45" />
       </file>
+      <file name="/Volumes/android/WORKING_DIRECTORY/out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/core/java/android/view/IWindowManager.java" timestamp="1455108033391">
+        <mark key="'" line="2711" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_post_recycler.xml" timestamp="1454083504706">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="3" column="84" />
@@ -629,6 +633,9 @@
         <mark key="]" line="113" column="54" />
         <mark key="^" line="50" column="7" />
         <mark key="." line="50" column="7" />
+      </file>
+      <file name="/Volumes/android/WORKING_DIRECTORY/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" timestamp="1455107703472">
+        <mark key="'" line="12022" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/MyApplication/app/src/main/AndroidManifest.xml" timestamp="1454971230863">
         <mark key="[" line="16" column="19" />
@@ -842,6 +849,9 @@
         <mark key="^" line="31" column="3" />
         <mark key="." line="31" column="4" />
       </file>
+      <file name="/Volumes/android/WORKING_DIRECTORY/libcore/ojluni/src/main/java/java/lang/ThreadLocal.java" timestamp="1455108104109">
+        <mark key="'" line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_shopping_basket.xml" timestamp="1453814453562">
         <mark key="[" line="10" column="44" />
         <mark key="]" line="11" column="29" />
@@ -883,12 +893,6 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Griffin/build.gradle" timestamp="1453464337709">
         <mark key="[" line="7" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" timestamp="1454932216771">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="415" column="0" />
-        <mark key="]" line="415" column="0" />
-        <mark key="." line="415" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Order.java" timestamp="1453914040326">
         <mark key="'" line="173" column="33" />
@@ -955,6 +959,9 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
+      </file>
+      <file name="/Volumes/android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" timestamp="1455108066691">
+        <mark key="'" line="7184" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SocialNetworksSettingsActivity.java" timestamp="1455021340520">
         <mark key="'" line="58" column="0" />
@@ -1161,22 +1168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="4" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BinderActivity.java" />
-      <jump line="93" column="52" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BinderActivity.java" />
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BinderActivity.java" />
-      <jump line="41" column="65" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BinderActivity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BinderActivity.java" />
-      <jump line="188" column="22" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/os/IBinder.java" />
-      <jump line="59" column="25" filename="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BoomManagerImpl.java" />
-      <jump line="78" column="14" filename="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BoomManagerImpl.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BoomManagerImpl.java" />
-      <jump line="54" column="30" filename="$USER_HOME$/Documents/GitHub/BinderExample/app/build/generated/source/aidl/debug/com/imallan/binderexample/IMyAidlInterface.java" />
-      <jump line="127" column="0" filename="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BoomManagerImpl.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BoomManagerImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/BinderExample/app/build.gradle" />
-      <jump line="79" column="0" filename="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/MainActivity.java" />
-      <jump line="27" column="0" filename="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/MainActivity.java" />
-      <jump line="30" column="25" filename="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BookManagerImpl.java" />
       <jump line="136" column="22" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="41" column="27" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ReactActivity.java" />
       <jump line="293" column="69" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
@@ -1261,6 +1252,22 @@
       <jump line="1889" column="0" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/Window.java" />
       <jump line="1126" column="29" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/Window.java" />
       <jump line="497" column="34" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/core/java/android/content/Context.java" />
+      <jump line="18" column="0" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/support/v7/recyclerview/src/android/support/v7/widget/RecyclerView.java" />
+      <jump line="10217" column="0" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/support/v7/recyclerview/src/android/support/v7/widget/RecyclerView.java" />
+      <jump line="0" column="0" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
+      <jump line="11975" column="0" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
+      <jump line="834" column="54" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
+      <jump line="12022" column="0" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
+      <jump line="210" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/com/android/server/wm/WindowManagerService.java" />
+      <jump line="5420" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityThread.java" />
+      <jump line="10" column="38" filename="/Volumes/android/WORKING_DIRECTORY/out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/core/java/android/view/IWindowManager.java" />
+      <jump line="0" column="0" filename="/Volumes/android/WORKING_DIRECTORY/out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/core/java/android/view/IWindowManager.java" />
+      <jump line="2711" column="0" filename="/Volumes/android/WORKING_DIRECTORY/out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/core/java/android/view/IWindowManager.java" />
+      <jump line="133" column="0" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
+      <jump line="7184" column="0" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
+      <jump line="115" column="6" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
+      <jump line="7171" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
+      <jump line="22" column="0" filename="/Volumes/android/WORKING_DIRECTORY/libcore/ojluni/src/main/java/java/lang/ThreadLocal.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
