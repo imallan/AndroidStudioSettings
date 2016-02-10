@@ -340,11 +340,11 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" timestamp="1454326936470">
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="228" column="0" />
-        <mark key="^" line="227" column="7" />
-        <mark key="." line="228" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" timestamp="1455104998601">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/layout_side_navigation.xml" timestamp="1453976021524">
         <mark key="[" line="113" column="46" />
@@ -384,6 +384,9 @@
         <mark key="]" line="10" column="35" />
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityThread.java" timestamp="1455105155853">
+        <mark key="'" line="5411" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImagePinchZoomActivity.java" timestamp="1454346271708">
         <mark key="[" line="60" column="44" />
@@ -456,11 +459,11 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/LinksActivity.java" timestamp="1455102963333">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="41" column="75" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/LinksActivity.java" timestamp="1455104996069">
+        <mark key="[" line="19" column="53" />
+        <mark key="]" line="19" column="52" />
+        <mark key="^" line="19" column="52" />
+        <mark key="." line="19" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_shopping_cart.xml" timestamp="1453814990775">
         <mark key="[" line="157" column="48" />
@@ -1152,8 +1155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BookManagerImpl.java" />
-      <jump line="124" column="0" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BookManagerImpl.java" />
       <jump line="69" column="0" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BookManagerImpl.java" />
       <jump line="81" column="24" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/java/util/concurrent/CopyOnWriteArrayList.java" />
       <jump line="71" column="0" filename="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/BookManagerImpl.java" />
@@ -1252,6 +1253,8 @@
       <jump line="1138" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/UserService.java" />
       <jump line="2183" column="66" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
       <jump line="4677" column="32" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityThread.java" />
+      <jump line="5411" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityThread.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
