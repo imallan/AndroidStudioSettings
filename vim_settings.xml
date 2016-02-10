@@ -261,10 +261,10 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" timestamp="1455115693626">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" timestamp="1455119352014">
         <mark key="'" line="451" column="0" />
-        <mark key="[" line="392" column="82" />
-        <mark key="]" line="392" column="81" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="67" />
         <mark key="^" line="392" column="81" />
         <mark key="." line="392" column="81" />
       </file>
@@ -463,12 +463,12 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/LinksActivity.java" timestamp="1455117016353">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="15" column="52" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/LinksActivity.java" timestamp="1455119363648">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="14" column="52" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_shopping_cart.xml" timestamp="1453814990775">
         <mark key="[" line="157" column="48" />
@@ -868,11 +868,11 @@
         <mark key="^" line="139" column="118" />
         <mark key="." line="139" column="103" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/release/AndroidManifest.xml" timestamp="1455115721448">
-        <mark key="[" line="53" column="36" />
-        <mark key="]" line="53" column="36" />
-        <mark key="." line="53" column="36" />
-        <mark key="^" line="53" column="35" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/release/AndroidManifest.xml" timestamp="1455119356424">
+        <mark key="[" line="42" column="67" />
+        <mark key="]" line="42" column="66" />
+        <mark key="." line="42" column="66" />
+        <mark key="^" line="42" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/RichQuickAction/quickaction/src/main/java/com/imallan/quickaction/QuickActionOnTouchListener.java" timestamp="1454934752918">
         <mark key="'" line="15" column="0" />
@@ -1288,43 +1288,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9wbGFjZWhvbGRlcik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>NoActionBar</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkYXRhIGFuZHJvaWQ6aG9zdD0id3d3LnNob3BjYWRlLmNvbSIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL1RoZW1lLlNob3BjYWRlLlRvb2xiYXIuTGF1bmNoZXIiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9wbGFjZWhvbGRlcik7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL1RoZW1lLlNob3BjYWRlLk5vQWN0aW9uQmFyIj4K</text>
       </register>
-      <register name="3" type="4">
-        <text>www</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmFjawo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>NoActionBar</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBHb29nbGXnmoTniKzomavmnaXnnYDvvIzliKvmiorov5nkuKrnrpfkvZxhcHDkvb/nlKjkuoYK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuLi4K</text>
+      <register name="7" type="4">
+        <text>www</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDlnKjov5nph4zlop7liqDliIbmnpDnmoTku6PnoIHku6XorrDlvZXku45Hb29nbGUgYXBw54K55Ye76L+b5p2l55qE5rWB6YePCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBHb29nbGXnmoTniKzomavmnaXnnYDvvIzliKvmiorov5nkuKrnrpfkvZxhcHDkvb/nlKjkuoYK</text>
       </register>
     </registers>
     <search>
