@@ -960,8 +960,12 @@
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="/Volumes/android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" timestamp="1455110011122">
-        <mark key="'" line="100" column="53" />
+      <file name="/Volumes/android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" timestamp="1455111357771">
+        <mark key="'" line="106" column="41" />
+        <mark key="[" line="101" column="36" />
+        <mark key="]" line="101" column="34" />
+        <mark key="^" line="101" column="34" />
+        <mark key="." line="101" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SocialNetworksSettingsActivity.java" timestamp="1455021340520">
         <mark key="'" line="58" column="0" />
@@ -1168,7 +1172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="27" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ReactActivity.java" />
       <jump line="293" column="69" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
       <jump line="273" column="7" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
       <jump line="167" column="51" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
@@ -1268,6 +1271,7 @@
       <jump line="7171" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
       <jump line="22" column="0" filename="/Volumes/android/WORKING_DIRECTORY/libcore/ojluni/src/main/java/java/lang/ThreadLocal.java" />
       <jump line="100" column="53" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
+      <jump line="106" column="41" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
