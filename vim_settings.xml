@@ -23,7 +23,7 @@
         <mark key="." line="451" column="0" />
         <mark key="^" line="452" column="33" />
       </file>
-      <file name="/a.dummy" timestamp="1455126390408">
+      <file name="/a.dummy" timestamp="1455193291908">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" timestamp="1453381622142">
@@ -142,11 +142,11 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/SettingsService.java" timestamp="1455022469130">
-        <mark key="[" line="167" column="24" />
-        <mark key="]" line="167" column="54" />
-        <mark key="." line="167" column="54" />
-        <mark key="^" line="167" column="54" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/SettingsService.java" timestamp="1455197039968">
+        <mark key="[" line="181" column="58" />
+        <mark key="]" line="182" column="23" />
+        <mark key="." line="179" column="33" />
+        <mark key="^" line="182" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/Book.java" timestamp="1454407196111">
         <mark key="[" line="8" column="40" />
@@ -191,6 +191,9 @@
         <mark key="]" line="33" column="37" />
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="37" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/util/Log.java" timestamp="1455197164886">
+        <mark key="'" line="220" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values/strings.xml" timestamp="1454668512756">
         <mark key="[" line="141" column="0" />
@@ -252,12 +255,11 @@
         <mark key="^" line="259" column="120" />
         <mark key="." line="259" column="120" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/StartActivity.java" timestamp="1455125407963">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/StartActivity.java" timestamp="1455195792011">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="47" column="82" />
-        <mark key="]" line="48" column="15" />
-        <mark key="." line="48" column="15" />
-        <mark key="^" line="48" column="15" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/res/layout/activity_binder.xml" timestamp="1454369766467">
         <mark key="[" line="17" column="22" />
@@ -341,11 +343,12 @@
         <mark key="^" line="198" column="54" />
         <mark key="." line="198" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" timestamp="1453378045136">
-        <mark key="[" line="748" column="24" />
-        <mark key="]" line="748" column="34" />
-        <mark key="^" line="765" column="38" />
-        <mark key="." line="765" column="38" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" timestamp="1455195574579">
+        <mark key="'" line="1571" column="39" />
+        <mark key="[" line="1584" column="49" />
+        <mark key="]" line="1584" column="63" />
+        <mark key="." line="1584" column="63" />
+        <mark key="^" line="1584" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/AppIndexingUtils.java" timestamp="1453890372165">
         <mark key="[" line="20" column="27" />
@@ -372,12 +375,12 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" timestamp="1455192701215">
-        <mark key="'" line="503" column="11" />
-        <mark key="[" line="154" column="22" />
-        <mark key="]" line="154" column="28" />
-        <mark key="^" line="154" column="28" />
-        <mark key="." line="154" column="28" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" timestamp="1455194864094">
+        <mark key="'" line="497" column="9" />
+        <mark key="[" line="540" column="16" />
+        <mark key="]" line="540" column="45" />
+        <mark key="." line="540" column="45" />
+        <mark key="^" line="540" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/layout_side_navigation.xml" timestamp="1453976021524">
         <mark key="[" line="113" column="46" />
@@ -433,12 +436,12 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/DBHelper.java" timestamp="1453378108102">
-        <mark key="'" line="96" column="77" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="96" column="95" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/DBHelper.java" timestamp="1455195592962">
+        <mark key="'" line="205" column="0" />
+        <mark key="[" line="97" column="67" />
+        <mark key="]" line="97" column="80" />
+        <mark key="^" line="97" column="80" />
+        <mark key="." line="97" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/values/styles.xml" timestamp="1453744270578">
         <mark key="[" line="3" column="57" />
@@ -548,12 +551,12 @@
         <mark key="^" line="30" column="45" />
         <mark key="." line="30" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Settings.java" timestamp="1455122435013">
-        <mark key="'" line="737" column="0" />
-        <mark key="[" line="724" column="35" />
-        <mark key="]" line="724" column="45" />
-        <mark key="." line="724" column="45" />
-        <mark key="^" line="724" column="45" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Settings.java" timestamp="1455195885723">
+        <mark key="'" line="739" column="0" />
+        <mark key="[" line="134" column="68" />
+        <mark key="]" line="134" column="97" />
+        <mark key="." line="134" column="68" />
+        <mark key="^" line="134" column="67" />
       </file>
       <file name="/Volumes/android/WORKING_DIRECTORY/out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/core/java/android/view/IWindowManager.java" timestamp="1455108033391">
         <mark key="'" line="2711" column="0" />
@@ -782,6 +785,13 @@
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/AnalyticsEvent.java" timestamp="1455195283777">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="70" column="5" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="32" column="46" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/WebViewActivity.java" timestamp="1453995425658">
         <mark key="[" line="182" column="72" />
@@ -1033,11 +1043,12 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" timestamp="1455185440638">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" timestamp="1455196977319">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="22" column="56" />
+        <mark key="]" line="22" column="55" />
+        <mark key="^" line="22" column="55" />
+        <mark key="." line="22" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PresenterHolder.java" timestamp="1453743612921">
         <mark key="'" line="11" column="24" />
@@ -1171,6 +1182,16 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1455197129472">
+        <mark key="'" line="167" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/WakeUp.java" timestamp="1455195996940">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="17" column="47" />
+        <mark key="]" line="18" column="38" />
+        <mark key="^" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/WindowManagerGlobal.java" timestamp="1454887281858">
         <mark key="'" line="230" column="16" />
       </file>
@@ -1238,38 +1259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/VideoUtils.java" />
-      <jump line="245" column="32" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/VideoUtils.java" />
-      <jump line="320" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/VideoUtils.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/Desktop/android-DocumentCentricApps/Application/src/main/AndroidManifest.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/PostsService.java" />
-      <jump line="3647" column="38" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/com/android/internal/policy/PhoneWindow.java" />
-      <jump line="326" column="25" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/widget/Toast.java" />
-      <jump line="614" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/IActivityManager.java" />
-      <jump line="301" column="36" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityManagerNative.java" />
-      <jump line="1030" column="6" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/Window.java" />
-      <jump line="27" column="47" filename="$USER_HOME$/Desktop/FragmentAsAService/app/src/main/java/com/imallan/fragmentasaservice/MainActivity.java" />
-      <jump line="120" column="0" filename="$USER_HOME$/Documents/GitHub/RichQuickAction/app/src/main/java/com/imallan/richquickaction/SampleActivity.java" />
-      <jump line="77" column="22" filename="$USER_HOME$/Documents/GitHub/RichQuickAction/app/src/main/java/com/imallan/richquickaction/SampleActivity.java" />
-      <jump line="29" column="28" filename="$USER_HOME$/Documents/GitHub/RichQuickAction/quickaction/src/main/java/com/imallan/quickaction/QuickActionOnTouchListener.java" />
-      <jump line="35" column="39" filename="$USER_HOME$/Documents/GitHub/RichQuickAction/quickaction/src/main/java/com/imallan/quickaction/RichActionHolder.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/RichQuickAction/quickaction/src/main/java/com/imallan/quickaction/RichActionHolder.java" />
-      <jump line="85" column="22" filename="$USER_HOME$/Documents/GitHub/RichQuickAction/app/src/main/java/com/imallan/richquickaction/SampleActivity.java" />
-      <jump line="67" column="0" filename="$USER_HOME$/Documents/GitHub/RichQuickAction/app/src/main/java/com/imallan/richquickaction/SampleActivity.java" />
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/GitHub/RichQuickAction/app/src/main/java/com/imallan/richquickaction/SampleActivity.java" />
-      <jump line="31" column="30" filename="$USER_HOME$/Documents/GitHub/RichQuickAction/quickaction/src/main/java/com/imallan/quickaction/QuickActionOnTouchListener.java" />
-      <jump line="73" column="15" filename="$USER_HOME$/Documents/GitHub/RichQuickAction/quickaction/src/main/java/com/imallan/quickaction/QuickActionOnTouchListener.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/GitHub/RichQuickAction/quickaction/src/main/java/com/imallan/quickaction/QuickActionOnTouchListener.java" />
-      <jump line="81" column="19" filename="$USER_HOME$/Documents/GitHub/RichQuickAction/app/src/main/java/com/imallan/richquickaction/SampleActivity.java" />
-      <jump line="82" column="29" filename="$USER_HOME$/Documents/GitHub/RichQuickAction/app/src/main/java/com/imallan/richquickaction/SampleActivity.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/RichQuickAction/app/src/main/java/com/imallan/richquickaction/SampleActivity.java" />
-      <jump line="97" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
-      <jump line="149" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
-      <jump line="123" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
-      <jump line="80" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
       <jump line="89" column="25" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" />
       <jump line="49" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
       <jump line="141" column="34" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
@@ -1331,53 +1320,85 @@
       <jump line="150" column="11" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" />
       <jump line="164" column="31" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/NotificationUtils.java" />
       <jump line="61" column="59" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
-      <jump line="35" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
-      <jump line="32" column="36" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
       <jump line="502" column="11" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/StartActivity.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
       <jump line="79" column="16" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/LooksActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/DBHelper.java" />
+      <jump line="782" column="35" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" />
+      <jump line="1553" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" />
+      <jump line="1557" column="7" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" />
+      <jump line="1583" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" />
+      <jump line="1555" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" />
+      <jump line="1565" column="7" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" />
+      <jump line="1567" column="33" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" />
+      <jump line="1571" column="39" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" />
+      <jump line="223" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/DBHelper.java" />
+      <jump line="20" column="40" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/DBHelper.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/AnalyticsEvent.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/AnalyticsEvent.java" />
+      <jump line="22" column="29" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/AnalyticsEvent.java" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/AnalyticsEvent.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/AnalyticsEvent.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/AnalyticsEvent.java" />
+      <jump line="35" column="36" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
+      <jump line="45" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
+      <jump line="466" column="12" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" />
+      <jump line="497" column="9" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" />
+      <jump line="63" column="19" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/AnalyticsEvent.java" />
+      <jump line="35" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/AnalyticsEvent.java" />
+      <jump line="44" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/AnalyticsEvent.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/AnalyticsEvent.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/AnalyticsEvent.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/AnalyticsEvent.java" />
+      <jump line="157" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/DBHelper.java" />
+      <jump line="204" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/DBHelper.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/WakeUp.java" />
+      <jump line="167" column="38" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="220" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/util/Log.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>COMMUNITY</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgam91cm5leU5hbWUgPSBBbmFseXRpY3MuTWl4cGFuZWwuSm91cm5leVNjcmVlbi5DT01NVU5JVFk7CiAgICAgICAgb2xkSm91cm5leS5hZGQoam91cm5leU5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWVzdC5nZXRQYXlsb2FkKCkuZ2V0QW5hbHl0aWNzTGFzdFN5bmNUaW1lKCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="4">
-        <text>COMMUNITY</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWVzdC5nZXRQYXlsb2FkKCkuZ2V0QW5hbHl0aWNzTGFzdFN5bmNUaW1lKCkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5oYW5kbGVKb3VybmV5KG9sZEpvdXJuZXkpOwo=</text>
+      <register name="3" type="4">
+        <text>)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkK</text>
       </register>
-      <register name="5" type="4">
-        <text>TRENDING_FEED</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWVzdC5nZXRQYXlsb2FkKCkuZ2V0QW5hbHl0aWNzTGFzdFN5bmNUaW1lKCkK</text>
       </register>
       <register name="6" type="4">
-        <text>Analytics.</text>
+        <text>Service</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5oYW5kbGVKb3VybmV5KG9sZEpvdXJuZXkpOwo=</text>
+      <register name="7" type="4">
+        <text>delted</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFja1JlZmVycmVyKCk7Cg==</text>
+      <register name="8" type="4">
+        <text>d</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFja1JlZmVycmVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKgo=</text>
       </register>
     </registers>
     <search>
