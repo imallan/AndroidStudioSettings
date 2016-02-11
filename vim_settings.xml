@@ -22,7 +22,7 @@
         <mark key="]" line="448" column="37" />
         <mark key="." line="448" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1455204334928">
+      <file name="/a.dummy" timestamp="1455208489423">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" timestamp="1453381622142">
@@ -115,12 +115,12 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Analytics.java" timestamp="1455192160639">
         <mark key="[" line="1323" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" timestamp="1455201681675">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="1128" column="33" />
-        <mark key="]" line="1128" column="95" />
-        <mark key="^" line="1128" column="95" />
-        <mark key="." line="1128" column="95" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" timestamp="1455207143198">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="1126" column="60" />
+        <mark key="]" line="1126" column="49" />
+        <mark key="^" line="1126" column="49" />
+        <mark key="." line="1126" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_image_drawee.xml" timestamp="1454345881358">
         <mark key="[" line="9" column="31" />
@@ -593,7 +593,7 @@
         <mark key="^" line="303" column="51" />
         <mark key="." line="303" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1455204334924">
+      <file name="/Dummy.txt" timestamp="1455208489417">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
@@ -904,12 +904,12 @@
       <file name="/Volumes/android/WORKING_DIRECTORY/libcore/ojluni/src/main/java/java/lang/ThreadLocal.java" timestamp="1455108104109">
         <mark key="'" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" timestamp="1455201535818">
-        <mark key="'" line="55" column="25" />
-        <mark key="[" line="962" column="4" />
-        <mark key="]" line="962" column="15" />
-        <mark key="." line="962" column="15" />
-        <mark key="^" line="962" column="15" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" timestamp="1455207155799">
+        <mark key="'" line="962" column="27" />
+        <mark key="[" line="964" column="18" />
+        <mark key="]" line="964" column="31" />
+        <mark key="." line="964" column="31" />
+        <mark key="^" line="964" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_shopping_basket.xml" timestamp="1453814453562">
         <mark key="[" line="10" column="44" />
@@ -1052,12 +1052,12 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" timestamp="1455203964470">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="95" column="17" />
-        <mark key="]" line="95" column="24" />
-        <mark key="^" line="95" column="24" />
-        <mark key="." line="95" column="24" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" timestamp="1455208498313">
+        <mark key="'" line="120" column="46" />
+        <mark key="[" line="42" column="57" />
+        <mark key="]" line="42" column="59" />
+        <mark key="." line="42" column="59" />
+        <mark key="^" line="42" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PresenterHolder.java" timestamp="1453743612921">
         <mark key="'" line="11" column="24" />
@@ -1272,12 +1272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="583" column="23" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/UserService.java" />
-      <jump line="454" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SocialNetworksSettingsActivity.java" />
-      <jump line="423" column="36" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SocialNetworksSettingsActivity.java" />
-      <jump line="58" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SocialNetworksSettingsActivity.java" />
-      <jump line="1138" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/UserService.java" />
-      <jump line="2183" column="66" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
       <jump line="4677" column="32" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
       <jump line="15" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityThread.java" />
       <jump line="5411" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/ActivityThread.java" />
@@ -1372,46 +1366,52 @@
       <jump line="31" column="50" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
       <jump line="93" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
       <jump line="387" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
+      <jump line="963" column="27" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" />
+      <jump line="98" column="17" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
+      <jump line="99" column="26" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
+      <jump line="56" column="29" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
+      <jump line="120" column="46" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAodHV0b3JpYWxQcmVmZXJlbmNlcy5jb250YWlucyhTZXR0aW5ncy5UdXRvcmlhbC5GSU5JU0hFRCkgJiYgdHV0b3JpYWxQcmVmZXJlbmNlcy5nZXRCb29sZWFuKFNldHRpbmdzLlR1dG9yaWFsLkZJTklTSEVELCB0cnVlKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBsYXN0U3luY2VkIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text>Math.max(lastSynced[0], event.getTimestamp());</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodHV0b3JpYWxQcmVmZXJlbmNlcy5jb250YWlucyhTZXR0aW5ncy5UdXRvcmlhbC5GSU5JU0hFRCkgJiYgdHV0b3JpYWxQcmVmZXJlbmNlcy5nZXRCb29sZWFuKFNldHRpbmdzLlR1dG9yaWFsLkZJTklTSEVELCB0cnVlKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wVGltZXN0YW1wWzBdID0gLTE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAodHV0b3JpYWxQcmVmZXJlbmNlcy5jb250YWlucyhTZXR0aW5ncy5UdXRvcmlhbC5GSU5JU0hFRCkgJiYgdHV0b3JpYWxQcmVmZXJlbmNlcy5nZXRCb29sZWFuKFNldHRpbmdzLlR1dG9yaWFsLkZJTklTSEVELCB0cnVlKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBsYXN0U3luY2VkIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAg</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">dHV0b3JpYWxQcmVmZXJlbmNlcy5jb250YWlucyhTZXR0aW5ncy5UdXRvcmlhbC5GSU5JU0hFRCkgJiYgdHV0b3JpYWxQcmVmZXJlbmNlcy5nZXRCb29sZWFuKFNldHRpbmdzLlR1dG9yaWFsLkZJTklTSEVELCB0cnVlKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYXN0U3luY2VkWzBdID0gbGlzdAo=</text>
       </register>
       <register name="4" type="4">
-        <text>map</text>
+        <text>Math.max(lastSynced[0], event.getTimestamp());</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBbmFseXRpY3NTZXJ2aWNlLmZsdXNoKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhc3RTeW5jZWRbMF0gPSBNYXRoLm1heChsYXN0U3luY2VkWzBdLCBldmVudC5nZXRUaW1lc3RhbXAoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBbmFseXRpY3NTZXJ2aWNlLmZsdXNoKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhc3RTeW5jZWRbMF0gPSBNYXRoLm1heChsYXN0U3luY2VkWzBdLCBldmVudC5nZXRUaW1lc3RhbXAoKSk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBbmFseXRpY3NTZXJ2aWNlLmZsdXNoKHRoaXMpOwo=</text>
+      <register name="7" type="4">
+        <text>000</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>1000</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb25nIGxhc3RTeW5jZWQgPSAwOwo=</text>
+      <register name="9" type="4">
+        <text>1000</text>
       </register>
     </registers>
     <search>
