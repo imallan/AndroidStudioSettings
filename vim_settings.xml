@@ -1043,12 +1043,12 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" timestamp="1455196977319">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="22" column="56" />
-        <mark key="]" line="22" column="55" />
-        <mark key="^" line="22" column="55" />
-        <mark key="." line="22" column="55" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" timestamp="1455197347778">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="69" column="7" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PresenterHolder.java" timestamp="1453743612921">
         <mark key="'" line="11" column="24" />
@@ -1182,8 +1182,12 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1455197129472">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1455197589204">
         <mark key="'" line="167" column="38" />
+        <mark key="[" line="104" column="23" />
+        <mark key="]" line="104" column="27" />
+        <mark key="." line="104" column="27" />
+        <mark key="^" line="104" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/WakeUp.java" timestamp="1455195996940">
         <mark key="'" line="37" column="0" />
@@ -1259,9 +1263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="25" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" />
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
-      <jump line="141" column="34" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/quickaction/ProductActionHolder.java" />
       <jump line="153" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/MyApplication/app/build.gradle" />
       <jump line="12" column="52" filename="$USER_HOME$/Documents/GitHub/MyApplication/app/src/main/java/com/imallan/myplayground/MainActivity.java" />
@@ -1359,13 +1360,16 @@
       <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/WakeUp.java" />
       <jump line="167" column="38" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="220" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/util/Log.java" />
+      <jump line="70" column="7" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
+      <jump line="69" column="10" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1374,31 +1378,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWVzdC5nZXRQYXlsb2FkKCkuZ2V0QW5hbHl0aWNzTGFzdFN5bmNUaW1lKCkK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWVzdC5nZXRQYXlsb2FkKCkuZ2V0QW5hbHl0aWNzTGFzdFN5bmNUaW1lKCkK</text>
+      <register name="2" type="4">
+        <text>false</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>true</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkK</text>
+      <register name="4" type="4">
+        <text>true</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWVzdC5nZXRQYXlsb2FkKCkuZ2V0QW5hbHl0aWNzTGFzdFN5bmNUaW1lKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>Service</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiU2hvcGNhZGVBbmFseXRpY3MiOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>delted</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJoYW5kbGVTYXZlRXZlbnQ6IHN5bmNlZCByZWNvcmRzIGRlbGV0ZWQ6ICIgKyBkZWxldGVkKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>d</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJoYW5kbGVTYXZlRXZlbnQ6IHNhdmVkIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKgo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJoYW5kbGVTYXZlRXZlbnQ6IFxuIiArIGV2ZW50LnRvSnNvblN0cigpKTsK</text>
       </register>
     </registers>
     <search>
