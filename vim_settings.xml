@@ -22,7 +22,7 @@
         <mark key="]" line="448" column="37" />
         <mark key="." line="448" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1455208663974">
+      <file name="/a.dummy" timestamp="1455213681928">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" timestamp="1453381622142">
@@ -247,12 +247,11 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/com/android/server/wm/WindowManagerService.java" timestamp="1455107711708">
         <mark key="'" line="210" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" timestamp="1455213677714">
-        <mark key="'" line="551" column="0" />
-        <mark key="[" line="286" column="23" />
-        <mark key="]" line="286" column="23" />
-        <mark key="." line="286" column="23" />
-        <mark key="^" line="286" column="23" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" timestamp="1455213779596">
+        <mark key="'" line="553" column="0" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/StartActivity.java" timestamp="1455204332170">
         <mark key="'" line="39" column="0" />
@@ -536,6 +535,12 @@
         <mark key="]" line="52" column="37" />
         <mark key="^" line="52" column="37" />
         <mark key="." line="52" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Post.java" timestamp="1455213887584">
+        <mark key="[" line="373" column="68" />
+        <mark key="]" line="375" column="22" />
+        <mark key="^" line="375" column="22" />
+        <mark key="." line="375" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/RichQuickAction/quickaction/src/main/java/com/imallan/quickaction/QuickActionView.java" timestamp="1454934301471">
         <mark key="[" line="10" column="41" />
@@ -1386,8 +1391,8 @@
       <jump line="45" column="46" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/PostGalleryPager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>animated</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>animated</text>
@@ -1398,32 +1403,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkdW1wVGltZXN0YW1wWzBdID0gLTE7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>animated</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>anmiated</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>animated</text>
       </register>
       <register name="5" type="4">
-        <text>mViewPager</text>
+        <text>anmiated</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVZpZXdQYWdlci5yZXF1ZXN0TGF5b3V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVZpZXdQYWdlci5wb3N0KCgpIC0+IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="8" type="4">
+        <text>mViewPager</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVZpZXdQYWdlci5yZXF1ZXN0TGF5b3V0KCk7Cg==</text>
       </register>
     </registers>
     <search>
