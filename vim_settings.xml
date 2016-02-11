@@ -22,7 +22,7 @@
         <mark key="]" line="448" column="37" />
         <mark key="." line="448" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1455208489423">
+      <file name="/a.dummy" timestamp="1455208499437">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" timestamp="1453381622142">
@@ -593,8 +593,10 @@
         <mark key="^" line="303" column="51" />
         <mark key="." line="303" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1455208489417">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1455208513557">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
@@ -1052,12 +1054,12 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" timestamp="1455208498313">
-        <mark key="'" line="120" column="46" />
-        <mark key="[" line="42" column="57" />
-        <mark key="]" line="42" column="59" />
-        <mark key="." line="42" column="59" />
-        <mark key="^" line="42" column="59" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" timestamp="1455208660538">
+        <mark key="'" line="124" column="46" />
+        <mark key="[" line="66" column="20" />
+        <mark key="]" line="66" column="33" />
+        <mark key="." line="66" column="33" />
+        <mark key="^" line="66" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PresenterHolder.java" timestamp="1453743612921">
         <mark key="'" line="11" column="24" />
@@ -1374,11 +1376,11 @@
       <jump line="120" column="46" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0U3luY2VkIAo=</text>
+      <register name="&quot;" type="4">
+        <text>to</text>
       </register>
       <register name="-" type="4">
-        <text>Math.max(lastSynced[0], event.getTimestamp());</text>
+        <text>to</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1386,29 +1388,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkdW1wVGltZXN0YW1wWzBdID0gLTE7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0U3luY2VkIAo=</text>
+      <register name="1" type="4">
+        <text>to</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsYXN0U3luY2VkIAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYXN0U3luY2VkWzBdID0gbGlzdAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>Math.max(lastSynced[0], event.getTimestamp());</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhc3RTeW5jZWRbMF0gPSBNYXRoLm1heChsYXN0U3luY2VkWzBdLCBldmVudC5nZXRUaW1lc3RhbXAoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhc3RTeW5jZWRbMF0gPSBNYXRoLm1heChsYXN0U3luY2VkWzBdLCBldmVudC5nZXRUaW1lc3RhbXAoKSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>000</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhc3RTeW5jZWRbMF0gPSBNYXRoLm1heChsYXN0U3luY2VkWzBdLCBldmVudC5nZXRUaW1lc3RhbXAoKSk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>1000</text>
+        <text>000</text>
       </register>
       <register name="9" type="4">
         <text>1000</text>
