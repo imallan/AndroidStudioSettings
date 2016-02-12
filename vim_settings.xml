@@ -159,8 +159,11 @@
         <mark key="^" line="10" column="48" />
         <mark key="." line="10" column="48" />
       </file>
-      <file name="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewGroup.java" timestamp="1455317655324">
+      <file name="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewGroup.java" timestamp="1455318900482">
         <mark key="'" line="2278" column="16" />
+        <mark key="[" line="2232" column="20" />
+        <mark key="]" line="2232" column="20" />
+        <mark key="." line="2232" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIGet.java" timestamp="1454669159420">
         <mark key="'" line="814" column="20" />
@@ -1258,11 +1261,11 @@
       <jump line="2278" column="16" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewGroup.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>out</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1270,32 +1273,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGlmIChvdXQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIG91dC5jbG9zZSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>}</text>
       </register>
-      <register name="2" type="4">
-        <text>out</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
         <text>out</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>out</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dC5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dC5jbG9zZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsQ29ubmVjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1ZVXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsQ29ubmVjdGlvbgo=</text>
       </register>
     </registers>
     <search>
