@@ -115,12 +115,12 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Analytics.java" timestamp="1455192160639">
         <mark key="[" line="1323" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" timestamp="1455207143198">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="1126" column="60" />
-        <mark key="]" line="1126" column="49" />
-        <mark key="^" line="1126" column="49" />
-        <mark key="." line="1126" column="49" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" timestamp="1455283872369">
+        <mark key="'" line="1216" column="0" />
+        <mark key="[" line="1120" column="25" />
+        <mark key="]" line="1120" column="24" />
+        <mark key="^" line="1120" column="24" />
+        <mark key="." line="1120" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_image_drawee.xml" timestamp="1454345881358">
         <mark key="[" line="9" column="31" />
@@ -1287,7 +1287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10217" column="0" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/support/v7/recyclerview/src/android/support/v7/widget/RecyclerView.java" />
       <jump line="0" column="0" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
       <jump line="11975" column="0" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
       <jump line="834" column="54" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
@@ -1387,13 +1386,14 @@
       <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/PostGalleryPager.java" />
       <jump line="38" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/PostGalleryPager.java" />
       <jump line="45" column="46" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/PostGalleryPager.java" />
+      <jump line="1216" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aW1lb3V0KDEwLCBUaW1lVW5pdC5TRUNPTkRTKQo=</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>animated</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1401,32 +1401,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkdW1wVGltZXN0YW1wWzBdID0gLTE7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aW1lb3V0KDEwLCBUaW1lVW5pdC5TRUNPTkRTKQo=</text>
+      <register name="1" type="4">
+        <text>o</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aW1lb3V0KDEwLCBUaW1lVW5pdC5TRUNPTkRTKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>animated</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="4">
-        <text>anmiated</text>
+        <text>animated</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text>anmiated</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>mViewPager</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
