@@ -1067,12 +1067,11 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" timestamp="1455208660538">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" timestamp="1455272560772">
         <mark key="'" line="124" column="46" />
-        <mark key="[" line="66" column="20" />
-        <mark key="]" line="66" column="33" />
-        <mark key="." line="66" column="33" />
-        <mark key="^" line="66" column="33" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PresenterHolder.java" timestamp="1453743612921">
         <mark key="'" line="11" column="24" />
@@ -1391,7 +1390,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aW1lb3V0KDEwLCBUaW1lVW5pdC5TRUNPTkRTKQo=</text>
       </register>
       <register name="-" type="4">
         <text>animated</text>
@@ -1403,31 +1402,31 @@
         <text encoding="base64">ICAgICAgICBkdW1wVGltZXN0YW1wWzBdID0gLTE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aW1lb3V0KDEwLCBUaW1lVW5pdC5TRUNPTkRTKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>animated</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="4">
-        <text>anmiated</text>
+        <text>animated</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>anmiated</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>mViewPager</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVZpZXdQYWdlci5yZXF1ZXN0TGF5b3V0KCk7Cg==</text>
+      <register name="9" type="4">
+        <text>mViewPager</text>
       </register>
     </registers>
     <search>
