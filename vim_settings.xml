@@ -159,12 +159,12 @@
         <mark key="^" line="10" column="48" />
         <mark key="." line="10" column="48" />
       </file>
-      <file name="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewGroup.java" timestamp="1455322033916">
+      <file name="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewGroup.java" timestamp="1455322536499">
         <mark key="'" line="2278" column="16" />
-        <mark key="[" line="2196" column="98" />
-        <mark key="]" line="2196" column="97" />
-        <mark key="." line="2196" column="97" />
-        <mark key="^" line="2196" column="97" />
+        <mark key="[" line="2212" column="87" />
+        <mark key="]" line="2212" column="110" />
+        <mark key="." line="2212" column="110" />
+        <mark key="^" line="2212" column="110" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIGet.java" timestamp="1454669159420">
         <mark key="'" line="814" column="20" />
