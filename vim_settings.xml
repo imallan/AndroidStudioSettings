@@ -247,8 +247,8 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/com/android/server/wm/WindowManagerService.java" timestamp="1455107711708">
         <mark key="'" line="210" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" timestamp="1455213779596">
-        <mark key="'" line="553" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" timestamp="1455541609255">
+        <mark key="'" line="114" column="0" />
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
@@ -1287,7 +1287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
       <jump line="11975" column="0" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
       <jump line="834" column="54" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
       <jump line="12022" column="0" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
@@ -1387,6 +1386,7 @@
       <jump line="38" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/PostGalleryPager.java" />
       <jump line="45" column="46" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/PostGalleryPager.java" />
       <jump line="1216" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" />
+      <jump line="114" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
