@@ -1184,6 +1184,12 @@
         <mark key="^" line="65" column="68" />
         <mark key="." line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" timestamp="1455555353331">
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="18" column="28" />
+        <mark key="." line="18" column="28" />
+        <mark key="^" line="18" column="28" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/WindowManager.java" timestamp="1454887218058">
         <mark key="'" line="97" column="0" />
       </file>
@@ -1293,7 +1299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11975" column="0" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
       <jump line="834" column="54" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
       <jump line="12022" column="0" filename="/Volumes/android/WORKING_DIRECTORY/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
       <jump line="210" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/com/android/server/wm/WindowManagerService.java" />
@@ -1393,13 +1398,14 @@
       <jump line="45" column="46" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/PostGalleryPager.java" />
       <jump line="1216" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" />
       <jump line="114" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" />
+      <jump line="42" column="38" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>androidKeyStore</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1407,32 +1413,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkdW1wVGltZXN0YW1wWzBdID0gLTE7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>o</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aW1lb3V0KDEwLCBUaW1lVW5pdC5TRUNPTkRTKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBLZXlTdG9yZSBrZXlTdG9yZSA9IG51bGw7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAga2V5U3RvcmUgPSBLZXlTdG9yZS5nZXRJbnN0YW5jZSgiQW5kcm9pZEtleVN0b3JlIik7CiAgICAgICAgfSBjYXRjaCAoS2V5U3RvcmVFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgICAgICBpZiAoa2V5U3RvcmUgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGtleVN0b3JlLmxvYWQobnVsbCk7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gfCBOb1N1Y2hBbGdvcml0aG1FeGNlcHRpb24gfCBDZXJ0aWZpY2F0ZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgICAgIEFycmF5TGlzdDxPYmplY3Q+IGtleUFsaWFzZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICB0cnkgewogICAgICAgICAgICBFbnVtZXJhdGlvbjxTdHJpbmc+IGFsaWFzZXMgPSBrZXlTdG9yZS5hbGlhc2VzKCk7CiAgICAgICAgICAgIHdoaWxlIChhbGlhc2VzLmhhc01vcmVFbGVtZW50cygpKSB7CiAgICAgICAgICAgICAgICBrZXlBbGlhc2VzLmFkZChhbGlhc2VzLm5leHRFbGVtZW50KCkpOwogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKCiAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobGlzdEFkYXB0ZXIgIT0gbnVsbCkKICAgICAgICAgICAgbGlzdEFkYXB0ZXIubm90aWZ5RGF0YVNldENoYW5nZWQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>animated</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAga2V5U3RvcmUxLmxvYWQobnVsbCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>anmiated</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBrZXlTdG9yZS4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text>androidKeyStore</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgCg==</text>
       </register>
     </registers>
     <search>
