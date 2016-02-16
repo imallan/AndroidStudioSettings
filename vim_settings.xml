@@ -348,8 +348,11 @@
         <mark key="^" line="10" column="73" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/BasicAndroidKeyStore/Application/src/main/java/com/example/android/basicandroidkeystore/BasicAndroidKeyStoreFragment.java" timestamp="1455555599681">
-        <mark key="'" line="322" column="16" />
+      <file name="$USER_HOME$/Desktop/BasicAndroidKeyStore/Application/src/main/java/com/example/android/basicandroidkeystore/BasicAndroidKeyStoreFragment.java" timestamp="1455618661903">
+        <mark key="'" line="324" column="16" />
+        <mark key="[" line="319" column="0" />
+        <mark key="]" line="319" column="0" />
+        <mark key="." line="319" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/res/values/styles.xml" timestamp="1453755173674">
         <mark key="[" line="3" column="57" />
@@ -591,6 +594,10 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/security/keystore/AndroidKeyStoreRSAPrivateKey.java" timestamp="1455618886027">
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="27" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/aidl/com/imallan/aidlexample/BookBinderService.java" timestamp="1454370315031">
         <mark key="[" line="19" column="4" />
         <mark key="]" line="19" column="17" />
@@ -818,12 +825,12 @@
         <mark key="." line="11" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/BasicAndroidKeyStore/Application/src/main/java/com/example/android/basicandroidkeystore/MainActivity.java" timestamp="1455555564159" />
-      <file name="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/KeyRecyclerAdapter.java" timestamp="1455559157259">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="31" column="62" />
-        <mark key="]" line="32" column="43" />
-        <mark key="." line="32" column="43" />
-        <mark key="^" line="32" column="43" />
+      <file name="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/KeyRecyclerAdapter.java" timestamp="1455618352076">
+        <mark key="'" line="30" column="12" />
+        <mark key="[" line="75" column="20" />
+        <mark key="]" line="75" column="24" />
+        <mark key="." line="75" column="24" />
+        <mark key="^" line="75" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/PresenterHolder.java" timestamp="1453763262494">
         <mark key="'" line="33" column="4" />
@@ -1006,12 +1013,12 @@
         <mark key="^" line="101" column="34" />
         <mark key="." line="101" column="34" />
       </file>
-      <file name="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/res/layout/activity_main.xml" timestamp="1455557625821">
-        <mark key="'" line="53" column="16" />
-        <mark key="[" line="36" column="29" />
-        <mark key="]" line="36" column="37" />
-        <mark key="." line="60" column="39" />
-        <mark key="^" line="60" column="39" />
+      <file name="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/res/layout/activity_main.xml" timestamp="1455617903393">
+        <mark key="'" line="55" column="16" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="10" column="54" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SocialNetworksSettingsActivity.java" timestamp="1455021340520">
         <mark key="'" line="58" column="0" />
@@ -1143,10 +1150,12 @@
         <mark key="^" line="65" column="68" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" timestamp="1455560119435">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
+      <file name="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" timestamp="1455619539013">
+        <mark key="'" line="132" column="85" />
+        <mark key="[" line="131" column="67" />
+        <mark key="]" line="132" column="88" />
+        <mark key="." line="132" column="88" />
+        <mark key="^" line="132" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/layout/activity_main.xml" timestamp="1454255030595">
         <mark key="[" line="1" column="51" />
@@ -1249,10 +1258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="726" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Settings.java" />
-      <jump line="737" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Settings.java" />
-      <jump line="37" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/NotificationUtils.java" />
-      <jump line="154" column="27" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/NotificationUtils.java" />
       <jump line="62" column="22" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" />
       <jump line="481" column="15" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" />
       <jump line="54" column="6" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" />
@@ -1349,46 +1354,50 @@
       <jump line="35" column="8" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
       <jump line="65" column="0" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/KeyRecyclerAdapter.java" />
       <jump line="135" column="50" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
+      <jump line="189" column="22" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
+      <jump line="30" column="12" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/KeyRecyclerAdapter.java" />
+      <jump line="176" column="0" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
+      <jump line="132" column="85" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleVBhaXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnBhZGRpbmcK</text>
       </register>
       <register name="-" type="4">
-        <text>alias, keyPair.</text>
+        <text>, &quot;AndroidOpenSSL&quot;</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uaW1hbGxhbi5maW5nZXJwcmludHBsYXlncm91bmQ7CgppbXBvcnQgYW5kcm9pZC5vcy5CdW5kbGU7CmltcG9ydCBhbmRyb2lkLnNlY3VyaXR5LmtleXN0b3JlLktleUdlblBhcmFtZXRlclNwZWM7CmltcG9ydCBhbmRyb2lkLnNlY3VyaXR5LmtleXN0b3JlLktleVByb3BlcnRpZXM7CmltcG9ydCBhbmRyb2lkLnN1cHBvcnQudjcuYXBwLkFwcENvbXBhdEFjdGl2aXR5OwppbXBvcnQgYW5kcm9pZC5zdXBwb3J0LnY3LndpZGdldC5MaW5lYXJMYXlvdXRNYW5hZ2VyOwppbXBvcnQgYW5kcm9pZC5zdXBwb3J0LnY3LndpZGdldC5SZWN5Y2xlclZpZXc7CmltcG9ydCBhbmRyb2lkLnRleHQuVGV4dFV0aWxzOwppbXBvcnQgYW5kcm9pZC51dGlsLkxvZzsKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LkJ1dHRvbjsKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LkVkaXRUZXh0OwppbXBvcnQgYW5kcm9pZC53aWRnZXQuVG9hc3Q7CgppbXBvcnQgamF2YS5pby5JT0V4Y2VwdGlvbjsKaW1wb3J0IGphdmEubWF0aC5CaWdJbnRlZ2VyOwppbXBvcnQgamF2YS5zZWN1cml0eS5JbnZhbGlkQWxnb3JpdGhtUGFyYW1ldGVyRXhjZXB0aW9uOwppbXBvcnQgamF2YS5zZWN1cml0eS5LZXlQYWlyR2VuZXJhdG9yOwppbXBvcnQgamF2YS5zZWN1cml0eS5LZXlTdG9yZTsKaW1wb3J0IGphdmEuc2VjdXJpdHkuS2V5U3RvcmVFeGNlcHRpb247CmltcG9ydCBqYXZhLnNlY3VyaXR5Lk5vU3VjaEFsZ29yaXRobUV4Y2VwdGlvbjsKaW1wb3J0IGphdmEuc2VjdXJpdHkuTm9TdWNoUHJvdmlkZXJFeGNlcHRpb247CmltcG9ydCBqYXZhLnNlY3VyaXR5LmNlcnQuQ2VydGlmaWNhdGVFeGNlcHRpb247CmltcG9ydCBqYXZhLnV0aWwuQXJyYXlMaXN0OwppbXBvcnQgamF2YS51dGlsLkNhbGVuZGFyOwppbXBvcnQgamF2YS51dGlsLkVudW1lcmF0aW9uOwoKaW1wb3J0IGJ1dHRlcmtuaWZlLkJpbmQ7CmltcG9ydCBidXR0ZXJrbmlmZS5CdXR0ZXJLbmlmZTsKaW1wb3J0IGJ1dHRlcmtuaWZlLk9uQ2xpY2s7CgpwdWJsaWMgY2xhc3MgTWFpbkFjdGl2aXR5IGV4dGVuZHMgQXBwQ29tcGF0QWN0aXZpdHkgewoKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiTWFpbkFjdGl2aXR5IjsKCiAgICBAQmluZChSLmlkLnJlY3ljbGVyKQogICAgUmVjeWNsZXJWaWV3IG1SZWN5Y2xlclZpZXc7CgogICAgQEJpbmQoUi5pZC5hbGlhc1RleHQpCiAgICBFZGl0VGV4dCBtRWRpdFRleHRBbGlhczsKCiAgICBAQmluZChSLmlkLmdlbmVyYXRlS2V5UGFpcikKICAgIEJ1dHRvbiBtQnV0dG9uR2VuZXJhdGVLZXlQYWlyOwoKICAgIEBCaW5kKFIuaWQuc3RhcnRUZXh0KQogICAgRWRpdFRleHQgbUVkaXRUZXh0U3RhcnQ7CgogICAgQEJpbmQoUi5pZC5lbmNyeXB0ZWRUZXh0KQogICAgRWRpdFRleHQgbUVkaXRUZXh0RW5jcnlwdGVkOwoKICAgIEBCaW5kKFIuaWQuZGVjcnlwdGVkVGV4dCkKICAgIEVkaXRUZXh0IG1FZGl0VGV4dERlY3J5cHRlZDsKCiAgICBwcml2YXRlIEtleVJlY3ljbGVyQWRhcHRlciBtQWRhcHRlcjsKCiAgICBwcml2YXRlIEtleVN0b3JlIG1LZXlTdG9yZSA9IG51bGw7CgogICAgcHJpdmF0ZSBBcnJheUxpc3Q8U3RyaW5nPiBtS2V5QWxpYXNlczsKCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwogICAgICAgIHNldENvbnRlbnRWaWV3KFIubGF5b3V0LmFjdGl2aXR5X21haW4pOwogICAgICAgIEJ1dHRlcktuaWZlLmJpbmQodGhpcyk7CiAgICAgICAgbVJlY3ljbGVyVmlldy5zZXRMYXlvdXRNYW5hZ2VyKG5ldyBMaW5lYXJMYXlvdXRNYW5hZ2VyKHRoaXMpKTsKICAgICAgICBtUmVjeWNsZXJWaWV3LnNldEhhc0ZpeGVkU2l6ZSh0cnVlKTsKICAgICAgICBtQWRhcHRlciA9IG5ldyBLZXlSZWN5Y2xlckFkYXB0ZXIoKTsKICAgICAgICBtUmVjeWNsZXJWaWV3LnNldEFkYXB0ZXIobUFkYXB0ZXIpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGluaXRpYWxLZXlTdG9yZSgpOwogICAgICAgIH0gY2F0Y2ggKEtleVN0b3JlRXhjZXB0aW9uIHwgQ2VydGlmaWNhdGVFeGNlcHRpb24KICAgICAgICAgICAgICAgIHwgSU9FeGNlcHRpb24gfCBOb1N1Y2hBbGdvcml0aG1FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIHZvaWQgaW5pdGlhbEtleVN0b3JlKCkgdGhyb3dzIEtleVN0b3JlRXhjZXB0aW9uLCBDZXJ0aWZpY2F0ZUV4Y2VwdGlvbiwKICAgICAgICAgICAgTm9TdWNoQWxnb3JpdGhtRXhjZXB0aW9uLCBJT0V4Y2VwdGlvbiB7CiAgICAgICAgbUtleVN0b3JlID0gS2V5U3RvcmUuZ2V0SW5zdGFuY2UoIkFuZHJvaWRLZXlTdG9yZSIpOwogICAgICAgIG1LZXlTdG9yZS5sb2FkKG51bGwpOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCByZWZyZXNoS2V5cygpIHRocm93cyBLZXlTdG9yZUV4Y2VwdGlvbiB7CiAgICAgICAgaWYgKG1LZXlTdG9yZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgbUtleUFsaWFzZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICB0cnkgewogICAgICAgICAgICBFbnVtZXJhdGlvbjxTdHJpbmc+IGFsaWFzZXMgPSBtS2V5U3RvcmUuYWxpYXNlcygpOwogICAgICAgICAgICB3aGlsZSAoYWxpYXNlcy5oYXNNb3JlRWxlbWVudHMoKSkgewogICAgICAgICAgICAgICAgbUtleUFsaWFzZXMuYWRkKGFsaWFzZXMubmV4dEVsZW1lbnQoKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gaWdub3JlZCkgewogICAgICAgIH0KCiAgICAgICAgaWYgKG1BZGFwdGVyICE9IG51bGwpIHsKICAgICAgICAgICAgbUFkYXB0ZXIuc2V0RGF0YShtS2V5QWxpYXNlcyk7CiAgICAgICAgfQoKICAgIH0KCgogICAgQE9uQ2xpY2soUi5pZC5nZW5lcmF0ZUtleVBhaXIpCiAgICBwdWJsaWMgdm9pZCBnZW5lcmF0ZUtleVBhaXIoKSB7CiAgICAgICAgU3RyaW5nIGFsaWFzID0gbUVkaXRUZXh0QWxpYXMuZ2V0VGV4dCgpLnRvU3RyaW5nKCk7CiAgICAgICAgaWYgKFRleHRVdGlscy5pc0VtcHR5KGFsaWFzKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGlmICghbUtleUFsaWFzZXMuY29udGFpbnMoYWxpYXMpKSB7CiAgICAgICAgICAgICAgICBDYWxlbmRhciBzdGFydCA9IENhbGVuZGFyLmdldEluc3RhbmNlKCk7CiAgICAgICAgICAgICAgICBDYWxlbmRhciBlbmQgPSBDYWxlbmRhci5nZXRJbnN0YW5jZSgpOwogICAgICAgICAgICAgICAgZW5kLmFkZChDYWxlbmRhci5ZRUFSLCAxKTsKICAgICAgICAgICAgICAgIEtleUdlblBhcmFtZXRlclNwZWMgc3BlYyA9IG5ldyBLZXlHZW5QYXJhbWV0ZXJTcGVjLkJ1aWxkZXIoCiAgICAgICAgICAgICAgICAgICAgICAgICJteUtleSIsCiAgICAgICAgICAgICAgICAgICAgICAgIEtleVByb3BlcnRpZXMuUFVSUE9TRV9TSUdOIHwgS2V5UHJvcGVydGllcy5QVVJQT1NFX1ZFUklGWQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICAuc2V0S2V5VmFsaWRpdHlTdGFydChzdGFydC5nZXRUaW1lKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRLZXlWYWxpZGl0eUVuZChlbmQuZ2V0VGltZSgpKQogICAgICAgICAgICAgICAgICAgICAgICAuc2V0Q2VydGlmaWNhdGVTZXJpYWxOdW1iZXIoQmlnSW50ZWdlci5PTkUpCiAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpOwogICAgICAgICAgICAgICAgS2V5UGFpckdlbmVyYXRvciBnZW5lcmF0b3IgPSBudWxsOwogICAgICAgICAgICAgICAgZ2VuZXJhdG9yID0gS2V5UGFpckdlbmVyYXRvci5nZXRJbnN0YW5jZSgiUlNBIiwgIkFuZHJvaWRLZXlTdG9yZSIpOwogICAgICAgICAgICAgICAgZ2VuZXJhdG9yLmluaXRpYWxpemUoc3BlYyk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChOb1N1Y2hBbGdvcml0aG1FeGNlcHRpb24gfCBOb1N1Y2hQcm92aWRlckV4Y2VwdGlvbgogICAgICAgICAgICAgICAgfCBJbnZhbGlkQWxnb3JpdGhtUGFyYW1ldGVyRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgVG9hc3QubWFrZVRleHQodGhpcywgIkV4Y2VwdGlvbiAiICsgZS5nZXRNZXNzYWdlKCkgKyAiIG9jY3VyZWQiLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpOwogICAgICAgICAgICBMb2cuZShUQUcsIExvZy5nZXRTdGFja1RyYWNlU3RyaW5nKGUpKTsKICAgICAgICB9CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgcmVmcmVzaEtleXMoKTsK</text>
+      <register name="0" type="4">
+        <text>AndroidKeyStoreRSAPrivateKey</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleVBhaXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnBhZGRpbmcK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1LZXlTdG9yZS5zZXRFbnRyeShhbGlhcywga2V5KTsK</text>
+      <register name="2" type="4">
+        <text>, &quot;AndroidOpenSSL&quot;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdlbmVyYXRvci4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQW5kcm9pZEtleVN0b3JlUlNBUHJpdmF0ZUtleSBwcml2YXRlS2V5ID0gcHJpdmF0ZUtleUVudHJ5LmdldFByaXZhdGVLZXkoKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdlbmVyYXRvci5nZW5LZXlQYWlyKCkuZ2V0UHVibGljKCkuCg==</text>
+      <register name="4" type="4">
+        <text>privateKey</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1LZXlTdG9yZS5zZXRFbnRyeSgpOwo=</text>
+      <register name="5" type="4">
+        <text>AndroidKeyStoreRSAPrivateKey</text>
       </register>
       <register name="6" type="4">
-        <text>alias, keyPair.</text>
+        <text>RSAPrivateKey</text>
       </register>
       <register name="7" type="4">
-        <text>getPrivate</text>
+        <text>RSAPrivateKey</text>
       </register>
       <register name="8" type="4">
-        <text />
+        <text>.</text>
       </register>
-      <register name="9" type="4">
-        <text>encryptedText</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzLmluaXQK</text>
       </register>
     </registers>
     <search>
