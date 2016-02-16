@@ -22,7 +22,7 @@
         <mark key="]" line="448" column="37" />
         <mark key="." line="448" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1455557894350">
+      <file name="/a.dummy" timestamp="1455616355437">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/ProductsProvider.java" timestamp="1453381622142">
@@ -1431,6 +1431,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
