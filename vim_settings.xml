@@ -15,6 +15,9 @@
         <mark key="]" line="448" column="37" />
         <mark key="." line="448" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1455642918814">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
         <mark key="[" line="51" column="38" />
         <mark key="]" line="51" column="50" />
@@ -418,9 +421,6 @@
         <mark key="." line="86" column="67" />
         <mark key="^" line="86" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1455635135321">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="7" column="62" />
@@ -480,6 +480,13 @@
         <mark key="]" line="18" column="67" />
         <mark key="^" line="18" column="67" />
         <mark key="." line="18" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" timestamp="1455642903926">
+        <mark key="'" line="204" column="15" />
+        <mark key="[" line="454" column="0" />
+        <mark key="]" line="454" column="49" />
+        <mark key="." line="454" column="0" />
+        <mark key="^" line="453" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/LooksService.java" timestamp="1454692037124">
         <mark key="[" line="380" column="139" />
@@ -947,7 +954,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL25vaW5zcGVjdGlvbiBQb2ludGxlc3NCb29sZWFuRXhwcmVzc2lvbgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -959,31 +966,31 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvL25vaW5zcGVjdGlvbiBQb2ludGxlc3NCb29sZWFuRXhwcmVzc2lvbgo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>,</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>persistentState</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8sIHBlcnNpc3RlbnRTdGF0ZTogUGVyc2lzdGFibGVCdW5kbGU/KSB7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>)</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>(</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlscy5zdGFydEFjdGl2aXR5KGNvbnRleHQsIGlkKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBVdGlscy5zdGFydEFjdGl2aXR5KGNvbnRleHQsIGlkKQo=</text>
       </register>
     </registers>
     <search>
