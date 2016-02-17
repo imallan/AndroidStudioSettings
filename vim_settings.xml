@@ -694,6 +694,12 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/extenstions.SharedPreferenceExtension.kt" timestamp="1455751186081">
+        <mark key="[" line="11" column="58" />
+        <mark key="]" line="11" column="57" />
+        <mark key="." line="11" column="57" />
+        <mark key="^" line="11" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/PresenterHolder.java" timestamp="1454244958934">
         <mark key="[" line="37" column="19" />
         <mark key="]" line="37" column="18" />
@@ -1093,22 +1099,11 @@
       <jump line="31" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>buildscript {
-    ext.kotlin_version = '1.0.0'
-    repositories {
-        mavenCentral()
-    }
-    dependencies {
-        classpath &quot;org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version&quot;
-    }
-}
-repositories {
-    mavenCentral()
-}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5TaGFyZWRQcmVmZXJlbmNlcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>MainActivity</text>
+        <text>BuildConfig</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1116,7 +1111,31 @@ repositories {
       <register name="0" type="4">
         <text>recyclerView</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5TaGFyZWRQcmVmZXJlbmNlcwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnRleHQucHJlZgo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>BuildConfig</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFNoYXJlZFByZWZlcmVuY2VzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFNoYXJlZFByZWZlcmVuY2VzLkVkaXRvcigpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFNoYXJlZFByZWZlcmVuY2VzCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="4">
+        <text>hh</text>
+      </register>
+      <register name="9" type="4">
         <text>buildscript {
     ext.kotlin_version = '1.0.0'
     repositories {
@@ -1129,30 +1148,6 @@ repositories {
 repositories {
     mavenCentral()
 }</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWN5Y2xlcl92aWV3X2FydGljbGVzCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>MainActivity</text>
-      </register>
-      <register name="4" type="4">
-        <text>s</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxlZ2F0ZS4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxlZ2F0ZS4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">Pg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">PA==</text>
       </register>
     </registers>
     <search>
