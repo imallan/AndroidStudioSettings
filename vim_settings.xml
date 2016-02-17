@@ -404,6 +404,12 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="12" column="37" />
       </file>
+      <file name="$USER_HOME$/Desktop/MyApplication/app/build.gradle" timestamp="1455708628315">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_shopping_cart_product.xml" timestamp="1453815005996">
         <mark key="[" line="198" column="40" />
         <mark key="]" line="198" column="54" />
@@ -957,11 +963,11 @@
       <jump line="20" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>forEach</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -974,26 +980,26 @@
             iTopicImpl.created = iTopic.created
             return iTopicImpl</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>false</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBmdW4gPFQgOiBJVG9waWM+IGZyb20oaVRvcGljOiBJVG9waWMsIGNsYXp6OiBDbGFzczxUPik6IFQgewogICAgICAgICAgICB2YXIgaVRvcGljSW1wbCA9IGNsYXp6Lm5ld0luc3RhbmNlKCkKICAgICAgICAgICAgaVRvcGljSW1wbC5pZCA9IGlUb3BpYy5pZAogICAgICAgICAgICBpVG9waWNJbXBsLnRpdGxlID0gaVRvcGljLnRpdGxlCiAgICAgICAgICAgIGlUb3BpY0ltcGwudXJsID0gaVRvcGljLnVybAogICAgICAgICAgICBpVG9waWNJbXBsLmNyZWF0ZWQgPSBpVG9waWMuY3JlYXRlZAogICAgICAgICAgICByZXR1cm4gaVRvcGljSW1wbAogICAgICAgIH0KICAgIH0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGNsYXp6LgogICAgY2xhenouZmllbGRzLmZvckVhY2ggeyBwcmludGxuKGl0KSB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGNsYXp6LmZpZWxkcy5mb3JFYWNoIHsgcHJpbnRsbihpdCkgfQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>forEach</text>
       </register>
-      <register name="6" type="4">
-        <text>{  }</text>
-      </register>
       <register name="7" type="4">
-        <text>iTopic</text>
+        <text>{  }</text>
       </register>
       <register name="8" type="4">
         <text>iTopic</text>
