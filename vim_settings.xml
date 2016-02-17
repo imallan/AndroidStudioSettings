@@ -101,6 +101,12 @@
         <mark key="." line="39" column="61" />
         <mark key="^" line="39" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" timestamp="1455731479729">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453744104180">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
@@ -118,6 +124,18 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="23" column="24" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" timestamp="1455665066410">
+        <mark key="'" line="3494" column="50" />
+        <mark key="[" line="4453" column="35" />
+        <mark key="]" line="4453" column="36" />
+        <mark key="." line="4453" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/res/layout/activity_article.xml" timestamp="1455731453177">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="52" />
+        <mark key="." line="6" column="52" />
+        <mark key="^" line="6" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ShopcadeApplication.java" timestamp="1454333759495">
         <mark key="[" line="98" column="19" />
@@ -196,6 +214,12 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_product.xml" timestamp="1453387155326">
         <mark key="[" line="215" column="57" />
+      </file>
+      <file name="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/com/android/internal/app/AlertController.java" timestamp="1455663737999">
+        <mark key="'" line="231" column="34" />
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="0" />
+        <mark key="." line="232" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/SettingsService.java" timestamp="1455197039968">
         <mark key="[" line="181" column="58" />
@@ -345,7 +369,8 @@
         <mark key="^" line="7" column="60" />
         <mark key="." line="7" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/build.gradle" timestamp="1455724233936">
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/build.gradle" timestamp="1455731227894">
+        <mark key="'" line="56" column="50" />
         <mark key="[" line="63" column="48" />
         <mark key="]" line="64" column="3" />
         <mark key="." line="64" column="3" />
@@ -583,12 +608,10 @@
       <file name="/fragment.kt" timestamp="1455711877266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" timestamp="1455729160665">
-        <mark key="'" line="37" column="4" />
-        <mark key="[" line="21" column="37" />
-        <mark key="]" line="21" column="47" />
-        <mark key="^" line="21" column="47" />
-        <mark key="." line="21" column="47" />
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" timestamp="1455731041437">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/ui/adapters/MyDataAdapter.java" timestamp="1453761935793">
         <mark key="[" line="25" column="8" />
@@ -695,6 +718,9 @@
         <mark key="]" line="82" column="28" />
         <mark key="^" line="91" column="42" />
         <mark key="." line="82" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.java" timestamp="1455730484818">
+        <mark key="'" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/utils/RxUtils.java" timestamp="1453760675838">
         <mark key="[" line="15" column="0" />
@@ -875,12 +901,11 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/adapters/ArticleAdapter.kt" timestamp="1455728554790">
-        <mark key="'" line="46" column="4" />
-        <mark key="[" line="9" column="82" />
-        <mark key="]" line="9" column="81" />
-        <mark key="^" line="9" column="81" />
-        <mark key="." line="9" column="81" />
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/adapters/ArticleAdapter.kt" timestamp="1455731032561">
+        <mark key="'" line="44" column="4" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/aidl/com/imallan/aidlexample/BookBinderService.java" timestamp="1454370315031">
         <mark key="[" line="19" column="4" />
@@ -959,12 +984,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
-      <jump line="35" column="8" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
-      <jump line="65" column="0" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/KeyRecyclerAdapter.java" />
-      <jump line="135" column="50" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
-      <jump line="189" column="22" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
-      <jump line="30" column="12" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/KeyRecyclerAdapter.java" />
       <jump line="176" column="0" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
       <jump line="132" column="85" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
       <jump line="31" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
@@ -1059,46 +1078,52 @@
       <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/ArticleActivity.kt" />
       <jump line="22" column="23" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/ArticleActivity.kt" />
       <jump line="49" column="4" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.java" />
+      <jump line="14" column="24" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" />
+      <jump line="56" column="50" filename="$USER_HOME$/Documents/GitHub/Gank/app/build.gradle" />
+      <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZWN5Y2xlcl92aWV3X2FydGljbGVzCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MainActivity</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text>福利</text>
+        <text>recyclerView</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZWN5Y2xlcl92aWV3X2FydGljbGVzCg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MainActivity</text>
       </register>
       <register name="3" type="4">
-        <text>y</text>
+        <text>s</text>
       </register>
-      <register name="4" type="4">
-        <text>b</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZWxlZ2F0ZS4K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PG91dCBSZWN5Y2xlclZpZXcuVmlld0hvbGRlcj4g</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZWxlZ2F0ZS4K</text>
       </register>
-      <register name="6" type="4">
-        <text>ArticiwleAdapter</text>
-      </register>
-      <register name="7" type="4">
-        <text />
-      </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGdldFRoZUFkYXB0ZXIoKTogQXJ0aWNsZUFkYXB0ZXI8b3V0IFJlY3ljbGVyVmlldy5WaWV3SG9sZGVyPnsKICAgICAgICByZXR1cm4gSW1hZ2VBcnRpY2xlQWRhcHRlcigpCiAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">PA==</text>
+      </register>
+      <register name="9" type="4">
+        <text>main</text>
       </register>
     </registers>
     <search>
