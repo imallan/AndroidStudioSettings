@@ -70,6 +70,13 @@
         <mark key="^" line="23" column="24" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" timestamp="1455750241283">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" timestamp="1455711344899">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="38" column="45" />
@@ -984,7 +991,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="0" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
       <jump line="132" column="85" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
       <jump line="31" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
       <jump line="11" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
@@ -1084,10 +1090,22 @@
       <jump line="49" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" />
       <jump line="56" column="50" filename="$USER_HOME$/Documents/GitHub/Gank/app/build.gradle" />
       <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWN5Y2xlcl92aWV3X2FydGljbGVzCg==</text>
+      <register name="&quot;" type="4">
+        <text>buildscript {
+    ext.kotlin_version = '1.0.0'
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath &quot;org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version&quot;
+    }
+}
+repositories {
+    mavenCentral()
+}</text>
       </register>
       <register name="-" type="4">
         <text>MainActivity</text>
@@ -1098,32 +1116,43 @@
       <register name="0" type="4">
         <text>recyclerView</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>buildscript {
+    ext.kotlin_version = '1.0.0'
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath &quot;org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version&quot;
+    }
+}
+repositories {
+    mavenCentral()
+}</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByZWN5Y2xlcl92aWV3X2FydGljbGVzCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>MainActivity</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>s</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxlZ2F0ZS4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBkZWxlZ2F0ZS4K</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZWxlZ2F0ZS4K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Pg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PA==</text>
-      </register>
       <register name="9" type="4">
-        <text>main</text>
+        <text encoding="base64">PA==</text>
       </register>
     </registers>
     <search>
