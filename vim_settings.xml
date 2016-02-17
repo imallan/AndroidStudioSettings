@@ -15,6 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_video.xml" timestamp="1455716687553" />
       <file name="/a.dummy" timestamp="1455642918814">
         <mark key="[" line="0" column="0" />
       </file>
@@ -434,6 +435,11 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/VideoActivity.java" timestamp="1455717168368">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/IBookManager.java" timestamp="1454368395127">
         <mark key="[" line="22" column="27" />
         <mark key="]" line="22" column="50" />
@@ -494,18 +500,18 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/res/layout/view_item_topic.xml" timestamp="1455712093955">
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="26" column="30" />
-        <mark key="." line="26" column="30" />
-        <mark key="^" line="26" column="30" />
+      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/res/layout/view_item_topic.xml" timestamp="1455717525387">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+        <mark key="^" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/TopicAdapter.kt" timestamp="1455711995545">
-        <mark key="'" line="56" column="73" />
-        <mark key="[" line="57" column="58" />
-        <mark key="]" line="57" column="64" />
-        <mark key="." line="57" column="64" />
-        <mark key="^" line="57" column="64" />
+      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/TopicAdapter.kt" timestamp="1455717976402">
+        <mark key="'" line="18" column="41" />
+        <mark key="[" line="42" column="46" />
+        <mark key="]" line="42" column="109" />
+        <mark key="^" line="42" column="109" />
+        <mark key="." line="42" column="109" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/AIDLService.java" timestamp="1454284173361">
         <mark key="[" line="18" column="22" />
@@ -603,11 +609,12 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" timestamp="1455708954313">
-        <mark key="'" line="61" column="23" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" timestamp="1455717414709">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="61" column="42" />
+        <mark key="]" line="62" column="3" />
+        <mark key="^" line="62" column="3" />
+        <mark key="." line="62" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/MessengerService.java" timestamp="1454276161037">
         <mark key="[" line="25" column="4" />
@@ -858,10 +865,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="46" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
-      <jump line="103" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostImageViewPagerAdapter.java" />
-      <jump line="204" column="15" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" />
-      <jump line="279" column="39" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" />
       <jump line="547" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" />
       <jump line="74" column="17" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/PostGalleryPager.java" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/PostGalleryPager.java" />
@@ -958,46 +961,50 @@
       <jump line="33" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Topic.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Topic.kt" />
       <jump line="56" column="73" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/TopicAdapter.kt" />
+      <jump line="26" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
+      <jump line="58" column="4" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/TopicAdapter.kt" />
+      <jump line="42" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/TopicAdapter.kt" />
+      <jump line="18" column="41" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/TopicAdapter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Top</text>
+        <text>topics?.get(position)?.url</text>
       </register>
       <register name="-" type="4">
-        <text>Top</text>
+        <text>topics?.get(position)?.url</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjJkcCIK</text>
+        <text encoding="base64">ICAgICAgICB2aWV3SG9sZGVyLnRleHRWaWV3UmVwbGllcy50ZXh0ID0gIiR7dG9waWNzPy5nZXQocG9zaXRpb24pPy5yZXBsaWVzfSIK</text>
       </register>
       <register name="1" type="4">
-        <text>Top</text>
+        <text>topics?.get(position)?.url</text>
       </register>
       <register name="2" type="4">
-        <text>Start</text>
+        <text>replies</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiCg==</text>
+      <register name="3" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNoYWRvd1JhZGl1cz0iIgo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>2dp</text>
-      </register>
-      <register name="6" type="4">
-        <text>id</text>
-      </register>
-      <register name="7" type="4">
+      <register name="4" type="4">
         <text>}</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3SG9sZGVyLnRleHRWaWV3UmVwbGllcy50ZXh0ID0gdG9waWNzPy5nZXQocG9zaXRpb24pPy5yZXBsaWVzCg==</text>
+      <register name="5" type="4">
+        <text>topics?.get(position)?.replies</text>
+      </register>
+      <register name="6" type="4">
+        <text>{</text>
+      </register>
+      <register name="7" type="4">
+        <text>$</text>
+      </register>
+      <register name="8" type="4">
+        <text>&quot;</text>
       </register>
       <register name="9" type="4">
-        <text>private</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
