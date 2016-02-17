@@ -91,12 +91,12 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" timestamp="1455646264931">
+      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" timestamp="1455703064323">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="63" column="56" />
+        <mark key="[" line="55" column="86" />
+        <mark key="]" line="55" column="90" />
+        <mark key="." line="55" column="90" />
+        <mark key="^" line="55" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453744104180">
         <mark key="[" line="10" column="21" />
@@ -318,10 +318,12 @@
         <mark key="^" line="13" column="70" />
         <mark key="." line="13" column="70" />
       </file>
-      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Topic.kt" timestamp="1455646633718">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Topic.kt" timestamp="1455703034443">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="14" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/build.gradle" timestamp="1455634542890">
         <mark key="[" line="7" column="50" />
@@ -826,12 +828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/DBHelper.java" />
-      <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/WakeUp.java" />
-      <jump line="167" column="38" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
-      <jump line="220" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/util/Log.java" />
-      <jump line="70" column="7" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
-      <jump line="69" column="10" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
       <jump line="55" column="25" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" />
       <jump line="53" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/AnalyticsService.java" />
@@ -924,48 +920,63 @@
       <jump line="18" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
       <jump line="39" column="8" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
       <jump line="23" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
-      <jump line="29" column="39" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Topic.kt" />
       <jump line="31" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Topic.kt" />
+      <jump line="39" column="21" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Topic.kt" />
+      <jump line="47" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Topic.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Topic.kt" />
+      <jump line="22" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Topic.kt" />
+      <jump line="11" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Topic.kt" />
+      <jump line="29" column="4" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Topic.kt" />
+      <jump line="38" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Topic.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBmdW4gZnJvbShpVG9waWM6IElUb3BpYyk6IFJlYWxtVG9waWMgewogICAgICAgICAgICB2YXIgcmVhbG1Ub3BpYyA9IFJlYWxtVG9waWMoKQogICAgICAgICAgICByZWFsbVRvcGljLmlkID0gaVRvcGljLmlkCiAgICAgICAgICAgIHJlYWxtVG9waWMudGl0bGUgPSBpVG9waWMudGl0bGUKICAgICAgICAgICAgcmVhbG1Ub3BpYy51cmwgPSBpVG9waWMudXJsCiAgICAgICAgICAgIHJlYWxtVG9waWMuY3JlYXRlZCA9IGlUb3BpYy5jcmVhdGVkCiAgICAgICAgICAgIHJldHVybiByZWFsbVRvcGljCiAgICAgICAgfQogICAgfQ==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>RealmTopic</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBmdW4gZnJvbShpVG9waWM6IElUb3BpYyk6IFJlYWxtVG9waWMgewogICAgICAgICAgICB2YXIgcmVhbG1Ub3BpYyA9IFJlYWxtVG9waWMoKQogICAgICAgICAgICByZWFsbVRvcGljLmlkID0gaVRvcGljLmlkCiAgICAgICAgICAgIHJlYWxtVG9waWMudGl0bGUgPSBpVG9waWMudGl0bGUKICAgICAgICAgICAgcmVhbG1Ub3BpYy51cmwgPSBpVG9waWMudXJsCiAgICAgICAgICAgIHJlYWxtVG9waWMuY3JlYXRlZCA9IGlUb3BpYy5jcmVhdGVkCiAgICAgICAgICAgIHJldHVybiByZWFsbVRvcGljCiAgICAgICAgfQogICAgfQ==</text>
+        <text>companion object {
+        fun from(iTopic: ITopic): RealmTopic {
+            var realmTopic = RealmTopic()
+            realmTopic.id = iTopic.id
+            realmTopic.title = iTopic.title
+            realmTopic.url = iTopic.url
+            realmTopic.created = iTopic.created
+            return realmTopic
+        }
+    }</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBmdW4gZnJvbShpVG9waWM6IElUb3BpYyk6IFJlYWxtVG9waWMgewogICAgICAgICAgICB2YXIgcmVhbG1Ub3BpYyA9IFJlYWxtVG9waWMoKQogICAgICAgICAgICByZWFsbVRvcGljLmlkID0gaVRvcGljLmlkCiAgICAgICAgICAgIHJlYWxtVG9waWMudGl0bGUgPSBpVG9waWMudGl0bGUKICAgICAgICAgICAgcmVhbG1Ub3BpYy51cmwgPSBpVG9waWMudXJsCiAgICAgICAgICAgIHJlYWxtVG9waWMuY3JlYXRlZCA9IGlUb3BpYy5jcmVhdGVkCiAgICAgICAgICAgIHJldHVybiByZWFsbVRvcGljCiAgICAgICAgfQogICAgfQ==</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text>RealmTopic</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>this</text>
+        <text>java</text>
       </register>
       <register name="4" type="4">
         <text>RealmTopic</text>
       </register>
       <register name="5" type="4">
-        <text>RealmTopic</text>
+        <text encoding="base64">CiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBmdW4gZnJvbShpVG9waWM6IElUb3BpYyk6IFJlYWxtVG9waWMgewogICAgICAgICAgICB2YXIgcmVhbG1Ub3BpYyA9IFJlYWxtVG9waWMoKQogICAgICAgICAgICByZWFsbVRvcGljLmlkID0gaVRvcGljLmlkCiAgICAgICAgICAgIHJlYWxtVG9waWMudGl0bGUgPSBpVG9waWMudGl0bGUKICAgICAgICAgICAgcmVhbG1Ub3BpYy51cmwgPSBpVG9waWMudXJsCiAgICAgICAgICAgIHJlYWxtVG9waWMuY3JlYXRlZCA9IGlUb3BpYy5jcmVhdGVkCiAgICAgICAgICAgIHJldHVybiByZWFsbVRvcGljCiAgICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="6" type="4">
-        <text>RealmTopic</text>
+        <text>realmTopic</text>
       </register>
       <register name="7" type="4">
-        <text>RealmTopic</text>
+        <text>ITopic()</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIGZ1biBmcm9tKGlUb3BpYzogSVRvcGljKTogUmVhbG1Ub3BpYyB7CiAgICAgICAgICAgIHZhciByZWFsbVRvcGljID0gUmVhbG1Ub3BpYygpCiAgICAgICAgICAgIHJlYWxtVG9waWMuaWQgPSBpVG9waWMuaWQKICAgICAgICAgICAgcmVhbG1Ub3BpYy50aXRsZSA9IGlUb3BpYy50aXRsZQogICAgICAgICAgICByZWFsbVRvcGljLnVybCA9IGlUb3BpYy51cmwKICAgICAgICAgICAgcmVhbG1Ub3BpYy5jcmVhdGVkID0gaVRvcGljLmNyZWF0ZWQKICAgICAgICAgICAgcmV0dXJuIHJlYWxtVG9waWMKICAgICAgICB9CiAgICB9</text>
+        <text>RealmTopic</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIC5vYnNlcnZlT24oQW5kcm9pZFNjaGVkdWxlcnMubWFpblRocmVhZCgpKQo=</text>
+      <register name="9" type="4">
+        <text>RealmTopic</text>
       </register>
     </registers>
     <search>
