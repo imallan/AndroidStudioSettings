@@ -495,9 +495,9 @@
         <mark key="^" line="113" column="52" />
         <mark key="." line="113" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/adapters/TextArticleAdapter.kt" timestamp="1455727292534">
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/adapters/TextArticleAdapter.kt" timestamp="1455728405175">
         <mark key="'" line="40" column="32" />
-        <mark key="[" line="16" column="24" />
+        <mark key="[" line="16" column="42" />
         <mark key="]" line="16" column="45" />
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="45" />
@@ -583,9 +583,12 @@
       <file name="/fragment.kt" timestamp="1455711877266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" timestamp="1455726447597">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="37" column="32" />
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" timestamp="1455729160665">
+        <mark key="'" line="37" column="4" />
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="21" column="47" />
+        <mark key="^" line="21" column="47" />
+        <mark key="." line="21" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/ui/adapters/MyDataAdapter.java" timestamp="1453761935793">
         <mark key="[" line="25" column="8" />
@@ -872,12 +875,12 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/adapters/ArticleAdapter.kt" timestamp="1455725385581">
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/adapters/ArticleAdapter.kt" timestamp="1455728554790">
         <mark key="'" line="46" column="4" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="4" />
-        <mark key="^" line="9" column="4" />
-        <mark key="." line="9" column="4" />
+        <mark key="[" line="9" column="82" />
+        <mark key="]" line="9" column="81" />
+        <mark key="^" line="9" column="81" />
+        <mark key="." line="9" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/aidl/com/imallan/aidlexample/BookBinderService.java" timestamp="1454370315031">
         <mark key="[" line="19" column="4" />
@@ -956,7 +959,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="17" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
       <jump line="35" column="8" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
       <jump line="65" column="0" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/KeyRecyclerAdapter.java" />
@@ -1056,46 +1058,47 @@
       <jump line="74" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/ArticleActivity.kt" />
       <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/ArticleActivity.kt" />
       <jump line="22" column="23" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/ArticleActivity.kt" />
+      <jump line="49" column="4" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RecyclerView.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>RecyclerView.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">OiBSZWN5Y2xlclZpZXcuQWRhcHRlcjxBcnRpY2xlVmlld0hvbGRlcj4oKSB7</text>
+        <text>福利</text>
       </register>
       <register name="1" type="4">
-        <text>RecyclerView.</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PA==</text>
+        <text>y</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">VCA6IFJlY3ljbGVyVmlldy5WaWV3SG9sZGVyIA==</text>
+        <text>b</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">PG91dCBSZWN5Y2xlclZpZXcuVmlld0hvbGRlcj4g</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>ArticiwleAdapter</text>
       </register>
       <register name="7" type="4">
-        <text>ArticleAdapter</text>
+        <text />
       </register>
-      <register name="8" type="4">
-        <text>x</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRleHRBcnRpY2xlQWRhcHRlcigpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGdldFRoZUFkYXB0ZXIoKTogQXJ0aWNsZUFkYXB0ZXI8b3V0IFJlY3ljbGVyVmlldy5WaWV3SG9sZGVyPnsKICAgICAgICByZXR1cm4gSW1hZ2VBcnRpY2xlQWRhcHRlcigpCiAgICB9Cg==</text>
       </register>
     </registers>
     <search>
