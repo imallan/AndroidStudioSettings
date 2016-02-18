@@ -255,12 +255,11 @@
         <mark key="^" line="11" column="55" />
         <mark key="." line="11" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/model/Article.kt" timestamp="1455790034003">
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/model/Article.kt" timestamp="1455791638078">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
-        <mark key="^" line="48" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/IBookManager.java" timestamp="1454407221277">
         <mark key="[" line="18" column="25" />
@@ -280,11 +279,11 @@
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/Extentions.kt" timestamp="1455789585879">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="14" column="17" />
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/Extentions.kt" timestamp="1455794057892">
+        <mark key="[" line="45" column="7" />
+        <mark key="]" line="45" column="20" />
+        <mark key="." line="45" column="20" />
+        <mark key="^" line="45" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/fabric.properties" timestamp="1453755776597">
         <mark key="[" line="0" column="44" />
@@ -405,6 +404,9 @@
         <mark key="]" line="139" column="103" />
         <mark key="^" line="139" column="118" />
         <mark key="." line="139" column="103" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/TestActivity.kt" timestamp="1455791914221">
+        <mark key="[" line="10" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/AndroidManifest.xml" timestamp="1455720657856">
         <mark key="[" line="4" column="65" />
@@ -967,7 +969,7 @@
       <file name="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/app/ContextImpl.java" timestamp="1455659671170">
         <mark key="'" line="124" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1455732388074">
+      <file name="/fragment.java" timestamp="1455791265255">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_brand.xml" timestamp="1454935587864">
@@ -1087,10 +1089,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>save</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1099,31 +1101,31 @@
         <text encoding="base64">IG92ZXJyaWRlIHZhciBjcmVhdGVkQXQ6IFN0cmluZyA9ICIiCiAgICBvdmVycmlkZSB2YXIgZGVzYzogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciBvYmplY3RJZDogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciBwdWJsaXNoZWRBdDogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciB0eXBlOiBTdHJpbmcgPSAiIgogICAgb3ZlcnJpZGUgdmFyIHVwZGF0ZWRBdDogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciB1cmw6IFN0cmluZyA9ICIiCiAgICBvdmVycmlkZSB2YXIgdXNlZDogQm9vbGVhbiA9IHRydWUKICAgIG92ZXJyaWRlIHZhciB3aG86IFN0cmluZyA9ICIi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmluYWwgY2xhc3MgCg==</text>
+        <text encoding="base64">ICAgICAgIHNoYXJlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHNoYXJlZFByZWZlcmVuY2VzLmUK</text>
       </register>
-      <register name="4" type="4">
-        <text>save</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGVkaXQoCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmZ1biB0ZXN0KGNvbnRleHQ6IENvbnRleHQpOiBVbml0IHsKICAgIHZhbCByZWFsbSA9IFJlYWxtLmdldEluc3RhbmNlKGNvbnRleHQpCiAgICByZWFsbS5zYXZlIHsgCiAgICAgICAgY3JlYXRlT2JqZWN0KCkKICAgIH0KICAgIAp9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGVkaXQK</text>
       </register>
-      <register name="6" type="4">
-        <text>RealmTopic</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="7" type="4">
         <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>Transaction</text>
+        <text>Editor</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWFsbS5jcmVhdGVPYmplY3QoKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
     </registers>
     <search>
