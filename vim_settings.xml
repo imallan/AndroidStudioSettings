@@ -279,11 +279,10 @@
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/Extentions.kt" timestamp="1455794057892">
-        <mark key="[" line="45" column="7" />
-        <mark key="]" line="45" column="20" />
-        <mark key="." line="45" column="20" />
-        <mark key="^" line="45" column="20" />
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/Extentions.kt" timestamp="1455794771584">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/fabric.properties" timestamp="1453755776597">
         <mark key="[" line="0" column="44" />
@@ -496,6 +495,11 @@
         <mark key="]" line="27" column="57" />
         <mark key="^" line="27" column="57" />
         <mark key="." line="27" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/VideoActivity.java" timestamp="1455717168368">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/IBookManager.java" timestamp="1454368395127">
         <mark key="[" line="22" column="27" />
@@ -766,11 +770,10 @@
         <mark key="^" line="10" column="21" />
         <mark key="." line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostRecyclerAdapter.java" timestamp="1455725491907">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="109" column="62" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostRecyclerAdapter.java" timestamp="1455794751335">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/widget/WidgetTrendingFeedService.java" timestamp="1455722141250">
         <mark key="[" line="96" column="33" />
@@ -1089,7 +1092,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBVbml0Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1101,31 +1104,31 @@
         <text encoding="base64">IG92ZXJyaWRlIHZhciBjcmVhdGVkQXQ6IFN0cmluZyA9ICIiCiAgICBvdmVycmlkZSB2YXIgZGVzYzogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciBvYmplY3RJZDogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciBwdWJsaXNoZWRBdDogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciB0eXBlOiBTdHJpbmcgPSAiIgogICAgb3ZlcnJpZGUgdmFyIHVwZGF0ZWRBdDogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciB1cmw6IFN0cmluZyA9ICIiCiAgICBvdmVycmlkZSB2YXIgdXNlZDogQm9vbGVhbiA9IHRydWUKICAgIG92ZXJyaWRlIHZhciB3aG86IFN0cmluZyA9ICIi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBVbml0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIHNoYXJlCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVm9pZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHNoYXJlZFByZWZlcmVuY2VzLmUK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVkaXQoCg==</text>
+        <text encoding="base64">ICAgICAgIHNoYXJlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVkaXQK</text>
+        <text encoding="base64">ICAgICAgIHNoYXJlZFByZWZlcmVuY2VzLmUK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIGVkaXQoCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVkaXQK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>.</text>
-      </register>
-      <register name="8" type="4">
-        <text>Editor</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
     </registers>
     <search>
