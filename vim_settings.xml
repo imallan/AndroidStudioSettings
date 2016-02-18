@@ -255,11 +255,12 @@
         <mark key="^" line="11" column="55" />
         <mark key="." line="11" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/model/Article.kt" timestamp="1455719416197">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="38" column="36" />
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/model/Article.kt" timestamp="1455790034003">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="48" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/IBookManager.java" timestamp="1454407221277">
         <mark key="[" line="18" column="25" />
@@ -279,11 +280,11 @@
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/Extentions.kt" timestamp="1455732256464">
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="11" column="45" />
-        <mark key="^" line="11" column="45" />
-        <mark key="." line="11" column="45" />
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/Extentions.kt" timestamp="1455789585879">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/fabric.properties" timestamp="1453755776597">
         <mark key="[" line="0" column="44" />
@@ -983,7 +984,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="85" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
       <jump line="31" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
       <jump line="11" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
       <jump line="43" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
@@ -1083,46 +1083,47 @@
       <jump line="56" column="50" filename="$USER_HOME$/Documents/GitHub/Gank/app/build.gradle" />
       <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" />
       <jump line="9" column="57" filename="$USER_HOME$/Documents/GitHub/Gank/app/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/model/Article.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBUZXh0QXJ0aWNsZUFkYXB0ZXIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>LinearLayoutManager</text>
+        <text>save</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBUZXh0QXJ0aWNsZUFkYXB0ZXIoKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IG92ZXJyaWRlIHZhciBjcmVhdGVkQXQ6IFN0cmluZyA9ICIiCiAgICBvdmVycmlkZSB2YXIgZGVzYzogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciBvYmplY3RJZDogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciBwdWJsaXNoZWRBdDogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciB0eXBlOiBTdHJpbmcgPSAiIgogICAgb3ZlcnJpZGUgdmFyIHVwZGF0ZWRBdDogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciB1cmw6IFN0cmluZyA9ICIiCiAgICBvdmVycmlkZSB2YXIgdXNlZDogQm9vbGVhbiA9IHRydWUKICAgIG92ZXJyaWRlIHZhciB3aG86IFN0cmluZyA9ICIi</text>
       </register>
-      <register name="1" type="4">
-        <text>LinearLayoutManager</text>
-      </register>
-      <register name="2" type="4">
-        <text>Glide</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuYnVtcHRlY2guZ2xpZGU6Z2xpZGU6My43LjAnCg==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgaW1hZ2U6IEltYWdlVmlldwo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZmluYWwgY2xhc3MgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>save</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CmZ1biB0ZXN0KGNvbnRleHQ6IENvbnRleHQpOiBVbml0IHsKICAgIHZhbCByZWFsbSA9IFJlYWxtLmdldEluc3RhbmNlKGNvbnRleHQpCiAgICByZWFsbS5zYXZlIHsgCiAgICAgICAgY3JlYXRlT2JqZWN0KCkKICAgIH0KICAgIAp9</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>RealmTopic</text>
       </register>
       <register name="7" type="4">
-        <text>private</text>
+        <text>.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>Transaction</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICByZWFsbS5jcmVhdGVPYmplY3QoKQo=</text>
       </register>
     </registers>
     <search>
