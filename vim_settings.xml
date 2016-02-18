@@ -124,11 +124,11 @@
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/view/SquareFrameLayout.java" timestamp="1455723289684">
         <mark key="[" line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/LoginActivity.kt" timestamp="1455835411139">
-        <mark key="[" line="57" column="24" />
-        <mark key="]" line="60" column="23" />
-        <mark key="^" line="60" column="23" />
-        <mark key="." line="60" column="23" />
+      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/LoginActivity.kt" timestamp="1455836168751">
+        <mark key="[" line="61" column="51" />
+        <mark key="]" line="61" column="50" />
+        <mark key="^" line="61" column="50" />
+        <mark key="." line="61" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/build.gradle" timestamp="1453465647758">
         <mark key="[" line="7" column="61" />
@@ -684,11 +684,11 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ConstantValues.kt" timestamp="1455834460302">
-        <mark key="[" line="11" column="39" />
-        <mark key="]" line="11" column="54" />
-        <mark key="^" line="11" column="54" />
-        <mark key="." line="11" column="54" />
+      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ConstantValues.kt" timestamp="1455836134408">
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="13" column="57" />
+        <mark key="^" line="13" column="37" />
+        <mark key="." line="13" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/res/layout/activity_detail.xml" timestamp="1455635884797">
         <mark key="[" line="5" column="45" />
@@ -1149,7 +1149,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG92ZXJyaWRlIGZ1biBvblN1Y2Nlc3MoKSB7CiAgICAgICAgdGhyb3cgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oKQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBvbkZhaWx1cmUoKSB7CiAgICAgICAgdGhyb3cgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oKQogICAgfQo=</text>
+        <text>PREF_INSTAGRAM_TOKEN</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1158,9 +1158,7 @@
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text>fun onSuccess()
-
-            fun onFailure()</text>
+        <text>PREF_INSTAGRAM_TOKEN</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IG92ZXJyaWRlIGZ1biBvblN1Y2Nlc3MoKSB7CiAgICAgICAgdGhyb3cgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oKQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBvbkZhaWx1cmUoKSB7CiAgICAgICAgdGhyb3cgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oKQogICAgfQo=</text>
