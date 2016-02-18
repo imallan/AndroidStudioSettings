@@ -285,10 +285,11 @@
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/Extentions.kt" timestamp="1455794771584">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/Extentions.kt" timestamp="1455797294652">
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/fabric.properties" timestamp="1453755776597">
         <mark key="[" line="0" column="44" />
@@ -1097,11 +1098,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/model/Article.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>color</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>color</text>
+        <text>editor</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1109,32 +1110,32 @@
       <register name="0" type="4">
         <text encoding="base64">IG92ZXJyaWRlIHZhciBjcmVhdGVkQXQ6IFN0cmluZyA9ICIiCiAgICBvdmVycmlkZSB2YXIgZGVzYzogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciBvYmplY3RJZDogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciBwdWJsaXNoZWRBdDogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciB0eXBlOiBTdHJpbmcgPSAiIgogICAgb3ZlcnJpZGUgdmFyIHVwZGF0ZWRBdDogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciB1cmw6IFN0cmluZyA9ICIiCiAgICBvdmVycmlkZSB2YXIgdXNlZDogQm9vbGVhbiA9IHRydWUKICAgIG92ZXJyaWRlIHZhciB3aG86IFN0cmluZyA9ICIi</text>
       </register>
-      <register name="1" type="4">
-        <text>color</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBVbml0Cg==</text>
+      <register name="2" type="4">
+        <text>editor</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVm9pZDsK</text>
+        <text encoding="base64">ICAgICAgICBlZGl0b3IgLT4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="4" type="4">
+        <text>)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIHNoYXJlCg==</text>
+      <register name="5" type="4">
+        <text>(</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIHNoYXJlZFByZWZlcmVuY2VzLmUK</text>
+      <register name="6" type="4">
+        <text>p</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGVkaXQoCg==</text>
+      <register name="7" type="4">
+        <text>s</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGVkaXQK</text>
+      <register name="8" type="4">
+        <text>p</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+      <register name="9" type="4">
+        <text>s</text>
       </register>
     </registers>
     <search>
