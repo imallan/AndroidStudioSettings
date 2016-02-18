@@ -107,12 +107,12 @@
         <mark key="." line="39" column="61" />
         <mark key="^" line="39" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" timestamp="1455731684928">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="24" column="62" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" timestamp="1455799997004">
+        <mark key="'" line="34" column="25" />
+        <mark key="[" line="69" column="31" />
+        <mark key="]" line="69" column="41" />
+        <mark key="." line="69" column="41" />
+        <mark key="^" line="69" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453744104180">
         <mark key="[" line="10" column="21" />
@@ -261,11 +261,12 @@
         <mark key="^" line="11" column="55" />
         <mark key="." line="11" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/model/Article.kt" timestamp="1455791638078">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/model/Article.kt" timestamp="1455799787854">
+        <mark key="'" line="42" column="27" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="4" />
+        <mark key="." line="62" column="4" />
+        <mark key="^" line="62" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/IBookManager.java" timestamp="1454407221277">
         <mark key="[" line="18" column="25" />
@@ -996,15 +997,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
-      <jump line="11" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
-      <jump line="43" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
-      <jump line="10" column="1" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
-      <jump line="411" column="70" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
-      <jump line="13" column="4" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
-      <jump line="0" column="2" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
-      <jump line="37" column="4" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
-      <jump line="11" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
       <jump line="36" column="4" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
       <jump line="19" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
       <jump line="3" column="17" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
@@ -1096,46 +1088,55 @@
       <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" />
       <jump line="9" column="57" filename="$USER_HOME$/Documents/GitHub/Gank/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/model/Article.kt" />
+      <jump line="46" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" />
+      <jump line="22" column="51" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" />
+      <jump line="60" column="9" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" />
+      <jump line="24" column="49" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" />
+      <jump line="51" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" />
+      <jump line="35" column="25" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" />
+      <jump line="42" column="27" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/model/Article.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>editor</text>
+        <text>instance</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IG92ZXJyaWRlIHZhciBjcmVhdGVkQXQ6IFN0cmluZyA9ICIiCiAgICBvdmVycmlkZSB2YXIgZGVzYzogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciBvYmplY3RJZDogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciBwdWJsaXNoZWRBdDogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciB0eXBlOiBTdHJpbmcgPSAiIgogICAgb3ZlcnJpZGUgdmFyIHVwZGF0ZWRBdDogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciB1cmw6IFN0cmluZyA9ICIiCiAgICBvdmVycmlkZSB2YXIgdXNlZDogQm9vbGVhbiA9IHRydWUKICAgIG92ZXJyaWRlIHZhciB3aG86IFN0cmluZyA9ICIi</text>
+        <text encoding="base64">aW5zdGFuY2UuICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="4">
-        <text>editor</text>
+        <text>instance</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0b3IgLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnN0YW5jZQo=</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>Realm.getInstance()</text>
       </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text>lm</text>
       </register>
-      <register name="6" type="4">
-        <text>p</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>s</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3Qgewo=</text>
       </register>
-      <register name="8" type="4">
-        <text>p</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>s</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
     </registers>
     <search>
