@@ -229,6 +229,13 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Analytics.java" timestamp="1455192160639">
         <mark key="[" line="1323" column="66" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/SharedPreferenceExtension.kt" timestamp="1455754266631">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="18" />
+        <mark key="^" line="25" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.java" timestamp="1455730484818">
         <mark key="'" line="7" column="0" />
       </file>
@@ -585,6 +592,12 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/ui/MainActivity.kt" timestamp="1455754548057">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="10" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/activities/MainActivity.java" timestamp="1454255058023">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="30" />
@@ -694,11 +707,11 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/extenstions.SharedPreferenceExtension.kt" timestamp="1455751186081">
-        <mark key="[" line="11" column="58" />
-        <mark key="]" line="11" column="57" />
-        <mark key="." line="11" column="57" />
-        <mark key="^" line="11" column="57" />
+      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/extenstions.SharedPreferenceExtension.kt" timestamp="1455751428077">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="28" />
+        <mark key="^" line="18" column="28" />
+        <mark key="." line="18" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/PresenterHolder.java" timestamp="1454244958934">
         <mark key="[" line="37" column="19" />
@@ -980,7 +993,7 @@
       <file name="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/app/ContextImpl.java" timestamp="1455659671170">
         <mark key="'" line="124" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1455718511394">
+      <file name="/fragment.java" timestamp="1455753782939">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Utils.java" timestamp="1455639051109">
@@ -997,7 +1010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="85" filename="$USER_HOME$/Desktop/FingerPrintPlayground/app/src/main/java/com/imallan/fingerprintplayground/MainActivity.java" />
       <jump line="31" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
       <jump line="11" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
       <jump line="43" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
@@ -1097,13 +1109,14 @@
       <jump line="56" column="50" filename="$USER_HOME$/Documents/GitHub/Gank/app/build.gradle" />
       <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/SharedPreferenceExtension.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5TaGFyZWRQcmVmZXJlbmNlcwo=</text>
+        <text encoding="base64">ICAgICAgICBlZGl0UHJlZnMgewogICAgICAgICAgICBzZXQoImEiIHRvICJiIikKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>BuildConfig</text>
+        <text>Context</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1112,42 +1125,31 @@
         <text>recyclerView</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5TaGFyZWRQcmVmZXJlbmNlcwo=</text>
+        <text encoding="base64">ICAgICAgICBlZGl0UHJlZnMgewogICAgICAgICAgICBzZXQoImEiIHRvICJiIikKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQucHJlZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHV0U3RyaW5nCg==</text>
       </register>
       <register name="3" type="4">
-        <text>BuildConfig</text>
+        <text>Context</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNoYXJlZFByZWZlcmVuY2VzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFNoYXJlZFByZWZlcmVuY2VzLkVkaXRvcigpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFNoYXJlZFByZWZlcmVuY2VzCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>hh</text>
+      <register name="5" type="4">
+        <text>Context</text>
       </register>
-      <register name="9" type="4">
-        <text>buildscript {
-    ext.kotlin_version = '1.0.0'
-    repositories {
-        mavenCentral()
-    }
-    dependencies {
-        classpath &quot;org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version&quot;
-    }
-}
-repositories {
-    mavenCentral()
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGVkaXRvci4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByZWZlcmVuY2VzCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFNoYXJlZFByZWZlcmVuY2VzCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
