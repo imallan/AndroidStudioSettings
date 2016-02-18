@@ -82,6 +82,12 @@
         <mark key="^" line="7" column="54" />
         <mark key="." line="7" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/drawable/background_splash.xml" timestamp="1455795566469">
+        <mark key="[" line="1" column="70" />
+        <mark key="]" line="1" column="93" />
+        <mark key="." line="1" column="93" />
+        <mark key="^" line="1" column="93" />
+      </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Test.java" timestamp="1455626055206">
         <mark key="[" line="17" column="39" />
         <mark key="]" line="17" column="42" />
@@ -1091,11 +1097,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/model/Article.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBVbml0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>color</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>color</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1103,32 +1109,32 @@
       <register name="0" type="4">
         <text encoding="base64">IG92ZXJyaWRlIHZhciBjcmVhdGVkQXQ6IFN0cmluZyA9ICIiCiAgICBvdmVycmlkZSB2YXIgZGVzYzogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciBvYmplY3RJZDogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciBwdWJsaXNoZWRBdDogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciB0eXBlOiBTdHJpbmcgPSAiIgogICAgb3ZlcnJpZGUgdmFyIHVwZGF0ZWRBdDogU3RyaW5nID0gIiIKICAgIG92ZXJyaWRlIHZhciB1cmw6IFN0cmluZyA9ICIiCiAgICBvdmVycmlkZSB2YXIgdXNlZDogQm9vbGVhbiA9IHRydWUKICAgIG92ZXJyaWRlIHZhciB3aG86IFN0cmluZyA9ICIi</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBVbml0Cg==</text>
+      <register name="1" type="4">
+        <text>color</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVm9pZDsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBVbml0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVm9pZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHNoYXJlCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIHNoYXJlZFByZWZlcmVuY2VzLmUK</text>
+        <text encoding="base64">ICAgICAgIHNoYXJlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVkaXQoCg==</text>
+        <text encoding="base64">ICAgICAgIHNoYXJlZFByZWZlcmVuY2VzLmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVkaXQK</text>
+        <text encoding="base64">ICAgIGVkaXQoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgIGVkaXQK</text>
       </register>
-      <register name="9" type="4">
-        <text>.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
     </registers>
     <search>
