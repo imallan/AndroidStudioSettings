@@ -27,6 +27,12 @@
         <mark key="^" line="4" column="78" />
         <mark key="." line="4" column="78" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/res/values/strings.xml" timestamp="1455838620900">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="41" />
+        <mark key="^" line="4" column="41" />
+        <mark key="." line="4" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/res/layout/activity_aidl.xml" timestamp="1454279504680">
         <mark key="[" line="17" column="22" />
         <mark key="]" line="17" column="25" />
@@ -124,11 +130,12 @@
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/view/SquareFrameLayout.java" timestamp="1455723289684">
         <mark key="[" line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/LoginActivity.kt" timestamp="1455836168751">
-        <mark key="[" line="61" column="51" />
-        <mark key="]" line="61" column="50" />
-        <mark key="^" line="61" column="50" />
-        <mark key="." line="61" column="50" />
+      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/LoginActivity.kt" timestamp="1455842041105">
+        <mark key="'" line="47" column="79" />
+        <mark key="[" line="66" column="22" />
+        <mark key="]" line="66" column="26" />
+        <mark key="." line="66" column="26" />
+        <mark key="^" line="66" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/build.gradle" timestamp="1453465647758">
         <mark key="[" line="7" column="61" />
@@ -186,11 +193,10 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/extension/SharedPreferencesExtension.kt" timestamp="1455835398394">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="41" />
-        <mark key="." line="23" column="41" />
-        <mark key="^" line="23" column="41" />
+      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/extension/SharedPreferencesExtension.kt" timestamp="1455842214005">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/models/MyModel.java" timestamp="1454179630834">
         <mark key="[" line="12" column="45" />
@@ -276,12 +282,12 @@
         <mark key="." line="14" column="37" />
         <mark key="^" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/AndroidManifest.xml" timestamp="1455834726071">
+      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/AndroidManifest.xml" timestamp="1455839835870">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="44" />
-        <mark key="^" line="12" column="11" />
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="4" column="62" />
+        <mark key="." line="4" column="62" />
+        <mark key="^" line="4" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/RichQuickAction/quickaction/src/main/res/values/ids.xml" timestamp="1454934460828">
         <mark key="[" line="2" column="48" />
@@ -293,6 +299,12 @@
         <mark key="'" line="225" column="4" />
         <mark key="[" line="62" column="53" />
         <mark key="]" line="62" column="87" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/extension/LogExtension.kt" timestamp="1455841227928">
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="39" />
+        <mark key="." line="24" column="39" />
+        <mark key="^" line="24" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/layout/view_item_my_data.xml" timestamp="1454255101457">
         <mark key="[" line="10" column="32" />
@@ -381,6 +393,7 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="17" column="61" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/content/Intent.java" timestamp="1455839088621" />
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/model/Article.kt" timestamp="1455719416197">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -451,10 +464,15 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/res/values/styles.xml" timestamp="1455834731622">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/res/values/styles.xml" timestamp="1455840100901">
+        <mark key="[" line="8" column="38" />
+        <mark key="]" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+        <mark key="^" line="8" column="54" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/java/net/URLEncoder.java" timestamp="1455841277268">
+        <mark key="[" line="49" column="33" />
+        <mark key="]" line="49" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/V2EXService.kt" timestamp="1455710449172">
         <mark key="[" line="16" column="14" />
@@ -620,6 +638,12 @@
         <mark key="^" line="19" column="70" />
         <mark key="." line="19" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/extension/IntentExtension.kt" timestamp="1455839109202">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="9" column="35" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/models/MyModelImpl.java" timestamp="1454246925938">
         <mark key="[" line="22" column="52" />
         <mark key="]" line="22" column="53" />
@@ -684,11 +708,10 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ConstantValues.kt" timestamp="1455836134408">
-        <mark key="[" line="13" column="37" />
-        <mark key="]" line="13" column="57" />
-        <mark key="^" line="13" column="37" />
-        <mark key="." line="13" column="37" />
+      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ConstantValues.kt" timestamp="1455842002453">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/res/layout/activity_detail.xml" timestamp="1455635884797">
         <mark key="[" line="5" column="45" />
@@ -733,6 +756,12 @@
         <mark key="^" line="30" column="45" />
         <mark key="." line="30" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/extension/ToastExtension.kt" timestamp="1455838546116">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="47" />
+        <mark key="^" line="11" column="47" />
+        <mark key="." line="11" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/MessengerService.java" timestamp="1454276161037">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="9" />
@@ -760,6 +789,7 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/res/values-v21/styles.xml" timestamp="1455840048797" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/LinkUtils.java" timestamp="1455622480596">
         <mark key="[" line="356" column="38" />
         <mark key="]" line="356" column="38" />
@@ -827,7 +857,7 @@
         <mark key="^" line="11" column="37" />
         <mark key="." line="11" column="37" />
       </file>
-      <file name="/fragment.kt" timestamp="1455711877266">
+      <file name="/fragment.kt" timestamp="1455841817851">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" timestamp="1455731041437">
@@ -880,17 +910,23 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/MainActivity.kt" timestamp="1455832980573">
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="35" />
-        <mark key="^" line="15" column="35" />
-        <mark key="." line="15" column="35" />
+      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/MainActivity.kt" timestamp="1455842384759">
+        <mark key="[" line="22" column="86" />
+        <mark key="]" line="22" column="92" />
+        <mark key="." line="22" column="92" />
+        <mark key="^" line="22" column="92" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/extenstions.SharedPreferenceExtension.kt" timestamp="1455751428077">
         <mark key="[" line="18" column="29" />
         <mark key="]" line="18" column="28" />
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/extension/ActivityExtension.kt" timestamp="1455838797635">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="11" column="10" />
+        <mark key="." line="11" column="10" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/APIService.java" timestamp="1455625413380">
         <mark key="[" line="13" column="32" />
@@ -931,7 +967,10 @@
         <mark key="^" line="47" column="35" />
         <mark key="." line="47" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/InstagramWebViewActivity.java" timestamp="1455835018213" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/InstagramWebViewActivity.java" timestamp="1455838888544">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="55" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/fabric.properties" timestamp="1453735676403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="40" />
@@ -1046,8 +1085,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="4" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
-      <jump line="19" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
       <jump line="3" column="17" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
       <jump line="51" column="67" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
       <jump line="2" column="8" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
@@ -1146,46 +1183,48 @@
       <jump line="4" column="17" filename="$USER_HOME$/Documents/GitHub/Instafilm/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/AndroidManifest.xml" />
       <jump line="225" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/InstagramUtils.java" />
+      <jump line="57" column="65" filename="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/LoginActivity.kt" />
+      <jump line="58" column="79" filename="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/LoginActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PREF_INSTAGRAM_TOKEN</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>_ENCODED</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>PREF_INSTAGRAM_TOKEN</text>
+      <register name="0" type="2">
+        <text encoding="base64">dmFsIElOU1RBR1JBTV9SRURJUkVDVF9VUkk6IFN0cmluZyA9IFVSTEVuY29kZXIuZW5jb2RlKCJodHRwOi8vbG9jYWxob3N0IikK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IG92ZXJyaWRlIGZ1biBvblN1Y2Nlc3MoKSB7CiAgICAgICAgdGhyb3cgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oKQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBvbkZhaWx1cmUoKSB7CiAgICAgICAgdGhyb3cgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oKQogICAgfQo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZ1biBvbkZhaWx1cmUoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1biBvblN1Y2Nlc3MoKQoK</text>
-      </register>
-      <register name="5" type="4">
-        <text>.</text>
-      </register>
-      <register name="6" type="4">
-        <text>LoginActivity</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">QFN1cHByZXNzKCJERVBSRUNBVElPTiIpCnZhbCBJTlNUQUdSQU1fUkVESVJFQ1RfVVJJX0VOQ09ERUQ6IFN0cmluZyA9IFVSTEVuY29kZXIuZW5jb2RlKElOU1RBR1JBTV9SRURJUkVDVF9VUkkpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cK</text>
+      </register>
+      <register name="7" type="4">
+        <text>_ENCODED</text>
+      </register>
+      <register name="8" type="4">
+        <text>&quot;http://localhost&quot;</text>
+      </register>
+      <register name="9" type="4">
+        <text>URLEncoder.encode(</text>
       </register>
     </registers>
     <search>
