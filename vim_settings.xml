@@ -430,6 +430,13 @@
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/res/layout/view_item_article_normal.xml" timestamp="1455901568135">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="45" />
+        <mark key="." line="24" column="45" />
+        <mark key="^" line="24" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/layout/activity_main.xml" timestamp="1453743410160">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="9" column="31" />
@@ -833,11 +840,11 @@
       <file name="/fragment.kt" timestamp="1455711877266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" timestamp="1455731041437">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="18" column="41" />
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" timestamp="1455901130350">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/debug/res/values/strings.xml" timestamp="1454667535161">
         <mark key="[" line="45" column="162" />
@@ -1160,44 +1167,44 @@
       <jump line="455" column="19" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBEaXNhYmxlIFJpY2ggUXVpY2sgQWN0aW9ucyBmb3Igbm93CiAgICAgICAgICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>light</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>light</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBEaXNhYmxlIFJpY2ggUXVpY2sgQWN0aW9ucyBmb3Igbm93CiAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZvbnRGYW1pbHk9InNhbnMtc2VyaWYtbWVkaXVtIgo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>light</text>
+      </register>
+      <register name="2" type="4">
+        <text>light</text>
+      </register>
+      <register name="3" type="4">
+        <text>thin</text>
+      </register>
+      <register name="4" type="4">
+        <text>light</text>
+      </register>
+      <register name="5" type="4">
+        <text>medium</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0ic2EiCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZvbnRGYW1pbHk9IiIK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChTeXN0ZW0uZW52LlNZTkNfUEFUSCA9PSBudWxsKSB7CiAgICAgICAgdGhyb3cgbmV3IEdyYWRsZUV4Y2VwdGlvbigiWW91IG5lZWQgdG8gc2V0IHRoZSBlbnYgU1lOQ19QQVRIIGFzIHlvdXIgc3luY2luZyBwYXRoIikKICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">amVua2lucy53aGVuUmVhZHkgewogICAgCn0K</text>
-      </register>
-      <register name="6" type="4">
-        <text>u</text>
-      </register>
-      <register name="7" type="4">
-        <text>u</text>
-      </register>
-      <register name="8" type="4">
-        <text>live</text>
-      </register>
-      <register name="9" type="4">
-        <text>release</text>
       </register>
     </registers>
     <search>
