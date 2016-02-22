@@ -892,12 +892,12 @@
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" timestamp="1456146210237">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="101" column="13" />
-        <mark key="]" line="101" column="15" />
-        <mark key="^" line="101" column="15" />
-        <mark key="." line="101" column="15" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" timestamp="1456147166471">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="97" column="54" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/res/layout/activity_messenger_service.xml" timestamp="1454274197801">
         <mark key="[" line="7" column="11" />
@@ -1110,9 +1110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="19" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/WindowManagerGlobal.java" />
-      <jump line="6074" column="26" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
-      <jump line="265" column="0" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
       <jump line="4537" column="27" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
       <jump line="4529" column="27" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
       <jump line="4453" column="34" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
@@ -1210,10 +1207,13 @@
       <jump line="129" column="41" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
       <jump line="148" column="50" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="105" column="26" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
+      <jump line="70" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
+      <jump line="39" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LWtlZXBhdHRyaWJ1dGVzIFNvdXJjZUZpbGUsTGluZU51bWJlclRhYmxlCg==</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -1224,29 +1224,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgKioqIGQoLi4uKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>true</text>
+      <register name="1" type="2">
+        <text encoding="base64">LWtlZXBhdHRyaWJ1dGVzIFNvdXJjZUZpbGUsTGluZU51bWJlclRhYmxlCg==</text>
       </register>
       <register name="2" type="4">
+        <text>true</text>
+      </register>
+      <register name="3" type="4">
         <text>file</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2hvd1RhYnMuZ2V0KCkpIHsKICAgICAgICAgICAgaW50ZW50ID0gbmV3IEludGVudChjb250ZXh0LCBNYWluVGFiQWN0aXZpdHkuY2xhc3MpOwogICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2hvd1RhYnMuZ2V0KCkpIHsKICAgICAgICAgICAgaW50ZW50ID0gbmV3IEludGVudChjb250ZXh0LCBNYWluVGFiQWN0aXZpdHkuY2xhc3MpOwogICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFR3ZWFrPEJvb2xlYW4+IHNob3dUYWJzID0gTWl4cGFuZWxBUEkuYm9vbGVhblR3ZWFrKCJTaG93IHRhYnMiLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFR3ZWFrPEJvb2xlYW4+IHNob3dUYWJzID0gTWl4cGFuZWxBUEkuYm9vbGVhblR3ZWFrKCJTaG93IHRhYnMiLCBmYWxzZSk7Cg==</text>
