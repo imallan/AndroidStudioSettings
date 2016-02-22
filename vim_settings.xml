@@ -861,11 +861,11 @@
       <file name="/fragment.kt" timestamp="1456155426640">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" timestamp="1456164275924">
-        <mark key="[" line="34" column="37" />
-        <mark key="]" line="34" column="37" />
-        <mark key="." line="34" column="37" />
-        <mark key="^" line="33" column="27" />
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" timestamp="1456165434311">
+        <mark key="[" line="33" column="37" />
+        <mark key="]" line="33" column="39" />
+        <mark key="." line="33" column="39" />
+        <mark key="^" line="33" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/debug/res/values/strings.xml" timestamp="1454667535161">
         <mark key="[" line="45" column="162" />
@@ -1196,11 +1196,11 @@
       <jump line="126" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcnVudGltZS5leGVjKCJzdSIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1208,32 +1208,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIHByb2MgPSBydW50aW1lLmV4ZWMoImxzIC1hbGwiKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcnVudGltZS5leGVjKCJzdSIK</text>
       </register>
       <register name="2" type="4">
-        <text>u</text>
+        <text />
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2QoInJlYWRsaW5lIikK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVudGltZS5leGVjKCJzdSIpCg==</text>
+      <register name="5" type="4">
+        <text>u</text>
       </register>
       <register name="6" type="4">
-        <text>ls -all</text>
+        <text>s</text>
       </register>
-      <register name="7" type="4">
-        <text>var</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2QoInJlYWRsaW5lIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2MgPSBydW50aW1lLmV4ZWMoInN1IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnVudGltZS5leGVjKCJzdSIpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHByb2MgPSBydW50aW1lLmV4ZWMoInN1IikK</text>
+      <register name="9" type="4">
+        <text>ls -all</text>
       </register>
     </registers>
     <search>
