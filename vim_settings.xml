@@ -384,11 +384,12 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" timestamp="1455710408076">
-        <mark key="[" line="34" column="58" />
-        <mark key="]" line="35" column="36" />
-        <mark key="^" line="35" column="36" />
-        <mark key="." line="35" column="36" />
+      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" timestamp="1456155455568">
+        <mark key="'" line="26" column="57" />
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="26" column="57" />
+        <mark key="^" line="26" column="57" />
+        <mark key="." line="26" column="57" />
       </file>
       <file name="$USER_HOME$/Desktop/FragmentAsAService/app/src/main/java/com/imallan/fragmentasaservice/MainActivity.java" timestamp="1454927670993">
         <mark key="[" line="28" column="37" />
@@ -649,18 +650,24 @@
         <mark key="^" line="7" column="54" />
         <mark key="." line="7" column="54" />
       </file>
+      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Extensions.kt" timestamp="1456155242414">
+        <mark key="[" line="11" column="83" />
+        <mark key="]" line="11" column="84" />
+        <mark key="^" line="11" column="85" />
+        <mark key="." line="11" column="84" />
+      </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Test.java" timestamp="1455626055206">
         <mark key="[" line="17" column="39" />
         <mark key="]" line="17" column="42" />
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" timestamp="1455711344899">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="38" column="45" />
-        <mark key="]" line="39" column="61" />
-        <mark key="." line="39" column="61" />
-        <mark key="^" line="39" column="61" />
+      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" timestamp="1456155394086">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="36" column="20" />
+        <mark key="." line="36" column="20" />
+        <mark key="^" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" timestamp="1455878070223">
         <mark key="'" line="26" column="0" />
@@ -880,7 +887,7 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="/fragment.kt" timestamp="1455711877266">
+      <file name="/fragment.kt" timestamp="1456155426640">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" timestamp="1455901130350">
@@ -1116,15 +1123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4453" column="34" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
-      <jump line="128" column="33" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
-      <jump line="3494" column="50" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
-      <jump line="61" column="23" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
-      <jump line="19" column="8" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/TopicAdapter.kt" />
-      <jump line="22" column="8" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" />
-      <jump line="66" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" />
-      <jump line="7" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" />
       <jump line="33" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Topic.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Topic.kt" />
       <jump line="56" column="73" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/TopicAdapter.kt" />
@@ -1216,13 +1214,22 @@
       <jump line="39" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/CategoriesActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/CategoriesFragment.java" />
+      <jump line="49" column="24" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" />
+      <jump line="26" column="37" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
+      <jump line="37" column="19" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
+      <jump line="82" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
+      <jump line="61" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
+      <jump line="45" column="35" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" />
+      <jump line="8" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" />
+      <jump line="37" column="3" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" />
+      <jump line="26" column="57" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>Any</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>Any</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1231,31 +1238,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgKioqIGQoLi4uKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>false</text>
+        <text>Any</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LWtlZXBhdHRyaWJ1dGVzIFNvdXJjZUZpbGUsTGluZU51bWJlclRhYmxlCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1UZXh0Vmlld0lkOiBBbnkK</text>
       </register>
       <register name="3" type="4">
-        <text>true</text>
+        <text>tei</text>
       </register>
       <register name="4" type="4">
-        <text>file</text>
+        <text>xt_id</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5hY3Rpdml0eV9kZXRhaWwuKgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>recycler_main</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text>recycler_main</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2hvd1RhYnMuZ2V0KCkpIHsKICAgICAgICAgICAgaW50ZW50ID0gbmV3IEludGVudChjb250ZXh0LCBNYWluVGFiQWN0aXZpdHkuY2xhc3MpOwogICAgICAgIH0gZWxzZSB7Cg==</text>
+      <register name="8" type="4">
+        <text>recycler_main</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>toolbar</text>
       </register>
     </registers>
     <search>
