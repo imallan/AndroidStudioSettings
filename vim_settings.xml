@@ -892,6 +892,13 @@
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" timestamp="1456146210237">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="101" column="13" />
+        <mark key="]" line="101" column="15" />
+        <mark key="^" line="101" column="15" />
+        <mark key="." line="101" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/res/layout/activity_messenger_service.xml" timestamp="1454274197801">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="8" column="36" />
@@ -1008,12 +1015,12 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1456142102290">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="163" column="57" />
-        <mark key="]" line="163" column="58" />
-        <mark key="." line="163" column="58" />
-        <mark key="^" line="151" column="48" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1456146270925">
+        <mark key="'" line="148" column="50" />
+        <mark key="[" line="104" column="23" />
+        <mark key="]" line="104" column="27" />
+        <mark key="." line="104" column="27" />
+        <mark key="^" line="104" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AwesomeProject/MyServiceExample/app/src/main/java/com/imallan/myserviceexample/MainActivity.java" timestamp="1454968339254">
         <mark key="[" line="12" column="62" />
@@ -1103,9 +1110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="454" column="17" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/LayoutInflater.java" />
-      <jump line="590" column="15" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/LayoutInflater.java" />
-      <jump line="231" column="34" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/com/android/internal/app/AlertController.java" />
       <jump line="232" column="19" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/WindowManagerGlobal.java" />
       <jump line="6074" column="26" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
       <jump line="265" column="0" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
@@ -1203,46 +1207,49 @@
       <jump line="482" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
       <jump line="502" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
+      <jump line="129" column="41" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
+      <jump line="148" column="50" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>just</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>mSubscriptionPrivacy</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgKioqIGQoLi4uKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>true</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>file</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2hvd1RhYnMuZ2V0KCkpIHsKICAgICAgICAgICAgaW50ZW50ID0gbmV3IEludGVudChjb250ZXh0LCBNYWluVGFiQWN0aXZpdHkuY2xhc3MpOwogICAgICAgIH0gZWxzZSB7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFR3ZWFrPEJvb2xlYW4+IHNob3dUYWJzID0gTWl4cGFuZWxBUEkuYm9vbGVhblR3ZWFrKCJTaG93IHRhYnMiLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2hvd1RhYnMuZ2V0KCkpIHsKICAgICAgICAgICAgaW50ZW50ID0gbmV3IEludGVudChjb250ZXh0LCBNYWluVGFiQWN0aXZpdHkuY2xhc3MpOwogICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFR3ZWFrPEJvb2xlYW4+IHNob3dUYWJzID0gTWl4cGFuZWxBUEkuYm9vbGVhblR3ZWFrKCJTaG93IHRhYnMiLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93SW5BcHBOb3RpZmljYXRpb25JZkF2YWlsYWJsZSgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFR3ZWFrPEJvb2xlYW4+IHNob3dUYWJzID0gTWl4cGFuZWxBUEkuYm9vbGVhblR3ZWFrKCJTaG93IHRhYnMiLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93SW5BcHBOb3RpZmljYXRpb25JZkF2YWlsYWJsZSgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFR3ZWFrPEJvb2xlYW4+IHNob3dUYWJzID0gTWl4cGFuZWxBUEkuYm9vbGVhblR3ZWFrKCJTaG93IHRhYnMiLCBmYWxzZSk7Cg==</text>
       </register>
     </registers>
     <search>
