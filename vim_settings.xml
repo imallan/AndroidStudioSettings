@@ -257,11 +257,12 @@
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/view/SquareFrameLayout.java" timestamp="1455723289684">
         <mark key="[" line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/LoginActivity.kt" timestamp="1456094092827">
-        <mark key="'" line="49" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/LoginActivity.kt" timestamp="1456167354560">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+        <mark key="^" line="27" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/adapters/BaseArticleAdapter.java" timestamp="1455724896822">
         <mark key="[" line="8" column="73" />
@@ -770,10 +771,11 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/MainActivity.kt" timestamp="1456097964381">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/MainActivity.kt" timestamp="1456167425662">
+        <mark key="[" line="38" column="30" />
+        <mark key="]" line="38" column="35" />
+        <mark key="." line="38" column="35" />
+        <mark key="^" line="38" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/extenstions.SharedPreferenceExtension.kt" timestamp="1455751428077">
         <mark key="[" line="18" column="29" />
@@ -1101,8 +1103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="8" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
-      <jump line="166" column="48" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="9" column="56" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/TopicAdapter.kt" />
       <jump line="48" column="4" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
       <jump line="56" column="37" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
@@ -1201,13 +1201,15 @@
       <jump line="58" column="79" filename="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/LoginActivity.kt" />
       <jump line="77" column="16" filename="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/LoginActivity.kt" />
       <jump line="49" column="0" filename="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/LoginActivity.kt" />
+      <jump line="45" column="16" filename="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/LoginActivity.kt" />
+      <jump line="88" column="0" filename="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/LoginActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuSmFrZVdoYXJ0b246a290dGVya25pZmU6ODkxODYzZWY0NicK</text>
+      <register name="&quot;" type="4">
+        <text>disable</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>disable</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1215,32 +1217,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBTdXBwcmVzcygiVU5DSEVDS0VEX0NBU1QiKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuSmFrZVdoYXJ0b246a290dGVya25pZmU6ODkxODYzZWY0NicK</text>
+      <register name="1" type="4">
+        <text>disable</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dkKCIyIikK</text>
+      <register name="2" type="4">
+        <text>View</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dkKCIxIikK</text>
+        <text encoding="base64">aW1wb3J0IGJ1dHRlcmtuaWZlLmJpbmRWaWV3Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2QoImZpbmQiKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICsgIlxuIg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2QoImZpbmQiKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICsgIlxuIg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIChmaW5kVmlld0J5SWQoaWQpIGFzIFQpCg==</text>
+      <register name="6" type="4">
+        <text>list-users</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>IOException</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFN1cHByZXNzKCJVTkNIRUNLRURfQ0EK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
