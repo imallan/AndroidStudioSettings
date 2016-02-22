@@ -987,11 +987,12 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1455883697906">
-        <mark key="'" line="140" column="60" />
-        <mark key="[" line="181" column="8" />
-        <mark key="]" line="181" column="9" />
-        <mark key="." line="181" column="9" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1456142102290">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="163" column="57" />
+        <mark key="]" line="163" column="58" />
+        <mark key="." line="163" column="58" />
+        <mark key="^" line="151" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AwesomeProject/MyServiceExample/app/src/main/java/com/imallan/myserviceexample/MainActivity.java" timestamp="1454968339254">
         <mark key="[" line="12" column="62" />
@@ -1081,12 +1082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
-      <jump line="34" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
-      <jump line="59" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
-      <jump line="54" column="34" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
-      <jump line="25" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" />
-      <jump line="39" column="8" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" />
       <jump line="32" column="69" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" />
       <jump line="40" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" />
@@ -1181,13 +1176,19 @@
       <jump line="64" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SettingsActivity.java" />
       <jump line="40" column="45" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SettingsActivity.java" />
       <jump line="57" column="29" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SettingsActivity.java" />
+      <jump line="190" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="0" column="32" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="5" column="41" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="154" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mSubscriptionPrivacy</text>
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>mSubscriptionPrivacy</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1196,31 +1197,31 @@
         <text>mSubscriptionPrivacy</text>
       </register>
       <register name="1" type="4">
+        <text>9</text>
+      </register>
+      <register name="2" type="4">
         <text>mSubscriptionPrivacy</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU3Vic2NyaXB0aW9uIG1TdWJzY3JpcHRpb25Qcml2YWN5Owo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpZiAobVN1YnNjcmlwdGlvblByaXZhY3kgIT0gbnVsbCkgbVN1YnMK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>Subscription</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>k</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpKHVzZXJTKQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBpZiAodXNlci5nZXRTZXJ2ZXJJZCgpKQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>noSiteMap</text>
       </register>
     </registers>
     <search>
