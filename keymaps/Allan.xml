@@ -20,6 +20,10 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="IntroduceLambdaParameter" />
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="NewScratchFile" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
