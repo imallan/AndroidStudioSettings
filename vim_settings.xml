@@ -667,6 +667,7 @@
       <file name="/a.regexp" timestamp="1454088273903">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/content/ContextWrapper.java" timestamp="1456239342407" />
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/ui/activities/BaseActivity.java" timestamp="1453760869287">
         <mark key="[" line="24" column="68" />
         <mark key="]" line="25" column="28" />
@@ -1020,10 +1021,10 @@
       <file name="/fragment.kt" timestamp="1455711877266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" timestamp="1456233043464">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" timestamp="1456239344801">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/debug/res/values/strings.xml" timestamp="1454667535161">
         <mark key="[" line="45" column="162" />
@@ -1377,8 +1378,8 @@
       <jump line="99" column="0" filename="$USER_HOME$/Documents/GitHub/DataBindingPlayground/app/src/main/java/com/imallan/databindingplayground/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjaGVja1NlbGZQZXJtaXNzaW9uKCkK</text>
       </register>
       <register name="-" type="4">
         <text>3</text>
@@ -1389,32 +1390,32 @@
       <register name="0" type="4">
         <text>Integer oldItem, Integer newItem</text>
       </register>
-      <register name="1" type="4">
-        <text>3</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjaGVja1NlbGZQZXJtaXNzaW9uKCkK</text>
       </register>
-      <register name="2" type="4">
-        <text>this</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjaGVja1NlbGZQZXJtaXNzaW9uKCkK</text>
       </register>
       <register name="3" type="4">
+        <text>3</text>
+      </register>
+      <register name="4" type="4">
+        <text>this</text>
+      </register>
+      <register name="5" type="4">
         <text>LinearLayoutManager</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtU29ydGVkTGlzdC5yZW1vdmVJdGVtQXQoYWRhcHRlclBvc2l0aW9uKTsK</text>
-      </register>
-      <register name="6" type="4">
-        <text>i</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtU29ydGVkTGlzdC5yZW1vdmVJdGVtQXQoYWRhcHRlclBvc2l0aW9uKTsK</text>
+      </register>
+      <register name="8" type="4">
+        <text>i</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmluYWwgaW50IGkgPSBwb3NpdGlvbjsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>position</text>
       </register>
     </registers>
     <search>
