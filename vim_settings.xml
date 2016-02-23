@@ -829,6 +829,12 @@
         <mark key="^" line="11" column="55" />
         <mark key="." line="11" column="54" />
       </file>
+      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/kotlin/com/imallan/kotlinplayground/MainActivity.kt" timestamp="1456246946413">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="34" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/fabric.properties" timestamp="1453755776597">
         <mark key="[" line="0" column="44" />
         <mark key="]" line="1" column="71" />
@@ -1331,44 +1337,44 @@
       <jump line="69" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/kotlin/com/imallan/kotlinplayground/TopicAdapter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>com.imallan.kotlinplaygroundViewHolder</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maW5kQWxsU29ydGVkKCJyZXBsaWVzIiwgU29ydC5ERVNDRU5ESU5HKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>com.imallan.kotlinplaygroundViewHolder</text>
+        <text>findAllSortedAsync</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>Integer oldItem, Integer newItem</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmZpbmRBbGxTb3J0ZWRBc3luYygicmVwbGllcyIsIFNvcnQuREVTQ0VORElORykK</text>
       </register>
-      <register name="1" type="4">
-        <text>com.imallan.kotlinplaygroundViewHolder</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maW5kQWxsU29ydGVkKCJyZXBsaWVzIiwgU29ydC5ERVNDRU5ESU5HKQo=</text>
       </register>
       <register name="2" type="4">
-        <text>kotlinplaygroundViewHolder</text>
+        <text>findAllSortedAsync</text>
       </register>
-      <register name="3" type="4">
-        <text>kotlinplayground</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBvYnNlcnZhYmxlLgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>com.imallan</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHJlYWxtLgo=</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>com.imallan.kotlinplaygroundViewHolder</text>
       </register>
       <register name="7" type="4">
-        <text>com.imallan.kotlinplaygroundDetailActivity</text>
+        <text>kotlinplaygroundViewHolder</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>kotlinplayground</text>
       </register>
       <register name="9" type="4">
-        <text>com.imallan.kotlinplaygroundDetailActivity</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
