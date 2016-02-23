@@ -963,11 +963,10 @@
       <file name="/fragment.kt" timestamp="1455711877266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" timestamp="1456231116608">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" timestamp="1456233043464">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/debug/res/values/strings.xml" timestamp="1454667535161">
         <mark key="[" line="45" column="162" />
@@ -1310,11 +1309,11 @@
       <jump line="55" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogVXNlIHRoaXMgbWV0aG9kIFtnZXRMYXlvdXRNYW5hZ2VyXSBmb3IgdGhpcwogICAgICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>**this** to do --something--</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1326,32 +1325,32 @@
                     e.printStackTrace();
                 }</text>
       </register>
-      <register name="1" type="4">
-        <text>=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogVXNlIHRoaXMgbWV0aG9kIFtnZXRMYXlvdXRNYW5hZ2VyXSBmb3IgdGhpcwogICAgICovCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>**this** to do --something--</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgdmFsIHJ1bnRpbWUgPSBSdW50aW1lLmdldFJ1bnRpbWUoKQogICAgICAgICAgICB2YXIgcHJvYyA9IHJ1bnRpbWUuZXhlYygic3UgcG0gZGlzYWJsZSBjb20uc2hvcGNhZGUuYXBwLnRlc3RpbmciKQogICAgICAgICAgICB2YWwgaW5wdXRTdHJlYW0gPSBwcm9jLmlucHV0U3RyZWFtCiAgICAgICAgICAgIHZhbCByZWFkZXIgPSBJbnB1dFN0cmVhbVJlYWRlcihpbnB1dFN0cmVhbSkKICAgICAgICAgICAgdmFsIGJyID0gQnVmZmVyZWRSZWFkZXIocmVhZGVyKQoKICAgICAgICAgICAgdmFyIGxpbmU6IFN0cmluZz8KICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIGxpbmUgPSBici5yZWFkTGluZSgpCiAgICAgICAgICAgICAgICBpZiAobGluZSA9PSBudWxsIHx8IGxpbmUuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGxvZ2QobGluZSkKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICAgICAgICBsb2dlKGUpCiAgICAgICAgfQogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="4">
-        <text>ing</text>
+        <text>=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgdmFsIHJ1bnRpbWUgPSBSdW50aW1lLmdldFJ1bnRpbWUoKQogICAgICAgICAgICB2YXIgcHJvYyA9IHJ1bnRpbWUuZXhlYygic3UgcG0gZGlzYWJsZSBjb20uc2hvcGNhZGUuYXBwLnRlc3RpbmciKQogICAgICAgICAgICB2YWwgaW5wdXRTdHJlYW0gPSBwcm9jLmlucHV0U3RyZWFtCiAgICAgICAgICAgIHZhbCByZWFkZXIgPSBJbnB1dFN0cmVhbVJlYWRlcihpbnB1dFN0cmVhbSkKICAgICAgICAgICAgdmFsIGJyID0gQnVmZmVyZWRSZWFkZXIocmVhZGVyKQoKICAgICAgICAgICAgdmFyIGxpbmU6IFN0cmluZz8KICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIGxpbmUgPSBici5yZWFkTGluZSgpCiAgICAgICAgICAgICAgICBpZiAobGluZSA9PSBudWxsIHx8IGxpbmUuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGxvZ2QobGluZSkKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICAgICAgICBsb2dlKGUpCiAgICAgICAgfQogICAgfQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+      <register name="7" type="4">
+        <text>ing</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKE1hbGZvcm1lZFVSTEV4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBXZWJWaWV3QWN0aXZpdHkuc3RhcnRBY3Rpdml0eShjb250ZXh0LCBxdWVyeVBhcmFtZXRlcnMuZ2V0KCJ1cmwiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
     </registers>
     <search>
