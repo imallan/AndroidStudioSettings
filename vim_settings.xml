@@ -22,7 +22,7 @@
         <mark key="." line="206" column="79" />
         <mark key="^" line="213" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1456248425007">
+      <file name="/a.dummy" timestamp="1456248481039">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -604,6 +604,9 @@
         <mark key="]" line="84" column="70" />
         <mark key="." line="86" column="67" />
         <mark key="^" line="86" column="78" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1456248481035">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
