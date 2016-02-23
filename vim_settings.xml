@@ -22,7 +22,7 @@
         <mark key="." line="206" column="79" />
         <mark key="^" line="213" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1456223667628">
+      <file name="/a.dummy" timestamp="1456224635422">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -296,11 +296,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/LinkUtils.java" timestamp="1455622480596">
-        <mark key="[" line="356" column="38" />
-        <mark key="]" line="356" column="38" />
-        <mark key="." line="356" column="38" />
-        <mark key="^" line="356" column="39" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/LinkUtils.java" timestamp="1456226153756">
+        <mark key="'" line="46" column="50" />
+        <mark key="[" line="195" column="20" />
+        <mark key="]" line="195" column="20" />
+        <mark key="." line="195" column="20" />
+        <mark key="^" line="195" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/TestActivity.kt" timestamp="1455791914221">
         <mark key="[" line="10" column="42" />
@@ -1196,7 +1197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4453" column="34" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
       <jump line="128" column="33" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
       <jump line="3494" column="50" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
       <jump line="20" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
@@ -1296,46 +1296,51 @@
       <jump line="39" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/CategoriesActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/CategoriesFragment.java" />
+      <jump line="46" column="50" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/LinkUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ing</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>ing</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgKioqIGQoLi4uKTsK</text>
+      <register name="0" type="4">
+        <text>try {
+                    WebViewActivity.startActivity(context, queryParameters.get(&quot;url&quot;));
+                } catch (MalformedURLException e) {
+                    e.printStackTrace();
+                }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text>ing</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50ID0gbmV3IEludGVudChjb250ZXh0LCBNYWluVGFiQWN0aXZpdHkuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2hvd1RhYnMuZ2V0KCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKE1hbGZvcm1lZFVSTEV4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFR3ZWFrPEJvb2xlYW4+IHNob3dUYWJzID0gTWl4cGFuZWxBUEkuYm9vbGVhblR3ZWFrKCJTaG93IHRhYnMiLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBXZWJWaWV3QWN0aXZpdHkuc3RhcnRBY3Rpdml0eShjb250ZXh0LCBxdWVyeVBhcmFtZXRlcnMuZ2V0KCJ1cmwiKSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>false</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LWtlZXBhdHRyaWJ1dGVzIFNvdXJjZUZpbGUsTGluZU51bWJlclRhYmxlCg==</text>
+      <register name="8" type="4">
+        <text>settings</text>
       </register>
       <register name="9" type="4">
-        <text>true</text>
+        <text>SETTINGS</text>
       </register>
     </registers>
     <search>
