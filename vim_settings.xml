@@ -93,6 +93,9 @@
         <mark key="." line="13" column="48" />
         <mark key="^" line="13" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/FaveView/app/src/main/res/layout/activity_main.xml" timestamp="1456262541756">
+        <mark key="[" line="14" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostRecyclerAdapter.java" timestamp="1454341182479">
         <mark key="[" line="64" column="76" />
         <mark key="]" line="64" column="75" />
@@ -222,6 +225,12 @@
         <mark key="]" line="97" column="0" />
         <mark key="^" line="97" column="54" />
         <mark key="." line="97" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/FaveView/app/src/main/java/com/imallan/faveview/MainActivity.java" timestamp="1456262522173">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="46" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="10" column="46" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/23.1.1/appcompat-v7-23.1.1-sources.jar!/android/support/v7/widget/ActionMenuPresenter.java" timestamp="1456261331303">
         <mark key="'" line="579" column="18" />
@@ -449,11 +458,11 @@
         <mark key="." line="64" column="3" />
         <mark key="^" line="64" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/FaveView/app/src/main/java/com/imallan/faveview/CircleView.java" timestamp="1456261325247">
-        <mark key="[" line="25" column="5" />
-        <mark key="]" line="8" column="35" />
-        <mark key="^" line="8" column="35" />
-        <mark key="." line="8" column="35" />
+      <file name="$USER_HOME$/Documents/GitHub/FaveView/app/src/main/java/com/imallan/faveview/CircleView.java" timestamp="1456263247191">
+        <mark key="[" line="59" column="92" />
+        <mark key="]" line="60" column="44" />
+        <mark key="." line="60" column="44" />
+        <mark key="^" line="60" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/User.java" timestamp="1456137540641">
         <mark key="'" line="0" column="0" />
@@ -1410,44 +1419,44 @@
       <jump line="69" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/kotlin/com/imallan/kotlinplayground/TopicAdapter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkcmF3YWJsZS4K</text>
+      <register name="&quot;" type="4">
+        <text>canvas</text>
       </register>
       <register name="-" type="4">
-        <text>FaveDrawable</text>
+        <text>canvas</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYW52YXMuZHJhd0NpcmNsZSh3aWR0aCAvIDIsIGhlaWdodCAvIDIsIHdpZHRoIC8gMiwgbVBhaW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBjYW52YXMuZHJhd0NpcmNsZShnZXRXaWR0aCgpIC8gMiwgZ2V0SGVpZ2h0KCkgLyAyLCBnZXRXaWR0aCgpIC8gMiwgbUNpcmNsZVBhaW50KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkcmF3YWJsZS4K</text>
+      <register name="1" type="4">
+        <text>canvas</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkcmF3KCk7Cg==</text>
+      <register name="2" type="4">
+        <text>canvas</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>mBitmap</text>
       </register>
       <register name="4" type="4">
-        <text>FaveDrawable</text>
+        <text>canvas</text>
       </register>
-      <register name="5" type="4">
-        <text>new Drawable[]{drawable}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtQml0bWFwCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIERyYXdhYmxlIGRyYXdhYmxlID0gbmV3IENpcmNsZURyYXdhYmxlKCk7Cg==</text>
+      <register name="7" type="4">
+        <text>0xFC0F4A</text>
       </register>
       <register name="8" type="4">
-        <text>mLayers</text>
+        <text>C</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRHJhd2FibGVbXSBtTGF5ZXJzID0gbmV3IERyYXdhYmxlW117fTsK</text>
+      <register name="9" type="4">
+        <text>olorUtils.</text>
       </register>
     </registers>
     <search>
