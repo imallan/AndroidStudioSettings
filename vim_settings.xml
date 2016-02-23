@@ -720,8 +720,8 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" timestamp="1455711344899">
-        <mark key="'" line="20" column="0" />
+      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" timestamp="1456231094119">
+        <mark key="'" line="55" column="0" />
         <mark key="[" line="38" column="45" />
         <mark key="]" line="39" column="61" />
         <mark key="." line="39" column="61" />
@@ -869,6 +869,12 @@
         <mark key="^" line="139" column="118" />
         <mark key="." line="139" column="103" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/DataBindingPlayground/app/build.gradle" timestamp="1456231200168">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="27" />
+        <mark key="^" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/release/AndroidManifest.xml" timestamp="1455119356424">
         <mark key="[" line="42" column="67" />
         <mark key="]" line="42" column="66" />
@@ -957,11 +963,11 @@
       <file name="/fragment.kt" timestamp="1455711877266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" timestamp="1455901130350">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="18" />
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" timestamp="1456231116608">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/debug/res/values/strings.xml" timestamp="1454667535161">
         <mark key="[" line="45" column="162" />
@@ -1202,7 +1208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="8" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" />
       <jump line="66" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" />
       <jump line="7" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" />
       <jump line="33" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Topic.kt" />
@@ -1302,13 +1307,14 @@
       <jump line="108" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/LinkUtils.java" />
       <jump line="445" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/LinkUtils.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/WebViewActivity.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ing</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>ing</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1321,31 +1327,31 @@
                 }</text>
       </register>
       <register name="1" type="4">
-        <text>ing</text>
+        <text>=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgdmFsIHJ1bnRpbWUgPSBSdW50aW1lLmdldFJ1bnRpbWUoKQogICAgICAgICAgICB2YXIgcHJvYyA9IHJ1bnRpbWUuZXhlYygic3UgcG0gZGlzYWJsZSBjb20uc2hvcGNhZGUuYXBwLnRlc3RpbmciKQogICAgICAgICAgICB2YWwgaW5wdXRTdHJlYW0gPSBwcm9jLmlucHV0U3RyZWFtCiAgICAgICAgICAgIHZhbCByZWFkZXIgPSBJbnB1dFN0cmVhbVJlYWRlcihpbnB1dFN0cmVhbSkKICAgICAgICAgICAgdmFsIGJyID0gQnVmZmVyZWRSZWFkZXIocmVhZGVyKQoKICAgICAgICAgICAgdmFyIGxpbmU6IFN0cmluZz8KICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIGxpbmUgPSBici5yZWFkTGluZSgpCiAgICAgICAgICAgICAgICBpZiAobGluZSA9PSBudWxsIHx8IGxpbmUuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGxvZ2QobGluZSkKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICAgICAgICBsb2dlKGUpCiAgICAgICAgfQogICAgfQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+      <register name="4" type="4">
+        <text>ing</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKE1hbGZvcm1lZFVSTEV4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBXZWJWaWV3QWN0aXZpdHkuc3RhcnRBY3Rpdml0eShjb250ZXh0LCBxdWVyeVBhcmFtZXRlcnMuZ2V0KCJ1cmwiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>settings</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKE1hbGZvcm1lZFVSTEV4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>SETTINGS</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBXZWJWaWV3QWN0aXZpdHkuc3RhcnRBY3Rpdml0eShjb250ZXh0LCBxdWVyeVBhcmFtZXRlcnMuZ2V0KCJ1cmwiKSk7Cg==</text>
       </register>
     </registers>
     <search>
