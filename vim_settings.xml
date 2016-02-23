@@ -22,7 +22,7 @@
         <mark key="." line="206" column="79" />
         <mark key="^" line="213" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1456236429115">
+      <file name="/a.dummy" timestamp="1456248425007">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -431,11 +431,11 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImagePinchZoomActivity.java" timestamp="1454346271708">
-        <mark key="[" line="60" column="44" />
-        <mark key="]" line="60" column="48" />
-        <mark key="^" line="60" column="48" />
-        <mark key="." line="60" column="48" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImagePinchZoomActivity.java" timestamp="1456248246236">
+        <mark key="[" line="122" column="89" />
+        <mark key="]" line="122" column="91" />
+        <mark key="." line="122" column="91" />
+        <mark key="^" line="122" column="91" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/res/layout/view_item_topic.xml" timestamp="1455717525387">
         <mark key="[" line="13" column="38" />
@@ -604,9 +604,6 @@
         <mark key="]" line="84" column="70" />
         <mark key="." line="86" column="67" />
         <mark key="^" line="86" column="78" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1456237234571">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
@@ -1337,11 +1334,11 @@
       <jump line="69" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/kotlin/com/imallan/kotlinplayground/TopicAdapter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maW5kQWxsU29ydGVkKCJyZXBsaWVzIiwgU29ydC5ERVNDRU5ESU5HKQo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>findAllSortedAsync</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1349,32 +1346,32 @@
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmZpbmRBbGxTb3J0ZWRBc3luYygicmVwbGllcyIsIFNvcnQuREVTQ0VORElORykK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maW5kQWxsU29ydGVkKCJyZXBsaWVzIiwgU29ydC5ERVNDRU5ESU5HKQo=</text>
+      <register name="1" type="4">
+        <text>;</text>
       </register>
       <register name="2" type="4">
-        <text>findAllSortedAsync</text>
+        <text>)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvYnNlcnZhYmxlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxhbmRzY2FwZSkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+      <register name="4" type="4">
+        <text>this</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJlYWxtLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maW5kQWxsU29ydGVkKCJyZXBsaWVzIiwgU29ydC5ERVNDRU5ESU5HKQo=</text>
       </register>
       <register name="6" type="4">
-        <text>com.imallan.kotlinplaygroundViewHolder</text>
+        <text>findAllSortedAsync</text>
       </register>
-      <register name="7" type="4">
-        <text>kotlinplaygroundViewHolder</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBvYnNlcnZhYmxlLgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>kotlinplayground</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>.</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHJlYWxtLgo=</text>
       </register>
     </registers>
     <search>
