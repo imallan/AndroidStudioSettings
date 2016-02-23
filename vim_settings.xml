@@ -205,6 +205,9 @@
         <mark key="^" line="97" column="54" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/23.1.1/appcompat-v7-23.1.1-sources.jar!/android/support/v7/widget/ActionMenuPresenter.java" timestamp="1456261331303">
+        <mark key="'" line="579" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/AndroidManifest.xml" timestamp="1453309581047">
         <mark key="[" line="16" column="19" />
         <mark key="]" line="17" column="49" />
@@ -254,12 +257,6 @@
         <mark key="]" line="213" column="46" />
         <mark key="." line="206" column="79" />
         <mark key="^" line="213" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" timestamp="1455878070223">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453744104180">
         <mark key="[" line="10" column="21" />
@@ -417,6 +414,12 @@
         <mark key="." line="64" column="3" />
         <mark key="^" line="64" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/FaveView/app/src/main/java/com/imallan/faveview/CircleView.java" timestamp="1456261325247">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="8" column="35" />
+        <mark key="^" line="8" column="35" />
+        <mark key="." line="8" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/User.java" timestamp="1456137540641">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="430" column="75" />
@@ -466,12 +469,6 @@
         <mark key="]" line="12" column="77" />
         <mark key="^" line="12" column="77" />
         <mark key="." line="12" column="77" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/build.gradle" timestamp="1455816013708">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/WidgetTrendingProvider.java" timestamp="1455722069918">
         <mark key="[" line="41" column="99" />
@@ -662,12 +659,6 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
-      <file name="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" timestamp="1455665066410">
-        <mark key="'" line="3494" column="50" />
-        <mark key="[" line="4453" column="35" />
-        <mark key="]" line="4453" column="36" />
-        <mark key="." line="4453" column="35" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/api/ApiService.kt" timestamp="1455718852985">
         <mark key="[" line="28" column="51" />
         <mark key="]" line="28" column="60" />
@@ -731,12 +722,6 @@
         <mark key="]" line="8" column="75" />
         <mark key="^" line="8" column="75" />
         <mark key="." line="8" column="75" />
-      </file>
-      <file name="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/com/android/internal/app/AlertController.java" timestamp="1455663737999">
-        <mark key="'" line="231" column="34" />
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="232" column="0" />
-        <mark key="." line="232" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/res/layout/view_item_data.xml" timestamp="1453761796474">
         <mark key="[" line="7" column="13" />
@@ -858,12 +843,6 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/adapters/ArticleAdapter.kt" timestamp="1455731032561">
-        <mark key="'" line="44" column="4" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/values/styles.xml" timestamp="1454176103830">
         <mark key="[" line="3" column="57" />
         <mark key="]" line="3" column="67" />
@@ -979,12 +958,6 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_product.xml" timestamp="1453387155326">
         <mark key="[" line="215" column="57" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_settings.xml" timestamp="1456137754483">
-        <mark key="'" line="48" column="33" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/debug/res/values/strings.xml" timestamp="1454667535161">
         <mark key="[" line="45" column="162" />
@@ -1192,12 +1165,6 @@
         <mark key="^" line="11" column="55" />
         <mark key="." line="11" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/proguard-rules.pro" timestamp="1455814660017">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImagePinchZoomActivity.java" timestamp="1454346271708">
         <mark key="[" line="60" column="44" />
         <mark key="]" line="60" column="48" />
@@ -1218,7 +1185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4453" column="34" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
       <jump line="128" column="33" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
       <jump line="3494" column="50" filename="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/ViewRootImpl.java" />
       <jump line="20" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" />
@@ -1318,6 +1284,7 @@
       <jump line="39" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/CategoriesActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/CategoriesFragment.java" />
+      <jump line="579" column="18" filename="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/23.1.1/appcompat-v7-23.1.1-sources.jar!/android/support/v7/widget/ActionMenuPresenter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
