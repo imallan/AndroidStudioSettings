@@ -22,7 +22,7 @@
         <mark key="." line="206" column="79" />
         <mark key="^" line="213" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1456148417174">
+      <file name="/a.dummy" timestamp="1456223667628">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -400,12 +400,12 @@
         <mark key="^" line="113" column="52" />
         <mark key="." line="113" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" timestamp="1456144420748">
-        <mark key="'" line="542" column="0" />
-        <mark key="[" line="66" column="42" />
-        <mark key="]" line="66" column="41" />
-        <mark key="." line="66" column="41" />
-        <mark key="^" line="66" column="41" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" timestamp="1456224545514">
+        <mark key="'" line="544" column="0" />
+        <mark key="[" line="148" column="57" />
+        <mark key="]" line="149" column="27" />
+        <mark key="." line="149" column="27" />
+        <mark key="^" line="149" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/adapters/TextArticleAdapter.kt" timestamp="1455728405175">
         <mark key="'" line="40" column="32" />
@@ -606,9 +606,6 @@
         <mark key="]" line="84" column="70" />
         <mark key="." line="86" column="67" />
         <mark key="^" line="86" column="78" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1456095730246">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
