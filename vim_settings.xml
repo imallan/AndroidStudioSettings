@@ -15,11 +15,11 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1456323079174">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1456324968539">
         <mark key="'" line="117" column="0" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+        <mark key="[" line="384" column="0" />
+        <mark key="]" line="384" column="30" />
+        <mark key="." line="384" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1456322142955">
         <mark key="[" line="0" column="0" />
@@ -531,12 +531,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_select_language.xml" timestamp="1456320758970">
-        <mark key="'" line="41" column="25" />
-        <mark key="[" line="3" column="48" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="4" column="32" />
-        <mark key="^" line="4" column="32" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_select_language.xml" timestamp="1456324847193">
+        <mark key="'" line="44" column="25" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="41" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/layout/recycler_timeline.xml" timestamp="1454248312816">
         <mark key="[" line="4" column="76" />
@@ -1208,12 +1208,12 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SettingsActivity.java" timestamp="1456323163194">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SettingsActivity.java" timestamp="1456325005412">
         <mark key="'" line="60" column="29" />
-        <mark key="[" line="112" column="24" />
-        <mark key="]" line="112" column="47" />
-        <mark key="." line="112" column="47" />
-        <mark key="^" line="112" column="47" />
+        <mark key="[" line="120" column="23" />
+        <mark key="]" line="121" column="38" />
+        <mark key="." line="121" column="38" />
+        <mark key="^" line="121" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BookService.java" timestamp="1454409639600">
         <mark key="[" line="13" column="28" />
@@ -1418,43 +1418,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsb3NlRHJhd2VyKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>radioSystem</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlbnQuc2V0RmxhZ3MoSW50ZW50LkZMQUdfQUNUSVZJVFlfQ0xFQVJfVE9QKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsb3NlRHJhd2VyKCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="1" type="4">
+        <text>wrap_content</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Db25maWd1cmF0aW9uQ2hhbmdlZChDb25maWd1cmF0aW9uIG5ld0NvbmZpZykgewogICAgICAgIHN1cGVyLm9uQ29uZmlndXJhdGlvbkNoYW5nZWQobmV3Q29uZmlnKTsKICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>wrap_content</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmV3Q29uZmlnLmxvY2FsZSkK</text>
+      <register name="3" type="4">
+        <text>wrap_content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlbnQgaW50ZW50ID0gbmV3IEludGVudCh0aGlzLCBNYWluRHJhd2VyQWN0aXZpdHkuY2xhc3MpOwogICAgICAgIGludGVudC5zZXRGbGFncyhJbnRlbnQuRkxBR19BQ1RJVklUWV9DTEVBUl9UT1AgfCBJbnRlbnQuRkxBR19BQ1RJVklUWV9ORVdfVEFTSyk7CiAgICAgICAgc3RhcnRBY3Rpdml0eShpbnRlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KG5ldyBJbnRlbnQodGhpcywgU3RhcnRBY3Rpdml0eS5jbGFzcykpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>radioSystem</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBNYWluQWN0aXZpdHkuc3RhcnRBY3Rpdml0eSh0aGlzKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>radioFrench</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBNYWluQWMK</text>
       </register>
       <register name="7" type="4">
-        <text>radioFrench</text>
+        <text>apply</text>
       </register>
-      <register name="8" type="4">
-        <text>radioEnglish</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXhpdCgwKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmFkaW9CdXR0b24gcmFkaW9GcmVuY2ggPSBtUmFkaW9GcmVuY2g7Cg==</text>
+      <register name="9" type="4">
+        <text>french</text>
       </register>
     </registers>
     <search>
