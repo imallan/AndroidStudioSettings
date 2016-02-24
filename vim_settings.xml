@@ -21,7 +21,7 @@
         <mark key="]" line="378" column="30" />
         <mark key="." line="378" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1456327563882">
+      <file name="/a.dummy" timestamp="1456331119862">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -537,12 +537,9 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_select_language.xml" timestamp="1456324847193">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_select_language.xml" timestamp="1456331433131">
         <mark key="'" line="44" column="25" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="41" />
-        <mark key="^" line="11" column="39" />
-        <mark key="." line="25" column="0" />
+        <mark key="^" line="12" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/layout/recycler_timeline.xml" timestamp="1454248312816">
         <mark key="[" line="4" column="76" />
@@ -1445,7 +1442,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iP2F0dHIvc2VsZWN0YWJsZUl0ZW1CYWNrZ3JvdW5kIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9Ij9hdHRyL3NlbGVjdGFibGVJdGVtQmFja2dyb3VuZCIK</text>
       </register>
       <register name="-" type="4">
         <text>Left</text>
@@ -1453,8 +1450,8 @@
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>container_privacy</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9Ij9hdHRyL3NlbGVjdGFibGVJdGVtQmFja2dyb3VuZCIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iP2F0dHIvc2VsZWN0YWJsZUl0ZW1CYWNrZ3JvdW5kIgo=</text>
