@@ -21,7 +21,7 @@
         <mark key="]" line="378" column="30" />
         <mark key="." line="378" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1456326581946">
+      <file name="/a.dummy" timestamp="1456327563882">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -213,11 +213,11 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values/strings.xml" timestamp="1456318966071">
-        <mark key="[" line="806" column="75" />
-        <mark key="]" line="806" column="87" />
-        <mark key="." line="806" column="87" />
-        <mark key="^" line="806" column="87" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values/strings.xml" timestamp="1456329728417">
+        <mark key="[" line="812" column="49" />
+        <mark key="]" line="812" column="55" />
+        <mark key="." line="812" column="55" />
+        <mark key="^" line="812" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProductLikersActivity.java" timestamp="1453380900835">
         <mark key="[" line="34" column="0" />
@@ -411,6 +411,7 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/layout_side_navigation.xml" timestamp="1456314766807" />
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/adapters/TextArticleAdapter.kt" timestamp="1455728405175">
         <mark key="'" line="40" column="32" />
         <mark key="[" line="16" column="42" />
@@ -425,12 +426,12 @@
         <mark key="." line="34" column="45" />
         <mark key="^" line="34" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_settings.xml" timestamp="1456320190685">
-        <mark key="'" line="25" column="8" />
-        <mark key="[" line="56" column="29" />
-        <mark key="]" line="56" column="41" />
-        <mark key="." line="59" column="48" />
-        <mark key="^" line="59" column="11" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_settings.xml" timestamp="1456330980282">
+        <mark key="'" line="26" column="8" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="41" column="45" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" timestamp="1455710408076">
         <mark key="'" line="26" column="57" />
@@ -670,6 +671,7 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/NotificationsSettingsActivity.java" timestamp="1456318543619" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/drawable/ic_plus_pink_16dp.xml" timestamp="1453814170282">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="2" column="25" />
@@ -730,6 +732,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/xml/pref_notifictions_settings.xml" timestamp="1456330589828" />
       <file name="$USER_HOME$/Documents/GitHub/Fave/app/src/main/java/com/imallan/fave/CircleDrawable.java" timestamp="1456250524332">
         <mark key="[" line="21" column="21" />
         <mark key="]" line="21" column="38" />
@@ -1220,12 +1223,11 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SettingsActivity.java" timestamp="1456325005412">
-        <mark key="'" line="60" column="29" />
-        <mark key="[" line="120" column="23" />
-        <mark key="]" line="121" column="38" />
-        <mark key="." line="121" column="38" />
-        <mark key="^" line="121" column="38" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SettingsActivity.java" timestamp="1456330886307">
+        <mark key="[" line="121" column="37" />
+        <mark key="]" line="122" column="31" />
+        <mark key="." line="122" column="31" />
+        <mark key="^" line="122" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BookService.java" timestamp="1454409639600">
         <mark key="[" line="13" column="28" />
@@ -1340,7 +1342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/adapters/ImageArticleAdapter.kt" />
       <jump line="15" column="14" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/adapters/ImageArticleAdapter.kt" />
       <jump line="33" column="31" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" />
       <jump line="29" column="27" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/MainActivity.kt" />
@@ -1440,46 +1441,47 @@
       <jump line="86" column="47" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/DealsActivity.java" />
       <jump line="153" column="37" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/DealsActivity.java" />
       <jump line="46" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/DealsFragment.java" />
+      <jump line="136" column="31" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SettingsActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>000000000000000000000002</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iP2F0dHIvc2VsZWN0YWJsZUl0ZW1CYWNrZ3JvdW5kIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text>Left</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text>000000000000000000000002</text>
+        <text>container_privacy</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iP2F0dHIvc2VsZWN0YWJsZUl0ZW1CYWNrZ3JvdW5kIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iMTZkcCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iMTZkcCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEZWFsc0FjdGl2aXR5LnN0YXJ0QWN0aXZpdHkoY29udGV4dCwgVEFCX1NFTEVDVEVELk1ZX0RFQUxTKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSIxNmRwIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEZWFsc0FjdGl2aXR5LnN0YXJ0QWN0aXZpdHkoY29udGV4dCwgVEFCX1NFTEVDVEVELk1ZX0RFQUxTKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IjE2ZHAiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIVVzZXJVdGlscy5wZXJmb3JtTG9naW5DaGVjayhjb250ZXh0LCB0cnVlKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSIxNmRwIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IjE2ZHAiCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAoIVVzZXJVdGlscy5wZXJmb3JtTG9naW5DaGVjayhjb250ZXh0LCB0cnVlKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSIxNmRwIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsb3NlRHJhd2VyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IjE2ZHAiCg==</text>
       </register>
     </registers>
     <search>
@@ -1528,6 +1530,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
