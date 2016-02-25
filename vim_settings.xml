@@ -163,6 +163,13 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/ToothpickKotlin/sample/build.gradle" timestamp="1456432809414">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="30" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/FaveView/app/src/main/java/com/imallan/faveview/MainActivity.java" timestamp="1456274459876">
         <mark key="'" line="111" column="34" />
         <mark key="i" line="28" column="8" />
@@ -293,6 +300,12 @@
         <mark key="]" line="10" column="35" />
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/ToothpickKotlin/toothpick/src/main/kotlin/com/imallan/toothpick/Toothpick.kt" timestamp="1456432699034">
+        <mark key="[" line="37" column="49" />
+        <mark key="]" line="37" column="55" />
+        <mark key="^" line="37" column="55" />
+        <mark key="." line="37" column="55" />
       </file>
       <file name="$USER_HOME$/Desktop/FragmentAsAService/app/src/main/java/com/imallan/fragmentasaservice/MainActivity.java" timestamp="1454927670993">
         <mark key="[" line="28" column="37" />
@@ -701,6 +714,12 @@
         <mark key="^" line="38" column="25" />
         <mark key="." line="38" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/ToothpickKotlin/toothpick/build.gradle" timestamp="1456432807025">
+        <mark key="'" line="9" column="5" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/res/layout/activity_main.xml" timestamp="1453394058182">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="36" />
@@ -1036,6 +1055,12 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/ToothpickKotlin/toothpick/src/main/kotlin/com/imallan/toothpick/Onclick.kt" timestamp="1456432206690">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="46" />
+        <mark key="." line="4" column="46" />
+        <mark key="^" line="4" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/DataBindingPlayground/app/src/main/res/menu/add.xml" timestamp="1456237302126">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1126,10 +1151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="24" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.java" />
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" />
-      <jump line="56" column="50" filename="$USER_HOME$/Documents/GitHub/Gank/app/build.gradle" />
       <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/SharedPreferenceExtension.kt" />
@@ -1226,46 +1247,69 @@
       <jump line="43" column="31" filename="$USER_HOME$/Documents/GitHub/FaveView/app/src/main/java/com/imallan/faveview/MainActivity.java" />
       <jump line="37" column="57" filename="$USER_HOME$/Documents/GitHub/FaveView/app/src/main/java/com/imallan/faveview/MainActivity.java" />
       <jump line="99" column="34" filename="$USER_HOME$/Documents/GitHub/FaveView/app/src/main/java/com/imallan/faveview/MainActivity.java" />
+      <jump line="78" column="0" filename="$USER_HOME$/Documents/GitHub/ToothpickKotlin/toothpick/src/main/kotlin/com/imallan/toothpick/Toothpick.kt" />
+      <jump line="22" column="13" filename="$USER_HOME$/Documents/GitHub/ToothpickKotlin/toothpick/src/main/kotlin/com/imallan/toothpick/Toothpick.kt" />
+      <jump line="9" column="5" filename="$USER_HOME$/Documents/GitHub/ToothpickKotlin/toothpick/build.gradle" />
+      <jump line="8" column="4" filename="$USER_HOME$/Documents/GitHub/ToothpickKotlin/sample/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLWFuZHJvaWQnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>{ onclick }</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRmF2ZVZpZXcuYW5pbWF0ZSgpLnNjYWxlWCgxLjJmKS5zdGFydCgpOwogICAgICAgICAgICAgICAgICAgIG1GYXZlVmlldy5hbmltYXRlKCkuc2NhbGVZKDEuMmYpLnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLWFuZHJvaWQnCg==</text>
       </register>
       <register name="1" type="4">
-        <text>2</text>
+        <text>{ onclick }</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text encoding="base64">KCkg</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text>setOnClickListener</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>{ onclick }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>lic</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KE1haW5BY3Rpdml0eS50aGlzLCAiSG92ZXJpbmcgOiAiICsgZXZlbnQuZ2V0QWN0aW9uKCksIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICB2YWwgb2JqID0gYWN0aXZpdHkuamF2YUNsYXNzCi8vICAgICAgICBmb3IgKG1ldGhvZCBpbiBvYmouZGVjbGFyZWRNZXRob2RzKSB7Ci8vICAgICAgICAgICAgaWYgKG1ldGhvZC5pc0Fubm90YXRpb25QcmVzZW50KE9uQ2xpY2s6OmNsYXNzLmphdmEpKSB7Ci8vICAgICAgICAgICAgICAgIHZhbCBhbm5vdGF0aW9uID0gbWV0aG9kLmdldEFubm90YXRpb24oT25DbGljazo6Y2xhc3MuamF2YSkKLy8gICAgICAgICAgICAgICAgdmFsIG9uY2xpY2s6IFZpZXcuT25DbGlja0xpc3RlbmVyID0gVmlldy5PbkNsaWNrTGlzdGVuZXIgewovLyAgICAgICAgICAgICAgICAgICAgLy9ub2luc3BlY3Rpb24gVHJ5V2l0aElkZW50aWNhbENhdGNoZXMKLy8gICAgICAgICAgICAgICAgICAgIHRyeSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgbWV0aG9kLmludm9rZShhY3Rpdml0eSkKLy8gICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGU6IElsbGVnYWxBY2Nlc3NFeGNlcHRpb24pIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCi8vICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChlOiBJbnZvY2F0aW9uVGFyZ2V0RXhjZXB0aW9uKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQovLyAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIHZhbCB2YWx1ZXMgPSBhbm5vdGF0aW9uLnZhbHVlCi8vICAgICAgICAgICAgICAgIGZvciAoaWQ6IEludCBpbiB2YWx1ZXMpIHsKLy8gICAgICAgICAgICAgICAgICAgIGFjdGl2aXR5LmZpbmRWaWV3QnlJZChpZCk/LnNldE9uQ2xpY2tMaXN0ZW5lcihvbmNsaWNrKQovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgfQovLyAgICAgICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldEFjdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgdmFsIG9iaiA9IGNsYXp6T2JqLmphCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="9" type="4">
+        <text>vaClass
+        //        for (method in obj.declaredMethods) {
+        //            if (method.isAnnotationPresent(OnClick::class.java)) {
+        //                val annotation = method.getAnnotation(OnClick::class.java)
+        //                val onclick: View.OnClickListener = View.OnClickListener {
+        //                    //noinspection TryWithIdenticalCatches
+        //                    try {
+        //                        method.invoke(clazzObj)
+        //                    } catch (e: IllegalAccessException) {
+        //                        e.printStackTrace()
+        //                    } catch (e: InvocationTargetException) {
+        //                        e.printStackTrace()
+        //                    }
+        //                }
+        //                val values = annotation.value
+        //                for (id: Int in values) {
+        //                    view.findViewById(id)?.setOnClickListener(onclick)
+        //                }
+        //            }
+        //        }</text>
       </register>
     </registers>
     <search>
