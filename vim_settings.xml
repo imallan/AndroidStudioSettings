@@ -132,7 +132,12 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/values-night/colors.xml" timestamp="1456412508467" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/values-night/colors.xml" timestamp="1456414199982">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/SettingsService.java" timestamp="1455197039968">
         <mark key="[" line="181" column="58" />
         <mark key="]" line="182" column="23" />
@@ -389,11 +394,11 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/values/styles.xml" timestamp="1456410689688">
-        <mark key="[" line="3" column="57" />
-        <mark key="]" line="3" column="72" />
-        <mark key="^" line="3" column="72" />
-        <mark key="." line="3" column="72" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/values/styles.xml" timestamp="1456414209880">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/extension/ActivityExtension.kt" timestamp="1455838797635">
         <mark key="[" line="11" column="4" />
@@ -453,11 +458,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/MainActivity.kt" timestamp="1456411251317">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="26" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="25" column="25" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/MainActivity.kt" timestamp="1456413766078">
+        <mark key="[" line="11" column="55" />
+        <mark key="]" line="11" column="55" />
+        <mark key="." line="11" column="55" />
+        <mark key="^" line="25" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_shopping_cart.xml" timestamp="1453814990775">
         <mark key="[" line="157" column="48" />
@@ -537,7 +542,7 @@
         <mark key="." line="86" column="67" />
         <mark key="^" line="86" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1456407185471">
+      <file name="/Dummy.txt" timestamp="1456413932251">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
@@ -660,6 +665,12 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values/values.xml" timestamp="1456413875947">
+        <mark key="[" line="1384" column="103" />
+        <mark key="]" line="1384" column="102" />
+        <mark key="^" line="1384" column="102" />
+        <mark key="." line="1384" column="102" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/User.java" timestamp="1454336900597">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="35" />
@@ -774,11 +785,11 @@
         <mark key="^" line="12" column="77" />
         <mark key="." line="12" column="77" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/animated-vector-drawable/23.2.0/animated-vector-drawable-23.2.0-sources.jar!/android/support/graphics/drawable/AnimatedVectorDrawableCompat.java" timestamp="1456403547733" />
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/values/colors.xml" timestamp="1456412401613">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/values/colors.xml" timestamp="1456414169201">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="6" column="54" />
+        <mark key="." line="6" column="54" />
+        <mark key="^" line="6" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/animator/rotation.xml" timestamp="1456406789351">
         <mark key="[" line="7" column="0" />
@@ -1042,7 +1053,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/drawable/ic_mail.xml" timestamp="1456400782211" />
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/layout/activity_main.xml" timestamp="1454255030595">
         <mark key="[" line="1" column="51" />
         <mark key="]" line="2" column="33" />
@@ -1150,11 +1160,11 @@
         <mark key="^" line="41" column="44" />
         <mark key="." line="41" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/menu/menu_main.xml" timestamp="1456411024007">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="15" column="25" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/menu/menu_main.xml" timestamp="1456413265066">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+        <mark key="^" line="8" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/Test.java" timestamp="1456161529374">
         <mark key="[" line="14" column="11" />
@@ -1272,44 +1282,44 @@
       <jump line="465" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ0ZXh0UHJpbWFyeSI+IzAwMDAwMDwvY29sb3I+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>textColorPrimary</text>
       </register>
       <register name="-" type="4">
-        <text>000000</text>
+        <text>textColorPrimary</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ0ZXh0UHJpbWFyeSI+IzAwMDAwMDwvY29sb3I+Cg==</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvclRleHRQcmltYXJ5Ij5AYW5kcm9pZDpjb2xvci93aGl0ZTwvY29sb3I+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ0ZXh0UHJpbWFyeSI+IzAwMDAwMDwvY29sb3I+Cg==</text>
+      <register name="1" type="4">
+        <text>textColorPrimary</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ0ZXh0UHJpbWFyeS1uaWdodCI+I0ZGRkZGRjwvY29sb3I+Cg==</text>
+      <register name="2" type="4">
+        <text>textColorPrimary</text>
       </register>
       <register name="3" type="4">
-        <text>000000</text>
+        <text>textColorPrimary</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="4" type="4">
+        <text>white</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3RhcnQoKQo=</text>
+      <register name="5" type="4">
+        <text>black</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PC9pdGVtPgo=</text>
+      <register name="6" type="4">
+        <text>333333</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW0pCg==</text>
+      <register name="7" type="4">
+        <text>windowBackground</text>
       </register>
       <register name="8" type="4">
-        <text>NO</text>
+        <text>windowBackground</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>windowBackground</text>
       </register>
     </registers>
     <search>
