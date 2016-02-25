@@ -214,7 +214,12 @@
         <mark key="." line="30" column="54" />
         <mark key="^" line="30" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/ToothpickKotlin/sample/src/main/kotlin/com/imallan/toothpickkotlin/MainActivity.kt" timestamp="1456434193243" />
+      <file name="$USER_HOME$/Documents/GitHub/ToothpickKotlin/sample/src/main/kotlin/com/imallan/toothpickkotlin/MainActivity.kt" timestamp="1456438150307">
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="23" column="33" />
+        <mark key="^" line="23" column="33" />
+        <mark key="." line="23" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453744104180">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
@@ -293,11 +298,10 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/ToothpickKotlin/toothpick/src/main/kotlin/com/imallan/toothpick/Toothpick.kt" timestamp="1456433265837">
-        <mark key="[" line="37" column="49" />
-        <mark key="]" line="37" column="55" />
-        <mark key="^" line="37" column="55" />
-        <mark key="." line="37" column="55" />
+      <file name="$USER_HOME$/Documents/GitHub/ToothpickKotlin/toothpick/src/main/kotlin/com/imallan/toothpick/Toothpick.kt" timestamp="1456438101095">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/FragmentAsAService/app/src/main/java/com/imallan/fragmentasaservice/MainActivity.java" timestamp="1454927670993">
         <mark key="[" line="28" column="37" />
@@ -1217,43 +1221,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>mButton</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>mButton</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLWFuZHJvaWQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWV0aG9kLmludm9rZShvYmopCg==</text>
       </register>
       <register name="1" type="4">
-        <text>=</text>
+        <text>mButton</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>view: View</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWV0aG9kLmlzVmFyQXJncwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXRob2QuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25CYWNrUHJlc3NlZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkJhY2tQcmVzc2VkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNZXRob2RzCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>add</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNZXRob2QuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgdHlwZVBhcmFtZXRlcnMgPSBtZXRob2QudHlwZVBhcmFtZXRlcnMK</text>
       </register>
       <register name="9" type="4">
-        <text>replace</text>
+        <text>method.</text>
       </register>
     </registers>
     <search>
