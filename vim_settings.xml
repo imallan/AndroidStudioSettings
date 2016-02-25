@@ -132,6 +132,7 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/values-night/colors.xml" timestamp="1456412508467" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/SettingsService.java" timestamp="1455197039968">
         <mark key="[" line="181" column="58" />
         <mark key="]" line="182" column="23" />
@@ -635,10 +636,6 @@
         <mark key="^" line="18" column="67" />
         <mark key="." line="18" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" timestamp="1456398624524">
-        <mark key="'" line="457" column="19" />
-        <mark key="[" line="242" column="69" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/LooksService.java" timestamp="1454692037124">
         <mark key="[" line="380" column="139" />
         <mark key="]" line="380" column="138" />
@@ -778,6 +775,11 @@
         <mark key="." line="12" column="77" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/animated-vector-drawable/23.2.0/animated-vector-drawable-23.2.0-sources.jar!/android/support/graphics/drawable/AnimatedVectorDrawableCompat.java" timestamp="1456403547733" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/values/colors.xml" timestamp="1456412401613">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/animator/rotation.xml" timestamp="1456406789351">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="29" />
@@ -1271,43 +1273,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY3JlYXRlKCkK</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ0ZXh0UHJpbWFyeSI+IzAwMDAwMDwvY29sb3I+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>NO</text>
+        <text>000000</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY3JlYXRlKCkK</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ0ZXh0UHJpbWFyeSI+IzAwMDAwMDwvY29sb3I+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ0ZXh0UHJpbWFyeSI+IzAwMDAwMDwvY29sb3I+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3RhcnQoKQo=</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ0ZXh0UHJpbWFyeS1uaWdodCI+I0ZGRkZGRjwvY29sb3I+Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PC9pdGVtPgo=</text>
+      <register name="3" type="4">
+        <text>000000</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>NO</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3RhcnQoKQo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">PC9pdGVtPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW0pCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>NO</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>YES</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>mail</text>
       </register>
     </registers>
     <search>
