@@ -77,13 +77,6 @@
         <mark key="]" line="23" column="44" />
         <mark key="." line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/User.java" timestamp="1456137540641">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="430" column="75" />
-        <mark key="]" line="431" column="59" />
-        <mark key="^" line="431" column="59" />
-        <mark key="." line="431" column="59" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453744104180">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
@@ -123,13 +116,6 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Analytics.java" timestamp="1455192160639">
         <mark key="[" line="1323" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" timestamp="1456139618322">
-        <mark key="'" line="178" column="73" />
-        <mark key="[" line="331" column="106" />
-        <mark key="]" line="331" column="116" />
-        <mark key="." line="331" column="116" />
-        <mark key="^" line="331" column="116" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_image_drawee.xml" timestamp="1454345881358">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="36" />
@@ -148,13 +134,6 @@
         <mark key="." line="179" column="33" />
         <mark key="^" line="182" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/MainActivity.kt" timestamp="1456185730241">
-        <mark key="'" line="10" column="44" />
-        <mark key="[" line="26" column="60" />
-        <mark key="]" line="26" column="68" />
-        <mark key="." line="26" column="68" />
-        <mark key="^" line="26" column="68" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/Book.java" timestamp="1454407196111">
         <mark key="[" line="8" column="40" />
       </file>
@@ -163,13 +142,6 @@
         <mark key="]" line="2" column="47" />
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/model/Article.kt" timestamp="1455719416197">
-        <mark key="'" line="22" column="23" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="38" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/res/values/strings.xml" timestamp="1455838620900">
         <mark key="[" line="4" column="30" />
@@ -243,13 +215,6 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" timestamp="1455885286595">
-        <mark key="'" line="250" column="43" />
-        <mark key="[" line="267" column="0" />
-        <mark key="]" line="269" column="11" />
-        <mark key="^" line="268" column="44" />
-        <mark key="." line="268" column="44" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/view/PostGalleryPager.java" timestamp="1456398250087">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="45" column="53" />
@@ -269,20 +234,6 @@
         <mark key="^" line="13" column="70" />
         <mark key="." line="13" column="70" />
       </file>
-      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Topic.kt" timestamp="1455711068970">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="30" column="5" />
-        <mark key="]" line="31" column="14" />
-        <mark key="^" line="31" column="14" />
-        <mark key="." line="31" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/build.gradle" timestamp="1456097987789">
-        <mark key="'" line="4" column="17" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="61" column="34" />
-        <mark key="." line="51" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/res/values/styles.xml" timestamp="1456184741418">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="38" />
@@ -295,12 +246,16 @@
         <mark key="^" line="7" column="60" />
         <mark key="." line="7" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/build.gradle" timestamp="1456236116907">
-        <mark key="'" line="56" column="50" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="56" />
-        <mark key="." line="64" column="3" />
-        <mark key="^" line="64" column="3" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/drawable/icon_mail.xml" timestamp="1456404886560">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/drawable/icon_flight_animated.xml" timestamp="1456407179328">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="12" column="55" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/res/layout/view_item_data.xml" timestamp="1453761796474">
         <mark key="[" line="7" column="13" />
@@ -334,13 +289,6 @@
         <mark key="]" line="22" column="53" />
         <mark key="^" line="24" column="68" />
         <mark key="." line="22" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/adapters/ImageArticleAdapter.kt" timestamp="1455725302907">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="8" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/reactnative/packages/ReactPackage.java" timestamp="1454426553357">
         <mark key="[" line="6" column="13" />
@@ -378,13 +326,6 @@
         <mark key="^" line="198" column="54" />
         <mark key="." line="198" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/User.java" timestamp="1456139336948">
-        <mark key="'" line="281" column="41" />
-        <mark key="[" line="82" column="33" />
-        <mark key="]" line="83" column="28" />
-        <mark key="^" line="83" column="28" />
-        <mark key="." line="83" column="28" />
-      </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/V2EXService.kt" timestamp="1455710449172">
         <mark key="[" line="16" column="14" />
         <mark key="]" line="16" column="10" />
@@ -412,34 +353,6 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/adapters/TextArticleAdapter.kt" timestamp="1455728405175">
-        <mark key="'" line="40" column="32" />
-        <mark key="[" line="16" column="42" />
-        <mark key="]" line="16" column="45" />
-        <mark key="^" line="16" column="45" />
-        <mark key="." line="16" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/extension/UiExtension.kt" timestamp="1456185614914">
-        <mark key="'" line="34" column="45" />
-        <mark key="[" line="34" column="41" />
-        <mark key="]" line="34" column="45" />
-        <mark key="." line="34" column="45" />
-        <mark key="^" line="34" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_settings.xml" timestamp="1456330980282">
-        <mark key="'" line="26" column="8" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="41" column="45" />
-      </file>
-      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/DetailActivity.kt" timestamp="1455710408076">
-        <mark key="'" line="26" column="57" />
-        <mark key="[" line="34" column="58" />
-        <mark key="]" line="35" column="36" />
-        <mark key="^" line="35" column="36" />
-        <mark key="." line="35" column="36" />
-      </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/kotlin/com/imallan/kotlinplayground/Topic.kt" timestamp="1456242837747">
         <mark key="[" line="31" column="52" />
         <mark key="]" line="31" column="23" />
@@ -452,6 +365,9 @@
         <mark key="." line="29" column="46" />
         <mark key="^" line="29" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/drawable/icon_drawer.xml" timestamp="1456406388107">
+        <mark key="[" line="5" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/layout/view_item_my_data.xml" timestamp="1454255101457">
         <mark key="[" line="10" column="32" />
         <mark key="]" line="10" column="35" />
@@ -463,25 +379,11 @@
         <mark key="]" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImagePinchZoomActivity.java" timestamp="1456313447752">
-        <mark key="'" line="108" column="42" />
-        <mark key="[" line="122" column="89" />
-        <mark key="]" line="122" column="91" />
-        <mark key="." line="122" column="91" />
-        <mark key="^" line="122" column="91" />
-      </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/res/layout/view_item_topic.xml" timestamp="1455717525387">
         <mark key="[" line="13" column="38" />
         <mark key="]" line="14" column="37" />
         <mark key="." line="14" column="37" />
         <mark key="^" line="14" column="37" />
-      </file>
-      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/TopicAdapter.kt" timestamp="1455720596993">
-        <mark key="'" line="53" column="33" />
-        <mark key="[" line="42" column="46" />
-        <mark key="]" line="42" column="109" />
-        <mark key="^" line="42" column="109" />
-        <mark key="." line="42" column="109" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/Presenter.java" timestamp="1453757110667">
         <mark key="[" line="6" column="7" />
@@ -536,10 +438,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_select_language.xml" timestamp="1456331433131">
-        <mark key="'" line="44" column="25" />
-        <mark key="^" line="12" column="57" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/layout/recycler_timeline.xml" timestamp="1454248312816">
         <mark key="[" line="4" column="76" />
         <mark key="]" line="4" column="76" />
@@ -552,43 +450,17 @@
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/res/layout/view_item_article_normal.xml" timestamp="1455901995334">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="17" column="39" />
-        <mark key="]" line="17" column="38" />
-        <mark key="." line="17" column="38" />
-        <mark key="^" line="17" column="38" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/layout/activity_main.xml" timestamp="1456407870753">
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+        <mark key="^" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/header_post_description.xml" timestamp="1456397873446">
-        <mark key="'" line="15" column="30" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="7" />
-        <mark key="." line="16" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/DataBindingPlayground/app/src/main/java/com/imallan/databindingplayground/MainActivity.java" timestamp="1456238202727">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="64" column="67" />
-        <mark key="]" line="64" column="68" />
-        <mark key="." line="64" column="68" />
-        <mark key="^" line="115" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/layout/activity_main.xml" timestamp="1456336049337">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/LoginActivity.kt" timestamp="1456167354560">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="27" column="32" />
-        <mark key="." line="27" column="32" />
-        <mark key="^" line="27" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/MainActivity.kt" timestamp="1456336053819">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/MainActivity.kt" timestamp="1456407863386">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_shopping_cart.xml" timestamp="1453814990775">
         <mark key="[" line="157" column="48" />
@@ -652,13 +524,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_post_recycler.xml" timestamp="1456395108154">
-        <mark key="'" line="38" column="1" />
-        <mark key="[" line="34" column="44" />
-        <mark key="]" line="35" column="31" />
-        <mark key="^" line="35" column="31" />
-        <mark key="." line="35" column="31" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/RichQuickAction/quickaction/src/main/java/com/imallan/quickaction/RichActionView.java" timestamp="1454934523547">
         <mark key="[" line="92" column="77" />
         <mark key="]" line="92" column="85" />
@@ -671,11 +536,19 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/drawable/icon_mail_animated.xml" timestamp="1456404366988">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProductActivity.java" timestamp="1455191014866">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="70" />
         <mark key="." line="86" column="67" />
         <mark key="^" line="86" column="78" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1456407185471">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
@@ -688,13 +561,6 @@
         <mark key="]" line="2" column="25" />
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/ArticleActivity.kt" timestamp="1455726851081">
-        <mark key="'" line="22" column="23" />
-        <mark key="[" line="22" column="17" />
-        <mark key="]" line="22" column="23" />
-        <mark key="." line="22" column="23" />
-        <mark key="^" line="22" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/Fancy.kt" timestamp="1456336973375">
         <mark key="[" line="12" column="0" />
@@ -728,7 +594,7 @@
         <mark key="^" line="13" column="40" />
         <mark key="." line="13" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1456334501678">
+      <file name="/fragment.java" timestamp="1456403908937">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_brand.xml" timestamp="1454935587864">
@@ -769,13 +635,6 @@
       <file name="$USER_HOME$/Documents/GitHub/Fave/app/src/main/res/layout/activity_main.xml" timestamp="1456250206618">
         <mark key="[" line="16" column="47" />
       </file>
-      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/kotlin/com/imallan/kotlinplayground/TopicAdapter.kt" timestamp="1456242861642">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="29" column="74" />
-        <mark key="]" line="29" column="45" />
-        <mark key="." line="29" column="45" />
-        <mark key="^" line="29" column="45" />
-      </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/kotlin/com/imallan/kotlinplayground/DetailActivity.kt" timestamp="1456242799970">
         <mark key="[" line="35" column="33" />
         <mark key="]" line="35" column="33" />
@@ -809,25 +668,11 @@
         <mark key="^" line="11" column="85" />
         <mark key="." line="11" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/DealsFragment.java" timestamp="1456326977538">
-        <mark key="'" line="46" column="4" />
-        <mark key="[" line="55" column="48" />
-        <mark key="]" line="55" column="47" />
-        <mark key="^" line="55" column="47" />
-        <mark key="." line="55" column="47" />
-      </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Test.java" timestamp="1455626055206">
         <mark key="[" line="17" column="39" />
         <mark key="]" line="17" column="42" />
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
-      </file>
-      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" timestamp="1456242086129">
-        <mark key="'" line="66" column="16" />
-        <mark key="[" line="38" column="45" />
-        <mark key="]" line="39" column="61" />
-        <mark key="." line="39" column="61" />
-        <mark key="^" line="39" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/User.java" timestamp="1454336900597">
         <mark key="[" line="8" column="18" />
@@ -840,13 +685,6 @@
         <mark key="]" line="6" column="52" />
         <mark key="." line="6" column="52" />
         <mark key="^" line="6" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ShopcadeApplication.java" timestamp="1456319046533">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="^" line="109" column="74" />
-        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/DebouncedAction.java" timestamp="1455878426184">
         <mark key="[" line="23" column="39" />
@@ -899,13 +737,6 @@
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/AndroidManifest.xml" timestamp="1455839835870">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="4" column="62" />
-        <mark key="." line="4" column="62" />
-        <mark key="^" line="4" column="62" />
-      </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/res/layout/activity_detail.xml" timestamp="1455635884797">
         <mark key="[" line="5" column="45" />
       </file>
@@ -957,12 +788,11 @@
         <mark key="^" line="12" column="77" />
         <mark key="." line="12" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" timestamp="1456136335315">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="280" column="43" />
-        <mark key="]" line="280" column="43" />
-        <mark key="." line="280" column="43" />
-        <mark key="^" line="280" column="43" />
+      <file name="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/animated-vector-drawable/23.2.0/animated-vector-drawable-23.2.0-sources.jar!/android/support/graphics/drawable/AnimatedVectorDrawableCompat.java" timestamp="1456403547733" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/animator/rotation.xml" timestamp="1456406789351">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/AndroidManifest.xml" timestamp="1456242687345">
         <mark key="[" line="19" column="32" />
@@ -999,6 +829,11 @@
         <mark key="." line="42" column="66" />
         <mark key="^" line="42" column="66" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/animator/rotation_plane.xml" timestamp="1456407844778">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/app/src/main/AndroidManifest.xml" timestamp="1453397302164">
         <mark key="[" line="2" column="48" />
         <mark key="]" line="4" column="64" />
@@ -1032,11 +867,11 @@
         <mark key="^" line="69" column="86" />
         <mark key="." line="69" column="86" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/extensions/UiExtensions.kt" timestamp="1456335354342">
-        <mark key="[" line="20" column="100" />
-        <mark key="]" line="20" column="91" />
-        <mark key="^" line="20" column="91" />
-        <mark key="." line="20" column="34" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/extensions/UiExtensions.kt" timestamp="1456404126720">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="29" column="40" />
+        <mark key="." line="29" column="40" />
+        <mark key="^" line="29" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/res/layout/content_main.xml" timestamp="1456096274291">
         <mark key="[" line="1" column="1" />
@@ -1049,13 +884,6 @@
         <mark key="]" line="6" column="15" />
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" timestamp="1455750241283">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/models/MyModelImpl.java" timestamp="1453765485222">
         <mark key="[" line="18" column="46" />
@@ -1081,11 +909,11 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/build.gradle" timestamp="1456334212031">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="8" column="44" />
-        <mark key="." line="8" column="44" />
-        <mark key="^" line="8" column="44" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/build.gradle" timestamp="1456404521125">
+        <mark key="'" line="33" column="23" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1455711877266">
         <mark key="[" line="0" column="0" />
@@ -1103,13 +931,6 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" timestamp="1456147166471">
-        <mark key="'" line="39" column="4" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="97" column="54" />
-        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/anim/slide_out_left.xml" timestamp="1456335986607">
         <mark key="[" line="5" column="26" />
@@ -1158,13 +979,6 @@
         <mark key="]" line="2" column="15" />
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
-      </file>
-      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" timestamp="1456242648199">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="24" />
-        <mark key="^" line="28" column="24" />
-        <mark key="." line="28" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/java/com/imallan/aidlexample/MessengerService.java" timestamp="1454276161037">
         <mark key="[" line="25" column="4" />
@@ -1237,11 +1051,23 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/drawable/ic_mail.xml" timestamp="1456400782211" />
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/layout/activity_main.xml" timestamp="1454255030595">
         <mark key="[" line="1" column="51" />
         <mark key="]" line="2" column="33" />
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/anim/rotation.xml" timestamp="1456403591512">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/drawable/icon_flight.xml" timestamp="1456406982381">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SettingsActivity.java" timestamp="1456330886307">
         <mark key="[" line="121" column="37" />
@@ -1273,32 +1099,11 @@
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="/Volumes/Android/WORKING_DIRECTORY/frameworks/base/core/java/android/view/LayoutInflater.java" timestamp="1455661370690">
-        <mark key="'" line="590" column="15" />
-        <mark key="[" line="660" column="51" />
-        <mark key="]" line="660" column="51" />
-        <mark key="^" line="660" column="51" />
-        <mark key="." line="660" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/DealsActivity.java" timestamp="1456327002918">
-        <mark key="'" line="153" column="37" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="64" column="14" />
-        <mark key="^" line="64" column="14" />
-        <mark key="." line="64" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/RemoteServiceImpl.java" timestamp="1454337049987">
         <mark key="[" line="35" column="28" />
         <mark key="]" line="35" column="33" />
         <mark key="^" line="35" column="33" />
         <mark key="." line="35" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/SharedPreferenceExtension.kt" timestamp="1455754266631">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="24" column="11" />
-        <mark key="]" line="25" column="18" />
-        <mark key="." line="25" column="18" />
-        <mark key="^" line="25" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/AndroidManifest.xml" timestamp="1453309581047">
         <mark key="[" line="16" column="19" />
@@ -1354,6 +1159,11 @@
         <mark key="^" line="41" column="44" />
         <mark key="." line="41" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/menu/menu_main.xml" timestamp="1456401271250">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/Test.java" timestamp="1456161529374">
         <mark key="[" line="14" column="11" />
         <mark key="]" line="14" column="10" />
@@ -1368,7 +1178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="24" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.java" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.java" />
       <jump line="49" column="0" filename="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/BaseArticleActivity.kt" />
       <jump line="56" column="50" filename="$USER_HOME$/Documents/GitHub/Gank/app/build.gradle" />
@@ -1468,46 +1277,47 @@
       <jump line="8" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/header_post.xml" />
       <jump line="142" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/header_post.xml" />
       <jump line="15" column="30" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/header_post_description.xml" />
+      <jump line="32" column="23" filename="$USER_HOME$/Documents/GitHub/Playground/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getResources().getConfiguration().orientation == Configuration.ORIENTATION_LANDSCAPE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtSW1hZ2Uuc2NhbGVUeXBlID0gSW1hZ2VWaWV3LlNjYWxlVHlwZS5DRU5URVJfQ1JPUAo=</text>
       </register>
       <register name="-" type="4">
-        <text>getResources().getConfiguration().orientation == Configuration.ORIENTATION_LANDSCAPE</text>
+        <text>flight_animated</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ2V0UmVzb3VyY2VzKCkuZ2V0Q29uZmlndXJhdGlvbigpLm9yaWVudGF0aW9uID09IENvbmZpZ3VyYXRpb24uT1JJRU5UQVRJT05fTEFORFNDQVBFKSB7Cg==</text>
+        <text encoding="base64">ICAgIDx0YXJnZXQKICAgICAgICBhbmRyb2lkOm5hbWU9InBsYW5lIgogICAgICAgIGFuZHJvaWQ6YW5pbWF0aW9uPSJAYW5pbWF0b3Ivcm90YXRpb25fcGxhbmUiIC8+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>getResources().getConfiguration().orientation == Configuration.ORIENTATION_LANDSCAPE</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBtSW1hZ2Uuc2NhbGVUeXBlID0gSW1hZ2VWaWV3LlNjYWxlVHlwZS5DRU5URVJfQ1JPUAo=</text>
       </register>
       <register name="2" type="4">
-        <text>match_parent</text>
+        <text>flight_animated</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczp0ZXh0PSJAc3RyaW5nL2xvcmVtX2lwc3VtIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>match_parent</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZhbHVlVHlwZT0iZmxvYXRUeXBlIiAvPgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>match_parent</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZhbHVlVG89IjI0MCIK</text>
       </register>
-      <register name="6" type="4">
-        <text>match_parent</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZhbHVlRnJvbT0iMCIK</text>
       </register>
-      <register name="7" type="4">
-        <text>match_parent</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJlcGVhdE1vZGU9InJldmVyc2UiCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>/</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxvYmplY3RBbmltYXRvcgogICAgICAgIGFuZHJvaWQ6ZHVyYXRpb249IjMwMDAiCiAgICAgICAgYW5kcm9pZDpwcm9wZXJ0eU5hbWU9InRyYW5zbGF0aW9uWCIKICAgICAgICBhbmRyb2lkOnJlcGVhdENvdW50PSJpbmZpbml0ZSIK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgICAgICAgICAgICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIKICAgICAgICAgICAgICB4bWxuczpmcmVzY289Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIKICAgICAgICAgICAgICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCg==</text>
+      <register name="9" type="4">
+        <text>intType</text>
       </register>
     </registers>
     <search>
