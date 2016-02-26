@@ -1278,12 +1278,12 @@
         <mark key="^" line="25" column="9" />
         <mark key="." line="25" column="9" />
       </file>
-      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" timestamp="1456498622668">
-        <mark key="'" line="15" column="10" />
-        <mark key="[" line="69" column="45" />
-        <mark key="]" line="69" column="46" />
-        <mark key="^" line="69" column="48" />
-        <mark key="." line="69" column="46" />
+      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" timestamp="1456501530578">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="32" column="21" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/PostCardsFragment.java" timestamp="1453982852930">
         <mark key="[" line="82" column="0" />
@@ -1519,7 +1519,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
       <jump line="154" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
       <jump line="59" column="20" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
@@ -1619,13 +1618,14 @@
       <jump line="24" column="30" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/res/layout/view_item_topic.xml" />
       <jump line="47" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/res/layout/view_item_topic.xml" />
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/res/layout/view_item_topic.xml" />
+      <jump line="55" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>VERSION_CODE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>VERSION_CODE</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1633,32 +1633,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjE2ZHAiCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>VERSION_CODE</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEJ1aWxkQ29uZmlnCg==</text>
-      </register>
-      <register name="3" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjFkcCIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IiM4MDAwMDAwMCIgLz4K</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="3" type="4">
+        <text>=</text>
+      </register>
+      <register name="4" type="4">
+        <text>VERSION_CODE</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIEJ1aWxkQ29uZmlnCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjFkcCIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IiM4MDAwMDAwMCIgLz4K</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>4</text>
-      </register>
-      <register name="7" type="4">
-        <text>4</text>
-      </register>
-      <register name="8" type="4">
-        <text>A</text>
-      </register>
       <register name="9" type="4">
-        <text>A</text>
+        <text>4</text>
       </register>
     </registers>
     <search>
