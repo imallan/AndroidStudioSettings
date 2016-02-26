@@ -1202,11 +1202,11 @@
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Toothpick/toothpick/src/main/kotlin/com/imallan/toothpick/Toothpick.kt" timestamp="1456482768908">
-        <mark key="'" line="52" column="4" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/Toothpick/toothpick/src/main/kotlin/com/imallan/toothpick/Toothpick.kt" timestamp="1456488737623">
+        <mark key="'" line="51" column="4" />
+        <mark key="]" line="13" column="51" />
+        <mark key="." line="13" column="51" />
+        <mark key="^" line="13" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" timestamp="1456147166471">
         <mark key="'" line="39" column="4" />
@@ -1621,11 +1621,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/res/layout/view_item_topic.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>VERSION_CODE</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>VERSION_CODE</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1633,32 +1633,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjE2ZHAiCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>VERSION_CODE</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjFkcCIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IiM4MDAwMDAwMCIgLz4K</text>
+        <text encoding="base64">ICAgIEJ1aWxkQ29uZmlnCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjFkcCIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IiM4MDAwMDAwMCIgLz4K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>4</text>
-      </register>
-      <register name="5" type="4">
-        <text>4</text>
-      </register>
       <register name="6" type="4">
-        <text>A</text>
+        <text>4</text>
       </register>
       <register name="7" type="4">
-        <text>A</text>
+        <text>4</text>
       </register>
       <register name="8" type="4">
-        <text>@color/</text>
+        <text>A</text>
       </register>
       <register name="9" type="4">
-        <text>Top</text>
+        <text>A</text>
       </register>
     </registers>
     <search>
