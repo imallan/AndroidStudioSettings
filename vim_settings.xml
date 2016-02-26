@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1456481965059">
+      <file name="/a.dummy" timestamp="1456508241408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -85,12 +85,12 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/User.java" timestamp="1456137540641">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/User.java" timestamp="1456507753008">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="430" column="75" />
-        <mark key="]" line="431" column="59" />
-        <mark key="^" line="431" column="59" />
-        <mark key="." line="431" column="59" />
+        <mark key="[" line="318" column="43" />
+        <mark key="]" line="318" column="36" />
+        <mark key="." line="318" column="36" />
+        <mark key="^" line="318" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/models/MyModel.java" timestamp="1453744104180">
         <mark key="[" line="10" column="21" />
@@ -341,6 +341,7 @@
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/TestActivity.kt" timestamp="1455791914221">
         <mark key="[" line="10" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ShoppingBasketFragment.java" timestamp="1456506346592" />
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/AndroidManifest.xml" timestamp="1455720657856">
         <mark key="[" line="4" column="65" />
         <mark key="]" line="5" column="3" />
@@ -517,6 +518,7 @@
         <mark key="^" line="42" column="109" />
         <mark key="." line="42" column="109" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/ShoppingService.java" timestamp="1456506234428" />
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/Presenter.java" timestamp="1453757110667">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="15" />
@@ -782,7 +784,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1456420718223">
+      <file name="/fragment.java" timestamp="1456506407384">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_brand.xml" timestamp="1454935587864">
@@ -1615,43 +1617,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBAT25DbGljayhSLmlkLnRleHRfaGVsbG8pIGZ1biBjaGFuZ2UoKSB7CiAgICAgICAgbG9nZCgic3VjY2VzcyEhIikKICAgICAgICBtVGV4dFZpZXcudGV4dCA9IFN5c3RlbUNsb2NrLmN1cnJlbnRUaHJlYWRUaW1lTWlsbGlzKCkudG9TdHJpbmcoKQogICAgfQoKICAgIEBPbkNsaWNrKFIuaWQuYnV0dG9uX3ByZXNzX21lKSBmdW4gb3BlbigpIHsKICAgICAgICBzdGFydEFjdGl2aXR5KEludGVudChjb250ZXh0LCBNYWluQWN0aXZpdHk6OmNsYXNzLmphdmEpKQogICAgfQ==</text>
+        <text>country</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>country</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjE2ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb3VudHJ5ID0gQ09VTlRSWS52YWx1ZU9mKGNvdW50cnkpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICBAT25DbGljayhSLmlkLnRleHRfaGVsbG8pIGZ1biBjaGFuZ2UoKSB7CiAgICAgICAgbG9nZCgic3VjY2VzcyEhIikKICAgICAgICBtVGV4dFZpZXcudGV4dCA9IFN5c3RlbUNsb2NrLmN1cnJlbnRUaHJlYWRUaW1lTWlsbGlzKCkudG9TdHJpbmcoKQogICAgfQoKICAgIEBPbkNsaWNrKFIuaWQuYnV0dG9uX3ByZXNzX21lKSBmdW4gb3BlbigpIHsKICAgICAgICBzdGFydEFjdGl2aXR5KEludGVudChjb250ZXh0LCBNYWluQWN0aXZpdHk6OmNsYXNzLmphdmEpKQogICAgfQ==</text>
+        <text>country</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUb290aHBpY2suYmluZCh0aGlzLCB2aWV3KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmVmcy5lZGl0KCkuY29tbWl0KCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBtVGV4dFZpZXc6IFRleHRWaWV3IGJ5IGJpbmQoUi5pZC50ZXh0X2hlbGxvKQo=</text>
+      <register name="3" type="4">
+        <text>settings</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>commit</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ar</text>
       </register>
-      <register name="6" type="4">
-        <text>=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmVmcy4K</text>
       </register>
       <register name="7" type="4">
-        <text>VERSION_CODE</text>
+        <text>apply</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEJ1aWxkQ29uZmlnCg==</text>
+      <register name="8" type="4">
+        <text>apply</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBAT25DbGljayhSLmlkLnRleHRfaGVsbG8pIGZ1biBjaGFuZ2UoKSB7CiAgICAgICAgbG9nZCgic3VjY2VzcyEhIikKICAgICAgICBtVGV4dFZpZXcudGV4dCA9IFN5c3RlbUNsb2NrLmN1cnJlbnRUaHJlYWRUaW1lTWlsbGlzKCkudG9TdHJpbmcoKQogICAgfQoKICAgIEBPbkNsaWNrKFIuaWQuYnV0dG9uX3ByZXNzX21lKSBmdW4gb3BlbigpIHsKICAgICAgICBzdGFydEFjdGl2aXR5KEludGVudChjb250ZXh0LCBNYWluQWN0aXZpdHk6OmNsYXNzLmphdmEpKQogICAgfQ==</text>
       </register>
     </registers>
     <search>
