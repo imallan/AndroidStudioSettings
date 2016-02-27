@@ -1030,6 +1030,9 @@
         <mark key="^" line="3" column="48" />
         <mark key="." line="3" column="48" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/content/SharedPreferences.java" timestamp="1456532487066">
+        <mark key="'" line="370" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/Book.java" timestamp="1454407196111">
         <mark key="[" line="8" column="40" />
       </file>
@@ -1264,12 +1267,11 @@
         <mark key="^" line="109" column="74" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/MainActivity.kt" timestamp="1456185730241">
-        <mark key="'" line="10" column="44" />
-        <mark key="[" line="26" column="60" />
-        <mark key="]" line="26" column="68" />
-        <mark key="^" line="26" column="68" />
-        <mark key="." line="26" column="68" />
+      <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/ui/activity/MainActivity.kt" timestamp="1456532803649">
+        <mark key="'" line="2" column="44" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/layout/activity_main.xml" timestamp="1456422805096">
         <mark key="[" line="2" column="21" />
@@ -1512,7 +1514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
       <jump line="154" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
       <jump line="59" column="20" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
@@ -1612,13 +1613,14 @@
       <jump line="47" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/res/layout/view_item_topic.xml" />
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/res/layout/view_item_topic.xml" />
       <jump line="55" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/build.gradle" />
+      <jump line="370" column="24" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/content/SharedPreferences.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>country</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBQcmVmZXJlbmNlTWFuYWdlci5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXModGhpcykucmVnaXN0ZXJPblNoYXJlZFByZWZlcmVuY2VDaGFuZ2VMaXN0ZW5lciB7fSh0aGlzaikK</text>
       </register>
       <register name="-" type="4">
-        <text>country</text>
+        <text encoding="base64">IHNoYXJlZFByZWZlcmVuY2VzLCBzIC0+ICA=</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1626,32 +1628,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb3VudHJ5ID0gQ09VTlRSWS52YWx1ZU9mKGNvdW50cnkpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>country</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBQcmVmZXJlbmNlTWFuYWdlci5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXModGhpcykucmVnaXN0ZXJPblNoYXJlZFByZWZlcmVuY2VDaGFuZ2VMaXN0ZW5lciB7fSh0aGlzaikK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVmcy5lZGl0KCkuY29tbWl0KCk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHNoYXJlZFByZWZlcmVuY2VzLCBzIC0+ICA=</text>
       </register>
       <register name="3" type="4">
-        <text>settings</text>
+        <text>unregisterOnSharedPreferenceChangeListener</text>
       </register>
-      <register name="4" type="4">
-        <text>commit</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBQcmVmZXJlbmNlTWFuYWdlci5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXModGhpcykudW5yZWdpc3Rlck9uU2hhcmVkUHJlZmVyZW5jZUNoYW5nZUxpc3RlbmVyKHRoaXNqKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>ar</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBQcmVmZXIK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVmcy4K</text>
+      <register name="6" type="4">
+        <text>country</text>
       </register>
-      <register name="7" type="4">
-        <text>apply</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmVmcy5lZGl0KCkuY29tbWl0KCk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>apply</text>
+        <text>settings</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICBAT25DbGljayhSLmlkLnRleHRfaGVsbG8pIGZ1biBjaGFuZ2UoKSB7CiAgICAgICAgbG9nZCgic3VjY2VzcyEhIikKICAgICAgICBtVGV4dFZpZXcudGV4dCA9IFN5c3RlbUNsb2NrLmN1cnJlbnRUaHJlYWRUaW1lTWlsbGlzKCkudG9TdHJpbmcoKQogICAgfQoKICAgIEBPbkNsaWNrKFIuaWQuYnV0dG9uX3ByZXNzX21lKSBmdW4gb3BlbigpIHsKICAgICAgICBzdGFydEFjdGl2aXR5KEludGVudChjb250ZXh0LCBNYWluQWN0aXZpdHk6OmNsYXNzLmphdmEpKQogICAgfQ==</text>
+        <text>commit</text>
       </register>
     </registers>
     <search>
