@@ -251,6 +251,12 @@
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SearchProductsFiltersActivity.java" timestamp="1456750490959">
+        <mark key="[" line="73" column="65" />
+        <mark key="]" line="73" column="64" />
+        <mark key="^" line="73" column="64" />
+        <mark key="." line="73" column="64" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/Extentions.kt" timestamp="1456162660376">
         <mark key="[" line="22" column="28" />
         <mark key="]" line="24" column="13" />
@@ -1386,11 +1392,11 @@
       <file name="/fragment.kt" timestamp="1456678394044">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/debug/res/values/strings.xml" timestamp="1454667535161">
-        <mark key="[" line="45" column="162" />
-        <mark key="]" line="45" column="168" />
-        <mark key="^" line="45" column="168" />
-        <mark key="." line="45" column="168" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/debug/res/values/strings.xml" timestamp="1456750533675">
+        <mark key="[" line="6" column="56" />
+        <mark key="]" line="6" column="64" />
+        <mark key="^" line="6" column="64" />
+        <mark key="." line="6" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
