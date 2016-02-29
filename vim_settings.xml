@@ -83,11 +83,11 @@
         <mark key="^" line="1" column="93" />
         <mark key="." line="1" column="93" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/values/colors.xml" timestamp="1456759880359">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="66" />
-        <mark key="^" line="5" column="57" />
-        <mark key="." line="5" column="57" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/values/colors.xml" timestamp="1456761006197">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="68" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/ui/ScreenContainer.java" timestamp="1453756233075">
         <mark key="[" line="8" column="34" />
@@ -172,6 +172,12 @@
         <mark key="]" line="9" column="36" />
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/dialog_bottom_sheet_filter_shots.xml" timestamp="1456761044999">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="51" />
+        <mark key="^" line="5" column="51" />
+        <mark key="." line="5" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/res/layout/activity_base.xml" timestamp="1453755236977">
         <mark key="[" line="11" column="16" />
@@ -590,6 +596,12 @@
         <mark key="^" line="122" column="91" />
         <mark key="." line="122" column="91" />
       </file>
+      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/res/layout/view_item_topic.xml" timestamp="1456486988645">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1456757556973">
         <mark key="'" line="113" column="28" />
         <mark key="[" line="94" column="0" />
@@ -733,12 +745,11 @@
         <mark key="^" line="27" column="32" />
         <mark key="." line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/item_view_shot.xml" timestamp="1456759895659">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/item_view_shot.xml" timestamp="1456760098374">
         <mark key="'" line="21" column="43" />
-        <mark key="[" line="7" column="55" />
-        <mark key="]" line="8" column="49" />
-        <mark key="^" line="8" column="49" />
-        <mark key="." line="8" column="49" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/MainActivity.kt" timestamp="1456759267298">
         <mark key="'" line="108" column="0" />
@@ -847,10 +858,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/FilterSheetDialog.kt" timestamp="1456747803367">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/FilterSheetDialog.kt" timestamp="1456760813904">
+        <mark key="[" line="24" column="43" />
+        <mark key="]" line="24" column="66" />
+        <mark key="." line="24" column="66" />
+        <mark key="^" line="24" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_post_recycler.xml" timestamp="1456395108154">
         <mark key="'" line="38" column="1" />
@@ -1003,6 +1015,12 @@
         <mark key="." line="48" column="80" />
         <mark key="^" line="48" column="80" />
       </file>
+      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/kotlin/com/imallan/kotlinplayground/DetailActivity.kt" timestamp="1456482540475">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/AndroidManifest.xml" timestamp="1454409765419">
         <mark key="[" line="18" column="44" />
         <mark key="]" line="18" column="67" />
@@ -1062,11 +1080,11 @@
         <mark key="^" line="39" column="61" />
         <mark key="." line="39" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/values-night/colors.xml" timestamp="1456759926160">
-        <mark key="[" line="2" column="53" />
-        <mark key="]" line="2" column="57" />
-        <mark key="." line="2" column="57" />
-        <mark key="^" line="2" column="57" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/values-night/colors.xml" timestamp="1456761035346">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="3" column="54" />
+        <mark key="." line="3" column="54" />
+        <mark key="^" line="3" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/Sting.java" timestamp="1456419605810">
         <mark key="[" line="14" column="11" />
@@ -1647,6 +1665,12 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/layout/fragment_my.xml" timestamp="1456422908519">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/drawable/icon_flight.xml" timestamp="1456406982381">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -1916,43 +1940,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>white</text>
+        <text>colorCardBackground</text>
       </register>
       <register name="-" type="4">
-        <text>white</text>
+        <text>colorCardBackground</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvckNhcmRCYWNrZ3JvdW5kIj5AYW5kcm9pZDpjb2xvci93aGl0ZTwvY29sb3I+Cg==</text>
+      <register name="0" type="4">
+        <text>424242</text>
       </register>
       <register name="1" type="4">
-        <text>white</text>
+        <text>colorCardBackground</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">QGFuZHJvaWQ6Y29sb3Ivd2hpdGU8L2NvbG9y</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvclByaW1hcnkiPiMzRjUxQjU8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yUHJpbWFyeURhcmsiPiMzMDNGOUY8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yQWNjZW50Ij4jRkY0MDgxPC9jb2xvcj4K</text>
+      <register name="3" type="4">
+        <text>d</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAYW5kcm9pZDpjb2xvci9ibGFjayIK</text>
+      <register name="4" type="4">
+        <text>r</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAYW5kcm9pZDpjb2xvci9ibGFjayIK</text>
+      <register name="5" type="4">
+        <text>a</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iP2FuZHJvaWQ6YXR0ci9jb2xvckJhY2tncm91bmQiCg==</text>
+      <register name="6" type="4">
+        <text>C</text>
       </register>
       <register name="7" type="4">
-        <text>cardBackgroundColor</text>
+        <text>r</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>o</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWNyZWF0ZSgpCg==</text>
+      <register name="9" type="4">
+        <text>l</text>
       </register>
     </registers>
     <search>
