@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1456508241408">
+      <file name="/a.dummy" timestamp="1456744895764">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -621,10 +621,10 @@
         <mark key="^" line="27" column="32" />
         <mark key="." line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/MainActivity.kt" timestamp="1456742970372">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/MainActivity.kt" timestamp="1456743974786">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/MainActivity.kt" timestamp="1456422877254">
         <mark key="'" line="37" column="0" />
@@ -718,6 +718,9 @@
         <mark key="]" line="84" column="70" />
         <mark key="^" line="86" column="78" />
         <mark key="." line="86" column="67" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1456744895759">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
@@ -922,10 +925,8 @@
         <mark key="^" line="24" column="15" />
         <mark key="." line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/viewholder/ShotViewHolder.kt" timestamp="1456741445338">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/viewholder/ShotViewHolder.kt" timestamp="1456744654056">
+        <mark key="[" line="28" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/gradle.properties" timestamp="1454431897669">
         <mark key="[" line="0" column="0" />
@@ -1100,12 +1101,11 @@
         <mark key="^" line="42" column="66" />
         <mark key="." line="42" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsAdapter.kt" timestamp="1456743022064">
-        <mark key="'" line="8" column="39" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="52" column="19" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsAdapter.kt" timestamp="1456745797955">
+        <mark key="[" line="88" column="25" />
+        <mark key="]" line="88" column="47" />
+        <mark key="^" line="88" column="47" />
+        <mark key="." line="88" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/Sting.kt" timestamp="1456419980258">
         <mark key="[" line="32" column="22" />
@@ -1527,11 +1527,11 @@
         <mark key="^" line="14" column="10" />
         <mark key="." line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/extension/ImageExtensions.kt" timestamp="1456742581422">
-        <mark key="[" line="13" column="79" />
-        <mark key="]" line="14" column="25" />
-        <mark key="." line="14" column="25" />
-        <mark key="^" line="14" column="25" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/extension/ImageExtensions.kt" timestamp="1456744835809">
+        <mark key="[" line="10" column="61" />
+        <mark key="]" line="10" column="71" />
+        <mark key="." line="10" column="71" />
+        <mark key="^" line="10" column="71" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/TestActivity.java" timestamp="1455637184194">
         <mark key="[" line="29" column="56" />
@@ -1541,7 +1541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
       <jump line="281" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
       <jump line="489" column="15" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
       <jump line="482" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
@@ -1641,46 +1640,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsAdapter.kt" />
       <jump line="64" column="36" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsAdapter.kt" />
       <jump line="8" column="39" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsAdapter.kt" />
+      <jump line="81" column="61" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsAdapter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlY3ljbGVyVmlldy5TQ1JPTExfU1RBVEVfRFJBR0dJTkcgLT4KICAgICAgICAgICAgICAgICAgICBHbGlkZS53aXRoKHJlY3ljbGVyVmlldy5jb250ZXh0KS5yZXN1bWVSZXF1ZXN0cygpCg==</text>
+      <register name="&quot;" type="4">
+        <text>setImageUrl(shot.user?.avatar_url, maxSize = 320)</text>
       </register>
       <register name="-" type="4">
-        <text>colorAccent</text>
+        <text>setImageUrl(shot.user?.avatar_url, maxSize = 320)</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHbGlkZS53aXRoKHJlY3ljbGVyVmlldy5jb250ZXh0KS5yZXN1bWVSZXF1ZXN0cygpCg==</text>
+        <text encoding="base64">ICAgICAgICBob2xkZXIuaW1hZ2VVc2VyLnNldEltYWdlVXJsKHNob3QudXNlcj8uYXZhdGFyX3VybCwgbWF4U2l6ZSA9IDMyMCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlY3ljbGVyVmlldy5TQ1JPTExfU1RBVEVfRFJBR0dJTkcgLT4KICAgICAgICAgICAgICAgICAgICBHbGlkZS53aXRoKHJlY3ljbGVyVmlldy5jb250ZXh0KS5yZXN1bWVSZXF1ZXN0cygpCg==</text>
+      <register name="1" type="4">
+        <text>setImageUrl(shot.user?.avatar_url, maxSize = 320)</text>
       </register>
       <register name="2" type="4">
-        <text>colorAccent</text>
+        <text>viewHolder</text>
       </register>
-      <register name="3" type="4">
-        <text>mPaginationListener</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2aWV3SG9sZGVyLmltYWdlVXNlci5zZXRJbWFnZVVybChzaG90LnVzZXI/LmF2YXRhcl91cmwsIG1heFNpemUgPSAzMjApCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>:</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgIC8vICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25TY3JvbGxTdGF0ZUNoYW5nZWQocmVjeWNsZXJWaWV3LCBuZXdTdGF0ZSkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgaWYgKHNob3QuYW5pbWF0ZWQpIHsKICAgICAgICAvLyAgICAgICAgICAgIHZpZXdIb2xkZXIuaW1hZ2VTaG90LnNldEltYWdlR2lmVXJsKAogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICBzaG90LmltYWdlcz8uaGlkcGkgPzogc2hvdC5pbWFnZXM/Lm5vcm1hbCwKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgYW5pbWF0ZSA9IGZhbHNlKQogICAgICAgIC8vICAgICAgICB9IGVsc2UgewogICAgICAgIC8vICAgICAgICAgICAgdmlld0hvbGRlci5pbWFnZVNob3Quc2V0SW1hZ2VVcmwoCiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgIHNob3QuaW1hZ2VzPy5oaWRwaSA/OiBzaG90LmltYWdlcz8ubm9ybWFsID86IHNob3QuaW1hZ2VzPy50ZWFzZXIsCiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgIGFzcGVjdFJhdGlvLAogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICBhbmltYXRlID0gZmFsc2UKICAgICAgICAvLyAgICAgICAgICAgICkKIA==</text>
       </register>
       <register name="6" type="4">
-        <text>?</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgaWYgKHNob3QuYW5pbWF0ZWQpIHsKICAgICAgICAvLyAgICAgICAgICAgIHZpZXdIb2xkZXIuaW1hZ2VTaG90LnNldEltYWdlR2lmVXJsKAogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICBzaG90LmltYWdlcz8uaGlkcGkgPzogc2hvdC5pbWFnZXM/Lm5vcm1hbCwKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgYW5pbWF0ZSA9IGZhbHNlKQogICAgICAgIC8vICAgICAgICB9IGVsc2UgewogICAgICAgIC8vICAgICAgICAgICAgdmlld0hvbGRlci5pbWFnZVNob3Quc2V0SW1hZ2VVcmwoCiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgIHNob3QuaW1hZ2VzPy5oaWRwaSA/OiBzaG90LmltYWdlcz8ubm9ybWFsID86IHNob3QuaW1hZ2VzPy50ZWFzZXIsCiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgIGFzcGVjdFJhdGlvLAogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICBhbmltYXRlID0gZmFsc2UKICAgICAgICAvLyAgICAgICAgICAgICkKICAgICAgICAvLyAgICAgICAgfQogICAgICAgIHZpZXdIb2xkZXIudGV4dA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>background_light</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblZpZXdEZXRhY2hlZEZyb21XaW5kb3coaG9sZGVyOiBTaG90Vmlld0hvbGRlcikgewogICAgICAgIHN1cGVyLm9uVmlld0RldGFjaGVkRnJvbVdpbmRvdyhob2xkZXIpCiAgICAgICAgaG9sZGVyLmltYWdlU2hvdC5jYW5jZWxJbWFnZVJlcXVlc3QoKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIENsZWFyCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25WaWV3UmVjeWNsZWQoaG9sZGVyOiBTaG90Vmlld0hvbGRlcikgewogICAgICAgIHN1cGVyLm9uVmlld1JlY3ljbGVkKGhvbGRlcikKICAgIH0=</text>
       </register>
     </registers>
     <search>
