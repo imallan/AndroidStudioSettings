@@ -476,6 +476,12 @@
         <mark key="^" line="16" column="10" />
         <mark key="." line="16" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_search_products_filters.xml" timestamp="1456747898808">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/AspectLayout.kt" timestamp="1456623068898">
         <mark key="[" line="31" column="92" />
         <mark key="]" line="32" column="3" />
@@ -637,6 +643,13 @@
         <mark key="^" line="11" column="37" />
         <mark key="." line="11" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_community_filter.xml" timestamp="1456747981049">
+        <mark key="'" line="52" column="44" />
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="3" column="52" />
+        <mark key="." line="3" column="52" />
+        <mark key="^" line="3" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/res/layout/activity_main.xml" timestamp="1456184699154">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -793,11 +806,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/FilterSheetDialog.kt" timestamp="1456746942908">
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="40" />
-        <mark key="." line="26" column="41" />
-        <mark key="^" line="26" column="40" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/FilterSheetDialog.kt" timestamp="1456747803367">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_post_recycler.xml" timestamp="1456395108154">
         <mark key="'" line="38" column="1" />
@@ -1741,9 +1753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="3" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/model/Shot.kt" />
-      <jump line="31" column="30" filename="$USER_HOME$/Documents/GitHub/Crossover/app/build.gradle" />
-      <jump line="53" column="36" filename="$USER_HOME$/Documents/GitHub/Crossover/app/build.gradle" />
       <jump line="4" column="17" filename="$USER_HOME$/Documents/GitHub/Crossover/app/build.gradle" />
       <jump line="23" column="49" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/model/Shot.kt" />
       <jump line="43" column="43" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/model/Shot.kt" />
@@ -1841,46 +1850,49 @@
       <jump line="56" column="31" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsAdapter.kt" />
       <jump line="18" column="13" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/java/com/imallan/crossover/view/FaveView.java" />
       <jump line="75" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/java/com/imallan/crossover/view/FaveView.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_community_filter.xml" />
+      <jump line="6" column="40" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_community_filter.xml" />
+      <jump line="60" column="44" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_community_filter.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LayoutInflater.from(context)</text>
+        <text>match_parent</text>
       </register>
       <register name="-" type="4">
-        <text>LayoutInflater.from(context)</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZXdIb2xkZXIuZmF2ZVZpZXcuZmF2ZSgpCg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIK</text>
       </register>
       <register name="1" type="4">
-        <text>LayoutInflater.from(context)</text>
+        <text>match_parent</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtRGlhbG9nLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
+        <text>/</text>
       </register>
       <register name="4" type="4">
-        <text>u</text>
+        <text encoding="base64">PExpbmVhckxheW91dA==</text>
       </register>
       <register name="5" type="4">
-        <text>a</text>
+        <text>ScrollView</text>
       </register>
-      <register name="6" type="4">
-        <text>f</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgYmVoYXZpb3IgPSBCb3R0b21TaGVldEJlaGF2aW9yLmZyb20obURpYWxvZy5maW5kVmlld0J5SWQoUi5pZC5kZXNpZ25fYm90dG9tX3NoZWV0KSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiZWhhdmlvci5wZWVrSGVpZ2h0ID0gZ2V0RGV2aWNlSGVpZ2h0KGNvbnRleHQpIC8gMyAqIDIK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>2</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlld0hvbGRlci5mYXZlVmlldy5mYXZlKCkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
