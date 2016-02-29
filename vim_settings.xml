@@ -21,7 +21,7 @@
         <mark key="^" line="197" column="45" />
         <mark key="." line="197" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1456767314341">
+      <file name="/a.dummy" timestamp="1456780397922">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BookService.java" timestamp="1454409639600">
@@ -247,6 +247,12 @@
         <mark key="." line="19" column="60" />
         <mark key="^" line="19" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/BottomSheetDialog.kt" timestamp="1456695968040">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="6" />
+        <mark key="^" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/model/Response.kt" timestamp="1455720971079">
         <mark key="[" line="6" column="19" />
       </file>
@@ -322,6 +328,12 @@
         <mark key="]" line="2" column="25" />
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/util/DeviceUtils.kt" timestamp="1456699917028">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+        <mark key="^" line="10" column="17" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/recyclerview-v7/23.2.0/recyclerview-v7-23.2.0-sources.jar!/android/support/v7/util/SortedList.java" timestamp="1456681530943">
         <mark key="[" line="80" column="38" />
@@ -555,6 +567,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" timestamp="1456780800117">
+        <mark key="'" line="157" column="15" />
+        <mark key="[" line="80" column="36" />
+        <mark key="]" line="80" column="47" />
+        <mark key="." line="80" column="47" />
+        <mark key="^" line="80" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/Presenter.kt" timestamp="1456762019266">
         <mark key="[" line="7" column="0" />
@@ -864,6 +883,13 @@
         <mark key="^" line="23" column="24" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsAdapter.kt" timestamp="1456705284761">
+        <mark key="'" line="56" column="31" />
+        <mark key="[" line="73" column="36" />
+        <mark key="]" line="73" column="36" />
+        <mark key="." line="73" column="36" />
+        <mark key="^" line="71" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/SettingsService.java" timestamp="1455197039968">
         <mark key="[" line="181" column="58" />
         <mark key="]" line="182" column="23" />
@@ -1004,6 +1030,12 @@
         <mark key="^" line="19" column="70" />
         <mark key="." line="19" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/view_fave.xml" timestamp="1456780984526">
+        <mark key="[" line="19" column="38" />
+        <mark key="]" line="19" column="48" />
+        <mark key="." line="19" column="48" />
+        <mark key="^" line="19" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/AspectLayout.kt" timestamp="1456623068898">
         <mark key="[" line="31" column="92" />
         <mark key="]" line="32" column="3" />
@@ -1085,6 +1117,7 @@
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/drawable/icon_drawer.xml" timestamp="1456406388107">
         <mark key="[" line="5" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotsPresenter.kt" timestamp="1456780651975" />
       <file name="$USER_HOME$/Documents/GitHub/AwesomeProject/android/app/src/main/java/com/awesomeproject/MainActivity.java" timestamp="1454450871419">
         <mark key="[" line="9" column="49" />
         <mark key="]" line="9" column="48" />
@@ -1344,6 +1377,13 @@
         <mark key="^" line="25" column="28" />
         <mark key="." line="25" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/java/com/imallan/crossover/view/FaveView.java" timestamp="1456705193617">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="139" column="37" />
+        <mark key="]" line="139" column="37" />
+        <mark key="." line="139" column="37" />
+        <mark key="^" line="139" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values/strings.xml" timestamp="1456329728417">
         <mark key="[" line="812" column="49" />
         <mark key="]" line="812" column="55" />
@@ -1431,6 +1471,13 @@
         <mark key="]" line="9" column="43" />
         <mark key="^" line="9" column="43" />
         <mark key="." line="9" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/FilterSheetDialog.kt" timestamp="1456702983042">
+        <mark key="'" line="61" column="40" />
+        <mark key="[" line="78" column="53" />
+        <mark key="]" line="79" column="19" />
+        <mark key="." line="79" column="19" />
+        <mark key="^" line="79" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/debug/res/values/strings.xml" timestamp="1456750533675">
         <mark key="[" line="6" column="56" />
@@ -1758,7 +1805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/FilterSheetDialog.kt" />
       <jump line="39" column="43" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/FilterSheetDialog.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/FilterSheetDialog.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/dialog_bottom_sheet_filter_shots.xml" />
@@ -1858,13 +1904,14 @@
       <jump line="80" column="15" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
       <jump line="90" column="10" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
       <jump line="61" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/build.gradle" />
+      <jump line="153" column="15" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gson</text>
+        <text>ic_heart_outline</text>
       </register>
       <register name="-" type="4">
-        <text>gson</text>
+        <text>ic_heart_outline</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1873,31 +1920,31 @@
         <text>STATE_FILTER</text>
       </register>
       <register name="1" type="4">
-        <text>gson</text>
+        <text>ic_heart_outline</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGdzb24gPSBHc29uQnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgLnNldEV4Y2x1c2lvblN0cmF0ZWdpZXMob2JqZWN0IDogRXhjbHVzaW9uU3RyYXRlZ3kgewogICAgICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gc2hvdWxkU2tpcEZpZWxkKGY6IEZpZWxkQXR0cmlidXRlcyk6IEJvb2xlYW4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGYuZGVjbGFyaW5nQ2xhc3MuZXF1YWxzKFJlYWxtT2JqZWN0OjpjbGFzcy5qYXZhKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIHNob3VsZFNraXBDbGFzcyhjbGF6ejogQ2xhc3M8Kj4pOiBCb29sZWFuIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pLmNyZWF0ZSgpOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtRmFiRmlsdGVyLnBvc3QgeyBtRmFiRmlsdGVyLnNob3coKSB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4dC5yZWFsbV92ZXJzaW9uID0gJzAuODcuNScK</text>
+        <text encoding="base64">ICAgICAgICBtUHJlc2VudGVyPy5maWx0ZXIgPSBtRmlsdGVyLmZpbHRlck5hbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgago=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgImlvLnJlYWxtOnJlYWxtLWFuZHJvaWQ6JHJlYWxtX3ZlcnNpb24iCiAgICBjb21waWxlICJpby5yZWFsbTpyZWFsbS1hbm5vdGF0aW9uczokcmVhbG1fdmVyc2lvbiIKICAgIGthcHQgImlvLnJlYWxtOnJlYWxtLWFubm90YXRpb25zLXByb2Nlc3NvcjokcmVhbG1fdmVyc2lvbiIK</text>
+      <register name="6" type="4">
+        <text>gson</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL2l0J3MgYSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICByZWxvYWRTaG90cygpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGdzb24gPSBHc29uQnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgLnNldEV4Y2x1c2lvblN0cmF0ZWdpZXMob2JqZWN0IDogRXhjbHVzaW9uU3RyYXRlZ3kgewogICAgICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gc2hvdWxkU2tpcEZpZWxkKGY6IEZpZWxkQXR0cmlidXRlcyk6IEJvb2xlYW4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGYuZGVjbGFyaW5nQ2xhc3MuZXF1YWxzKFJlYWxtT2JqZWN0OjpjbGFzcy5qYXZhKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIHNob3VsZFNraXBDbGFzcyhjbGF6ejogQ2xhc3M8Kj4pOiBCb29sZWFuIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pLmNyZWF0ZSgpOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4dC5yZWFsbV92ZXJzaW9uID0gJzAuODcuNScK</text>
       </register>
     </registers>
     <search>
