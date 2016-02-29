@@ -20,6 +20,7 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="IntroduceLambdaParameter" />
+  <action id="MaterialDesignIconGenerateAction" />
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
