@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1456848561174">
+      <file name="/a.dummy" timestamp="1456850217175">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -134,11 +134,12 @@
         <mark key="^" line="19" column="60" />
         <mark key="." line="19" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/behavior/ScrollingFabBehavior.kt" timestamp="1456849970419">
-        <mark key="[" line="38" column="33" />
-        <mark key="]" line="38" column="33" />
-        <mark key="." line="38" column="33" />
-        <mark key="^" line="38" column="33" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/behavior/ScrollingFabBehavior.kt" timestamp="1456850665481">
+        <mark key="'" line="20" column="69" />
+        <mark key="[" line="16" column="69" />
+        <mark key="]" line="16" column="68" />
+        <mark key="." line="16" column="68" />
+        <mark key="^" line="16" column="68" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/kotlin/com/imallan/kotlinplayground/extensions/Completions.kt" timestamp="1456242770877">
         <mark key="[" line="3" column="34" />
@@ -1811,7 +1812,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="33" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsAdapter.kt" />
       <jump line="61" column="40" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/FilterSheetDialog.kt" />
       <jump line="129" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/MainActivity.kt" />
       <jump line="49" column="29" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/MainActivity.kt" />
@@ -1911,6 +1911,7 @@
       <jump line="94" column="3" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="53" column="24" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_main_drawer.xml" />
       <jump line="66" column="83" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_main_drawer.xml" />
+      <jump line="20" column="69" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/behavior/ScrollingFabBehavior.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
