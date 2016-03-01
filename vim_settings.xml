@@ -614,6 +614,12 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="17" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/extension/TextExtensions.kt" timestamp="1456870534205">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+        <mark key="^" line="13" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/OnClick.java" timestamp="1456419807940">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="3" />
@@ -1201,6 +1207,12 @@
         <mark key="]" line="5" column="51" />
         <mark key="^" line="5" column="51" />
         <mark key="." line="5" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/CommentsActivity.kt" timestamp="1456870538631">
+        <mark key="[" line="100" column="69" />
+        <mark key="]" line="100" column="68" />
+        <mark key="^" line="100" column="68" />
+        <mark key="." line="100" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/values/styles.xml" timestamp="1456757874260">
         <mark key="[" line="3" column="73" />
@@ -1866,7 +1878,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/FaveView/app/src/main/java/com/imallan/faveview/FaveView.java" />
       <jump line="29" column="9" filename="$USER_HOME$/Documents/GitHub/FaveView/app/src/main/java/com/imallan/faveview/FaveView.java" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsAdapter.kt" />
       <jump line="55" column="39" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/java/com/imallan/crossover/view/CircleView.java" />
@@ -1966,46 +1977,47 @@
       <jump line="115" column="59" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/animator/rotation_close_path_morph.xml" />
       <jump line="7" column="269" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/drawable/ic_dot.xml" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/item_view_comment.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRHaWZUcmFuc2l0aW9uTGlzdGVuZXIoc2hvdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6ZGVzaWduOjIzLjIuMCcK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRHaWZUcmFuc2l0aW9uTGlzdGVuZXIoc2hvdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRQb3N0cG9uZWRFbnRlclRyYW5zaXRpb24oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRHaWZUcmFuc2l0aW9uTGlzdGVuZXIoc2hvdCkK</text>
+        <text encoding="base64">PEZyYW1lTGF5b3V0IAogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ij4K</text>
       </register>
-      <register name="4" type="4">
-        <text>)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgogICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>getDarkMutedColor</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>Color.BLACK</text>
+        <text encoding="base64">CiAgICA8VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvY29sb3JDYXJkQmFja2dyb3VuZCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgLz4KICAgIAo8L0ZyYW1lTGF5b3V0Pg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtVG9vbGJhci5uYXZpZ2F0aW9uSWNvbj8uc2V0VGludCggKQo=</text>
+        <text encoding="base64">PC9GcmFtZUxheW91dD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6cGFsZXR0ZS12NzoyMy4yLjAnCg==</text>
+        <text encoding="base64">eG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogICAgeG1sbnM6YXBwPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCiAgICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>:</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
