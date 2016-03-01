@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1456841588861">
+      <file name="/a.dummy" timestamp="1456845769435">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -612,12 +612,12 @@
         <mark key="^" line="122" column="91" />
         <mark key="." line="122" column="91" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1456845714123">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1456846264841">
         <mark key="'" line="94" column="3" />
-        <mark key="[" line="214" column="40" />
-        <mark key="]" line="214" column="48" />
-        <mark key="^" line="214" column="48" />
-        <mark key="." line="214" column="48" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="215" column="0" />
+        <mark key="^" line="95" column="65" />
+        <mark key="." line="215" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/TopicAdapter.kt" timestamp="1455720596993">
         <mark key="'" line="53" column="33" />
@@ -1901,8 +1901,8 @@
       <jump line="94" column="3" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GONE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aW5kb3cuc3RhdHVzQmFyQ29sb3IgPSBDb2xvci5UUkFOU1BBUkVOVAo=</text>
       </register>
       <register name="-" type="4">
         <text>GONE</text>
@@ -1913,32 +1913,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aW5kb3cuZW50ZXJUcmFuc2l0aW9uID0gc2xpZGUK</text>
       </register>
-      <register name="1" type="4">
-        <text>GONE</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB3aW5kb3cuc3RhdHVzQmFyQ29sb3IgPSBDb2xvci5UUkFOU1BBUkVOVAo=</text>
       </register>
       <register name="2" type="4">
+        <text>GONE</text>
+      </register>
+      <register name="3" type="4">
         <text>fade</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Ly8gICAgICAgIHNldC5hZGRUcmFuc2l0aW9uKGZhZGUpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Ly8gICAgICAgIHNldC5hZGRUcmFuc2l0aW9uKHNsaWRlKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgIGZhZGUuYWRkVGFyZ2V0KG1Ub29sYmFyKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgICAgIHZhbCBzZXQgPSBUcmFuc2l0aW9uU2V0KCkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgZmFkZSA9IEZhZGUoKQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>set</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzbGlkZS5hZGRUYXJnZXQoKQo=</text>
       </register>
     </registers>
     <search>
