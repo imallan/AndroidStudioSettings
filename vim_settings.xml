@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1456837592185">
+      <file name="/a.dummy" timestamp="1456841580001">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -875,6 +875,9 @@
         <mark key="^" line="86" column="78" />
         <mark key="." line="86" column="67" />
       </file>
+      <file name="/Dummy.txt" timestamp="1456841579994">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="7" column="62" />
@@ -1605,12 +1608,11 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ImageActivity.kt" timestamp="1456837551929">
-        <mark key="'" line="45" column="17" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="88" column="71" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ImageActivity.kt" timestamp="1456841496335">
+        <mark key="'" line="22" column="17" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/drawable/icon_flight.xml" timestamp="1456406982381">
         <mark key="[" line="9" column="0" />
@@ -1890,43 +1892,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc1JldHVybkRyYWdnaW5nID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1JbWFnZVZpZXcuZHJhd2FibGUgaXMgR2lmRHJhd2FibGUpIHsKICAgICAgICAgICAgICAgIChtSW1hZ2VWaWV3LmRyYXdhYmxlIGFzIEdpZkRyYXdhYmxlKS5mcmFtZQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, null, null, null</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc1JldHVybkRyYWdnaW5nID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc1JldHVybkRyYWdnaW5nID0gdHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc1JldHVybkRyYWdnaW5nID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1JbWFnZVZpZXcuZHJhd2FibGUgaXMgR2lmRHJhd2FibGUpIHsKICAgICAgICAgICAgICAgIChtSW1hZ2VWaWV3LmRyYXdhYmxlIGFzIEdpZkRyYXdhYmxlKS5mcmFtZQogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>action</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkJhY2tQcmVzc2VkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW90aW9uRXZlbnQuCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>, null, null, null</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTW90aW9uRXZlbnQuCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>emptyArray()</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">QXJyYXk8UGFpcjxWaWV3LCBTdHJpbmc+Pigp</text>
+        <text>true</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>displayRect</text>
       </register>
-      <register name="9" type="4">
-        <text>0</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc1JldHVybkRyYWdnaW5nID0gZmFsc2UK</text>
       </register>
     </registers>
     <search>
