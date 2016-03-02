@@ -1028,12 +1028,12 @@
         <mark key="^" line="157" column="62" />
         <mark key="." line="157" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1456876985214">
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1456880492126">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="107" column="55" />
-        <mark key="]" line="108" column="33" />
-        <mark key="." line="108" column="33" />
-        <mark key="^" line="108" column="33" />
+        <mark key="[" line="108" column="34" />
+        <mark key="]" line="108" column="36" />
+        <mark key="." line="108" column="36" />
+        <mark key="^" line="108" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/AppIndexingUtils.java" timestamp="1453890372165">
         <mark key="[" line="20" column="27" />
@@ -2035,10 +2035,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RecyclerView</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>RecyclerView</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2047,31 +2047,31 @@
         <text encoding="base64">ICAgICAgICBpbml0KCkK</text>
       </register>
       <register name="1" type="4">
-        <text>RecyclerView</text>
+        <text>2</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dkKGNvbW1lbnQ/LmJvZHkgPzogIkVNUFRZIENPTU1FTlQiKQo=</text>
+      <register name="2" type="4">
+        <text>7</text>
       </register>
       <register name="3" type="4">
-        <text>STATE_EXPANDED</text>
+        <text>4</text>
       </register>
       <register name="4" type="4">
-        <text>background</text>
+        <text>COLLAPSED</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
+      <register name="5" type="4">
+        <text>EXPANDED</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tZW50c0FjdGl2aXR5LnN0YXJ0QWN0aXZpdHkodGhpcywgbVNob3RJZCkK</text>
+      <register name="6" type="4">
+        <text>getDeviceHeight(this) / 3</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYmVoYXZpb3IgPSBCb3R0b21TaGVldEJlaGF2aW9yLmZyb20obUNvbW1lbnRzVmlldykKICAgICAgICBiZWhhdmlvci5zdGF0ZSA9IEJvdHRvbVNoZWV0QmVoYXZpb3IuU1RBVEVfRVhQQU5ERUQK</text>
+      <register name="7" type="4">
+        <text>STATE_COLLAPSED</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tZW50c0FjdGl2aXR5LnN0YXJ0QWN0aXZpdHkodGhpcywgbVNob3RJZCkK</text>
+      <register name="8" type="4">
+        <text>behavior</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYmVoYXZpb3IgPSBCb3R0b21TaGVldEJlaGF2aW9yLmZyb20obUNvbW1lbnRzVmlldykKICAgICAgICBiZWhhdmlvci5zdGF0ZSA9IEJvdHRvbVNoZWV0QmVoYXZpb3IuU1RBVEVfRVhQQU5ERUQK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYmVoYXZpb3IgPSBCb3R0b21TaGVldEJlaGF2aW9yLmZyb20obUNvbW1lbnRzVmlldykK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
