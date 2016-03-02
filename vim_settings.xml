@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1456921474714">
+      <file name="/a.dummy" timestamp="1456922130455">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -729,12 +729,12 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/content_shot.xml" timestamp="1456920084615">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/content_shot.xml" timestamp="1456922762211">
         <mark key="'" line="192" column="0" />
-        <mark key="[" line="5" column="40" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="6" column="31" />
-        <mark key="^" line="6" column="31" />
+        <mark key="[" line="182" column="47" />
+        <mark key="]" line="183" column="33" />
+        <mark key="." line="183" column="33" />
+        <mark key="^" line="183" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/Presenter.kt" timestamp="1456762019266">
         <mark key="[" line="7" column="0" />
@@ -1398,12 +1398,12 @@
         <mark key="^" line="280" column="43" />
         <mark key="." line="280" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/item_view_comment.xml" timestamp="1456918036619">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/item_view_comment.xml" timestamp="1456922745388">
         <mark key="'" line="49" column="45" />
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="34" />
-        <mark key="." line="10" column="34" />
-        <mark key="^" line="10" column="34" />
+        <mark key="[" line="55" column="52" />
+        <mark key="]" line="56" column="37" />
+        <mark key="." line="56" column="37" />
+        <mark key="^" line="56" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/AndroidManifest.xml" timestamp="1456242687345">
         <mark key="[" line="19" column="32" />
