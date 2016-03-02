@@ -642,12 +642,12 @@
         <mark key="^" line="122" column="91" />
         <mark key="." line="122" column="91" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1456855175657">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1456913312957">
         <mark key="'" line="176" column="0" />
-        <mark key="[" line="214" column="39" />
-        <mark key="]" line="214" column="51" />
-        <mark key="^" line="214" column="51" />
-        <mark key="." line="214" column="51" />
+        <mark key="[" line="108" column="31" />
+        <mark key="]" line="108" column="35" />
+        <mark key="^" line="108" column="35" />
+        <mark key="." line="108" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/TopicAdapter.kt" timestamp="1455720596993">
         <mark key="'" line="53" column="33" />
@@ -1083,13 +1083,6 @@
         <mark key="^" line="55" column="47" />
         <mark key="." line="55" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/CommentsActivity.kt" timestamp="1456855822086">
-        <mark key="'" line="99" column="38" />
-        <mark key="[" line="111" column="78" />
-        <mark key="]" line="111" column="82" />
-        <mark key="." line="111" column="82" />
-        <mark key="^" line="111" column="82" />
-      </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Test.java" timestamp="1455626055206">
         <mark key="[" line="17" column="39" />
         <mark key="]" line="17" column="42" />
@@ -1290,8 +1283,8 @@
         <mark key="^" line="12" column="77" />
         <mark key="." line="12" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" timestamp="1456767540519">
-        <mark key="'" line="99" column="10" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" timestamp="1456913126892">
+        <mark key="'" line="150" column="17" />
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
@@ -1863,7 +1856,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_community_filter.xml" />
       <jump line="6" column="40" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_community_filter.xml" />
       <jump line="60" column="44" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_community_filter.xml" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
@@ -1963,13 +1955,14 @@
       <jump line="176" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="99" column="38" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/CommentsActivity.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ImageRecyclerAdapter.java" />
+      <jump line="150" column="17" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1978,31 +1971,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0U3RhcnREZWxheSgoMTAwICogTWF0aC5yYW5kb20oKSkudG9Mb25nKCkpCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICogNTBs</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>.toLong()</text>
+        <text encoding="base64">ICogNTBs</text>
       </register>
       <register name="4" type="4">
-        <text>* Math.random()</text>
+        <text>.toLong()</text>
       </register>
       <register name="5" type="4">
+        <text>* Math.random()</text>
+      </register>
+      <register name="6" type="4">
         <text>100</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0U3RhcnREZWxheSgoMTAwICogTWF0aC5yYW5kb20oKSkudG9Mb25nKCkpCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>l</text>
       </register>
-      <register name="8" type="4">
-        <text>)</text>
-      </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
