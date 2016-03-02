@@ -697,11 +697,12 @@
         <mark key="^" line="122" column="91" />
         <mark key="." line="122" column="91" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1456919971125">
-        <mark key="'" line="263" column="0" />
-        <mark key="[" line="249" column="0" />
-        <mark key="]" line="249" column="0" />
-        <mark key="." line="249" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1456927476688">
+        <mark key="'" line="264" column="0" />
+        <mark key="[" line="247" column="26" />
+        <mark key="]" line="247" column="48" />
+        <mark key="." line="247" column="48" />
+        <mark key="^" line="247" column="48" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/TopicAdapter.kt" timestamp="1455720596993">
         <mark key="'" line="53" column="33" />
@@ -1106,6 +1107,12 @@
         <mark key="]" line="10" column="55" />
         <mark key="^" line="10" column="55" />
         <mark key="." line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/ShotCommentsView.kt" timestamp="1456926972584">
+        <mark key="[" line="72" column="31" />
+        <mark key="]" line="73" column="29" />
+        <mark key="." line="73" column="29" />
+        <mark key="^" line="73" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Fave/app/src/main/res/layout/activity_main.xml" timestamp="1456250206618">
         <mark key="[" line="16" column="47" />
@@ -2168,10 +2175,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>56f - 28f</text>
+        <text>scrollToPosition</text>
       </register>
       <register name="-" type="4">
-        <text>56f - 28f</text>
+        <text>scrollToPosition</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2180,31 +2187,35 @@
         <text encoding="base64">ICAgICAgICBtU3dpcGVSZWZyZXNoLnNldERpc3RhbmNlVG9UcmlnZ2VyU3luYyhkcCg2NGYgKyA1NmYpLnRvSW50KCkpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>56f - 28f</text>
+        <text>scrollToPosition</text>
       </register>
-      <register name="2" type="4">
-        <text>4</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbUNvbW1lbnRzVmlldy5zY3JvbGxUb1Bvc2l0aW9uKDApCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>2</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>56f - 28f</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>4</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="4">
-        <text>6</text>
+        <text>object : RecyclerPaginationListener() {
+            override fun onLoadMore(currentPage: Int) {
+                mPresenter?.getComments(mShotId, currentPage)
+            }
+        }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtU3dpcGVSZWZyZXNoLnNldERpc3RhbmNlVG9UcmlnZ2VyU3luYyhkcCg2NGYgKyA1NmYpLnRvSW50KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBtCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICsgNTZm</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtU3dpcGVSZWZyZXNoLnNldERpc3RhbmNlVG9UcmlnZ2VyU3luYyhkcCg2NGYgKyA1NmYpLnRvSW50KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBtUHJlc2VudGVyPy5nZXRDb21tZW50cyhtU2hvdElkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
