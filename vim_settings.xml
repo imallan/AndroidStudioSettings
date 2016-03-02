@@ -280,6 +280,7 @@
         <mark key="." line="183" column="33" />
         <mark key="^" line="183" column="33" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/os/AsyncTask.java" timestamp="1456933326528" />
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/activity_comments.xml" timestamp="1456929504927">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="6" column="41" />
@@ -292,6 +293,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="^" line="37" column="7" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostBlockActivity.java" timestamp="1456933510071">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_community_filter.xml" timestamp="1456747981049">
         <mark key="'" line="52" column="44" />
@@ -824,7 +830,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0U3RhcnREZWxheShpZiAocG9zaXRpb24gPiAxMCkgMCBlbHNlIDEwICogcG9zaXRpb24udG9Mb25nKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBFeGVjdXRvcnMuCg==</text>
       </register>
       <register name="-" type="4">
         <text>f</text>
@@ -836,31 +842,31 @@
         <text encoding="base64">ICAgICAgICBtQmVoYXZpb3I/LnN0YXRlID0gQm90dG9tU2hlZXRCZWhhdmlvci5TVEFURV9FWFBBTkRFRAo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBFeGVjdXRvcnMuCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0U3RhcnREZWxheShpZiAocG9zaXRpb24gPiAxMCkgMCBlbHNlIDEwICogcG9zaXRpb24udG9Mb25nKCkpCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>f</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>startDelay</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>30 //do not animate first page</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IC8vZG8gbm90IGFuaW1hdGUgZmlyc3QgcGFnZQ==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>0</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>3</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>showComments</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
