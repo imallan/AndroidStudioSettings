@@ -392,6 +392,11 @@
         <mark key="^" line="13" column="70" />
         <mark key="." line="13" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/Constants.kt" timestamp="1456915816080">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Topic.kt" timestamp="1455711068970">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="30" column="5" />
@@ -458,12 +463,12 @@
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/TestActivity.kt" timestamp="1455791914221">
         <mark key="[" line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1456852325215">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1456915830389">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="40" column="4" />
-        <mark key="^" line="40" column="4" />
-        <mark key="." line="40" column="4" />
+        <mark key="[" line="31" column="49" />
+        <mark key="]" line="31" column="57" />
+        <mark key="." line="31" column="57" />
+        <mark key="^" line="31" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/AndroidManifest.xml" timestamp="1455720657856">
         <mark key="[" line="4" column="65" />
@@ -848,10 +853,11 @@
         <mark key="." line="55" column="56" />
         <mark key="^" line="55" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/api/API.kt" timestamp="1456852714187">
-        <mark key="[" line="30" column="66" />
-        <mark key="]" line="30" column="66" />
-        <mark key="." line="30" column="66" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/api/API.kt" timestamp="1456915811308">
+        <mark key="[" line="24" column="43" />
+        <mark key="]" line="25" column="39" />
+        <mark key="." line="25" column="39" />
+        <mark key="^" line="25" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MainActivity.java" timestamp="1453309955960">
         <mark key="[" line="46" column="84" />
@@ -913,6 +919,12 @@
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/gradle.properties" timestamp="1456915783622">
+        <mark key="[" line="1" column="75" />
+        <mark key="]" line="1" column="75" />
+        <mark key="^" line="1" column="75" />
+        <mark key="." line="1" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProductActivity.java" timestamp="1455191014866">
         <mark key="[" line="84" column="0" />
@@ -1178,6 +1190,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="13" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/gradle.properties" timestamp="1456914470723">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/ui/ContentView.java" timestamp="1453756108683">
         <mark key="[" line="6" column="28" />
@@ -1675,11 +1690,12 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ImageActivity.kt" timestamp="1456841496335">
-        <mark key="'" line="22" column="17" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ImageActivity.kt" timestamp="1456913983279">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="111" column="55" />
+        <mark key="]" line="111" column="56" />
+        <mark key="." line="111" column="56" />
+        <mark key="^" line="111" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/drawable/icon_flight.xml" timestamp="1456406982381">
         <mark key="[" line="9" column="0" />
@@ -1699,8 +1715,10 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1456826192565">
-        <mark key="'" line="122" column="41" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1456915577825">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/extension/LogExtension.kt" timestamp="1456097612463">
         <mark key="[" line="10" column="13" />
@@ -1856,9 +1874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="40" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_community_filter.xml" />
-      <jump line="60" column="44" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_community_filter.xml" />
-      <jump line="33" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="75" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="98" column="20" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImagePinchZoomActivity.java" />
       <jump line="73" column="65" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SearchProductsFiltersActivity.java" />
@@ -1956,46 +1971,49 @@
       <jump line="99" column="38" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/CommentsActivity.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ImageRecyclerAdapter.java" />
       <jump line="150" column="17" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
+      <jump line="111" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ImageActivity.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/gradle.properties" />
+      <jump line="146" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>ACCESS_TOKEN</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>ACCESS_TOKEN</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0U3RhcnREZWxheSgoMTAwICogTWF0aC5yYW5kb20oKSkudG9Mb25nKCkpCg==</text>
+      <register name="0" type="4">
+        <text>79b695cc3fc69b8b3e4922be7623adb8720657b59c396e7fe7d038328db4992c</text>
       </register>
       <register name="1" type="4">
-        <text>true</text>
+        <text>ACCESS_TOKEN</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiU3RyaW5nIiwgIkRSSUJCQkxFX0FDQ0VTU19UT0tFTiIsIENMSUVOVF9JRAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICogNTBs</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>.toLong()</text>
+      <register name="4" type="2">
+        <text encoding="base64">dmFsIENMSUVOVF9BQ0NFU1NfVE9LRU46IFN0cmluZyA9ICI5MmNlYmY3NjFmNDI4OWY0MzdhMWRlNWNkNmEzYTgwZjJhMzMzODc4ZDFhNDU1OTg4ZGNhNWZjODBkNDdlOGM2Igp2YWwgQ0xJRU5UX0lEOiBTdHJpbmcgPSAiNzliNjk1Y2MzZmM2OWI4YjNlNDkyMmJlNzYyM2FkYjg3MjA2NTdiNTljMzk2ZTdmZTdkMDM4MzI4ZGI0OTkyYyIK</text>
       </register>
       <register name="5" type="4">
-        <text>* Math.random()</text>
+        <text>CLIENT_ACCESS_TOKEN</text>
       </register>
-      <register name="6" type="4">
-        <text>100</text>
+      <register name="6" type="2">
+        <text encoding="base64">dmFsIENMSUVOVF9BQ0NFU1NfVE9LRU46IFN0cmluZyA9ICI5MmNlYmY3NjFmNDI4OWY0MzdhMWRlNWNkNmEzYTgwZjJhMzMzODc4ZDFhNDU1OTg4ZGNhNWZjODBkNDdlOGM2Igp2YWwgQ0xJRU5UX0lEOiBTdHJpbmcgPSAiNzliNjk1Y2MzZmM2OWI4YjNlNDkyMmJlNzYyM2FkYjg3MjA2NTdiNTljMzk2ZTdmZTdkMDM4MzI4ZGI0OTkyYyIK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0U3RhcnREZWxheSgoMTAwICogTWF0aC5yYW5kb20oKSkudG9Mb25nKCkpCg==</text>
+      <register name="7" type="4">
+        <text>ACCESS_TOKEN</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>(</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>&quot;ADSASDAD&quot;</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
