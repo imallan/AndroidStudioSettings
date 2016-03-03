@@ -121,9 +121,9 @@
         <mark key="^" line="11" column="46" />
         <mark key="." line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Toothpick/sample/build.gradle" timestamp="1457011724380">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="33" />
+      <file name="$USER_HOME$/Documents/GitHub/Toothpick/sample/build.gradle" timestamp="1457015363759">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="32" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/MainDrawerActivityPagerAdapter.java" timestamp="1456849175591">
         <mark key="[" line="27" column="43" />
@@ -818,11 +818,11 @@
         <mark key="^" line="4" column="76" />
         <mark key="." line="4" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Toothpick/toothpick-compiler/build.gradle" timestamp="1457012138505">
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="4" column="38" />
-        <mark key="." line="4" column="38" />
-        <mark key="^" line="4" column="38" />
+      <file name="$USER_HOME$/Documents/GitHub/Toothpick/toothpick-compiler/build.gradle" timestamp="1457015543557">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/res/layout/activity_aidl.xml" timestamp="1454279504680">
         <mark key="[" line="17" column="22" />
@@ -1350,10 +1350,10 @@
         <mark key="." line="57" column="61" />
         <mark key="^" line="57" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Toothpick/toothpick-compiler/src/main/java/com/imallan/toothpick/compiler/MyProcessor.java" timestamp="1457014488957">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/Toothpick/toothpick-compiler/src/main/java/com/imallan/toothpick/compiler/MyProcessor.java" timestamp="1457015713017">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/fabric.properties" timestamp="1453755776597">
         <mark key="[" line="0" column="44" />
@@ -2079,13 +2079,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
-      <jump line="32" column="34" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
-      <jump line="33" column="23" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
-      <jump line="10" column="23" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
-      <jump line="76" column="29" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
-      <jump line="193" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
-      <jump line="190" column="41" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
       <jump line="68" column="9" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="61" column="8" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
       <jump line="132" column="30" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
@@ -2179,46 +2172,53 @@
       <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/activity_main.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/Toothpick/toothpick/build.gradle" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/Toothpick/toothpick/build.gradle" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/GitHub/Toothpick/sample/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/Toothpick/sample/build.gradle" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/GitHub/Toothpick/sample/build.gradle" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/GitHub/Toothpick/sample/build.gradle" />
+      <jump line="7" column="73" filename="$USER_HOME$/Documents/GitHub/Toothpick/sample/build.gradle" />
+      <jump line="44" column="36" filename="$USER_HOME$/Documents/GitHub/Toothpick/sample/build.gradle" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/Toothpick/sample/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QEF1dG9TZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICBzaW5nbGV0b24K</text>
       </register>
       <register name="-" type="4">
-        <text>super.getSupportedSourceVersion();</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnRvb3RocGljaycpCg==</text>
+        <text encoding="base64">Ly9ub2luc3BlY3Rpb24gR3Jvb3Z5VW51c2VkQXNzaWdubWVudAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEF1dG9TZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICBzaW5nbGV0b24K</text>
       </register>
-      <register name="2" type="4">
-        <text>super.getSupportedSourceVersion();</text>
-      </register>
-      <register name="3" type="4">
-        <text>supportedAnnotationTypes</text>
-      </register>
-      <register name="4" type="4">
-        <text>OnClick</text>
-      </register>
-      <register name="5" type="4">
-        <text>OnClick</text>
-      </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgIGNsYXNzIE9uQ2xpY2sodmFyYXJnIHZhbCB2YWx1ZTogSW50KQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gcHJvY2VzcyhTZXQ8PyBleHRlbmRzIFR5cGVFbGVtZW50PiBhbm5vdGF0aW9ucywgUm91bmRFbnZpcm9ubWVudCByb3VuZEVudikgewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGRlZmF1bHQgeyBWaWV3Lk5PX0lEIH07</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsYXRlc3QK</text>
+      </register>
+      <register name="5" type="4">
+        <text>.</text>
+      </register>
+      <register name="6" type="4">
+        <text>SourceVersion</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgZXh0LmtvdGxpbl92ZXJzaW9uID0gJzEuMC4wJwogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgfQogICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICBjbGFzc3BhdGggIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1ncmFkbGUtcGx1Z2luOiRrb3RsaW5fdmVyc2lvbiIKICAgIH0KfQpyZXBvc2l0b3JpZXMgewogICAgbWF2ZW5DZW50cmFsKCkKfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjbGFzc3RoICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tZ3JhZGxlLXBsdWdpbjowLjEtU05BUFNIT1QiCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">QElkUmVzIA==</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>vsp</text>
