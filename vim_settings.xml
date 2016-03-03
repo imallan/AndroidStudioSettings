@@ -1913,6 +1913,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Toothpick/toothpick-annotations/src/main/java/com/imallan/toothpick/annotations/OnClick.java" timestamp="1457016338329">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="14" column="10" />
+        <mark key="." line="14" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AwesomeProject/MyServiceExample/app/src/main/java/com/imallan/myserviceexample/MainActivity.java" timestamp="1454968339254">
         <mark key="[" line="12" column="62" />
         <mark key="]" line="13" column="16" />
@@ -2181,11 +2187,11 @@
       <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/Toothpick/sample/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzaW5nbGV0b24K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QElkUmVzIA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">QElkUmVzIA==</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2193,32 +2199,32 @@
       <register name="0" type="2">
         <text encoding="base64">Ly9ub2luc3BlY3Rpb24gR3Jvb3Z5VW51c2VkQXNzaWdubWVudAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaW5nbGV0b24K</text>
+      <register name="1" type="4">
+        <text encoding="base64">QElkUmVzIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaW5nbGV0b24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gcHJvY2VzcyhTZXQ8PyBleHRlbmRzIFR5cGVFbGVtZW50PiBhbm5vdGF0aW9ucywgUm91bmRFbnZpcm9ubWVudCByb3VuZEVudikgewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gcHJvY2VzcyhTZXQ8PyBleHRlbmRzIFR5cGVFbGVtZW50PiBhbm5vdGF0aW9ucywgUm91bmRFbnZpcm9ubWVudCByb3VuZEVudikgewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBsYXRlc3QK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>.</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>SourceVersion</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgZXh0LmtvdGxpbl92ZXJzaW9uID0gJzEuMC4wJwogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgfQogICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICBjbGFzc3BhdGggIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1ncmFkbGUtcGx1Z2luOiRrb3RsaW5fdmVyc2lvbiIKICAgIH0KfQpyZXBvc2l0b3JpZXMgewogICAgbWF2ZW5DZW50cmFsKCkKfQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzc3RoICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tZ3JhZGxlLXBsdWdpbjowLjEtU05BUFNIT1QiCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text />
       </register>
       <register name=":" type="4">
         <text>vsp</text>
