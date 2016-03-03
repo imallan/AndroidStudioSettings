@@ -1092,11 +1092,11 @@
         <mark key="^" line="10" column="55" />
         <mark key="." line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/ShotCommentsView.kt" timestamp="1457004923113">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/ShotCommentsView.kt" timestamp="1457005208269">
         <mark key="'" line="73" column="8" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+        <mark key="[" line="83" column="5" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/kotlin/com/imallan/kotlinplayground/TopicAdapter.kt" timestamp="1456486853868">
         <mark key="'" line="5" column="60" />
@@ -2163,7 +2163,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0TGF5b3V0KCkK</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gc2V0RGF0YShjb21tZW50czogTGlzdDxDb21tZW50PikgewogICAgICAgIG1BZGFwdGVyLmNvbW1lbnRzID0gY29tbWVudHNhZGFwdGVyID0gbUFkYXB0VVVVwrEKICAgICAgICBLCg==</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
@@ -2175,31 +2175,31 @@
         <text encoding="base64">ICAgICAgICAgICAgYWRhcHRlciA9IG1BZGFwdGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0TGF5b3V0KCkK</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gc2V0RGF0YShjb21tZW50czogTGlzdDxDb21tZW50PikgewogICAgICAgIG1BZGFwdGVyLmNvbW1lbnRzID0gY29tbWVudHNhZGFwdGVyID0gbUFkYXB0VVVVwrEKICAgICAgICBLCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdExheW91dCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBtTGlzdGVuZXIuZmluaXNoTG9hZGluZyh0cnVlKQogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9jb2xvckFjY2VudCIK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0TGF5b3V0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUNvbW1lbnRzVmlldy5tUmVjeWNsZXJWaWV3LnNtb290aFNjcm9sbFRvUG9zaXRpb24oMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdExheW91dCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9jb2xvckFjY2VudCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBtUmVjeWNsZXJWaWV3OiBSZWN5Y2xlclZpZXcgYnkgYmluZChSLmlkLnJlY3ljbGVyX2NvbW1lbnRzLCB0aGlzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUNvbW1lbnRzVmlldy5tUmVjeWNsZXJWaWV3LnNtb290aFNjcm9sbFRvUG9zaXRpb24oMCkK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhbCBtUmVjeWNsZXJWaWV3OiBSZWN5Y2xlclZpZXcgYnkgYmluZChSLmlkLnJlY3ljbGVyX2NvbW1lbnRzLCB0aGlzKQo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICBzZXQodmFsdWUpIHsKICAgICAgICAgICAgZmllbGQgPSB2YWx1ZQogICAgICAgIH0=</text>
-      </register>
-      <register name="9" type="4">
-        <text>private</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
