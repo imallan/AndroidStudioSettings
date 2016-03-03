@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1456936554606">
+      <file name="/a.dummy" timestamp="1456999186941">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -134,12 +134,12 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/User.java" timestamp="1456507753008">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/User.java" timestamp="1456999185233">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="318" column="43" />
-        <mark key="]" line="318" column="36" />
-        <mark key="." line="318" column="36" />
-        <mark key="^" line="318" column="36" />
+        <mark key="[" line="317" column="36" />
+        <mark key="]" line="318" column="19" />
+        <mark key="." line="318" column="19" />
+        <mark key="^" line="318" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" timestamp="1456785645680">
         <mark key="'" line="77" column="35" />
@@ -772,7 +772,7 @@
         <mark key="^" line="26" column="53" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostBlockActivity.java" timestamp="1456933510071">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostBlockActivity.java" timestamp="1456999164565">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
@@ -1014,9 +1014,6 @@
         <mark key="]" line="84" column="70" />
         <mark key="^" line="86" column="78" />
         <mark key="." line="86" column="67" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1456939550503">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
@@ -2221,7 +2218,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb3VudHJ5ID0gQ09VTlRSWS5HQjsK</text>
       </register>
       <register name="-" type="4">
         <text>!</text>
@@ -2233,28 +2230,28 @@
         <text encoding="base64">aXQuYW5pbWF0ZWRGcmFjdGlvbiA+IDAuNQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb3VudHJ5ID0gQ09VTlRSWS5HQjsK</text>
       </register>
-      <register name="2" type="4">
-        <text>!</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text>!</text>
+      </register>
+      <register name="4" type="4">
         <text>xor</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">aXQuYW5pbWF0ZWRGcmFjdGlvbiA=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>animatedFraction</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
