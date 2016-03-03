@@ -1350,11 +1350,10 @@
         <mark key="." line="57" column="61" />
         <mark key="^" line="57" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Toothpick/toothpick-compiler/src/main/java/com/imallan/toothpick/compiler/MyProcessor.java" timestamp="1457012187274">
-        <mark key="[" line="33" column="15" />
-        <mark key="]" line="33" column="19" />
-        <mark key="." line="33" column="19" />
-        <mark key="^" line="33" column="19" />
+      <file name="$USER_HOME$/Documents/GitHub/Toothpick/toothpick-compiler/src/main/java/com/imallan/toothpick/compiler/MyProcessor.java" timestamp="1457014488957">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/EffectiveAndroid/app/fabric.properties" timestamp="1453755776597">
         <mark key="[" line="0" column="44" />
@@ -2182,11 +2181,11 @@
       <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/Toothpick/toothpick/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>supportedAnnotationTypes</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QEF1dG9TZXJ2aWNlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>supportedAnnotationTypes</text>
+        <text>super.getSupportedSourceVersion();</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2194,32 +2193,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnRvb3RocGljaycpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>supportedAnnotationTypes</text>
+      <register name="1" type="2">
+        <text encoding="base64">QEF1dG9TZXJ2aWNlCg==</text>
       </register>
       <register name="2" type="4">
-        <text>OnClick</text>
+        <text>super.getSupportedSourceVersion();</text>
       </register>
       <register name="3" type="4">
+        <text>supportedAnnotationTypes</text>
+      </register>
+      <register name="4" type="4">
         <text>OnClick</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="4">
+        <text>OnClick</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgIGNsYXNzIE9uQ2xpY2sodmFyYXJnIHZhbCB2YWx1ZTogSW50KQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGRlZmF1bHQgeyBWaWV3Lk5PX0lEIH07</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">QElkUmVzIA==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC1hbm5vdGF0aW9uczoyMy4yLjAnCg==</text>
-      </register>
       <register name="9" type="4">
-        <text>RUNTIME</text>
+        <text encoding="base64">QElkUmVzIA==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
