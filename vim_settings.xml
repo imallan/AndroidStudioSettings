@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1457011567765">
+      <file name="/a.dummy" timestamp="1457089234043">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -487,12 +487,11 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1457028470896">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1457089341216">
         <mark key="'" line="273" column="0" />
-        <mark key="[" line="241" column="58" />
-        <mark key="]" line="241" column="79" />
-        <mark key="." line="241" column="79" />
-        <mark key="^" line="241" column="79" />
+        <mark key="[" line="296" column="0" />
+        <mark key="]" line="296" column="0" />
+        <mark key="." line="296" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/menu/menu_theme.xml" timestamp="1456759113311">
         <mark key="[" line="8" column="8" />
@@ -811,6 +810,12 @@
         <mark key="]" line="11" column="84" />
         <mark key="^" line="11" column="85" />
         <mark key="." line="11" column="84" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/CommentsActivity.kt" timestamp="1457089227784">
+        <mark key="[" line="57" column="8" />
+        <mark key="]" line="57" column="13" />
+        <mark key="^" line="57" column="13" />
+        <mark key="." line="57" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Test.java" timestamp="1455626055206">
         <mark key="[" line="17" column="39" />
@@ -1664,7 +1669,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5ub3RhdGlvbi5hbm5vdGF0aW9uVHlwZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>value</text>
@@ -1676,31 +1681,31 @@
         <text encoding="base64">Ly9ub2luc3BlY3Rpb24gR3Jvb3Z5VW51c2VkQXNzaWdubWVudAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5ub3RhdGlvbi5hbm5vdGF0aW9uVHlwZSgpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50W10gaWRzID0gYW5ub3RhdGlvbi52YWx1ZSgpOwoK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXN5bmMgewo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5ub3RhdGlvbi5hbm5vdGF0aW9uVHlwZSgpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBpZDsgaSsrKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50W10gaWRzID0gYW5ub3RhdGlvbi52YWx1ZSgpOwoK</text>
       </register>
-      <register name="6" type="4">
-        <text>value</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>id</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5ub3RhdGVkRWxlbWVudC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBpZDsgaSsrKSB7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>onClickAnnotation</text>
+        <text>value</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
