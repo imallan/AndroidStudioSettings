@@ -444,7 +444,7 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" timestamp="1457093346043">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" timestamp="1457097340844">
         <mark key="[" line="1506" column="64" />
         <mark key="]" line="1506" column="68" />
         <mark key="." line="1506" column="68" />
@@ -516,6 +516,12 @@
         <mark key="]" line="6" column="15" />
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/DBHelper.java" timestamp="1457097468492">
+        <mark key="[" line="211" column="49" />
+        <mark key="]" line="211" column="60" />
+        <mark key="^" line="211" column="60" />
+        <mark key="." line="211" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/Presenter.kt" timestamp="1456762019266">
         <mark key="[" line="7" column="0" />
@@ -709,6 +715,9 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Toothpick/toothpick/build.gradle" timestamp="1457011075536">
         <mark key="'" line="28" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1457097443664">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
@@ -1695,43 +1704,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>EPLACE</text>
+        <text>LikeProduct</text>
       </register>
       <register name="-" type="4">
-        <text>EPLACE</text>
+        <text>LikeProduct</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFJlc29sdmVyLmRlbGV0ZShMaXN0c1Byb3ZpZGVyLnVyaUxpc3RzQ29tbWVudHMoKSwgbnVsbCwgbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcUxpdGVEYXRhYmFzZS5leGVjU1FMKCJEUk9QIFRBQkxFIElGIEVYSVNUUyAiICsgVGFibGUuTGlrZVByb2R1Y3QuVEFCTEVfTkFNRSk7CiAgICAgICAgICAgICAgICAgICAgc3FMaXRlRGF0YWJhc2UuZXhlY1NRTChUYWJsZS5MaWtlUHJvZHVjdC5DUkVBVEVfU1FMKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>EPLACE</text>
+        <text>LikeProduct</text>
       </register>
       <register name="2" type="4">
-        <text>PUBLISH_TIME_EPOCH</text>
+        <text>LikeProduct</text>
       </register>
-      <register name="3" type="4">
-        <text>REcPLACE</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcUxpdGVEYXRhYmFzZS5leGVjU1FMKFRhYmxlLkFuYWx5dGljc0V2ZW50LkNSRUFURV9TUUwpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>ASC</text>
+        <text>EPLACE</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFJlc29sdmVyLmRlbGV0ZShQby51cmlMaXN0c0NvbW1lbnRzKCksIG51bGwsIG51bGwpOwo=</text>
+      <register name="5" type="4">
+        <text>PUBLISH_TIME_EPOCH</text>
       </register>
       <register name="6" type="4">
-        <text>ListsProvider</text>
+        <text>REcPLACE</text>
       </register>
       <register name="7" type="4">
-        <text>INSC</text>
+        <text>ASC</text>
       </register>
-      <register name="8" type="4">
-        <text>DESC</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFJlc29sdmVyLmRlbGV0ZShQby51cmlMaXN0c0NvbW1lbnRzKCksIG51bGwsIG51bGwpOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>PUBLIScH_TIME_EPOCH</text>
+        <text>ListsProvider</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
