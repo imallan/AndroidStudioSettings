@@ -273,6 +273,11 @@
         <mark key="^" line="22" column="64" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/PostsService.java" timestamp="1457091888749">
+        <mark key="[" line="302" column="0" />
+        <mark key="]" line="302" column="0" />
+        <mark key="." line="302" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/menu/notifications.xml" timestamp="1453976048907">
         <mark key="[" line="7" column="37" />
         <mark key="]" line="8" column="29" />
@@ -439,6 +444,11 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" timestamp="1457091706069">
+        <mark key="[" line="1503" column="0" />
+        <mark key="]" line="1503" column="0" />
+        <mark key="." line="1503" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/AspectLayout.kt" timestamp="1456623068898">
         <mark key="[" line="31" column="92" />
         <mark key="]" line="32" column="3" />
@@ -552,6 +562,12 @@
         <mark key="]" line="29" column="83" />
         <mark key="^" line="29" column="83" />
         <mark key="." line="29" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/provider/PostsProvider.java" timestamp="1457091752439">
+        <mark key="[" line="126" column="113" />
+        <mark key="]" line="126" column="112" />
+        <mark key="^" line="126" column="112" />
+        <mark key="." line="126" column="112" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/BrandsAdapter.java" timestamp="1454935343428">
         <mark key="[" line="60" column="77" />
@@ -1120,11 +1136,11 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/PostsFragment.java" timestamp="1454084715812">
-        <mark key="[" line="69" column="87" />
-        <mark key="]" line="69" column="86" />
-        <mark key="^" line="69" column="86" />
-        <mark key="." line="69" column="86" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/PostsFragment.java" timestamp="1457092243584">
+        <mark key="[" line="207" column="50" />
+        <mark key="]" line="207" column="53" />
+        <mark key="^" line="207" column="53" />
+        <mark key="." line="207" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/view_fave.xml" timestamp="1456780984526">
         <mark key="[" line="19" column="38" />
@@ -1678,43 +1694,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>resources.getColor</text>
+        <text>ASC</text>
       </register>
       <register name="-" type="4">
-        <text>resources.getColor</text>
+        <text>ASC</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly9ub2luc3BlY3Rpb24gR3Jvb3Z5VW51c2VkQXNzaWdubWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFJlc29sdmVyLmRlbGV0ZShMaXN0c1Byb3ZpZGVyLnVyaUxpc3RzQ29tbWVudHMoKSwgbnVsbCwgbnVsbCk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>resources.getColor</text>
+        <text>ASC</text>
       </register>
-      <register name="2" type="4">
-        <text>resources.getColor(android.R.color.black</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFJlc29sdmVyLmRlbGV0ZShQby51cmlMaXN0c0NvbW1lbnRzKCksIG51bGwsIG51bGwpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBtU2Nyb2xsOiBTY3JvbGxWaWV3IGJ5IGJpbmQoUi5pZC5zY3JvbGxfc2hvdCkK</text>
+      <register name="3" type="4">
+        <text>ListsProvider</text>
       </register>
       <register name="4" type="4">
-        <text>?</text>
+        <text>INSC</text>
       </register>
       <register name="5" type="4">
-        <text>?</text>
+        <text>DESC</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBtU2Nyb2xsOiBTY3JvbGxWaWV3IGJ5IGJpbmQoUi5pZC5zY3JvbGxfc2hvdCkK</text>
+      <register name="6" type="4">
+        <text>PUBLIScH_TIME_EPOCH</text>
       </register>
-      <register name="7" type="4">
-        <text>resources.getColor</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBTRVJWRVJfSUQgPSBUQUJMRV9OQU1FICsgIl8iICsgInNlcnZlcl9pZCI7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>!</text>
+        <text>ID</text>
       </register>
       <register name="9" type="4">
-        <text>!</text>
+        <text>long</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
