@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1457089234043">
+      <file name="/a.dummy" timestamp="1457091101786">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -487,11 +487,12 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1457089341216">
-        <mark key="'" line="273" column="0" />
-        <mark key="[" line="296" column="0" />
-        <mark key="]" line="296" column="0" />
-        <mark key="." line="296" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1457090565187">
+        <mark key="'" line="251" column="18" />
+        <mark key="[" line="39" column="32" />
+        <mark key="]" line="40" column="46" />
+        <mark key="." line="40" column="46" />
+        <mark key="^" line="40" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/menu/menu_theme.xml" timestamp="1456759113311">
         <mark key="[" line="8" column="8" />
@@ -1005,11 +1006,12 @@
         <mark key="^" line="12" column="77" />
         <mark key="." line="12" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" timestamp="1457009302285">
-        <mark key="[" line="85" column="62" />
-        <mark key="]" line="85" column="71" />
-        <mark key="." line="85" column="71" />
-        <mark key="^" line="85" column="71" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" timestamp="1457090604866">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="149" column="35" />
+        <mark key="]" line="150" column="20" />
+        <mark key="." line="150" column="20" />
+        <mark key="^" line="150" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/values/colors.xml" timestamp="1456414169201">
         <mark key="[" line="6" column="50" />
@@ -1388,6 +1390,13 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ImageActivity.kt" timestamp="1457090777487">
+        <mark key="'" line="126" column="13" />
+        <mark key="[" line="71" column="4" />
+        <mark key="]" line="71" column="11" />
+        <mark key="^" line="71" column="11" />
+        <mark key="." line="71" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Toothpick/toothpick-compiler/src/main/java/com/imallan/toothpick/MyProcessor.java" timestamp="1457011502575">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -1566,10 +1575,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="8" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
-      <jump line="132" column="30" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
-      <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/activity_main.xml" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/activity_main.xml" />
       <jump line="41" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/activity_main.xml" />
       <jump line="116" column="56" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/item_view_shot.xml" />
       <jump line="44" column="17" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/activity_shot.xml" />
@@ -1666,13 +1671,17 @@
       <jump line="44" column="36" filename="$USER_HOME$/Documents/GitHub/Toothpick/sample/build.gradle" />
       <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/Toothpick/sample/build.gradle" />
       <jump line="31" column="12" filename="$USER_HOME$/Documents/GitHub/Toothpick/toothpick-compiler/src/main/java/com/imallan/toothpick/compiler/MyProcessor.java" />
+      <jump line="124" column="18" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
+      <jump line="290" column="18" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
+      <jump line="88" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
+      <jump line="126" column="13" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ImageActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>resources.getColor</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>resources.getColor</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1680,32 +1689,32 @@
       <register name="0" type="2">
         <text encoding="base64">Ly9ub2luc3BlY3Rpb24gR3Jvb3Z5VW51c2VkQXNzaWdubWVudAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text>resources.getColor</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text>resources.getColor(android.R.color.black</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXN5bmMgewo=</text>
+        <text encoding="base64">ICAgIHZhbCBtU2Nyb2xsOiBTY3JvbGxWaWV3IGJ5IGJpbmQoUi5pZC5zY3JvbGxfc2hvdCkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5ub3RhdGlvbi5hbm5vdGF0aW9uVHlwZSgpCg==</text>
+      <register name="4" type="4">
+        <text>?</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50W10gaWRzID0gYW5ub3RhdGlvbi52YWx1ZSgpOwoK</text>
+      <register name="5" type="4">
+        <text>?</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCBtU2Nyb2xsOiBTY3JvbGxWaWV3IGJ5IGJpbmQoUi5pZC5zY3JvbGxfc2hvdCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="7" type="4">
+        <text>resources.getColor</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBpZDsgaSsrKSB7Cg==</text>
+      <register name="8" type="4">
+        <text>!</text>
       </register>
       <register name="9" type="4">
-        <text>value</text>
+        <text>!</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
