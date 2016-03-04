@@ -444,10 +444,11 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" timestamp="1457091706069">
-        <mark key="[" line="1503" column="0" />
-        <mark key="]" line="1503" column="0" />
-        <mark key="." line="1503" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" timestamp="1457093346043">
+        <mark key="[" line="1506" column="64" />
+        <mark key="]" line="1506" column="68" />
+        <mark key="." line="1506" column="68" />
+        <mark key="^" line="1506" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/AspectLayout.kt" timestamp="1456623068898">
         <mark key="[" line="31" column="92" />
@@ -1136,11 +1137,11 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/PostsFragment.java" timestamp="1457092243584">
-        <mark key="[" line="207" column="50" />
-        <mark key="]" line="207" column="53" />
-        <mark key="^" line="207" column="53" />
-        <mark key="." line="207" column="53" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/PostsFragment.java" timestamp="1457093036224">
+        <mark key="[" line="216" column="71" />
+        <mark key="]" line="216" column="88" />
+        <mark key="^" line="216" column="88" />
+        <mark key="." line="216" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/view_fave.xml" timestamp="1456780984526">
         <mark key="[" line="19" column="38" />
@@ -1694,10 +1695,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ASC</text>
+        <text>EPLACE</text>
       </register>
       <register name="-" type="4">
-        <text>ASC</text>
+        <text>EPLACE</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1706,31 +1707,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY29udGVudFJlc29sdmVyLmRlbGV0ZShMaXN0c1Byb3ZpZGVyLnVyaUxpc3RzQ29tbWVudHMoKSwgbnVsbCwgbnVsbCk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>ASC</text>
+        <text>EPLACE</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFJlc29sdmVyLmRlbGV0ZShQby51cmlMaXN0c0NvbW1lbnRzKCksIG51bGwsIG51bGwpOwo=</text>
+      <register name="2" type="4">
+        <text>PUBLISH_TIME_EPOCH</text>
       </register>
       <register name="3" type="4">
-        <text>ListsProvider</text>
+        <text>REcPLACE</text>
       </register>
       <register name="4" type="4">
-        <text>INSC</text>
+        <text>ASC</text>
       </register>
-      <register name="5" type="4">
-        <text>DESC</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFJlc29sdmVyLmRlbGV0ZShQby51cmlMaXN0c0NvbW1lbnRzKCksIG51bGwsIG51bGwpOwo=</text>
       </register>
       <register name="6" type="4">
-        <text>PUBLIScH_TIME_EPOCH</text>
+        <text>ListsProvider</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBTRVJWRVJfSUQgPSBUQUJMRV9OQU1FICsgIl8iICsgInNlcnZlcl9pZCI7Cg==</text>
+      <register name="7" type="4">
+        <text>INSC</text>
       </register>
       <register name="8" type="4">
-        <text>ID</text>
+        <text>DESC</text>
       </register>
       <register name="9" type="4">
-        <text>long</text>
+        <text>PUBLIScH_TIME_EPOCH</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
