@@ -15,6 +15,9 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
+      <file name="/a.dummy" timestamp="1457348793434">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
         <mark key="[" line="51" column="38" />
         <mark key="]" line="51" column="50" />
@@ -654,11 +657,11 @@
         <mark key="^" line="10" column="48" />
         <mark key="." line="10" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/api/API.kt" timestamp="1456915811308">
-        <mark key="[" line="24" column="43" />
-        <mark key="]" line="25" column="39" />
-        <mark key="." line="25" column="39" />
-        <mark key="^" line="25" column="39" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/api/API.kt" timestamp="1457349327160">
+        <mark key="[" line="30" column="49" />
+        <mark key="]" line="30" column="49" />
+        <mark key="^" line="30" column="49" />
+        <mark key="." line="30" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/java/com/imallan/serviceexample/MainActivity.java" timestamp="1453309955960">
         <mark key="[" line="46" column="84" />
@@ -1701,44 +1704,44 @@
       <jump line="1349" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cursor.getString(cursor.getColumnIndex(Merchant.NAME))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICgpIHsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>cursor.getString(cursor.getColumnIndex(Merchant.NAME))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cmwgKz0gKCImYWNjZXNzX3Rva2VuIiArIEJ1aWxkQ29uZmlnLkRSSUJCQkxFX0FDQ0VTU19UT0tFTikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbmRleGluZ1V0aWxzLnN0YXJ0R29vZ2xlQXBwSW5kZXhpbmcoYWN0aXZpdHkuZ2V0R29vZ2xlQXBpQ2xpZW50KCksIHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICgpIHsK</text>
       </register>
-      <register name="2" type="4">
-        <text>)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJhbmROYW1lU3RyaW5nID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXJsICs9ICgiPyIpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJhbmROYW1lU3RyaW5nID0gZ2V0U3RyaW5nKFIuc3RyaW5nLnByb2R1Y3RfYnJhbmQsIGN1cnNvci5nZXRTdHJpbmcoY3Vyc29yLmdldENvbHVtbkluZGV4KE1lcmNoYW50Lk5BTUUpKSk7Cg==</text>
+      <register name="4" type="4">
+        <text>(</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>url.contains(&quot;?&quot;)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>access_token&quot; + BuildConfig.DRIBBBLE_ACCESS_TOKEN</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmFuZE5hbWVTdHJpbmcgPSBnZXRTdHJpbmcoUi5zdHJpbmcucHJvZHVjdF9icmFuZCwgY3Vyc29yLmdldFN0cmluZyhjdXJzb3IuZ2V0Q29sdW1uSW5kZXgoTWVyY2hhbnQuTkFNRSkpKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="8" type="4">
-        <text>string</text>
+        <text>access_token&quot; + BuildConfig.DRIBBBLE_ACCESS_TOKEN</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b1N0cmluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
