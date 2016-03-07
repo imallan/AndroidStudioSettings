@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1457349399148">
+      <file name="/a.dummy" timestamp="1457351262629">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -925,6 +925,7 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="6" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ShopcadeApplication.java" timestamp="1457351261555" />
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/DebouncedAction.java" timestamp="1455878426184">
         <mark key="[" line="23" column="39" />
         <mark key="]" line="24" column="15" />
@@ -1498,10 +1499,12 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1457350379815">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1457351040406">
         <mark key="'" line="88" column="44" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="55" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="^" line="145" column="45" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/extension/LogExtension.kt" timestamp="1456097612463">
         <mark key="[" line="10" column="13" />
@@ -1788,8 +1791,8 @@
       <jump line="88" column="44" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>networkInterceptors</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuYWxsYW4xc3Q6c3RldGhvOnYxLjMuMycK</text>
       </register>
       <register name="-" type="4">
         <text>networkInterceptors</text>
@@ -1800,32 +1803,32 @@
       <register name="0" type="4">
         <text>com.facebook.stetho.okhttp3.StethoInterceptor</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuYWxsYW4xc3Q6c3RldGhvOnYxLjMuMycK</text>
+      </register>
+      <register name="2" type="4">
         <text>networkInterceptors</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBTdGV0aG8uaW5pdGlhbGl6ZVdpdGhEZWZhdWx0cyh0aGlzKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0ZXRoby5uZXdJbml0aWFsaXplckJ1aWxkZXIodGhpcykK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>(</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>initialize</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmVuYWJsZVZpZXdJbnNwZWN0b3IoZmFsc2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
