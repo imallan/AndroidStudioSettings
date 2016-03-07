@@ -192,7 +192,6 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/content_user.xml" timestamp="1457373872124" />
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/values-night/colors.xml" timestamp="1456414199982">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="17" />
@@ -625,7 +624,6 @@
         <mark key="^" line="11" column="37" />
         <mark key="." line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/interfaces/Shareable.java" timestamp="1457344384365" />
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/layout/recycler_timeline.xml" timestamp="1454248312816">
         <mark key="[" line="4" column="76" />
         <mark key="]" line="4" column="76" />
@@ -929,7 +927,6 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="6" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ShopcadeApplication.java" timestamp="1457351261555" />
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/DebouncedAction.java" timestamp="1455878426184">
         <mark key="[" line="23" column="39" />
         <mark key="]" line="24" column="15" />
@@ -977,6 +974,9 @@
         <mark key="]" line="38" column="82" />
         <mark key="^" line="38" column="82" />
         <mark key="." line="38" column="82" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CircularImageView.kt" timestamp="1457374306938">
+        <mark key="[" line="27" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/res/layout/activity_main.xml" timestamp="1454273431439">
         <mark key="[" line="13" column="11" />
@@ -1457,7 +1457,6 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/widget/CircularImageView.java" timestamp="1457373566725" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostRecyclerAdapter.java" timestamp="1455725491907">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
