@@ -15,9 +15,6 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1457110402893">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
         <mark key="[" line="51" column="38" />
         <mark key="]" line="51" column="50" />
@@ -759,11 +756,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" timestamp="1457347127861">
-        <mark key="'" line="1349" column="4" />
-        <mark key="[" line="1892" column="0" />
-        <mark key="]" line="1892" column="0" />
-        <mark key="." line="1892" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" timestamp="1457348650684">
+        <mark key="'" line="1354" column="4" />
+        <mark key="[" line="1244" column="24" />
+        <mark key="]" line="1244" column="44" />
+        <mark key="." line="1244" column="44" />
+        <mark key="^" line="1244" column="44" />
       </file>
       <file name="/fragment.java" timestamp="1457344304137">
         <mark key="[" line="0" column="0" />
@@ -810,10 +808,10 @@
         <mark key="." line="19" column="60" />
         <mark key="^" line="19" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" timestamp="1457346825176">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" timestamp="1457348048246">
         <mark key="'" line="377" column="30" />
-        <mark key="[" line="406" column="0" />
-        <mark key="]" line="406" column="57" />
+        <mark key="[" line="411" column="0" />
+        <mark key="]" line="411" column="63" />
         <mark key="." line="395" column="23" />
         <mark key="^" line="395" column="23" />
       </file>
@@ -1703,44 +1701,44 @@
       <jump line="1349" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>cursor.getString(cursor.getColumnIndex(Merchant.NAME))</text>
       </register>
       <register name="-" type="4">
-        <text>startGoogleAppIndexing</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbmRleGluZ1V0aWxzLnN0YXJ0R29vZ2xlQXBwSW5kZXhpbmcoYWN0aXZpdHkuZ2V0R29vZ2xlQXBpQ2xpZW50KCksIHRoaXMpOwo=</text>
+      <register name="0" type="4">
+        <text>cursor.getString(cursor.getColumnIndex(Merchant.NAME))</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbmRleGluZ1V0aWxzLnN0YXJ0R29vZ2xlQXBwSW5kZXhpbmcoYWN0aXZpdHkuZ2V0R29vZ2xlQXBpQ2xpZW50KCksIHRoaXMpOwo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>)</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJhbmROYW1lU3RyaW5nID0gbnVsbDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJhbmROYW1lU3RyaW5nID0gZ2V0U3RyaW5nKFIuc3RyaW5nLnByb2R1Y3RfYnJhbmQsIGN1cnNvci5nZXRTdHJpbmcoY3Vyc29yLmdldENvbHVtbkluZGV4KE1lcmNoYW50Lk5BTUUpKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBJbmRleGluZ1V0aWxzLnN0b3BHb29nbGVBcHBJbmRleGludChhY3Rpdml0eS5nZXRHb29nbGVBcGlDbGllbnQoKSwgdGhpcyk7Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>startGoogleAppIndexing</text>
-      </register>
-      <register name="4" type="4">
-        <text>client</text>
-      </register>
-      <register name="5" type="4">
-        <text>mProductTitle.toString()</text>
-      </register>
-      <register name="6" type="4">
-        <text>mProductTitle.toString()</text>
-      </register>
-      <register name="7" type="4">
-        <text>productNameString</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmFuZE5hbWVTdHJpbmcgPSBnZXRTdHJpbmcoUi5zdHJpbmcucHJvZHVjdF9icmFuZCwgY3Vyc29yLmdldFN0cmluZyhjdXJzb3IuZ2V0Q29sdW1uSW5kZXgoTWVyY2hhbnQuTkFNRSkpKTsK</text>
       </register>
       <register name="8" type="4">
-        <text>mProductTitle.toString()</text>
+        <text>string</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9kdWN0TmFtZVN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
