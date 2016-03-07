@@ -192,12 +192,7 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/content_user.xml" timestamp="1457373273427">
-        <mark key="[" line="19" column="41" />
-        <mark key="]" line="20" column="33" />
-        <mark key="." line="20" column="33" />
-        <mark key="^" line="20" column="33" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/content_user.xml" timestamp="1457373872124" />
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/values-night/colors.xml" timestamp="1456414199982">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="17" />
@@ -630,6 +625,7 @@
         <mark key="^" line="11" column="37" />
         <mark key="." line="11" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/interfaces/Shareable.java" timestamp="1457344384365" />
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/layout/recycler_timeline.xml" timestamp="1454248312816">
         <mark key="[" line="4" column="76" />
         <mark key="]" line="4" column="76" />
@@ -648,12 +644,12 @@
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/UserActivity.kt" timestamp="1457373191100">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/UserActivity.kt" timestamp="1457373997377">
         <mark key="'" line="29" column="1" />
-        <mark key="[" line="42" column="15" />
-        <mark key="]" line="42" column="56" />
-        <mark key="." line="42" column="56" />
-        <mark key="^" line="42" column="56" />
+        <mark key="[" line="57" column="71" />
+        <mark key="]" line="57" column="85" />
+        <mark key="." line="57" column="85" />
+        <mark key="^" line="57" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_shopping_cart.xml" timestamp="1453814990775">
         <mark key="[" line="157" column="48" />
@@ -933,6 +929,7 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="6" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ShopcadeApplication.java" timestamp="1457351261555" />
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/DebouncedAction.java" timestamp="1455878426184">
         <mark key="[" line="23" column="39" />
         <mark key="]" line="24" column="15" />
@@ -1094,6 +1091,10 @@
         <mark key="]" line="6" column="54" />
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/item_view_comment.xml" timestamp="1457373865069">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/AndroidManifest.xml" timestamp="1456242687345">
         <mark key="[" line="19" column="32" />
@@ -1456,6 +1457,7 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/widget/CircularImageView.java" timestamp="1457373566725" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostRecyclerAdapter.java" timestamp="1455725491907">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
@@ -1778,43 +1780,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>colorAccent</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>colorAccent</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICB2YWwgcHN0ID0gUHJlc2VudGVySG9sZGVyLmluc3RhbmNlLmdldFByZXNlbnRlcihTaG90QWN0aXZpdHk6OmNsYXNzLmphdmEpCiAgICAgICAgaWYgKHBzdCAhPSBudWxsKSB7CiAgICAgICAgICAgIG1QcmVzZW50ZXIgPSAocHN0IGFzICBTaG90UHJlc2VudGVyKS5iaW5kKHRoaXMpCiAgICAgICAgICAgIG1QcmVzZW50ZXI/LmluaXQoKQogICAgICAgICAgICBsb2dkKCJQcmVzZW50ZXIgaGl0IikKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBtUHJlc2VudGVyID0gU2hvdFByZXNlbnRlckltcGwoKS5iaW5kKHRoaXMpCiAgICAgICAgICAgIGxvZ2QoIlByZXNlbnRlciBtaXNzIikKICAgICAgICB9</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmNpdl9ib3JkZXJfY29sb3I9IiNDQ0NDQ0MiCiAgICAgICAgICAgIGFwcDpjaXZfYm9yZGVyX3dpZHRoPSIxZHAi</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>colorAccent</text>
       </register>
       <register name="2" type="4">
-        <text>?</text>
+        <text>colorPrimary</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
+        <text>?</text>
+      </register>
+      <register name="5" type="4">
+        <text>)</text>
+      </register>
+      <register name="6" type="4">
         <text>(</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzdXBwb3J0QWN0aW9uQmFyCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBnZXRTdXBwb3J0QWN0aW9uQmFyKCkhIS4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtVG9vbGJhci4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBtVG9vbGJhci4K</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
