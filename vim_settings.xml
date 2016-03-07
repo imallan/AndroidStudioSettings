@@ -468,12 +468,12 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" timestamp="1457345624641">
-        <mark key="'" line="303" column="0" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="^" line="195" column="56" />
-        <mark key="." line="170" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" timestamp="1457347069380">
+        <mark key="'" line="307" column="0" />
+        <mark key="[" line="172" column="8" />
+        <mark key="]" line="172" column="21" />
+        <mark key="^" line="172" column="21" />
+        <mark key="." line="172" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/FragmentAsAService/app/src/main/java/com/imallan/fragmentasaservice/MainActivity.java" timestamp="1454927670993">
         <mark key="[" line="28" column="37" />
@@ -759,11 +759,11 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" timestamp="1457344371794">
-        <mark key="'" line="1879" column="0" />
-        <mark key="[" line="510" column="0" />
-        <mark key="]" line="510" column="0" />
-        <mark key="." line="510" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" timestamp="1457347127861">
+        <mark key="'" line="1349" column="4" />
+        <mark key="[" line="1892" column="0" />
+        <mark key="]" line="1892" column="0" />
+        <mark key="." line="1892" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1457344304137">
         <mark key="[" line="0" column="0" />
@@ -810,10 +810,10 @@
         <mark key="." line="19" column="60" />
         <mark key="^" line="19" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" timestamp="1457345564729">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" timestamp="1457346825176">
         <mark key="'" line="377" column="30" />
-        <mark key="[" line="395" column="24" />
-        <mark key="]" line="395" column="23" />
+        <mark key="[" line="406" column="0" />
+        <mark key="]" line="406" column="57" />
         <mark key="." line="395" column="23" />
         <mark key="^" line="395" column="23" />
       </file>
@@ -1321,6 +1321,13 @@
         <mark key="^" line="91" column="42" />
         <mark key="." line="82" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/extension/PreferenceExtensions.kt" timestamp="1457103620619">
+        <mark key="'" line="35" column="8" />
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/MyAnnotations.java" timestamp="1456417994608">
         <mark key="[" line="13" column="29" />
         <mark key="]" line="13" column="51" />
@@ -1471,6 +1478,13 @@
         <mark key="." line="25" column="29" />
         <mark key="^" line="25" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/drawable/background_splash.xml" timestamp="1457105235612">
+        <mark key="'" line="6" column="36" />
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/IndexingUtils.java" timestamp="1457345713854">
         <mark key="[" line="41" column="77" />
         <mark key="]" line="41" column="85" />
@@ -1587,8 +1601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/animator/rotation_close_path_morph.xml" />
-      <jump line="7" column="269" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/drawable/ic_dot.xml" />
       <jump line="31" column="14" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/item_view_comment.xml" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/item_view_comment.xml" />
       <jump line="17" column="3" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/item_view_comment.xml" />
@@ -1687,49 +1699,48 @@
       <jump line="1879" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" />
       <jump line="206" column="5" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" />
       <jump line="303" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" />
+      <jump line="1872" column="31" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" />
+      <jump line="1349" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>startGoogleAppIndexing</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBJbmRleGluZ1V0aWxzLnN0b3BHb29nbGVBcHBJbmRleGludChtQ2xpZW50LCB0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbmRleGluZ1V0aWxzLnN0YXJ0R29vZ2xlQXBwSW5kZXhpbmcoYWN0aXZpdHkuZ2V0R29vZ2xlQXBpQ2xpZW50KCksIHRoaXMpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>this</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>this</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBJbmRleGluZ1V0aWxzLnN0b3BHb29nbGVBcHBJbmRleGludChhY3Rpdml0eS5nZXRHb29nbGVBcGlDbGllbnQoKSwgdGhpcyk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgdm9pZCBzdGFydEdvb2dsZUFwcEluZGV4aW5nKCkgewogICAgfQo=</text>
+      <register name="3" type="4">
+        <text>startGoogleAppIndexing</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobUNsaWVudCAhPSBudWxsICYmICFtQ2xpZW50LmlzQ29ubmVjdGVkKCkgJiYgZ2V0QXBwVXJpKCkgIT0gbnVsbCAmJiBnZXRJbmRleGluZ1RpdGxlKCkgIT0gbnVsbCkgewo=</text>
+      <register name="4" type="4">
+        <text>client</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUNsaWVudC5jb25uZWN0KCkK</text>
+      <register name="5" type="4">
+        <text>mProductTitle.toString()</text>
       </register>
       <register name="6" type="4">
-        <text>;
-            Action action = IndexingUtils.getIndexingAction(this);
-            AppIndex.AppIndexApi.start(mClient, action);
-        }</text>
+        <text>mProductTitle.toString()</text>
       </register>
       <register name="7" type="4">
-        <text>stopGoogleAppIndexing</text>
+        <text>productNameString</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>mProductTitle.toString()</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9kdWN0TmFtZVN0cmluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
