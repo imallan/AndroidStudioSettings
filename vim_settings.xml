@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1457399320457">
+      <file name="/a.dummy" timestamp="1457438812728">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -852,8 +852,8 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_instagram.xml" timestamp="1457438209405">
-        <mark key="'" line="4" column="38" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_instagram.xml" timestamp="1457438650756">
+        <mark key="'" line="21" column="0" />
         <mark key="[" line="4" column="27" />
         <mark key="]" line="4" column="38" />
         <mark key="^" line="4" column="38" />
@@ -1082,6 +1082,9 @@
       <file name="$USER_HOME$/Documents/GitHub/Toothpick/toothpick/build.gradle" timestamp="1457011075536">
         <mark key="'" line="28" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1457438812709">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="7" column="62" />
@@ -1093,6 +1096,9 @@
         <mark key="]" line="2" column="25" />
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/ImagesUtils.java" timestamp="1457439368867">
+        <mark key="'" line="245" column="87" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/OnClick.java" timestamp="1456419807940">
         <mark key="[" line="16" column="0" />
@@ -1962,7 +1968,6 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/widget/CircularImageView.java" timestamp="1457435638855" />
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/MainActivity.kt" timestamp="1456703055064">
         <mark key="'" line="49" column="29" />
         <mark key="[" line="113" column="0" />
@@ -2239,8 +2244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/kotlin/com/imallan/kotlinplayground/MainActivity.kt" />
-      <jump line="95" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/MainActivity.kt" />
       <jump line="106" column="32" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/item_view_shot.xml" />
       <jump line="20" column="43" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/item_view_shot.xml" />
       <jump line="27" column="78" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/FilterSheetDialog.kt" />
@@ -2339,6 +2342,8 @@
       <jump line="686" column="54" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/24a0b0e63af9530bcedd06ed1983a4f2f02155a3/glide-3.7.0-sources.jar!/com/bumptech/glide/Glide.java" />
       <jump line="79" column="35" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/24a0b0e63af9530bcedd06ed1983a4f2f02155a3/glide-3.7.0-sources.jar!/com/bumptech/glide/request/target/ImageViewTarget.java" />
       <jump line="75" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CircularImageView.kt" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_instagram.xml" />
+      <jump line="245" column="87" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/ImagesUtils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
