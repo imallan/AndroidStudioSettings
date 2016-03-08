@@ -27,7 +27,7 @@
         <mark key="^" line="1" column="75" />
         <mark key="." line="1" column="75" />
       </file>
-      <file name="/a.dummy" timestamp="1457397782852">
+      <file name="/a.dummy" timestamp="1457399320457">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BookService.java" timestamp="1454409639600">
@@ -749,9 +749,6 @@
         <mark key="]" line="12" column="65" />
         <mark key="." line="12" column="65" />
         <mark key="^" line="12" column="65" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1456881959004">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/24a0b0e63af9530bcedd06ed1983a4f2f02155a3/glide-3.7.0-sources.jar!/com/bumptech/glide/Glide.java" timestamp="1457398401094">
         <mark key="'" line="686" column="54" />
