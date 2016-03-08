@@ -21,6 +21,12 @@
         <mark key="^" line="197" column="45" />
         <mark key="." line="197" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/gradle.properties" timestamp="1457395411358">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="75" />
+        <mark key="^" line="1" column="75" />
+        <mark key="." line="1" column="75" />
+      </file>
       <file name="/a.dummy" timestamp="1456881959011">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1029,10 +1035,6 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1456880492126">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="65" column="34" />
-        <mark key="]" line="65" column="36" />
-        <mark key="." line="65" column="36" />
-        <mark key="^" line="65" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/AppIndexingUtils.java" timestamp="1453890372165">
         <mark key="[" line="20" column="27" />
@@ -1705,6 +1707,12 @@
         <mark key="^" line="13" column="34" />
         <mark key="." line="13" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CircularImageView.kt" timestamp="1457395490590">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="37" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/api/DribbbleService.kt" timestamp="1456680967067">
         <mark key="[" line="19" column="18" />
         <mark key="]" line="19" column="21" />
@@ -2033,8 +2041,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -2045,32 +2053,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbml0KCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>2</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>7</text>
+        <text>2</text>
       </register>
       <register name="3" type="4">
-        <text>4</text>
+        <text>7</text>
       </register>
       <register name="4" type="4">
-        <text>COLLAPSED</text>
+        <text>4</text>
       </register>
       <register name="5" type="4">
-        <text>EXPANDED</text>
+        <text>COLLAPSED</text>
       </register>
       <register name="6" type="4">
-        <text>getDeviceHeight(this) / 3</text>
+        <text>EXPANDED</text>
       </register>
       <register name="7" type="4">
-        <text>STATE_COLLAPSED</text>
+        <text>getDeviceHeight(this) / 3</text>
       </register>
       <register name="8" type="4">
-        <text>behavior</text>
+        <text>STATE_COLLAPSED</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYmVoYXZpb3IgPSBCb3R0b21TaGVldEJlaGF2aW9yLmZyb20obUNvbW1lbnRzVmlldykK</text>
+      <register name="9" type="4">
+        <text>behavior</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
