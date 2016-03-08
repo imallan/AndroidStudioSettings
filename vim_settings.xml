@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1457454632546">
+      <file name="/a.dummy" timestamp="1457455017490">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -1362,12 +1362,12 @@
         <mark key="^" line="38" column="82" />
         <mark key="." line="38" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CircularImageView.kt" timestamp="1457454599651">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CircularImageView.kt" timestamp="1457454933102">
         <mark key="'" line="62" column="4" />
-        <mark key="[" line="129" column="22" />
-        <mark key="]" line="129" column="23" />
-        <mark key="." line="129" column="23" />
-        <mark key="^" line="129" column="15" />
+        <mark key="[" line="124" column="58" />
+        <mark key="]" line="124" column="55" />
+        <mark key="^" line="124" column="55" />
+        <mark key="." line="124" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/res/layout/activity_main.xml" timestamp="1454273431439">
         <mark key="[" line="13" column="11" />
@@ -2345,11 +2345,11 @@
       <jump line="59" column="4" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CircularImageView.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0KGNhbnZhcy53aWR0aCA9PSBjYW52YXMuaGVpZ2h0KQo=</text>
+      <register name="&quot;" type="4">
+        <text>bmSize.toFloat() /</text>
       </register>
       <register name="-" type="4">
-        <text>min</text>
+        <text>bmSize.toFloat() /</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2357,32 +2357,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBEZXByZWNhdGVkCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0KGNhbnZhcy53aWR0aCA9PSBjYW52YXMuaGVpZ2h0KQo=</text>
+      <register name="1" type="4">
+        <text>bmSize.toFloat() /</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0KGNhbnZhcy53aWR0aCA9PSBjYW52YXMuaGVpZ2h0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeCA9IGJpdG1hcFdpZHRoIC8gMgogICAgICAgICAgICB5ID0gYml0bWFwSGVpZ2h0IC8gMgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>min</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCB4OiBJbnQKCiAgICAgICAgcHJpdmF0ZSB2YWwgeTogSW50Cgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>min</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNjYWxlID0gTWF0aC5taW4oY2FudmFzLndpZHRoLCBjYW52YXMuaGVpZ2h0KSAvIE1hdGgubWluKHgsIHkpLnRvRmxvYXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCB4OiBJbnQKCiAgICAgICAgcHJpdmF0ZSB2YWwgeTogSW50Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>heightMeasureSpec</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeSA9IGJpdG1hcEhlaWdodCAvIDIK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeCA9IGJpdG1hcFdpZHRoIC8gMgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>/</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGJtU2l6ZSA9IDIgKiByYWRpdXMK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">TWF0aC5taW4oeCwgeSkgLyA=</text>
+        <text>bmSize</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
