@@ -103,11 +103,10 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/values/colors.xml" timestamp="1456761006197">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="68" />
-        <mark key="^" line="6" column="27" />
-        <mark key="." line="6" column="27" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/values/colors.xml" timestamp="1457442806714">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/drawable/background_splash.xml" timestamp="1455796289344">
         <mark key="[" line="1" column="70" />
@@ -656,9 +655,12 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/activity_user.xml" timestamp="1457437939831">
-        <mark key="'" line="33" column="11" />
-        <mark key="[" line="31" column="47" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/activity_user.xml" timestamp="1457442861287">
+        <mark key="'" line="16" column="36" />
+        <mark key="[" line="54" column="35" />
+        <mark key="]" line="54" column="36" />
+        <mark key="." line="54" column="36" />
+        <mark key="^" line="54" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" timestamp="1457347069380">
         <mark key="'" line="307" column="0" />
@@ -931,12 +933,12 @@
         <mark key="." line="22" column="33" />
         <mark key="^" line="22" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/UserActivity.kt" timestamp="1457437633436">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="35" column="50" />
-        <mark key="]" line="35" column="71" />
-        <mark key="^" line="35" column="72" />
-        <mark key="." line="35" column="72" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/UserActivity.kt" timestamp="1457442439141">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="66" column="56" />
+        <mark key="]" line="66" column="62" />
+        <mark key="^" line="66" column="62" />
+        <mark key="." line="66" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/MainActivity.kt" timestamp="1456758858001">
         <mark key="'" line="38" column="0" />
@@ -1280,11 +1282,11 @@
         <mark key="^" line="1384" column="102" />
         <mark key="." line="1384" column="102" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/values-night/colors.xml" timestamp="1456761035346">
-        <mark key="[" line="3" column="41" />
-        <mark key="]" line="3" column="54" />
-        <mark key="." line="3" column="54" />
-        <mark key="^" line="3" column="54" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/values-night/colors.xml" timestamp="1457442958241">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="9" column="35" />
+        <mark key="." line="9" column="35" />
+        <mark key="^" line="9" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" timestamp="1456242086129">
         <mark key="'" line="66" column="16" />
@@ -1451,6 +1453,7 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="40" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/widget/RelativeLayout.java" timestamp="1457442172285" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/24a0b0e63af9530bcedd06ed1983a4f2f02155a3/glide-3.7.0-sources.jar!/com/bumptech/glide/request/target/ImageViewTarget.java" timestamp="1457398496573">
         <mark key="'" line="79" column="35" />
       </file>
@@ -1646,6 +1649,9 @@
         <mark key="]" line="72" column="27" />
         <mark key="." line="72" column="27" />
         <mark key="^" line="72" column="27" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ViewGroup.java" timestamp="1457442080736">
+        <mark key="'" line="306" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/ui/MainActivity.kt" timestamp="1455754548057">
         <mark key="[" line="13" column="0" />
@@ -2194,11 +2200,12 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CurvedBottomView.kt" timestamp="1457436153000">
-        <mark key="'" line="51" column="18" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CurvedBottomView.kt" timestamp="1457442198941">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="46" column="27" />
+        <mark key="." line="46" column="27" />
+        <mark key="^" line="46" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/Test.java" timestamp="1456161529374">
         <mark key="[" line="14" column="11" />
@@ -2244,10 +2251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="32" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/item_view_shot.xml" />
-      <jump line="20" column="43" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/item_view_shot.xml" />
-      <jump line="27" column="78" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/FilterSheetDialog.kt" />
-      <jump line="61" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/MainActivity.kt" />
       <jump line="36" column="4" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsAdapter.kt" />
       <jump line="128" column="24" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/MainActivity.kt" />
       <jump line="137" column="16" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/MainActivity.kt" />
@@ -2344,67 +2347,50 @@
       <jump line="75" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CircularImageView.kt" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_instagram.xml" />
       <jump line="245" column="87" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/ImagesUtils.java" />
+      <jump line="18" column="28" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CurvedBottomView.kt" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CurvedBottomView.kt" />
+      <jump line="16" column="36" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/activity_user.xml" />
+      <jump line="306" column="6" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ViewGroup.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Primary</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>Primary</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>override fun draw(canvas: Canvas) {
-            val width = width
-            val height = height
-            paint.shader = bitmapShader
-            val xScale = width.toFloat() / (radius * 2)
-            val yScale = height.toFloat() / (radius * 2)
-            canvas.translate((radius - x) * xScale, (radius - y) * yScale)
-            canvas.scale(xScale, yScale)
-            canvas.drawCircle(x.toFloat(), y.toFloat(), radius.toFloat(), paint)
-        }
-
-        override fun getOpacity(): Int {
-            return PixelFormat.TRANSLUCENT
-        }
-
-        override fun setAlpha(alpha: Int) {
-            paint.alpha = alpha
-        }
-
-        override fun setColorFilter(cf: ColorFilter?) {
-            paint.colorFilter = cf
-        }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvckxpbmtQcmltYXJ5Ij5AY29sb3IvY29sb3JBY2NlbnQ8L2NvbG9yPgo=</text>
       </register>
       <register name="1" type="4">
-        <text>Primary</text>
+        <text>#</text>
       </register>
       <register name="2" type="4">
-        <text>RoundedDrawable</text>
+        <text>2</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>4</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>@android:color/white</text>
       </register>
       <register name="5" type="4">
-        <text>Color</text>
+        <text>6</text>
       </register>
       <register name="6" type="4">
-        <text>ColorInt color: Int</text>
+        <text>3</text>
       </register>
-      <register name="7" type="4">
-        <text>@</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvciI+QGNvbG9yL2NvbG9yQWNjZW50PC9jb2xvcj4K</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>LinkPrimary</text>
       </register>
       <register name="9" type="4">
-        <text>val</text>
+        <text>colorAccent</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
