@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1457532242077">
+      <file name="/a.dummy" timestamp="1457535736945">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -2013,6 +2013,12 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values-v21/styles.xml" timestamp="1457535554206">
+        <mark key="[" line="67" column="69" />
+        <mark key="]" line="67" column="68" />
+        <mark key="." line="67" column="68" />
+        <mark key="^" line="67" column="68" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Toothpick/toothpick-annotations/src/main/java/com/imallan/toothpick/annotations/OnClick.java" timestamp="1457016338329">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="14" column="4" />
@@ -2108,11 +2114,11 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values/styles.xml" timestamp="1457529555111">
-        <mark key="[" line="354" column="69" />
-        <mark key="]" line="354" column="80" />
-        <mark key="^" line="354" column="80" />
-        <mark key="." line="354" column="80" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values/styles.xml" timestamp="1457535567109">
+        <mark key="[" line="354" column="61" />
+        <mark key="]" line="354" column="67" />
+        <mark key="^" line="354" column="67" />
+        <mark key="." line="354" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_deals.xml" timestamp="1456326121926">
         <mark key="[" line="13" column="48" />
@@ -2316,43 +2322,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Underlined</text>
+        <text>DropDownItem.Spinner</text>
       </register>
       <register name="-" type="4">
-        <text>Underlined</text>
+        <text>DropDownItem.Spinner</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtQ29udGV4dCA9IGNvbnRleHQ7Cg==</text>
+        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJTcGlubmVyU3R5bGUiIHBhcmVudD0iQmFzZS5XaWRnZXQuQXBwQ29tcGF0LkRyb3BEb3duSXRlbS5TcGlubmVyIi8+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>Underlined</text>
+        <text>DropDownItem.Spinner</text>
       </register>
       <register name="2" type="4">
-        <text>AppCompatSpinner</text>
+        <text>Underlined</text>
       </register>
       <register name="3" type="4">
-        <text>AppCompatSpinner</text>
+        <text>Spinner</text>
       </register>
-      <register name="4" type="4">
-        <text>android.support.v7.widget.AppCompatSpinner</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>wndroid.support.v7.widget.AppCompatSpinner</text>
+        <text>Underlined</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>AppCompatSpinner</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtQ29udGV4dCA9IGNvbnRleHQ7Cg==</text>
+      <register name="7" type="4">
+        <text>AppCompatSpinner</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Q29udGV4dCBtQ29udGV4dCwg</text>
+        <text>android.support.v7.widget.AppCompatSpinner</text>
       </register>
       <register name="9" type="4">
-        <text>context</text>
+        <text>wndroid.support.v7.widget.AppCompatSpinner</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
