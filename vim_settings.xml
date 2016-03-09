@@ -1291,6 +1291,11 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/widget/Spinner.java" timestamp="1457526648561">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/res/layout/activity_article.xml" timestamp="1455731453177">
         <mark key="[" line="6" column="34" />
         <mark key="]" line="6" column="52" />
@@ -2016,12 +2021,12 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1457522668601">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1457527102207">
         <mark key="'" line="118" column="27" />
-        <mark key="[" line="190" column="35" />
-        <mark key="]" line="190" column="36" />
-        <mark key="^" line="190" column="36" />
-        <mark key="." line="190" column="36" />
+        <mark key="[" line="188" column="31" />
+        <mark key="]" line="188" column="35" />
+        <mark key="^" line="188" column="35" />
+        <mark key="." line="188" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/extension/LogExtension.kt" timestamp="1456097612463">
         <mark key="[" line="10" column="13" />
@@ -2352,28 +2357,28 @@
         <text>g</text>
       </register>
       <register name="2" type="4">
-        <text>u</text>
+        <text>n</text>
       </register>
       <register name="3" type="4">
-        <text>b</text>
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>g</text>
       </register>
       <register name="5" type="4">
-        <text>d</text>
+        <text>a</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBwcm9ndWFyZEZpbGUgZ2V0RGVmYXVsdFByb2d1YXJkRmlsZSgncHJvZ3VhcmQtYW5kcm9pZC50eHQnKQovLyAgICAgICAgICAgIHByb2d1YXJkRmlsZSAnLi4vcHJvZ3VhcmQudHh0JwovLyAgICAgICAgICAgIG1pbmlmeUVuYWJsZWQgdHJ1ZQovLyAgICAgICAgICAgIHNocmlua1Jlc291cmNlcyB0cnVlCg==</text>
+      <register name="6" type="4">
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>true</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>debug</text>
+        <text>g</text>
       </register>
       <register name="9" type="4">
-        <text>debug</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
