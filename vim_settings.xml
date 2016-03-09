@@ -1291,10 +1291,11 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/widget/Spinner.java" timestamp="1457526648561">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/widget/Spinner.java" timestamp="1457527826766">
+        <mark key="[" line="35" column="12" />
+        <mark key="]" line="35" column="11" />
+        <mark key="." line="35" column="11" />
+        <mark key="^" line="35" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/res/layout/activity_article.xml" timestamp="1455731453177">
         <mark key="[" line="6" column="34" />
@@ -2331,10 +2332,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>final</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>final</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2354,31 +2355,31 @@
         }</text>
       </register>
       <register name="1" type="4">
-        <text>g</text>
+        <text>final</text>
       </register>
       <register name="2" type="4">
-        <text>n</text>
+        <text>final</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>final</text>
       </register>
       <register name="4" type="4">
-        <text>g</text>
+        <text>final</text>
       </register>
       <register name="5" type="4">
-        <text>a</text>
+        <text>final</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
-      </register>
-      <register name="7" type="4">
-        <text>s</text>
-      </register>
-      <register name="8" type="4">
         <text>g</text>
       </register>
-      <register name="9" type="4">
+      <register name="7" type="4">
         <text>n</text>
+      </register>
+      <register name="8" type="4">
+        <text>i</text>
+      </register>
+      <register name="9" type="4">
+        <text>g</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
