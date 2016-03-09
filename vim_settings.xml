@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1457456695535">
+      <file name="/a.dummy" timestamp="1457526524707">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -145,10 +145,6 @@
         <mark key="]" line="318" column="36" />
         <mark key="." line="318" column="36" />
         <mark key="^" line="318" column="36" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/24a0b0e63af9530bcedd06ed1983a4f2f02155a3/glide-3.7.0-sources.jar!/com/bumptech/glide/GenericRequestBuilder.java" timestamp="1457398420574">
-        <mark key="[" line="433" column="13" />
-        <mark key="]" line="433" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" timestamp="1456785645680">
         <mark key="'" line="77" column="35" />
@@ -383,10 +379,6 @@
         <mark key="]" line="65" column="24" />
         <mark key="^" line="65" column="24" />
         <mark key="." line="65" column="24" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/graphics/Outline.java" timestamp="1457366375682">
-        <mark key="[" line="120" column="29" />
-        <mark key="]" line="120" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_list_view.xml" timestamp="1454674138621">
         <mark key="[" line="18" column="30" />
@@ -1146,7 +1138,7 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" timestamp="1457348650684">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" timestamp="1457526108655">
         <mark key="'" line="1354" column="4" />
         <mark key="[" line="1244" column="24" />
         <mark key="]" line="1244" column="44" />
@@ -1524,10 +1516,6 @@
         <mark key="]" line="280" column="43" />
         <mark key="^" line="280" column="43" />
         <mark key="." line="280" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/item_view_comment.xml" timestamp="1457373865069">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/AndroidManifest.xml" timestamp="1456242687345">
         <mark key="[" line="19" column="32" />
@@ -1926,10 +1914,6 @@
         <mark key="^" line="15" column="25" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_profile.xml" timestamp="1457437342488">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="42" />
-      </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/res/values/styles.xml" timestamp="1455621852751">
         <mark key="[" line="3" column="57" />
         <mark key="]" line="3" column="67" />
@@ -2069,10 +2053,6 @@
         <mark key="]" line="76" column="52" />
         <mark key="^" line="76" column="52" />
         <mark key="." line="76" column="52" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.3.0/e2d92406c2f3f6ff202dddeb69eae22b3e7c80d5/stetho-okhttp-1.3.0-sources.jar!/com/facebook/stetho/okhttp/StethoInterceptor.java" timestamp="1457350439293">
-        <mark key="[" line="42" column="36" />
-        <mark key="]" line="42" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/DealsActivity.java" timestamp="1456327002918">
         <mark key="'" line="153" column="37" />
