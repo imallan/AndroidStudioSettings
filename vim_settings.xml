@@ -2032,12 +2032,12 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1457351040406">
-        <mark key="'" line="88" column="44" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="^" line="145" column="45" />
-        <mark key="." line="145" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1457522668601">
+        <mark key="'" line="118" column="27" />
+        <mark key="[" line="190" column="35" />
+        <mark key="]" line="190" column="36" />
+        <mark key="^" line="190" column="36" />
+        <mark key="." line="190" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/extension/LogExtension.kt" timestamp="1456097612463">
         <mark key="[" line="10" column="13" />
@@ -2243,8 +2243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
-      <jump line="68" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
       <jump line="102" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
       <jump line="109" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
       <jump line="74" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
@@ -2343,46 +2341,59 @@
       <jump line="76" column="70" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/UserActivity.kt" />
       <jump line="59" column="4" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CircularImageView.kt" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" />
+      <jump line="154" column="36" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="118" column="27" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bmSize.toFloat() /</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>bmSize.toFloat() /</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBEZXByZWNhdGVkCg==</text>
+      <register name="0" type="4">
+        <text>release {
+            buildConfigField &quot;boolean&quot;, &quot;STAGING&quot;, &quot;false&quot;
+            versionNameSuffix &quot;.&quot; + getReleaseBuildName()
+            //noinspection GroovyAssignabilityCheck
+            signingConfig signingConfigs.release
+            buildConfigField &quot;boolean&quot;, &quot;MULTIDEX&quot;, &quot;true&quot;
+//            proguardFile getDefaultProguardFile('proguard-android.txt')
+//            proguardFile '../proguard.txt'
+//            minifyEnabled true
+//            shrinkResources true
+            debuggable true
+        }</text>
       </register>
       <register name="1" type="4">
-        <text>bmSize.toFloat() /</text>
+        <text>g</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeCA9IGJpdG1hcFdpZHRoIC8gMgogICAgICAgICAgICB5ID0gYml0bWFwSGVpZ2h0IC8gMgo=</text>
+      <register name="2" type="4">
+        <text>u</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCB4OiBJbnQKCiAgICAgICAgcHJpdmF0ZSB2YWwgeTogSW50Cgo=</text>
+      <register name="3" type="4">
+        <text>b</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>e</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCB4OiBJbnQKCiAgICAgICAgcHJpdmF0ZSB2YWwgeTogSW50Cg==</text>
+      <register name="5" type="4">
+        <text>d</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeSA9IGJpdG1hcEhlaWdodCAvIDIK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBwcm9ndWFyZEZpbGUgZ2V0RGVmYXVsdFByb2d1YXJkRmlsZSgncHJvZ3VhcmQtYW5kcm9pZC50eHQnKQovLyAgICAgICAgICAgIHByb2d1YXJkRmlsZSAnLi4vcHJvZ3VhcmQudHh0JwovLyAgICAgICAgICAgIG1pbmlmeUVuYWJsZWQgdHJ1ZQovLyAgICAgICAgICAgIHNocmlua1Jlc291cmNlcyB0cnVlCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeCA9IGJpdG1hcFdpZHRoIC8gMgo=</text>
+      <register name="7" type="4">
+        <text>true</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGJtU2l6ZSA9IDIgKiByYWRpdXMK</text>
+      <register name="8" type="4">
+        <text>debug</text>
       </register>
       <register name="9" type="4">
-        <text>bmSize</text>
+        <text>debug</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
