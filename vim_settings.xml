@@ -353,12 +353,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" timestamp="1457347069380">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" timestamp="1457542081406">
         <mark key="'" line="307" column="0" />
-        <mark key="[" line="172" column="8" />
-        <mark key="]" line="172" column="21" />
-        <mark key="^" line="172" column="21" />
-        <mark key="." line="172" column="21" />
+        <mark key="[" line="468" column="14" />
+        <mark key="]" line="468" column="22" />
+        <mark key="." line="468" column="22" />
+        <mark key="^" line="468" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_settings.xml" timestamp="1456330980282">
         <mark key="'" line="26" column="8" />
@@ -2320,10 +2320,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DropDownItem.Spinner</text>
+        <text>TAG</text>
       </register>
       <register name="-" type="4">
-        <text>DropDownItem.Spinner</text>
+        <text>TAG</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2332,31 +2332,31 @@
         <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJTcGlubmVyU3R5bGUiIHBhcmVudD0iQmFzZS5XaWRnZXQuQXBwQ29tcGF0LkRyb3BEb3duSXRlbS5TcGlubmVyIi8+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>DropDownItem.Spinner</text>
+        <text>TAG</text>
       </register>
-      <register name="2" type="4">
-        <text>Underlined</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJ0cmFja1JlZmVycmVyOiAiKTsK</text>
       </register>
       <register name="3" type="4">
-        <text>Spinner</text>
+        <text>DropDownItem.Spinner</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
+      <register name="4" type="4">
         <text>Underlined</text>
       </register>
-      <register name="6" type="4">
-        <text>AppCompatSpinner</text>
+      <register name="5" type="4">
+        <text>Spinner</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>AppCompatSpinner</text>
+        <text>Underlined</text>
       </register>
       <register name="8" type="4">
-        <text>android.support.v7.widget.AppCompatSpinner</text>
+        <text>AppCompatSpinner</text>
       </register>
       <register name="9" type="4">
-        <text>wndroid.support.v7.widget.AppCompatSpinner</text>
+        <text>AppCompatSpinner</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
