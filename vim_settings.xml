@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1457526524707">
+      <file name="/a.dummy" timestamp="1457527832049">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -103,22 +103,24 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/values/colors.xml" timestamp="1457442806714">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/drawable/background_splash.xml" timestamp="1455796289344">
         <mark key="[" line="1" column="70" />
         <mark key="]" line="1" column="93" />
         <mark key="^" line="1" column="93" />
         <mark key="." line="1" column="93" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/LayoutInflater.java" timestamp="1457529064468" />
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/ui/ScreenContainer.java" timestamp="1453756233075">
         <mark key="[" line="8" column="34" />
         <mark key="]" line="11" column="46" />
         <mark key="^" line="11" column="46" />
         <mark key="." line="11" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/spinner.xml" timestamp="1457529431170">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/MainDrawerActivityPagerAdapter.java" timestamp="1456849175591">
         <mark key="[" line="27" column="43" />
@@ -188,9 +190,6 @@
         <mark key="]" line="30" column="54" />
         <mark key="^" line="30" column="54" />
         <mark key="." line="30" column="54" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/24a0b0e63af9530bcedd06ed1983a4f2f02155a3/glide-3.7.0-sources.jar!/com/bumptech/glide/Glide.java" timestamp="1457398401094">
-        <mark key="'" line="686" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/BottomSheetDialog.kt" timestamp="1456695968040">
         <mark key="[" line="6" column="0" />
@@ -269,9 +268,6 @@
         <mark key="]" line="26" column="68" />
         <mark key="^" line="26" column="68" />
         <mark key="." line="26" column="68" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ViewOutlineProvider.java" timestamp="1457365986227">
-        <mark key="'" line="86" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/Book.java" timestamp="1454407196111">
         <mark key="[" line="8" column="40" />
@@ -479,9 +475,6 @@
         <mark key="]" line="52" column="56" />
         <mark key="^" line="64" column="3" />
         <mark key="." line="64" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1456880492126">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/res/layout/view_item_data.xml" timestamp="1453761796474">
         <mark key="[" line="7" column="13" />
@@ -1068,9 +1061,6 @@
         <mark key="^" line="86" column="78" />
         <mark key="." line="86" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Toothpick/toothpick/build.gradle" timestamp="1457011075536">
-        <mark key="'" line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="7" column="62" />
@@ -1082,9 +1072,6 @@
         <mark key="]" line="2" column="25" />
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/ImagesUtils.java" timestamp="1457439368867">
-        <mark key="'" line="245" column="87" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/OnClick.java" timestamp="1456419807940">
         <mark key="[" line="16" column="0" />
@@ -1166,9 +1153,6 @@
         <mark key="]" line="70" column="27" />
         <mark key="." line="70" column="27" />
         <mark key="^" line="70" column="27" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/design/23.2.0/design-23.2.0-sources.jar!/android/support/design/widget/BottomSheetBehavior.java" timestamp="1456876157185">
-        <mark key="'" line="147" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Fave/app/src/main/java/com/imallan/fave/CircleDrawable.java" timestamp="1456250524332">
         <mark key="[" line="21" column="21" />
@@ -1291,11 +1275,11 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/widget/Spinner.java" timestamp="1457527826766">
-        <mark key="[" line="35" column="12" />
-        <mark key="]" line="35" column="11" />
-        <mark key="." line="35" column="11" />
-        <mark key="^" line="35" column="11" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/widget/Spinner.java" timestamp="1457529443713">
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="24" />
+        <mark key="." line="39" column="24" />
+        <mark key="^" line="39" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/res/layout/activity_article.xml" timestamp="1455731453177">
         <mark key="[" line="6" column="34" />
@@ -1443,9 +1427,6 @@
         <mark key="]" line="4" column="40" />
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="40" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/24a0b0e63af9530bcedd06ed1983a4f2f02155a3/glide-3.7.0-sources.jar!/com/bumptech/glide/request/target/ImageViewTarget.java" timestamp="1457398496573">
-        <mark key="'" line="79" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/kotlin/com/imallan/kotlinplayground/MainActivity.kt" timestamp="1456758017652">
         <mark key="'" line="23" column="0" />
@@ -1635,9 +1616,6 @@
         <mark key="]" line="72" column="27" />
         <mark key="." line="72" column="27" />
         <mark key="^" line="72" column="27" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ViewGroup.java" timestamp="1457442080736">
-        <mark key="'" line="306" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/ui/MainActivity.kt" timestamp="1455754548057">
         <mark key="[" line="13" column="0" />
@@ -2023,11 +2001,11 @@
         <mark key="." line="13" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1457527102207">
-        <mark key="'" line="118" column="27" />
-        <mark key="[" line="188" column="31" />
-        <mark key="]" line="188" column="35" />
-        <mark key="^" line="188" column="35" />
-        <mark key="." line="188" column="35" />
+        <mark key="'" line="76" column="27" />
+        <mark key="[" line="174" column="31" />
+        <mark key="]" line="174" column="35" />
+        <mark key="^" line="174" column="35" />
+        <mark key="." line="174" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/extension/LogExtension.kt" timestamp="1456097612463">
         <mark key="[" line="10" column="13" />
@@ -2129,6 +2107,12 @@
         <mark key="]" line="39" column="23" />
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values/styles.xml" timestamp="1457529555111">
+        <mark key="[" line="354" column="69" />
+        <mark key="]" line="354" column="80" />
+        <mark key="^" line="354" column="80" />
+        <mark key="." line="354" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_deals.xml" timestamp="1456326121926">
         <mark key="[" line="13" column="48" />
@@ -2332,54 +2316,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>final</text>
+        <text>Underlined</text>
       </register>
       <register name="-" type="4">
-        <text>final</text>
+        <text>Underlined</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>release {
-            buildConfigField &quot;boolean&quot;, &quot;STAGING&quot;, &quot;false&quot;
-            versionNameSuffix &quot;.&quot; + getReleaseBuildName()
-            //noinspection GroovyAssignabilityCheck
-            signingConfig signingConfigs.release
-            buildConfigField &quot;boolean&quot;, &quot;MULTIDEX&quot;, &quot;true&quot;
-//            proguardFile getDefaultProguardFile('proguard-android.txt')
-//            proguardFile '../proguard.txt'
-//            minifyEnabled true
-//            shrinkResources true
-            debuggable true
-        }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBtQ29udGV4dCA9IGNvbnRleHQ7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>final</text>
+        <text>Underlined</text>
       </register>
       <register name="2" type="4">
-        <text>final</text>
+        <text>AppCompatSpinner</text>
       </register>
       <register name="3" type="4">
-        <text>final</text>
+        <text>AppCompatSpinner</text>
       </register>
       <register name="4" type="4">
-        <text>final</text>
+        <text>android.support.v7.widget.AppCompatSpinner</text>
       </register>
       <register name="5" type="4">
-        <text>final</text>
+        <text>wndroid.support.v7.widget.AppCompatSpinner</text>
       </register>
       <register name="6" type="4">
-        <text>g</text>
+        <text>a</text>
       </register>
-      <register name="7" type="4">
-        <text>n</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtQ29udGV4dCA9IGNvbnRleHQ7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text encoding="base64">Q29udGV4dCBtQ29udGV4dCwg</text>
       </register>
       <register name="9" type="4">
-        <text>g</text>
+        <text>context</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
