@@ -2017,10 +2017,10 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1457614010206">
-        <mark key="[" line="9" column="50" />
-        <mark key="]" line="9" column="51" />
-        <mark key="." line="9" column="51" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1457622775633">
+        <mark key="[" line="161" column="45" />
+        <mark key="]" line="161" column="45" />
+        <mark key="." line="161" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/extension/LogExtension.kt" timestamp="1456097612463">
         <mark key="[" line="10" column="13" />
@@ -2337,10 +2337,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CLAMP</text>
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>23.0.2</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2348,32 +2348,32 @@
       <register name="0" type="4">
         <text>CLAMP</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVPcHRpb25zIHsKICAgICAgICBzb3VyY2VDb21wYXRpYmlsaXR5IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CiAgICAgICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgfQo=</text>
+      <register name="1" type="4">
+        <text>+</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGVPcHRpb25zIHsKICAgICAgICBzb3VyY2VDb21wYXRpYmlsaXR5IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CiAgICAgICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBqYWNrT3B0aW9ucyB7CiAgICAgICAgICAgIGVuYWJsZWQgdHJ1ZQogICAgICAgIH0K</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>23.0.2</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICcyNCByYzEnCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>2</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
-      </register>
       <register name="7" type="4">
-        <text>0</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZToxLjUuMCcK</text>
+      <register name="9" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
