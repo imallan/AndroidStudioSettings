@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1457628950715">
+      <file name="/a.dummy" timestamp="1457628973836">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -410,12 +410,12 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" timestamp="1455885286595">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" timestamp="1457629224072">
         <mark key="'" line="250" column="43" />
-        <mark key="[" line="267" column="0" />
-        <mark key="]" line="269" column="11" />
-        <mark key="^" line="268" column="44" />
-        <mark key="." line="268" column="44" />
+        <mark key="[" line="460" column="0" />
+        <mark key="]" line="460" column="0" />
+        <mark key="." line="460" column="0" />
+        <mark key="^" line="459" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/res/layout/activity_binder.xml" timestamp="1454369766467">
         <mark key="[" line="17" column="22" />
@@ -2338,11 +2338,11 @@
       <jump line="39" column="9" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1GYWIuc2V0QmFja2dyb3VuZENvbG9yKG1Db250ZXh0LmdldFIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>getColorStateList</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2350,32 +2350,32 @@
       <register name="0" type="2">
         <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIEZSRVNDTyAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>false</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1GYWIuc2V0QmFja2dyb3VuZENvbG9yKG1Db250ZXh0LmdldFIpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBSeEphdmEKLWtlZXAgY2xhc3MgcnguKiogeyAqOyB9Cg==</text>
+      <register name="2" type="4">
+        <text>getColorStateList</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1GYWIuc2V0QmFja2dyb3VuZFRpbnRMaXN0KCk7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiMgUnhKYXZhCi1rZWVwIGNsYXNzIHJ4LioqIHsgKjsgfQ==</text>
+        <text>mContext.getR</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBSeEphdmEKLWtlZXAgY2xhc3MgcnguKiogeyAqOyB9Cgo=</text>
+      <register name="5" type="4">
+        <text>mContext.getResources().getColorStateList(R.color.fab_liked)</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>false</text>
       </register>
-      <register name="7" type="4">
-        <text>1</text>
+      <register name="7" type="2">
+        <text encoding="base64">IyBSeEphdmEKLWtlZXAgY2xhc3MgcnguKiogeyAqOyB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>4</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>1</text>
+        <text encoding="base64">CiMgUnhKYXZhCi1rZWVwIGNsYXNzIHJ4LioqIHsgKjsgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
