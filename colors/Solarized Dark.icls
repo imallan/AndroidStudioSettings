@@ -1048,9 +1048,6 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE">
-      <value />
-    </option>
     <option name="HAML_RUBY_START">
       <value>
         <option name="FOREGROUND" value="d33682" />
@@ -1456,9 +1453,6 @@
         <option name="FOREGROUND" value="6c71c4" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="JSP_SCRIPTING_BACKGROUND">
-      <value />
     </option>
     <option name="KOTLIN_ANNOTATION">
       <value>
