@@ -506,12 +506,11 @@
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/TestActivity.kt" timestamp="1455791914221">
         <mark key="[" line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1457456024059">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1457612058054">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="54" column="5" />
-        <mark key="]" line="56" column="25" />
-        <mark key="." line="56" column="25" />
-        <mark key="^" line="56" column="25" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/AndroidManifest.xml" timestamp="1455720657856">
         <mark key="[" line="4" column="65" />
@@ -2019,11 +2018,9 @@
         <mark key="." line="13" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1457610697507">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="148" column="50" />
-        <mark key="]" line="148" column="51" />
-        <mark key="^" line="38" column="33" />
-        <mark key="." line="148" column="51" />
+        <mark key="[" line="9" column="50" />
+        <mark key="]" line="9" column="51" />
+        <mark key="." line="9" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/extension/LogExtension.kt" timestamp="1456097612463">
         <mark key="[" line="10" column="13" />
@@ -2340,10 +2337,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICcyNCByYzEnCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGVPcHRpb25zIHsKICAgICAgICBzb3VyY2VDb21wYXRpYmlsaXR5IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CiAgICAgICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>23.0.2</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2352,31 +2349,31 @@
         <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZToyLjEuMC1hbHBoYTEnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICcyNCByYzEnCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGVPcHRpb25zIHsKICAgICAgICBzb3VyY2VDb21wYXRpYmlsaXR5IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CiAgICAgICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgfQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>2</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBqYWNrT3B0aW9ucyB7CiAgICAgICAgICAgIGVuYWJsZWQgdHJ1ZQogICAgICAgIH0K</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>23.0.2</text>
       </register>
-      <register name="4" type="4">
-        <text>0</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICcyNCByYzEnCg==</text>
       </register>
       <register name="5" type="4">
+        <text>2</text>
+      </register>
+      <register name="6" type="4">
         <text>.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZToxLjUuMCcK</text>
+      <register name="7" type="4">
+        <text>0</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWUudGF0YXJrYS5yZXRyb2xhbWJkYScK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ21lLnRhdGFya2E6Z3JhZGxlLXJldHJvbGFtYmRhOjMuMi4zJwo=</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZToxLjUuMCcK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
