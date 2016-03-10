@@ -1782,12 +1782,12 @@
         <mark key="." line="39" column="68" />
         <mark key="^" line="39" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" timestamp="1457623899483">
-        <mark key="'" line="39" column="4" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="91" column="54" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" timestamp="1457626106769">
+        <mark key="'" line="39" column="9" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="100" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/anim/slide_out_left.xml" timestamp="1456335986607">
         <mark key="[" line="5" column="26" />
@@ -1903,6 +1903,7 @@
         <mark key="^" line="13" column="51" />
         <mark key="." line="13" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/notifications/Notification.java" timestamp="1457625349395" />
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/PresenterHolder.java" timestamp="1454244958934">
         <mark key="[" line="37" column="19" />
         <mark key="]" line="37" column="18" />
@@ -2017,11 +2018,11 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1457623436895">
-        <mark key="[" line="99" column="53" />
-        <mark key="]" line="99" column="57" />
-        <mark key="." line="99" column="57" />
-        <mark key="^" line="99" column="57" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1457626008948">
+        <mark key="[" line="124" column="53" />
+        <mark key="]" line="124" column="54" />
+        <mark key="." line="124" column="54" />
+        <mark key="^" line="124" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/extension/LogExtension.kt" timestamp="1456097612463">
         <mark key="[" line="10" column="13" />
@@ -2235,10 +2236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="4" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
-      <jump line="141" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
-      <jump line="72" column="4" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/MainActivity.kt" />
-      <jump line="144" column="45" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
       <jump line="187" column="4" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
       <jump line="2" column="7" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
@@ -2335,46 +2332,50 @@
       <jump line="177" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="117" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="43" column="50" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
+      <jump line="3" column="19" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
+      <jump line="100" column="75" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
+      <jump line="39" column="9" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBSeEphdmEKLWtlZXAgY2xhc3MgcnguKiogeyAqOyB9Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>CLAMP</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIEZSRVNDTyAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBSeEphdmEKLWtlZXAgY2xhc3MgcnguKiogeyAqOyB9Cgo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">I0FuZHJvaWQgU3VwcG9ydCBMaWJyYXJ5Ci1kb250d2FybiBhbmRyb2lkLnN1cHBvcnQuKioKLWtlZXAgY2xhc3MgYW5kcm9pZC5zdXBwb3J0LioqIHsgKjsgfQota2VlcCBpbnRlcmZhY2UgYW5kcm9pZC5zdXBwb3J0LioqIHsgKjsgfQota2VlcCBwdWJsaWMgY2xhc3MgYW5kcm9pZC5zdXBwb3J0LmRlc2lnbi5SJCogeyAqOyB9Cg==</text>
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>true</text>
+        <text>1</text>
       </register>
       <register name="4" type="4">
-        <text>+</text>
+        <text>4</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVPcHRpb25zIHsKICAgICAgICBzb3VyY2VDb21wYXRpYmlsaXR5IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CiAgICAgICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgfQo=</text>
+      <register name="5" type="4">
+        <text>1</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqYWNrT3B0aW9ucyB7CiAgICAgICAgICAgIGVuYWJsZWQgdHJ1ZQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2lvLnJlYWN0aXZleDpyeGphdmE6MS4wLjE0Jwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>23.0.2</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2lvLnJlYWN0aXZleDpyeGFuZHJvaWQ6MS4wLjEnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICcyNCByYzEnCg==</text>
+        <text encoding="base64">IyBmYWNlYm9vawota2VlcCBjbGFzcyBjb20uZmFjZWJvb2suKiogeyAqOyB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>2</text>
+      <register name="9" type="2">
+        <text encoding="base64">IyB0d2l0dGVyCi1rZWVwIGNsYXNzIHR3aXR0ZXI0ai4qKiB7ICo7IH0K</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
