@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1457628973836">
+      <file name="/a.dummy" timestamp="1457691616168">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -506,11 +506,11 @@
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/TestActivity.kt" timestamp="1455791914221">
         <mark key="[" line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1457612058054">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1457692027179">
+        <mark key="'" line="20" column="29" />
+        <mark key="[" line="67" column="45" />
+        <mark key="]" line="67" column="46" />
+        <mark key="." line="67" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/AndroidManifest.xml" timestamp="1455720657856">
         <mark key="[" line="4" column="65" />
@@ -798,7 +798,7 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/extension/ThemeExtensions.kt" timestamp="1456767454479">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/extension/ThemeExtensions.kt" timestamp="1457691985155">
         <mark key="'" line="36" column="11" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -1067,6 +1067,9 @@
         <mark key="]" line="84" column="70" />
         <mark key="^" line="86" column="78" />
         <mark key="." line="86" column="67" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1457691616163">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
@@ -2018,10 +2021,11 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1457628971664">
-        <mark key="[" line="99" column="53" />
-        <mark key="]" line="99" column="56" />
-        <mark key="." line="99" column="56" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1457691334244">
+        <mark key="'" line="128" column="46" />
+        <mark key="[" line="150" column="50" />
+        <mark key="]" line="150" column="51" />
+        <mark key="." line="150" column="51" />
         <mark key="^" line="99" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/java/com/imallan/instafilm/extension/LogExtension.kt" timestamp="1456097612463">
@@ -2236,8 +2240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
-      <jump line="187" column="4" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
       <jump line="2" column="7" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
       <jump line="36" column="11" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/extension/ThemeExtensions.kt" />
       <jump line="174" column="3" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
@@ -2336,6 +2338,8 @@
       <jump line="3" column="19" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
       <jump line="100" column="75" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
       <jump line="39" column="9" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
+      <jump line="128" column="46" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="20" column="29" filename="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
