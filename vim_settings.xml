@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1457695826210">
+      <file name="/a.dummy" timestamp="1457696650856">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -976,6 +976,12 @@
         <mark key="]" line="375" column="22" />
         <mark key="^" line="375" column="22" />
         <mark key="." line="375" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/header_post.xml" timestamp="1457696328689">
+        <mark key="[" line="124" column="32" />
+        <mark key="]" line="124" column="33" />
+        <mark key="^" line="124" column="34" />
+        <mark key="." line="124" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/RichQuickAction/quickaction/src/main/java/com/imallan/quickaction/QuickActionView.java" timestamp="1454934301471">
         <mark key="[" line="10" column="41" />
