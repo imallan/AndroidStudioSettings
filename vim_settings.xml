@@ -15,14 +15,14 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1457716274294">
-        <mark key="'" line="211" column="28" />
-        <mark key="[" line="207" column="57" />
-        <mark key="]" line="208" column="51" />
-        <mark key="." line="208" column="51" />
-        <mark key="^" line="208" column="51" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1457716872528">
+        <mark key="'" line="212" column="28" />
+        <mark key="[" line="210" column="82" />
+        <mark key="]" line="210" column="92" />
+        <mark key="." line="210" column="92" />
+        <mark key="^" line="210" column="92" />
       </file>
-      <file name="/a.dummy" timestamp="1457713927341">
+      <file name="/a.dummy" timestamp="1457716877939">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
@@ -1078,6 +1078,9 @@
         <mark key="]" line="84" column="70" />
         <mark key="^" line="86" column="78" />
         <mark key="." line="86" column="67" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1457716877935">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AdaptiveExample/build.gradle" timestamp="1453464350384">
         <mark key="[" line="7" column="61" />
@@ -2378,41 +2381,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>est</text>
+        <text>Request::getPayload</text>
       </register>
       <register name="-" type="4">
-        <text>est</text>
+        <text>Request::getPayload</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>APIPost.VERSION, APIPost.PLATFORM, user.getDeviceId(),
-                user.getServerId()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoUmVxdWVzdDo6Z2V0UGF5bG9hZCkK</text>
       </register>
       <register name="1" type="4">
-        <text>est</text>
+        <text>Request::getPayload</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+      <register name="2" type="4">
+        <text>map</text>
       </register>
       <register name="3" type="4">
-        <text>Payload</text>
+        <text>est</text>
       </register>
-      <register name="4" type="4">
-        <text>launchLinkInternally</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="5" type="4">
-        <text>LOG_TAG</text>
+        <text>Payload</text>
       </register>
       <register name="6" type="4">
-        <text>LOG_TAG</text>
+        <text>launchLinkInternally</text>
       </register>
       <register name="7" type="4">
-        <text>TAG</text>
+        <text>LOG_TAG</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>LOG_TAG</text>
       </register>
       <register name="9" type="4">
         <text>TAG</text>
