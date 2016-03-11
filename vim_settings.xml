@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1457716872528">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1457718331455">
         <mark key="'" line="212" column="28" />
         <mark key="[" line="210" column="82" />
         <mark key="]" line="210" column="92" />
@@ -270,11 +270,11 @@
         <mark key="^" line="182" column="23" />
         <mark key="." line="179" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/RxContraCheatExample/app/src/main/java/com/imallan/rxcontracheatexample/MainActivity.java" timestamp="1457714380538">
-        <mark key="'" line="31" column="23" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/RxContraCheatExample/app/src/main/java/com/imallan/rxcontracheatexample/MainActivity.java" timestamp="1457720382216">
+        <mark key="[" line="54" column="25" />
+        <mark key="]" line="54" column="26" />
+        <mark key="." line="54" column="26" />
+        <mark key="^" line="48" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/PresenterHolder.kt" timestamp="1456765430513">
         <mark key="[" line="36" column="25" />
@@ -523,6 +523,12 @@
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/TestActivity.kt" timestamp="1455791914221">
         <mark key="[" line="10" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1457692027179">
+        <mark key="'" line="20" column="29" />
+        <mark key="[" line="67" column="45" />
+        <mark key="]" line="67" column="46" />
+        <mark key="." line="67" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/AndroidManifest.xml" timestamp="1455720657856">
         <mark key="[" line="4" column="65" />
         <mark key="]" line="5" column="3" />
@@ -655,6 +661,12 @@
         <mark key="]" line="62" column="39" />
         <mark key="." line="62" column="39" />
         <mark key="^" line="62" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" timestamp="1457546533298">
+        <mark key="'" line="307" column="0" />
+        <mark key="[" line="471" column="0" />
+        <mark key="]" line="471" column="0" />
+        <mark key="." line="471" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/adapters/TextArticleAdapter.kt" timestamp="1455728405175">
         <mark key="'" line="40" column="32" />
@@ -1586,11 +1598,11 @@
         <mark key="^" line="58" column="60" />
         <mark key="." line="58" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/RxContraCheatExample/app/build.gradle" timestamp="1457713967210">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="25" />
-        <mark key="." line="8" column="25" />
-        <mark key="^" line="8" column="25" />
+      <file name="$USER_HOME$/Documents/GitHub/RxContraCheatExample/app/build.gradle" timestamp="1457718252340">
+        <mark key="'" line="29" column="33" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/Sting.kt" timestamp="1456419980258">
         <mark key="[" line="32" column="22" />
@@ -2173,11 +2185,11 @@
         <mark key="^" line="354" column="78" />
         <mark key="." line="354" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/RxContraCheatExample/app/src/main/res/layout/activity_main.xml" timestamp="1457714095022">
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="36" />
+      <file name="$USER_HOME$/Documents/GitHub/RxContraCheatExample/app/src/main/res/layout/activity_main.xml" timestamp="1457720002604">
+        <mark key="[" line="54" column="40" />
+        <mark key="]" line="54" column="44" />
+        <mark key="." line="54" column="44" />
+        <mark key="^" line="54" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_deals.xml" timestamp="1456326121926">
         <mark key="[" line="13" column="48" />
@@ -2278,8 +2290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="15" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
-      <jump line="90" column="27" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
       <jump line="43" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotsPresenter.kt" />
       <jump line="24" column="20" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
@@ -2378,46 +2388,48 @@
       <jump line="117" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" />
       <jump line="208" column="28" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
+      <jump line="48" column="32" filename="$USER_HOME$/Documents/GitHub/RxContraCheatExample/app/src/main/java/com/imallan/rxcontracheatexample/MainActivity.java" />
+      <jump line="30" column="33" filename="$USER_HOME$/Documents/GitHub/RxContraCheatExample/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Request::getPayload</text>
+        <text>B</text>
       </register>
       <register name="-" type="4">
-        <text>Request::getPayload</text>
+        <text>B</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoUmVxdWVzdDo6Z2V0UGF5bG9hZCkK</text>
+        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmxlPFN0cmluZz4gb2JzZXJ2YWJsZUIgPSBSeFZpZXcuY2xpY2tzKG1CdXR0b25CKS5tYXAobyAtPiAiQiIpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>Request::getPayload</text>
+        <text>B</text>
       </register>
       <register name="2" type="4">
-        <text>map</text>
+        <text>B</text>
       </register>
       <register name="3" type="4">
-        <text>est</text>
+        <text>B</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+      <register name="4" type="4">
+        <text>B</text>
       </register>
       <register name="5" type="4">
-        <text>Payload</text>
+        <text>100 lifes awarded</text>
       </register>
       <register name="6" type="4">
-        <text>launchLinkInternally</text>
+        <text>SUCCESS</text>
       </register>
       <register name="7" type="4">
-        <text>LOG_TAG</text>
+        <text>ABBABA</text>
       </register>
       <register name="8" type="4">
-        <text>LOG_TAG</text>
+        <text>6</text>
       </register>
       <register name="9" type="4">
-        <text>TAG</text>
+        <text>B</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
