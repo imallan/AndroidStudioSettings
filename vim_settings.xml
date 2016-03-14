@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1457961031340">
+      <file name="/a.dummy" timestamp="1457963435134">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
@@ -1702,10 +1702,10 @@
         <mark key="^" line="1244" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/LoginActivity.java" timestamp="1457961412323">
-        <mark key="[" line="521" column="0" />
-        <mark key="]" line="522" column="60" />
-        <mark key="^" line="499" column="63" />
-        <mark key="." line="499" column="63" />
+        <mark key="[" line="516" column="0" />
+        <mark key="]" line="517" column="60" />
+        <mark key="^" line="494" column="63" />
+        <mark key="." line="494" column="63" />
       </file>
       <file name="/fragment.java" timestamp="1456875019787">
         <mark key="[" line="0" column="0" />
@@ -2059,12 +2059,12 @@
         <mark key="." line="39" column="68" />
         <mark key="^" line="39" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" timestamp="1457628549270">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" timestamp="1457963419069">
         <mark key="'" line="39" column="9" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="100" column="0" />
-        <mark key="." line="81" column="0" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="1" />
+        <mark key="^" line="98" column="1" />
+        <mark key="." line="98" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/anim/slide_out_left.xml" timestamp="1456335986607">
         <mark key="[" line="5" column="26" />
@@ -2205,12 +2205,12 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1457954737884">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1457963434234">
         <mark key="'" line="130" column="46" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="^" line="151" column="41" />
-        <mark key="." line="146" column="0" />
+        <mark key="[" line="99" column="53" />
+        <mark key="]" line="99" column="57" />
+        <mark key="^" line="99" column="57" />
+        <mark key="." line="99" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values-v21/styles.xml" timestamp="1457695825227">
         <mark key="[" line="67" column="0" />
@@ -2438,10 +2438,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>tiwfwe</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>tiwfwe</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2450,31 +2450,31 @@
         <text encoding="base64">ICAgICAgICBtUHJvZ3Jlc3NEaWFsb2cuc2hvdygpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>false</text>
+        <text>tiwfwe</text>
       </register>
       <register name="2" type="4">
-        <text>true</text>
+        <text>i</text>
       </register>
       <register name="3" type="4">
-        <text>true</text>
+        <text>ru</text>
       </register>
       <register name="4" type="4">
         <text>false</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>true</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>true</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uVW5zdWJzY3JpYmUoKCkgLT4gewogICAgICAgICAgICAgICAgICAgIG1Qcm9ncmVzc0RpYWxvZy5kaXNtaXNzKCk7CiAgICAgICAgICAgICAgICB9KQo=</text>
+      <register name="7" type="4">
+        <text>false</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uVW5zdWJzY3JpYmUoKCkgLT4gewogICAgICAgICAgICAgICAgICAgIG1Qcm9ncmVzc0RpYWxvZy5kaXNtaXNzKCk7CiAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uVW5zdWJzY3JpYmUoKCkgLT4gewogICAgICAgICAgICAgICAgICAgIG1Qcm9ncmVzc0RpYWxvZy5kaXNtaXNzKCk7CiAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
