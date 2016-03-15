@@ -1124,12 +1124,12 @@
         <mark key="^" line="19" column="70" />
         <mark key="." line="19" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/MockRules.kt" timestamp="1458062490699">
+      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/MockRules.kt" timestamp="1458063886796">
         <mark key="'" line="45" column="8" />
-        <mark key="[" line="37" column="51" />
-        <mark key="]" line="37" column="53" />
-        <mark key="^" line="37" column="53" />
-        <mark key="." line="37" column="53" />
+        <mark key="[" line="59" column="35" />
+        <mark key="]" line="59" column="35" />
+        <mark key="." line="59" column="35" />
+        <mark key="^" line="59" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values/styles.xml" timestamp="1457695723778">
         <mark key="'" line="357" column="59" />
@@ -2001,12 +2001,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="17" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/IntentHandleActivity.kt" timestamp="1458061956542">
+      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/IntentHandleActivity.kt" timestamp="1458063327188">
         <mark key="'" line="43" column="12" />
-        <mark key="[" line="38" column="21" />
-        <mark key="]" line="38" column="22" />
-        <mark key="." line="38" column="22" />
-        <mark key="^" line="38" column="22" />
+        <mark key="[" line="45" column="62" />
+        <mark key="]" line="47" column="25" />
+        <mark key="." line="47" column="25" />
+        <mark key="^" line="47" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/view/SquareFrameLayout.kt" timestamp="1455723332255">
         <mark key="[" line="27" column="42" />
@@ -2485,43 +2485,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bGUoCiAgICAgICAgICAgICAgICAgICAgICAgIHR5cGUgPSAic2NoZW1lIiwKICAgICAgICAgICAgICAgICAgICAgICAgaG9zdCA9ICJ3ZWliby5jb20iLAogICAgICAgICAgICAgICAgICAgICAgICBwYWNrYWdlTmFtZSA9ICJjb20uc2luYS53ZWlibyIsCiAgICAgICAgICAgICAgICAgICAgICAgIHJlZ2V4ID0gIiIiaHR0cHM/Oi8vKD86d3d3Lik/d2VpYm8uKD86Y29tfGNuKS8oPzp1Lyk/KFteL10rKS8/IiIiLAogICAgICAgICAgICAgICAgICAgICAgICB1cmkgPSAic2luYXdlaWJvL3VzZXJpbmZvP3VpZD17MX0iCiAgICAgICAgICAgICAgICApLA==</text>
+        <text>Rule(
+                        type = &quot;scheme&quot;,
+                        host = &quot;www.facebook.com&quot;,
+                        packageName = &quot;com.facebook.katana&quot;,
+                        regex = &quot;&quot;&quot;https?://(?:www.)?facebook.(?:com)/([^/]+)/posts/(\d+)/?&quot;&quot;&quot;,
+                        uri = &quot;https/www.facebook.com/{1}/posts/{2}&quot;
+                ),</text>
       </register>
       <register name="1" type="4">
-        <text>+</text>
+        <text>s</text>
       </register>
-      <register name="2" type="4">
-        <text>com</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>om</text>
+        <text encoding="base64">PGlkX2hlcmU+</text>
       </register>
       <register name="4" type="4">
-        <text>m</text>
+        <text>/</text>
       </register>
       <register name="5" type="4">
-        <text>om</text>
+        <text>:</text>
       </register>
       <register name="6" type="4">
-        <text>\</text>
+        <text>https/www.facebook.com/</text>
       </register>
       <register name="7" type="4">
-        <text>]</text>
+        <text>/</text>
       </register>
       <register name="8" type="4">
-        <text>(?:u/)?([^/]+)/?</text>
+        <text>posts/{2}&quot;</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IHVyaTogVXJpLA==</text>
+        <text>/posts/(\d+)</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
