@@ -15,6 +15,9 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
+      <file name="/a.dummy" timestamp="1458062588251">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
         <mark key="[" line="197" column="40" />
         <mark key="]" line="197" column="45" />
@@ -274,6 +277,9 @@
         <mark key="." line="21" column="32" />
         <mark key="^" line="21" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/TestActivity.kt" timestamp="1455791914221">
+        <mark key="[" line="10" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/AndroidManifest.xml" timestamp="1455720657856">
         <mark key="[" line="4" column="65" />
         <mark key="]" line="5" column="3" />
@@ -397,6 +403,9 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/java/com/imallan/crossover/ui/widget/CurvedBottomView.java" timestamp="1457365595592">
+        <mark key="[" line="26" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1456757556973">
         <mark key="'" line="113" column="28" />
         <mark key="[" line="94" column="0" />
@@ -404,11 +413,12 @@
         <mark key="." line="94" column="48" />
         <mark key="^" line="94" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/MainActivity.kt" timestamp="1458042564177">
-        <mark key="'" line="17" column="10" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/MainActivity.kt" timestamp="1458062079066">
+        <mark key="'" line="18" column="10" />
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/Presenter.java" timestamp="1453757110667">
         <mark key="[" line="6" column="7" />
@@ -506,12 +516,12 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/Extensions.kt" timestamp="1458043146568">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="57" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/Extensions.kt" timestamp="1458057497047">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/MainActivity.kt" timestamp="1456758858001">
         <mark key="'" line="38" column="0" />
@@ -562,6 +572,9 @@
         <mark key="]" line="47" column="35" />
         <mark key="^" line="47" column="35" />
         <mark key="." line="47" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/presenters/MyPresenter.java" timestamp="1453744527833">
+        <mark key="[" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/activities/BaseActivity.java" timestamp="1454177219588">
         <mark key="[" line="28" column="56" />
@@ -652,6 +665,9 @@
         <mark key="]" line="10" column="55" />
         <mark key="^" line="10" column="55" />
         <mark key="." line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Fave/app/src/main/res/layout/activity_main.xml" timestamp="1456250206618">
+        <mark key="[" line="16" column="47" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/kotlin/com/imallan/kotlinplayground/TopicAdapter.kt" timestamp="1456486853868">
         <mark key="'" line="5" column="60" />
@@ -757,6 +773,9 @@
         <mark key="^" line="39" column="28" />
         <mark key="." line="39" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_product.xml" timestamp="1453387155326">
+        <mark key="[" line="215" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/UserActivity.kt" timestamp="1457399042108">
         <mark key="[" line="57" column="76" />
         <mark key="]" line="57" column="86" />
@@ -806,9 +825,6 @@
         <mark key="]" line="6" column="54" />
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" timestamp="1457971164238">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_shopping_basket.xml" timestamp="1453814453562">
         <mark key="[" line="10" column="44" />
@@ -924,6 +940,9 @@
         <mark key="^" line="36" column="50" />
         <mark key="." line="36" column="50" />
       </file>
+      <file name="/fragment.kt" timestamp="1458061359441">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/debug/res/values/strings.xml" timestamp="1457951688014">
         <mark key="[" line="4" column="56" />
         <mark key="]" line="4" column="70" />
@@ -941,6 +960,12 @@
         <mark key="]" line="17" column="74" />
         <mark key="^" line="17" column="74" />
         <mark key="." line="17" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/Rule.kt" timestamp="1458057865082">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="3" column="38" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/drawable/ic_comment_text.xml" timestamp="1456788378922">
         <mark key="[" line="6" column="27" />
@@ -983,6 +1008,9 @@
         <mark key="]" line="25" column="9" />
         <mark key="^" line="25" column="9" />
         <mark key="." line="25" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/UserListsFragment.java" timestamp="1453480590172">
+        <mark key="[" line="106" column="84" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/notifications/Notification.java" timestamp="1457625349395" />
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/PresenterHolder.java" timestamp="1454244958934">
@@ -1096,6 +1124,13 @@
         <mark key="^" line="19" column="70" />
         <mark key="." line="19" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/MockRules.kt" timestamp="1458062490699">
+        <mark key="'" line="45" column="8" />
+        <mark key="[" line="37" column="51" />
+        <mark key="]" line="37" column="53" />
+        <mark key="^" line="37" column="53" />
+        <mark key="." line="37" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values/styles.xml" timestamp="1457695723778">
         <mark key="'" line="357" column="59" />
         <mark key="[" line="354" column="68" />
@@ -1114,6 +1149,9 @@
         <mark key="]" line="14" column="35" />
         <mark key="^" line="14" column="35" />
         <mark key="." line="14" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/res/layout/activity_main.xml" timestamp="1455719544335">
+        <mark key="[" line="11" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/IntentHandleActivity.java" timestamp="1458040900137">
         <mark key="[" line="7" column="34" />
@@ -1241,6 +1279,9 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Analytics.java" timestamp="1455192160639">
+        <mark key="[" line="1323" column="66" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" timestamp="1457716201771">
         <mark key="'" line="178" column="73" />
         <mark key="[" line="1137" column="22" />
@@ -1273,6 +1314,9 @@
         <mark key="]" line="182" column="23" />
         <mark key="^" line="182" column="23" />
         <mark key="." line="179" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/Book.java" timestamp="1454407196111">
+        <mark key="[" line="8" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build/generated/source/r/prod/release/android/support/design/R.java" timestamp="1457694536990" />
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/model/Article.kt" timestamp="1455719416197">
@@ -1439,6 +1483,9 @@
         <mark key="^" line="49" column="42" />
         <mark key="." line="45" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Fave/app/src/main/java/com/imallan/fave/FavDrawable.java" timestamp="1456249718511">
+        <mark key="[" line="11" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" timestamp="1456783493753">
         <mark key="'" line="10" column="23" />
         <mark key="[" line="62" column="32" />
@@ -1466,6 +1513,9 @@
         <mark key="]" line="37" column="8" />
         <mark key="." line="37" column="8" />
         <mark key="^" line="37" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/drawable/icon_drawer.xml" timestamp="1456406388107">
+        <mark key="[" line="5" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImagePinchZoomActivity.java" timestamp="1456754453138">
         <mark key="'" line="98" column="20" />
@@ -1661,6 +1711,9 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="16" column="3" />
       </file>
+      <file name="/a.regexp" timestamp="1454088273903">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/aidl/com/imallan/aidlexample/BookBinderService.java" timestamp="1454370315031">
         <mark key="[" line="19" column="4" />
         <mark key="]" line="19" column="17" />
@@ -1686,6 +1739,9 @@
         <mark key="]" line="848" column="66" />
         <mark key="." line="848" column="66" />
         <mark key="^" line="848" column="66" />
+      </file>
+      <file name="/fragment.java" timestamp="1456875019787">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/build.gradle" timestamp="1457609848364">
         <mark key="[" line="7" column="0" />
@@ -1780,6 +1836,9 @@
         <mark key="^" line="109" column="74" />
         <mark key="." line="110" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/viewholder/ShotViewHolder.kt" timestamp="1456744654056">
+        <mark key="[" line="28" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_loading.xml" timestamp="1454674261095">
         <mark key="[" line="13" column="38" />
         <mark key="]" line="13" column="48" />
@@ -1822,11 +1881,17 @@
         <mark key="." line="16" column="46" />
         <mark key="^" line="16" column="46" />
       </file>
+      <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/res/layout/activity_detail.xml" timestamp="1455635884797">
+        <mark key="[" line="5" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/ui/activities/MainActivity.java" timestamp="1454255058023">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="30" />
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/java/com/imallan/crossover/ui/widget/DotsView.java" timestamp="1457450571109">
+        <mark key="[" line="38" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/kotlin/com/imallan/kotlinplayground/MainActivity.kt" timestamp="1456758017652">
         <mark key="'" line="23" column="0" />
@@ -1835,7 +1900,7 @@
         <mark key="." line="57" column="61" />
         <mark key="^" line="57" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/build.gradle" timestamp="1458040424152">
+      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/build.gradle" timestamp="1458059967221">
         <mark key="'" line="43" column="45" />
         <mark key="[" line="45" column="49" />
         <mark key="]" line="46" column="46" />
@@ -1915,6 +1980,9 @@
         <mark key="^" line="4" column="64" />
         <mark key="." line="4" column="64" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Griffin/build.gradle" timestamp="1453464337709">
+        <mark key="[" line="7" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/model/LinksEntity.java" timestamp="1456661963633">
         <mark key="[" line="6" column="25" />
         <mark key="]" line="6" column="24" />
@@ -1933,12 +2001,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="17" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/IntentHandleActivity.kt" timestamp="1458049441244">
-        <mark key="'" line="19" column="10" />
-        <mark key="[" line="36" column="48" />
-        <mark key="]" line="36" column="79" />
-        <mark key="^" line="36" column="79" />
-        <mark key="." line="36" column="79" />
+      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/IntentHandleActivity.kt" timestamp="1458061956542">
+        <mark key="'" line="43" column="12" />
+        <mark key="[" line="38" column="21" />
+        <mark key="]" line="38" column="22" />
+        <mark key="." line="38" column="22" />
+        <mark key="^" line="38" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/view/SquareFrameLayout.kt" timestamp="1455723332255">
         <mark key="[" line="27" column="42" />
@@ -2022,6 +2090,9 @@
         <mark key="." line="18" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractSocialNetworksActivity.java" timestamp="1458035904326" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
+        <mark key="[" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CircularImageView.kt" timestamp="1457398946265">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="39" column="33" />
@@ -2153,6 +2224,9 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/view/SquareFrameLayout.java" timestamp="1455723289684">
+        <mark key="[" line="10" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/layout/activity_main.xml" timestamp="1454255030595">
         <mark key="[" line="1" column="51" />
         <mark key="]" line="2" column="33" />
@@ -2267,6 +2341,9 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/model/Response.kt" timestamp="1455720971079">
+        <mark key="[" line="6" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/stetho/stetho-sample/src/debug/java/com/facebook/stetho/sample/SampleDebugApplication.java" timestamp="1454332301385">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="82" />
@@ -2305,11 +2382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="60" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/activity_shot.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/activity_shot.xml" />
-      <jump line="189" column="13" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/content_shot.xml" />
-      <jump line="190" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/activity_shot.xml" />
       <jump line="54" column="3" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/activity_shot.xml" />
       <jump line="121" column="12" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="115" column="59" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
@@ -2405,46 +2477,51 @@
       <jump line="57" column="0" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/Extensions.kt" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/Extensions.kt" />
       <jump line="19" column="10" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/IntentHandleActivity.kt" />
+      <jump line="36" column="25" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/IntentHandleActivity.kt" />
+      <jump line="81" column="49" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/IntentHandleActivity.kt" />
+      <jump line="26" column="20" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/MockRules.kt" />
+      <jump line="38" column="8" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/MockRules.kt" />
+      <jump line="41" column="12" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/IntentHandleActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2QoIlNob3VsZCBvcGVuIGluIGJyb3dzZXIiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>com.instagram.android</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2QoIlNob3VsZCBvcGVuIGluIGJyb3dzZXIiKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ1bGUoCiAgICAgICAgICAgICAgICAgICAgICAgIHR5cGUgPSAic2NoZW1lIiwKICAgICAgICAgICAgICAgICAgICAgICAgaG9zdCA9ICJ3ZWliby5jb20iLAogICAgICAgICAgICAgICAgICAgICAgICBwYWNrYWdlTmFtZSA9ICJjb20uc2luYS53ZWlibyIsCiAgICAgICAgICAgICAgICAgICAgICAgIHJlZ2V4ID0gIiIiaHR0cHM/Oi8vKD86d3d3Lik/d2VpYm8uKD86Y29tfGNuKS8oPzp1Lyk/KFteL10rKS8/IiIiLAogICAgICAgICAgICAgICAgICAgICAgICB1cmkgPSAic2luYXdlaWJvL3VzZXJpbmZvP3VpZD17MX0iCiAgICAgICAgICAgICAgICApLA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tLmFuZHJvaWQuY2hyb21lCg==</text>
+      <register name="1" type="4">
+        <text>+</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2hlbGwuU1UucnVuKCJhbSBzdGFydCAtIgo=</text>
+      <register name="2" type="4">
+        <text>com</text>
       </register>
       <register name="3" type="4">
-        <text>com.instagram.android</text>
+        <text>om</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>m</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmhvc3Q9Ind3dy5pbnN0YWdyYW0uY29tIgo=</text>
+      <register name="5" type="4">
+        <text>om</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmhvc3Q9Ind3dy5pbnN0YWdyYW0uY29tIgo=</text>
+      <register name="6" type="4">
+        <text>\</text>
       </register>
       <register name="7" type="4">
-        <text>com.instagram.android</text>
+        <text>]</text>
       </register>
       <register name="8" type="4">
-        <text>com.instagram.android</text>
+        <text>(?:u/)?([^/]+)/?</text>
       </register>
       <register name="9" type="4">
-        <text>com.instagram.android</text>
+        <text encoding="base64">IHVyaTogVXJpLA==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
