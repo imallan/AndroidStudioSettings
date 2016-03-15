@@ -1933,11 +1933,11 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="17" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/IntentHandleActivity.kt" timestamp="1458044810294">
-        <mark key="[" line="39" column="30" />
-        <mark key="]" line="39" column="30" />
-        <mark key="^" line="39" column="72" />
-        <mark key="." line="39" column="30" />
+      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/IntentHandleActivity.kt" timestamp="1458046050454">
+        <mark key="[" line="41" column="36" />
+        <mark key="]" line="41" column="26" />
+        <mark key="^" line="41" column="26" />
+        <mark key="." line="41" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/view/SquareFrameLayout.kt" timestamp="1455723332255">
         <mark key="[" line="27" column="42" />
@@ -2084,7 +2084,7 @@
         <mark key="^" line="32" column="21" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/extension/PreferenceExtensions.kt" timestamp="1458043129774">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/extension/PreferenceExtensions.kt" timestamp="1458046392383">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="0" />
@@ -2407,10 +2407,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>am start -n com.instagram.android</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>am start -n com.instagram.android</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2419,31 +2419,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiJHt1cmkuc2NoZW1lfS8iICsKICAgICAgICAgICAgICAgICAgICAiJHt1cmkuaG9zdH0vIiArCiAgICAgICAgICAgICAgICAgICAgIiR7dXJpLnBhdGhTZWdtZW50cz8uam9pblRvU3RyaW5nKHNlcGFyYXRvciA9ICIvIil9Igo=</text>
       </register>
       <register name="1" type="4">
-        <text>/</text>
+        <text>am start -n com.instagram.android</text>
       </register>
-      <register name="2" type="4">
-        <text>:</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiJHt1cmkucGF0aFNlZ21lbnRzPy5qb2luVG9TdHJpbmcoc2VwYXJhdG9yID0gIi8iKX0iCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>com.instagram.android</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiJHt1cmkuaG9zdH0vIiArCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiaW5zdGFncmFtOi8vIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiJHt1cmkuc2NoZW1lfS8iICsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiaW5zdGFncmFtOi8vIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiIC1kIGFuZHJvaWQtYXBwOi8vY29tLmFuZHJvaWQuY2hyb21lLyIgKwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IGFuZHJvaWQuaW50ZW50LmFjdGlvbi5WSUVX</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;user&quot;</text>
+        <text>/</text>
       </register>
       <register name="8" type="4">
-        <text>${uri.}</text>
+        <text>:</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZE9wZW4gPSAiYW0gc3RhcnQgLWEgYW5kcm9pZC5pbnRlbnQuYWN0aW9uLlZJRVcgLWQgIgo=</text>
+      <register name="9" type="4">
+        <text>com.instagram.android</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
