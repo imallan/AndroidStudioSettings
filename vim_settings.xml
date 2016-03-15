@@ -21,7 +21,7 @@
         <mark key="^" line="1" column="75" />
         <mark key="." line="1" column="75" />
       </file>
-      <file name="/a.dummy" timestamp="1458078753308">
+      <file name="/a.dummy" timestamp="1458080235705">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Extensions.kt" timestamp="1456155242414">
@@ -1300,12 +1300,12 @@
         <mark key="^" line="83" column="28" />
         <mark key="." line="83" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/kotlin/com/imallan/intentredirect/mocks/MockRules.kt" timestamp="1458078907482">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/kotlin/com/imallan/intentredirect/mocks/MockRules.kt" timestamp="1458080285055">
+        <mark key="'" line="45" column="34" />
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="45" column="33" />
+        <mark key="." line="45" column="33" />
+        <mark key="^" line="16" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/drawable/background_splash.xml" timestamp="1457105235612">
         <mark key="'" line="6" column="36" />
@@ -2373,7 +2373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="4" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/ShotCommentsView.kt" />
       <jump line="149" column="46" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="93" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="147" column="11" filename="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/design/23.2.0/design-23.2.0-sources.jar!/android/support/design/widget/BottomSheetBehavior.java" />
@@ -2473,13 +2472,14 @@
       <jump line="100" column="0" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/kotlin/com/imallan/intentredirect/ui/IntentHandleActivity.kt" />
       <jump line="15" column="13" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/kotlin/com/imallan/intentredirect/mocks/MockRules.kt" />
       <jump line="44" column="0" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/kotlin/com/imallan/intentredirect/mocks/MockRules.kt" />
+      <jump line="45" column="34" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/kotlin/com/imallan/intentredirect/mocks/MockRules.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>com.android.chrome</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>com.android.chrome</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2488,28 +2488,28 @@
         <text>com.android.chrome</text>
       </register>
       <register name="1" type="4">
-        <text>com.android.chrome</text>
+        <text>&quot;</text>
       </register>
       <register name="2" type="4">
-        <text>PREF_LAST_TIME</text>
+        <text>&quot;</text>
       </register>
       <register name="3" type="4">
-        <text>LAST_TIME</text>
+        <text>&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dkKGxhdW5jaENvbW1hbmQpCg==</text>
+      <register name="5" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgIiR7dXJpLnNjaGVtZX0vJHt1cmkuaG9zdH0vJHt1cmkucGF0aFNlZ21lbnRzLmpvaW5Ub1N0cmluZygiLyIpfSIK</text>
+      <register name="6" type="4">
+        <text>&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>}</text>
+        <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>&quot;</text>
       </register>
       <register name="9" type="4">
         <text>&quot;</text>
