@@ -27,7 +27,7 @@
         <mark key="^" line="1" column="75" />
         <mark key="." line="1" column="75" />
       </file>
-      <file name="/a.dummy" timestamp="1457546786089">
+      <file name="/a.dummy" timestamp="1458077399478">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BookService.java" timestamp="1454409639600">
@@ -53,6 +53,12 @@
         <mark key="]" line="4" column="78" />
         <mark key="^" line="4" column="78" />
         <mark key="." line="4" column="78" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/AndroidManifest.xml" timestamp="1458077684124">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="46" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="10" column="46" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Extensions.kt" timestamp="1456155242414">
         <mark key="[" line="11" column="83" />
@@ -104,6 +110,12 @@
         <mark key="]" line="83" column="28" />
         <mark key="^" line="83" column="28" />
         <mark key="." line="83" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/kotlin/com/imallan/intentredirect/mocks/MockRules.kt" timestamp="1458077984978">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" timestamp="1457097340844">
         <mark key="[" line="1506" column="64" />
@@ -633,7 +645,6 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Crossover/build.gradle" timestamp="1457552351019" />
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/Presenter.kt" timestamp="1456762019266">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="8" />
@@ -960,7 +971,7 @@
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/activities/TestActivity.kt" timestamp="1455791914221">
         <mark key="[" line="10" column="42" />
       </file>
-      <file name="/fragment.java" timestamp="1456875019787">
+      <file name="/fragment.java" timestamp="1458077701446">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/TestActivity.java" timestamp="1455637184194">
@@ -1114,6 +1125,13 @@
         <mark key="]" line="1384" column="102" />
         <mark key="^" line="1384" column="102" />
         <mark key="." line="1384" column="102" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/build.gradle" timestamp="1458077575652">
+        <mark key="'" line="23" column="49" />
+        <mark key="[" line="48" column="47" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/api/API.kt" timestamp="1457350814549">
         <mark key="[" line="43" column="21" />
@@ -1530,7 +1548,14 @@
         <mark key="^" line="11" column="47" />
         <mark key="." line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/extension/LogExtensions.kt" timestamp="1456685424026">
+      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/kotlin/com/imallan/intentredirect/models/Rules.kt" timestamp="1458078083385">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/extension/LogExtensions.kt" timestamp="1458077837171">
+        <mark key="'" line="10" column="0" />
         <mark key="[" line="16" column="24" />
         <mark key="]" line="16" column="24" />
         <mark key="." line="16" column="24" />
@@ -1708,6 +1733,7 @@
         <mark key="^" line="8" column="41" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/MainActivity.java" timestamp="1458077436811" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_post_recycler.xml" timestamp="1456395108154">
         <mark key="'" line="38" column="1" />
         <mark key="[" line="34" column="44" />
@@ -2020,6 +2046,19 @@
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/kotlin/com/imallan/intentredirect/ui/IntentHandleActivity.kt" timestamp="1458077795475">
+        <mark key="'" line="61" column="21" />
+        <mark key="[" line="2" column="41" />
+        <mark key="]" line="2" column="40" />
+        <mark key="." line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/kotlin/com/imallan/intentredirect/extensions/LogExtensions.kt" timestamp="1458077917922">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="5" column="57" />
+        <mark key="." line="5" column="57" />
+        <mark key="^" line="5" column="57" />
+      </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/AndroidManifest.xml" timestamp="1456242687345">
         <mark key="[" line="19" column="32" />
         <mark key="]" line="19" column="45" />
@@ -2238,12 +2277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
-      <jump line="109" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
-      <jump line="74" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
-      <jump line="111" column="4" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
-      <jump line="141" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
-      <jump line="72" column="4" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/MainActivity.kt" />
       <jump line="144" column="45" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
       <jump line="187" column="4" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
@@ -2338,10 +2371,16 @@
       <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" />
       <jump line="154" column="36" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="118" column="27" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/build.gradle" />
+      <jump line="5" column="3" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/build.gradle" />
+      <jump line="23" column="49" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/build.gradle" />
+      <jump line="92" column="0" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/kotlin/com/imallan/intentredirect/ui/IntentHandleActivity.kt" />
+      <jump line="61" column="21" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/kotlin/com/imallan/intentredirect/ui/IntentHandleActivity.kt" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/extension/LogExtensions.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ2V0SW50ZW50KCkgIT0gbnVsbCAmJiBnZXRJbnRlbnQoKS5nZXREYXRhU3RyaW5nKCkgIT0gbnVsbCkgewogICAgICAgICAgICBMb2cuZCgiUkVGRVJSRVIiLCBnZXRJbnRlbnQoKS5nZXREYXRhU3RyaW5nKCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
@@ -2349,35 +2388,46 @@
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiUkVGRVJSRVIiLCAidHJhY2tSZWZlcnJlcjogIiArIHJlZmVycmVyVXJpLnRvU3RyaW5nKCkpOwo=</text>
+      <register name="0" type="4">
+        <text>IntentRedirect</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ2V0SW50ZW50KCkgIT0gbnVsbCAmJiBnZXRJbnRlbnQoKS5nZXREYXRhU3RyaW5nKCkgIT0gbnVsbCkgewogICAgICAgICAgICBMb2cuZCgiUkVGRVJSRVIiLCBnZXRJbnRlbnQoKS5nZXREYXRhU3RyaW5nKCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>k</text>
+      <register name="2" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgYWxsYW4gb24gMTYvMy8xNS4KICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgYWxsYW4gb24gMTYvMy8xNS4KICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiUkVGRVJSRVIiLCBnZXRJbnRlbnQoKS5nZXREYXRhU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgYWxsYW4gb24gMTYvMy8xNS4KICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiUkVGRVJSRVIiLCBnZXRJbnRlbnQoKS5nZXREYXRhU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgYWxsYW4gb24gMTYvMy8xNS4KICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiUkVGRVJSRVIiLCBnZXRJbnRlbnQoKS5nZXREYXRhU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtYWluLmphdmEuc3JjRGlycyArPSAnc3JjL21haW4va290bGluCg==</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>buildscript {
+    ext.kotlin_version = '1.0.0'
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath &quot;org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version&quot;
+    }
+}
+repositories {
+    mavenCentral()
+}</text>
       </register>
-      <register name="9" type="4">
-        <text>trackReferrer: &quot; + referrerUri.toString(</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZ2V0SW50ZW50KCkgIT0gbnVsbCAmJiBnZXRJbnRlbnQoKS5nZXREYXRhU3RyaW5nKCkgIT0gbnVsbCkgewogICAgICAgICAgICBMb2cuZCgiUkVGRVJSRVIiLCBnZXRJbnRlbnQoKS5nZXREYXRhU3RyaW5nKCkpOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
