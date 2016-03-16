@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1458062588251">
+      <file name="/a.dummy" timestamp="1458128449502">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
@@ -461,7 +461,12 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/UserService.java" timestamp="1458038277174" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/UserService.java" timestamp="1458128442986">
+        <mark key="[" line="1363" column="28" />
+        <mark key="]" line="1363" column="74" />
+        <mark key="^" line="1363" column="74" />
+        <mark key="." line="1363" column="74" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/Knife.java" timestamp="1456418523906">
         <mark key="[" line="16" column="18" />
         <mark key="]" line="16" column="18" />
@@ -1376,7 +1381,7 @@
         <mark key="^" line="25" column="28" />
         <mark key="." line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/LoginActivity.java" timestamp="1458037564422">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/LoginActivity.java" timestamp="1458125769374">
         <mark key="'" line="598" column="28" />
         <mark key="[" line="848" column="66" />
         <mark key="]" line="848" column="66" />
@@ -2001,50 +2006,44 @@
       <jump line="19" column="0" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/Extensions.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text>Rule(
-                        type = &quot;scheme&quot;,
-                        host = &quot;www.facebook.com&quot;,
-                        packageName = &quot;com.facebook.katana&quot;,
-                        regex = &quot;&quot;&quot;https?://(?:www.)?facebook.(?:com)/([^/]+)/posts/(\d+)/?&quot;&quot;&quot;,
-                        uri = &quot;https/www.facebook.com/{1}/posts/{2}&quot;
-                ),</text>
+        <text>com.shopcade.api.User</text>
       </register>
-      <register name="1" type="4">
-        <text>s</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PGlkX2hlcmU+</text>
+      <register name="2" type="4">
+        <text>l</text>
       </register>
-      <register name="4" type="4">
-        <text>/</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>:</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0IGF2YWlsYWJsZU1ldGhvZDsK</text>
       </register>
       <register name="6" type="4">
-        <text>https/www.facebook.com/</text>
+        <text encoding="base64">PFN0cmluZywgT2JqZWN0Pg==</text>
       </register>
       <register name="7" type="4">
-        <text>/</text>
+        <text encoding="base64">PFN0cmluZywgT2JqZWN0Pikgewo=</text>
       </register>
       <register name="8" type="4">
-        <text>posts/{2}&quot;</text>
+        <text encoding="base64">PGNvbS5zaG9wY2FkZS5hcGkuVXNlcj4=</text>
       </register>
-      <register name="9" type="4">
-        <text>/posts/(\d+)</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
