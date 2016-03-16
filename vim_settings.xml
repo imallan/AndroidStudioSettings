@@ -834,13 +834,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/extension/LogExtensions.kt" timestamp="1456685424026">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="16" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/drawable/ic_eye.xml" timestamp="1456788186887">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="52" />
@@ -1114,11 +1107,7 @@
         <mark key="." line="16" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/kotlin/com/imallan/intentredirect/ui/IntentHandleActivity.kt" timestamp="1458078872233">
-        <mark key="'" line="100" column="0" />
-        <mark key="[" line="60" column="35" />
-        <mark key="]" line="60" column="49" />
-        <mark key="^" line="60" column="49" />
-        <mark key="." line="60" column="49" />
+        <mark key="'" line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/kotlin/com/imallan/intentredirect/extensions/LogExtensions.kt" timestamp="1458078441293">
         <mark key="[" line="17" column="26" />
@@ -1302,13 +1291,6 @@
         <mark key="]" line="83" column="28" />
         <mark key="^" line="83" column="28" />
         <mark key="." line="83" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/kotlin/com/imallan/intentredirect/mocks/MockRules.kt" timestamp="1458080285055">
-        <mark key="'" line="45" column="34" />
-        <mark key="[" line="45" column="33" />
-        <mark key="]" line="45" column="33" />
-        <mark key="." line="45" column="33" />
-        <mark key="^" line="16" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/drawable/background_splash.xml" timestamp="1457105235612">
         <mark key="'" line="6" column="36" />
