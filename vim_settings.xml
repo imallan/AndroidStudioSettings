@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1458149189673">
+      <file name="/a.dummy" timestamp="1458151749877">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
@@ -628,10 +628,7 @@
         <mark key="." line="22" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/UserService.java" timestamp="1458149181676">
-        <mark key="[" line="1333" column="46" />
-        <mark key="]" line="1333" column="47" />
-        <mark key="^" line="1363" column="74" />
-        <mark key="." line="1333" column="47" />
+        <mark key="^" line="1383" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/Knife.java" timestamp="1456418523906">
         <mark key="[" line="16" column="18" />
@@ -1217,13 +1214,6 @@
         <mark key="." line="6" column="52" />
         <mark key="^" line="6" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1458147318797">
-        <mark key="'" line="195" column="29" />
-        <mark key="[" line="210" column="27" />
-        <mark key="]" line="211" column="38" />
-        <mark key="." line="211" column="38" />
-        <mark key="^" line="211" column="38" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
         <mark key="[" line="51" column="38" />
         <mark key="]" line="51" column="50" />
@@ -1321,7 +1311,7 @@
         <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Analytics.java" timestamp="1458146783505">
-        <mark key="'" line="173" column="39" />
+        <mark key="'" line="171" column="39" />
         <mark key="[" line="48" column="78" />
         <mark key="]" line="48" column="78" />
         <mark key="^" line="48" column="78" />
@@ -1789,13 +1779,6 @@
         <mark key="." line="1244" column="44" />
         <mark key="^" line="1244" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/LoginActivity.java" timestamp="1458132388160">
-        <mark key="'" line="598" column="28" />
-        <mark key="[" line="900" column="24" />
-        <mark key="]" line="900" column="31" />
-        <mark key="." line="900" column="31" />
-        <mark key="^" line="900" column="31" />
-      </file>
       <file name="/fragment.java" timestamp="1456875019787">
         <mark key="[" line="0" column="0" />
       </file>
@@ -2144,12 +2127,6 @@
         <mark key="]" line="18" column="22" />
         <mark key="^" line="18" column="32" />
         <mark key="." line="18" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractSocialNetworksActivity.java" timestamp="1458130419265">
-        <mark key="[" line="89" column="35" />
-        <mark key="]" line="89" column="59" />
-        <mark key="." line="89" column="59" />
-        <mark key="^" line="89" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
