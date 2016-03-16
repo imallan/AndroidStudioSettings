@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1458128449502">
+      <file name="/a.dummy" timestamp="1458132157957">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
@@ -454,7 +454,6 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/ShoppingBasketProductViewHolder.java" timestamp="1457952140570" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/drawable/ic_plus_pink_16dp.xml" timestamp="1453814170282">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="2" column="25" />
@@ -807,7 +806,6 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/UserListsFragment.java" timestamp="1453480590172">
         <mark key="[" line="106" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/notifications/Notification.java" timestamp="1457625349395" />
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/java/com/imallan/mvpexample/PresenterHolder.java" timestamp="1454244958934">
         <mark key="[" line="37" column="19" />
         <mark key="]" line="37" column="18" />
@@ -1061,7 +1059,6 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ShoppingCartProductsAdapter.java" timestamp="1457952664653" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/SettingsService.java" timestamp="1455197039968">
         <mark key="[" line="181" column="58" />
         <mark key="]" line="182" column="23" />
@@ -1071,7 +1068,6 @@
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/Book.java" timestamp="1454407196111">
         <mark key="[" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build/generated/source/r/prod/release/android/support/design/R.java" timestamp="1457694536990" />
       <file name="$USER_HOME$/Documents/GitHub/Instafilm/app/src/main/res/values/strings.xml" timestamp="1455838620900">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="41" />
@@ -1221,7 +1217,6 @@
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/drawable/icon_drawer.xml" timestamp="1456406388107">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-android-sdk/4.10.0/d225a85892dcf0f86138e49e76012eb490ba5568/facebook-android-sdk-4.10.0-sources.jar!/com/facebook/internal/CallbackManagerImpl.java" timestamp="1457956264001" />
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/menu/menu_theme.xml" timestamp="1456759113311">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="10" />
@@ -1381,12 +1376,12 @@
         <mark key="^" line="25" column="28" />
         <mark key="." line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/LoginActivity.java" timestamp="1458125769374">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/LoginActivity.java" timestamp="1458132014432">
         <mark key="'" line="598" column="28" />
-        <mark key="[" line="848" column="66" />
-        <mark key="]" line="848" column="66" />
-        <mark key="." line="848" column="66" />
-        <mark key="^" line="848" column="66" />
+        <mark key="[" line="504" column="53" />
+        <mark key="]" line="504" column="87" />
+        <mark key="." line="504" column="87" />
+        <mark key="^" line="504" column="87" />
       </file>
       <file name="/fragment.java" timestamp="1456875019787">
         <mark key="[" line="0" column="0" />
@@ -1674,7 +1669,12 @@
         <mark key="^" line="18" column="32" />
         <mark key="." line="18" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractSocialNetworksActivity.java" timestamp="1458035904326" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractSocialNetworksActivity.java" timestamp="1458130419265">
+        <mark key="[" line="89" column="35" />
+        <mark key="]" line="89" column="59" />
+        <mark key="." line="89" column="59" />
+        <mark key="^" line="89" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
       </file>
@@ -2006,44 +2006,44 @@
       <jump line="19" column="0" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/Extensions.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>map.get(&quot;birthday&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>month</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text>com.shopcade.api.User</text>
+        <text>map.get(&quot;birthday&quot;)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>month</text>
       </register>
       <register name="2" type="4">
-        <text>l</text>
+        <text>month</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmdbXSBkb2IgPSBtYXAuZ2V0KCJiaXJ0aGRheSIpLnNwbGl0KCIvIik7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0IGF2YWlsYWJsZU1ldGhvZDsK</text>
+      <register name="5" type="4">
+        <text>1970</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">PFN0cmluZywgT2JqZWN0Pg==</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">PFN0cmluZywgT2JqZWN0Pikgewo=</text>
+        <text>month</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PGNvbS5zaG9wY2FkZS5hcGkuVXNlcj4=</text>
+        <text>0</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgbW9udGggPSAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
