@@ -1376,12 +1376,12 @@
         <mark key="^" line="25" column="28" />
         <mark key="." line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/LoginActivity.java" timestamp="1458132014432">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/LoginActivity.java" timestamp="1458132388160">
         <mark key="'" line="598" column="28" />
-        <mark key="[" line="504" column="53" />
-        <mark key="]" line="504" column="87" />
-        <mark key="." line="504" column="87" />
-        <mark key="^" line="504" column="87" />
+        <mark key="[" line="900" column="24" />
+        <mark key="]" line="900" column="31" />
+        <mark key="." line="900" column="31" />
+        <mark key="^" line="900" column="31" />
       </file>
       <file name="/fragment.java" timestamp="1456875019787">
         <mark key="[" line="0" column="0" />
@@ -2007,43 +2007,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>map.get(&quot;birthday&quot;)</text>
+        <text>Title</text>
       </register>
       <register name="-" type="4">
-        <text>month</text>
+        <text>Title</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>map.get(&quot;birthday&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnNldFRpdGxlKFIuc3RyaW5nLmVycm9yKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>month</text>
+        <text>Title</text>
       </register>
       <register name="2" type="4">
-        <text>month</text>
+        <text>Title</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>builder</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmdbXSBkb2IgPSBtYXAuZ2V0KCJiaXJ0aGRheSIpLnNwbGl0KCIvIik7Cg==</text>
+      <register name="4" type="4">
+        <text>Message</text>
       </register>
       <register name="5" type="4">
-        <text>1970</text>
+        <text>DialogBuilder</text>
       </register>
       <register name="6" type="4">
-        <text>0</text>
+        <text>setMessage</text>
       </register>
       <register name="7" type="4">
         <text>month</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text>month</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgbW9udGggPSAgCg==</text>
+      <register name="9" type="4">
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
