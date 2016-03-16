@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1458145957313">
+      <file name="/a.dummy" timestamp="1458146898861">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
@@ -1192,6 +1192,13 @@
         <mark key="." line="6" column="52" />
         <mark key="^" line="6" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1458146895094">
+        <mark key="'" line="195" column="29" />
+        <mark key="[" line="210" column="27" />
+        <mark key="]" line="211" column="38" />
+        <mark key="." line="211" column="38" />
+        <mark key="^" line="211" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/shopping_total.xml" timestamp="1453814938136">
         <mark key="[" line="51" column="38" />
         <mark key="]" line="51" column="50" />
@@ -1283,8 +1290,12 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Analytics.java" timestamp="1455192160639">
-        <mark key="[" line="1323" column="66" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Analytics.java" timestamp="1458146783505">
+        <mark key="'" line="173" column="39" />
+        <mark key="[" line="48" column="78" />
+        <mark key="]" line="48" column="78" />
+        <mark key="^" line="48" column="78" />
+        <mark key="." line="48" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" timestamp="1457716201771">
         <mark key="'" line="178" column="73" />
@@ -2391,8 +2402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
-      <jump line="147" column="11" filename="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/design/23.2.0/design-23.2.0-sources.jar!/android/support/design/widget/BottomSheetBehavior.java" />
       <jump line="107" column="54" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="37" column="40" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CircularImageView.java" />
@@ -2491,46 +2500,48 @@
       <jump line="26" column="18" filename="$USER_HOME$/Documents/GitHub/androidintentredirect/app/build.gradle" />
       <jump line="15" column="27" filename="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/AndroidManifest.xml" />
       <jump line="64" column="30" filename="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/services/RulesSyncService.kt" />
+      <jump line="195" column="29" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
+      <jump line="171" column="39" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Analytics.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>Handler</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJwYWNrYWdlTmFtZSIgLT4gcnVsZS5wYWNrYWdlTmFtZSA9IHJlYWRlci5uZXh0U3RyaW5nKCkK</text>
+      <register name="0" type="4">
+        <text>PREF_APP_FIRST_LAUNCH</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>true</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>h</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBIYW5kbGVyKG1haW5Mb29wZXIpLnBvc3QgewogICAgICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCAiRE9ORSIsIFRvYXN0LkxFTkdUSF9TSE9SVCkK</text>
+      <register name="3" type="4">
+        <text>aBoolean</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>PreferenceManager.getDefaultSharedPreferences(this).getBoolean(Analytics.PREF_APP_FIRST_LAUNCH, true)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCAiRE9ORSIsIFRvYXN0LkxFTkdUSF9TSE9SVCkK</text>
+      <register name="5" type="4">
+        <text>!</text>
       </register>
-      <register name="6" type="4">
-        <text>Handler</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCAiRE9ORSIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>https://gist.githubusercontent.com/allan1st/de5872e842aaef66d4aa/raw/c652614e7addba8da54c02a1043ab561d9c9a081/Rules.json</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBIYW5kbGVyKG1haW5Mb29wZXIpLnBvc3QgewogICAgICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCAiRE9ORSIsIFRvYXN0LkxFTkdUSF9TSE9SVCkK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
