@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1458135051961">
+      <file name="/a.dummy" timestamp="1458135878587">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
@@ -593,11 +593,11 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/models/Rules.kt" timestamp="1458134532636">
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="43" />
-        <mark key="." line="20" column="43" />
-        <mark key="^" line="20" column="43" />
+      <file name="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/models/Rules.kt" timestamp="1458135512642">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/drawable/ic_plus_pink_16dp.xml" timestamp="1453814170282">
         <mark key="[" line="2" column="24" />
@@ -683,12 +683,10 @@
         <mark key="^" line="55" column="47" />
         <mark key="." line="55" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/mocks/MockRules.kt" timestamp="1458134914476">
-        <mark key="'" line="5" column="6" />
-        <mark key="[" line="26" column="16" />
-        <mark key="]" line="44" column="17" />
-        <mark key="^" line="26" column="15" />
-        <mark key="." line="26" column="16" />
+      <file name="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/mocks/MockRules.kt" timestamp="1458135771946">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Test.java" timestamp="1455626055206">
         <mark key="[" line="17" column="39" />
@@ -1078,6 +1076,11 @@
         <mark key="]" line="13" column="16" />
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_main_drawer.xml" timestamp="1457695036026">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/RemoteServiceImpl.java" timestamp="1454337049987">
         <mark key="[" line="35" column="28" />
@@ -2016,11 +2019,11 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/ui/MainActivity.kt" timestamp="1458134664803">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="15" column="5" />
-        <mark key="." line="22" column="22" />
-        <mark key="^" line="22" column="22" />
+      <file name="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/ui/MainActivity.kt" timestamp="1458135531542">
+        <mark key="[" line="24" column="53" />
+        <mark key="]" line="24" column="61" />
+        <mark key="." line="24" column="61" />
+        <mark key="^" line="24" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIFactory.java" timestamp="1457715450757">
         <mark key="[" line="30" column="84" />
@@ -2340,7 +2343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="3" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/item_view_comment.xml" />
       <jump line="7" column="30" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/values-night/colors.xml" />
       <jump line="38" column="45" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/CommentsActivity.kt" />
       <jump line="64" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/CommentsActivity.kt" />
@@ -2440,46 +2442,47 @@
       <jump line="29" column="21" filename="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/ui/IntentHandleActivity.kt" />
       <jump line="5" column="6" filename="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/mocks/MockRules.kt" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/ui/IntentHandleActivity.kt" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/mocks/MockRules.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuV2l0aEJyb3dzZXIodXJsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaG9zdHMgPSBsaXN0T2YoIm0ud2VpYm8uY24iKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>Rule</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuV2l0aEJyb3dzZXIodXJsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaG9zdHMgPSBsaXN0T2YoIm0ud2VpYm8uY24iLCAid2VpYm8uY29tIiwgInd3dy53ZWliby5jb20iKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaG9zdHMgPSBsaXN0T2YoIm0ud2VpYm8uY24iKSwK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICB2YWwgaW5zdGFncmFtUnVsZXMgPSBNb2NrUnVsZXMuaW5zdGFncmFtUnVsZXMKLy8gICAgICAgIHdoZW4gKHVyaS5ob3N0KSB7Ci8vICAgICAgICAgICAgInd3dy5pbnN0YWdyYW0uY29tIiAtPiB7Ci8vICAgICAgICAgICAgICAgIGlmIChoYW5kbGVSdWxlcyhpbnN0YWdyYW1SdWxlcywgdXJsKSkgewovLyAgICAgICAgICAgICAgICAgICAgZmluaXNoKCkKLy8gICAgICAgICAgICAgICAgICAgIHJldHVybgovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgfQovLyAgICAgICAgICAgICJtLndlaWJvLmNuIiAtPiB7Ci8vICAgICAgICAgICAgICAgIGlmIChoYW5kbGVSdWxlcyhNb2NrUnVsZXMud2VpYm9SdWxlcywgdXJsKSkgewovLyAgICAgICAgICAgICAgICAgICAgZmluaXNoKCkKLy8gICAgICAgICAgICAgICAgICAgIHJldHVybgovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgfQovLyAgICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaG9zdHMgPSBsaXN0T2YoIm0ud2VpYm8uY24iLCAid2VpYm8uY29tIiksCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>Rule</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="4">
-        <text>findAll</text>
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text>findAllAsync</text>
+        <text encoding="base64">ICAgICAgICBSdWxlKAogICAgICAgICAgICAgICAgICAgICAgICBob3N0ID0gInd3dy5pbnN0YWdyYW0uY29tIiwKICAgICAgICAgICAgICAgICAgICAgICAgcGFja2FnZU5hbWUgPSAiY29tLmluc3RhZ3JhbS5hbmRyb2lkIiwKICAgICAgICAgICAgICAgICAgICAgICAgcmVnZXggPSAiIiJodHRwcz86Ly8oPzp3d3cuKT9pbnN0YWdyYW0uY29tLz8iIiIKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICBSdWxlKAogICAgICAgICAgICAgICAgICAgICAgICB0eXBlID0gInNjaGVtZSIsCiAgICAgICAgICAgICAgICAgICAgICAgIGhvc3QgPSAid3d3Lmluc3RhZ3JhbS5jb20iLAogICAgICAgICAgICAgICAgICAgICAgICBwYWNrYWdlTmFtZSA9ICJjb20uaW5zdGFncmFtLmFuZHJvaWQiLAogICAgICAgICAgICAgICAgICAgICAgICByZWdleCA9ICIiImh0dHBzPzovLyg/Ond3dy4pP2luc3RhZ3JhbS5jb20vcC8oXHcrKS8/IiIiLAogICAgICAgICAgICAgICAgICAgICAgICB1cmkgPSAiaHR0cHMvaW5zdGFncmFtLmNvbS9wL3sxfSIKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICBSdWxlKAogICAgICAgICAgICAgICAgICAgICAgICB0eXBlID0gInNjaGVtZSIsCiAgICAgICAgICAgICAgICAgICAgICAgIGhvc3QgPSAid3d3Lmluc3RhZ3JhbS5jb20iLAogICAgICAgICAgICAgICAgICAgICAgICBwYWNrYWdlTmFtZSA9ICJjb20uaW5zdGFncmFtLmFuZHJvaWQiLAogICAgICAgICAgICAgICAgICAgICAgICByZWdleCA9ICIiImh0dHBzPzovLyg/Ond3dy4pP2luc3RhZ3JhbS5jb20vKFteL10rKS8/IiIiLAogICAgICAgICAgICAgICAgICAgICAgICB1cmkgPSAiaW5zdGFncmFtL3VzZXI/dXNlcm5hbWU9ezF9IgogICAgICAgICAgICAgICAgKQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaG9zdCA9ICJpbnN0YWdyYW0uY29tIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1SZWFsbTogUmVhbG0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaG9zdCA9ICJpbnN0YWdyYW0uY29tIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFJlYWxtLmdldEluc3RhbmNlKHRoaXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaG9zdCA9ICJpbnN0YWdyYW0uY29tIiwK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IGhvc3QgKyBwYWNrYWdlTmFtZSArIHR5cGUgKyByZWdleCArIHVyaQo=</text>
+      <register name="9" type="4">
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
