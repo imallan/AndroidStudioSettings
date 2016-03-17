@@ -1380,12 +1380,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/AnnotationExample/compiler/src/main/java/com/example/FactoryProcessor.java" timestamp="1458253963656">
-        <mark key="'" line="50" column="12" />
-        <mark key="[" line="82" column="44" />
-        <mark key="]" line="82" column="45" />
-        <mark key="." line="82" column="45" />
-        <mark key="^" line="82" column="45" />
+      <file name="$USER_HOME$/Documents/GitHub/AnnotationExample/compiler/src/main/java/com/example/FactoryProcessor.java" timestamp="1458254760458">
+        <mark key="'" line="38" column="37" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/Test.java" timestamp="1456161529374">
         <mark key="[" line="14" column="11" />
@@ -1937,7 +1936,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="37" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CircularImageView.kt" />
       <jump line="74" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CircularImageView.kt" />
       <jump line="53" column="24" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CircularImageView.kt" />
       <jump line="52" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CircularImageView.kt" />
@@ -2037,10 +2035,11 @@
       <jump line="83" column="55" filename="$USER_HOME$/Documents/GitHub/AnnotationExample/compiler/src/main/java/com/example/HelloProcessor.java" />
       <jump line="366" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
       <jump line="50" column="12" filename="$USER_HOME$/Documents/GitHub/AnnotationExample/compiler/src/main/java/com/example/FactoryProcessor.java" />
+      <jump line="38" column="37" filename="$USER_HOME$/Documents/GitHub/AnnotationExample/compiler/src/main/java/com/example/FactoryProcessor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWxlbWVudC4K</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -2052,31 +2051,31 @@
         <text>generateFactoryCode()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWxlbWVudC4K</text>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>Builder</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWxlbWVudC5hc1R5cGUoKS4K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRWxlbWVudC5hCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="4">
+        <text>.</text>
+      </register>
+      <register name="7" type="4">
+        <text>Builder</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBNZXRob2RTcGVjLkJ1aWxkZXIgaW5zdGFuY2UgPSBNZXRob2RTcGVjLm1ldGhvZEJ1aWxkZXIoImluc3RhbmNlIikKICAgICAgICAgICAgICAgIC5hZGRNb2RpZmllcnMoTW9kaWZpZXIuU1RBVElDLCBNb2RpZmllci5QVUJMSUMpCiAgICAgICAgICAgICAgICAucmV0dXJucygp</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtRWxlbWVudE1hcC5mb3JFYWNoKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGb29kRmFjdG9yeQo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>b</text>
-      </register>
       <register name="9" type="4">
-        <text>b</text>
+        <text encoding="base64">ICAgICAgICBNZXRob2RTcGVjLkJ1aWxkZXIgaW5zdGFuY2UgPSBNZXRob2RTcGVjLm1ldGhvZEJ1aWxkZXIoImluc3RhbmNlIikKICAgICAgICAgICAgICAgIC5hZGRNb2RpZmllcnMoTW9kaWZpZXIuU1RBVElDLCBNb2RpZmllci5QVUJMSUMpCiAgICAgICAgICAgICAgICAucmV0dXJucygp</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
