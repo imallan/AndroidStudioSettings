@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1458324565219">
+      <file name="/a.dummy" timestamp="1458324625607">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
@@ -2139,12 +2139,7 @@
         <mark key="^" line="19" column="45" />
         <mark key="." line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Toothpick/sample/src/main/kotlin/com/imallan/toothpickkotlin/MainActivity.kt" timestamp="1458324368641">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="44" />
-        <mark key="." line="22" column="44" />
-        <mark key="^" line="22" column="44" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Toothpick/sample/src/main/kotlin/com/imallan/toothpickkotlin/MainActivity.kt" timestamp="1458324368641" />
       <file name="$USER_HOME$/Documents/GitHub/DataBindingPlayground/app/src/main/res/layout/view_item_main.xml" timestamp="1456236350976">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="8" column="33" />
@@ -2301,7 +2296,6 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Toothpick/toothpick/src/main/kotlin/com/imallan/toothpick/Toothpick.kt" timestamp="1458324613049">
         <mark key="'" line="2" column="28" />
-        <mark key="[" line="38" column="54" />
         <mark key="]" line="39" column="3" />
         <mark key="." line="39" column="3" />
         <mark key="^" line="39" column="3" />
