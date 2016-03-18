@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1458325263801">
+      <file name="/a.dummy" timestamp="1458325272863">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
@@ -1513,12 +1513,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1458324955366">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1458325461913">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="80" column="49" />
-        <mark key="]" line="81" column="9" />
-        <mark key="^" line="81" column="9" />
-        <mark key="." line="81" column="9" />
+        <mark key="[" line="80" column="47" />
+        <mark key="]" line="80" column="48" />
+        <mark key="." line="80" column="48" />
+        <mark key="^" line="80" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/adapters/ImageArticleAdapter.kt" timestamp="1455725302907">
         <mark key="'" line="9" column="0" />
@@ -2652,10 +2652,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>compiler</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>compiler</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2664,31 +2664,31 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmNvbXBpbGVyJykK</text>
       </register>
       <register name="1" type="4">
-        <text>compiler</text>
+        <text>0</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmNvbXBpbGVyJykK</text>
+      <register name="2" type="4">
+        <text>.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmNvbXBpbGVyJykK</text>
+      <register name="3" type="4">
+        <text>4</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZVRyZWUoZGlyOiAnbGlicycsIGluY2x1ZGU6IFsnKi5qYXInXSkK</text>
+      <register name="4" type="4">
+        <text>.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>0</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJpbmQob2JqKSB7IHZpZXcuZmluZFZpZXdCeUlkKGl0KSB9Cg==</text>
+        <text encoding="base64">ICAgIGthcHQgJycK</text>
       </register>
       <register name="7" type="4">
-        <text>Activity</text>
+        <text>compiler</text>
       </register>
-      <register name="8" type="4">
-        <text>activity</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmNvbXBpbGVyJykK</text>
       </register>
-      <register name="9" type="4">
-        <text>activity</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmNvbXBpbGVyJykK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
