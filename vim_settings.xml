@@ -2031,11 +2031,11 @@
         <mark key="^" line="38" column="82" />
         <mark key="." line="38" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" timestamp="1458319524251">
+      <file name="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" timestamp="1458320840401">
         <mark key="'" line="116" column="36" />
-        <mark key="[" line="92" column="49" />
-        <mark key="]" line="92" column="49" />
-        <mark key="." line="92" column="49" />
+        <mark key="[" line="113" column="57" />
+        <mark key="]" line="113" column="57" />
+        <mark key="." line="113" column="57" />
         <mark key="^" line="148" column="82" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/extensions/Completions.kt" timestamp="1456242519360">
@@ -2710,11 +2710,11 @@
       <jump line="348" column="33" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN1cGVyLmJpbmQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>, Modifier.FINAL</text>
       </register>
       <register name="-" type="4">
-        <text>final</text>
+        <text>, Modifier.FINAL</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2722,14 +2722,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5hZGRTdGF0ZW1lbnQoIiRMKHYpIiwgYW5ub3RhdGVkRWxlbWVudC5nZXRTaW1wbGVOYW1lKCkpOwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>, Modifier.FINAL</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIHN1cGVyLmJpbmQoKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>final</text>
-      </register>
       <register name="3" type="4">
-        <text>description</text>
+        <text>final</text>
       </register>
       <register name="4" type="4">
         <text>description</text>
@@ -2737,17 +2737,17 @@
       <register name="5" type="4">
         <text>description</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3Bhbm5lZCBkZXNjcmlwdGlvbiA9Cg==</text>
+      <register name="6" type="4">
+        <text>description</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3Bhbm5lZCBkZXNjcmlwdGlvbiA9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZvaWQgYmluZChmaW5hbCBBY3Rpdml0eSBhY3Rpdml0eSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGltcGxlbWVudHMgQmluZGFibGU=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHZvaWQgYmluZChmaW5hbCBBY3Rpdml0eSBhY3Rpdml0eSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
