@@ -616,12 +616,12 @@
         <mark key="^" line="1384" column="102" />
         <mark key="." line="1384" column="102" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/build.gradle" timestamp="1458339459859">
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/build.gradle" timestamp="1458339980254">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="80" column="47" />
-        <mark key="]" line="80" column="48" />
-        <mark key="^" line="80" column="43" />
-        <mark key="." line="80" column="48" />
+        <mark key="[" line="82" column="47" />
+        <mark key="]" line="81" column="52" />
+        <mark key="^" line="81" column="52" />
+        <mark key="." line="81" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/ui/activity/BaseActivity.java" timestamp="1453743063197">
         <mark key="[" line="17" column="61" />
@@ -2071,44 +2071,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZVRyZWUoZGlyOiAnbGlicycsIGluY2x1ZGU6IFsnKi5qYXInXSkK</text>
+      <register name="&quot;" type="4">
+        <text>toothpick</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>toothpick</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdpdGh1Yi5kY2VuZGVudHMuYW5kcm9pZC1tYXZlbicKCmdyb3VwPSdjb20uZ2l0aHViLmFsbGFuMXN0Jwo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuYWxsYW4xc3QuVG9vdGhwaWNrOnRvb3RocGljazowLjQuMycK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZVRyZWUoZGlyOiAnbGlicycsIGluY2x1ZGU6IFsnKi5qYXInXSkK</text>
+      <register name="1" type="4">
+        <text>toothpick</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
+      <register name="2" type="4">
+        <text>toothpick</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZVRyZWUoZGlyOiAnbGlicycsIGluY2x1ZGU6IFsnKi5qYXInXSkK</text>
+      <register name="3" type="4">
+        <text>compile</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
-      </register>
-      <register name="5" type="4">
         <text>:</text>
       </register>
-      <register name="6" type="4">
-        <text>0.4.0</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZVRyZWUoZGlyOiAnbGlicycsIGluY2x1ZGU6IFsnKi5qYXInXSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmNvbXBpbGVyJykKICAgIGNvbXBpbGUgcHJvamVjdCgnOmFubm90YXRpb24nKQo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZVRyZWUoZGlyOiAnbGlicycsIGluY2x1ZGU6IFsnKi5qYXInXSkK</text>
       </register>
       <register name="8" type="4">
-        <text />
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>t(</text>
+        <text>:</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
