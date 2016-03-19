@@ -27,7 +27,7 @@
         <mark key="^" line="1" column="75" />
         <mark key="." line="1" column="75" />
       </file>
-      <file name="/a.dummy" timestamp="1458345074536">
+      <file name="/a.dummy" timestamp="1458345292782">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -608,12 +608,12 @@
         <mark key="^" line="20" column="14" />
         <mark key="." line="20" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" timestamp="1458344410455">
-        <mark key="'" line="215" column="0" />
-        <mark key="[" line="160" column="12" />
-        <mark key="]" line="161" column="15" />
-        <mark key="^" line="161" column="15" />
-        <mark key="." line="161" column="15" />
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" timestamp="1458345280448">
+        <mark key="'" line="214" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="160" column="15" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/Presenter.kt" timestamp="1456762019266">
         <mark key="[" line="7" column="0" />
@@ -639,12 +639,12 @@
         <mark key="^" line="1384" column="102" />
         <mark key="." line="1384" column="102" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/build.gradle" timestamp="1458344162743">
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/build.gradle" timestamp="1458345162872">
         <mark key="'" line="50" column="36" />
-        <mark key="[" line="82" column="4" />
-        <mark key="]" line="82" column="7" />
-        <mark key="^" line="82" column="7" />
-        <mark key="." line="82" column="7" />
+        <mark key="[" line="80" column="57" />
+        <mark key="]" line="80" column="58" />
+        <mark key="^" line="80" column="58" />
+        <mark key="." line="80" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/ui/activity/BaseActivity.java" timestamp="1453743063197">
         <mark key="[" line="17" column="61" />
@@ -790,6 +790,9 @@
         <mark key="]" line="12" column="65" />
         <mark key="." line="12" column="65" />
         <mark key="^" line="12" column="65" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1458345292779">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values-fr/strings.xml" timestamp="1455880873502">
         <mark key="[" line="372" column="0" />
@@ -1141,12 +1144,12 @@
         <mark key="^" line="157" column="62" />
         <mark key="." line="157" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1458344389621">
-        <mark key="'" line="323" column="0" />
-        <mark key="[" line="255" column="12" />
-        <mark key="]" line="255" column="15" />
-        <mark key="." line="255" column="15" />
-        <mark key="^" line="255" column="15" />
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1458345249864">
+        <mark key="'" line="300" column="11" />
+        <mark key="[" line="254" column="12" />
+        <mark key="]" line="254" column="11" />
+        <mark key="." line="254" column="11" />
+        <mark key="^" line="254" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/AppIndexingUtils.java" timestamp="1453890372165">
         <mark key="[" line="20" column="27" />
@@ -2000,7 +2003,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="87" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/ImagesUtils.java" />
       <jump line="18" column="28" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CurvedBottomView.kt" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/CurvedBottomView.kt" />
       <jump line="16" column="36" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/activity_user.xml" />
@@ -2100,13 +2102,14 @@
       <jump line="59" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="323" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="59" column="0" filename="$USER_HOME$/Documents/GitHub/ToothpickKotlin/toothpick/src/main/kotlin/com/imallan/toothpick/Toothpick.kt" />
+      <jump line="300" column="11" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vICAgIEBPbkNsaWNrVmlldyhSLmlkLmJ1dHRvbl9wcmVzc19tZV8yKSBmdW4gc2hvd1Rob3N0KCkgewogICAgLy8gICAgICAgIHRvYXN0U2hvcnQoIlByZXNzZWQiKQogICAgLy8gICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbWFsbGFuLnRvb3RocGljay5PbkNsaWNrVmlldwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KyAiLiIgKyBzaW1wbGVOYW1lIA==</text>
+        <text>View</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2115,31 +2118,31 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuYWxsYW4xc3QuVG9vdGhwaWNrOnRvb3RocGljazowLjQuMycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vICAgIEBPbkNsaWNrVmlldyhSLmlkLmJ1dHRvbl9wcmVzc19tZV8yKSBmdW4gc2hvd1Rob3N0KCkgewogICAgLy8gICAgICAgIHRvYXN0U2hvcnQoIlByZXNzZWQiKQogICAgLy8gICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbWFsbGFuLnRvb3RocGljay5PbkNsaWNrVmlldwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>View</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>View</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">QERlcHJlY2F0ZWQoIk5vIG5lZWQgdG8gdXNlIHJlZmxlY3Rpb25zIGFueW1vcmUiKQogICAgcHJpdmF0ZSBmdW4gYmluZChvYmo6IEFueSwgZnVuYzogKGlkOiBJbnQpIC0+IFZpZXc/KSB7CiAgICAgICAgdmFsIGNsYXp6ID0gb2JqLmphdmFDbGFzcwogICAgICAgIGZvciAobWV0aG9kIGluIGNsYXp6LmRlY2xhcmVkTWV0aG9kcykgewogICAgICAgICAgICBpZiAobWV0aG9kLmlzQW5ub3RhdGlvblByZXNlbnQoT25DbGljazo6Y2xhc3MuamF2YSkpIHsKICAgICAgICAgICAgICAgIHZhbCBhbm5vdGF0aW9uID0gbWV0aG9kLmdldEFubm90YXRpb24oT25DbGljazo6Y2xhc3MuamF2YSkKICAgICAgICAgICAgICAgIHZhbCB2YWx1ZXMgPSBhbm5vdGF0aW9uLnZhbHVlCiAgICAgICAgICAgICAgICBmb3IgKGlkOiBJbnQgaW4gdmFsdWVzKSB7CiAgICAgICAgICAgICAgICAgICAgdmFsIHZpZXcgPSBmdW5jKGlkKQogICAgICAgICAgICAgICAgICAgIHZpZXc/LnNldE9uQ2xpY2tMaXN0ZW5lcih7CiAgICAgICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZXRob2QuaW52b2tlKG9iaiwgdmlldykKICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoZTogSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZXRob2QuaW52b2tlKG9iaikKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9</text>
+        <text>View</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">KyAiLiIgKyBzaW1wbGVOYW1lIA==</text>
+        <text>View</text>
       </register>
-      <register name="6" type="4">
-        <text>packageName</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5pbWFsbGFuLnRvb3RocGljay5PbkNsaWNrVmlldwo=</text>
       </register>
       <register name="7" type="4">
-        <text>OnClick</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>compile</text>
+        <text>4</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWF2ZW4nCgpncm91cCA9ICdjb20uZ2l0aHViLmFsbGFuMXN0JwoK</text>
+      <register name="9" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
