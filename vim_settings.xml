@@ -27,7 +27,7 @@
         <mark key="^" line="1" column="75" />
         <mark key="." line="1" column="75" />
       </file>
-      <file name="/a.dummy" timestamp="1458345895729">
+      <file name="/a.dummy" timestamp="1458346482707">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -787,9 +787,6 @@
         <mark key="]" line="12" column="65" />
         <mark key="." line="12" column="65" />
         <mark key="^" line="12" column="65" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1458345895725">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values-fr/strings.xml" timestamp="1455880873502">
         <mark key="[" line="372" column="0" />
