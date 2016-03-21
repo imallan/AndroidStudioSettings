@@ -15,11 +15,8 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1458561405362">
+      <file name="/a.dummy" timestamp="1458563109681">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
         <mark key="[" line="197" column="40" />
@@ -138,6 +135,12 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/NotificationFragment.java" timestamp="1458563002088">
+        <mark key="[" line="207" column="0" />
+        <mark key="]" line="207" column="0" />
+        <mark key="^" line="209" column="82" />
+        <mark key="." line="207" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/ui/activity/BaseActivity.java" timestamp="1453743063197">
         <mark key="[" line="17" column="61" />
         <mark key="]" line="17" column="61" />
@@ -180,6 +183,10 @@
         <mark key="]" line="2" column="47" />
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_11.jdk/Contents/Home/src.zip!/java/lang/Object.java" timestamp="1458324041737">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/IBookManager.java" timestamp="1454407221277">
         <mark key="[" line="18" column="25" />
@@ -1636,12 +1643,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1458561175796">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1458562494981">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="82" column="53" />
         <mark key="]" line="82" column="54" />
         <mark key="." line="82" column="54" />
-        <mark key="^" line="63" column="57" />
+        <mark key="^" line="80" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" timestamp="1457540298099">
         <mark key="[" line="409" column="65" />
@@ -1732,11 +1739,15 @@
         <mark key="^" line="37" column="8" />
         <mark key="." line="37" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/widget/AddressForm.java" timestamp="1458229205718">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/widget/AddressForm.java" timestamp="1458562844350">
+        <mark key="'" line="195" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/drawable/icon_drawer.xml" timestamp="1456406388107">
         <mark key="[" line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ListRecyclerAdapter.java" timestamp="1458562809070">
+        <mark key="[" line="94" column="56" />
+        <mark key="]" line="97" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ImagePinchZoomActivity.java" timestamp="1456754453138">
         <mark key="'" line="98" column="20" />
@@ -1805,6 +1816,9 @@
         <mark key="]" line="29" column="83" />
         <mark key="^" line="29" column="83" />
         <mark key="." line="29" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/NotificationsActivity.java" timestamp="1458562610529">
+        <mark key="'" line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/aidl/com/imallan/playground/IRemoteService.aidl" timestamp="1454336977109">
         <mark key="[" line="10" column="0" />
@@ -2349,6 +2363,7 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ListActivity.java" timestamp="1458562977958" />
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/animator/flip_right_in.xml" timestamp="1456939540572">
         <mark key="[" line="22" column="31" />
         <mark key="]" line="23" column="9" />
@@ -2789,9 +2804,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="38" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/activity_user.xml" />
-      <jump line="88" column="58" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/activity_user.xml" />
-      <jump line="70" column="70" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/UserActivity.kt" />
       <jump line="77" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/UserActivity.kt" />
       <jump line="98" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/ToastManager.java" />
       <jump line="76" column="70" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/UserActivity.kt" />
@@ -2889,46 +2901,52 @@
       <jump line="141" column="24" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/NotificationsAdapter.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/NotificationsActivity.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/NotificationsActivity.java" />
+      <jump line="195" column="34" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/widget/AddressForm.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERlYWxzQWN0aXZpdHkuc3RhcnRBY3Rpdml0eShhY3Rpdml0eSwgRGVhbHNGcmFnbWVudC5UQUJfU0VMRUNURUQuTVlfREVBTFMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text>onClickMethodName</text>
+        <text>ListActivity.startActivity(
+                        holder.itemView.getContext(),
+                        list.getId(),
+                        userId, v, false));</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERlYWxzQWN0aXZpdHkuc3RhcnRBY3Rpdml0eShhY3Rpdml0eSwgRGVhbHNGcmFnbWVudC5UQUJfU0VMRUNURUQuTVlfREVBTFMpOwo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICsgb25DbGlja1ZpZXdNZXRob2ROYW1lICsg</text>
+        <text>v</text>
       </register>
       <register name="3" type="4">
-        <text>).setOnClickListener(</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>list.getId()</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;</text>
+        <text>this</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>userId</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot; + &quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEZWFsc1dhbnRlZEFjdGl2aXR5Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>annotatedElement</text>
+        <text encoding="base64">IGhvbGRlci5pdGVtVmlldy5nZXRDb250ZXh0KCk=</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>Fix with multiple onclick listener</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
