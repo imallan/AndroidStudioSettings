@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1458557089469">
+      <file name="/a.dummy" timestamp="1458561011679">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -93,6 +93,12 @@
         <mark key="]" line="12" column="30" />
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Toothpick/sample/src/main/res/layout/activity_main.xml" timestamp="1458323125870">
+        <mark key="[" line="20" column="40" />
+        <mark key="]" line="20" column="41" />
+        <mark key="^" line="20" column="41" />
+        <mark key="." line="20" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/User.java" timestamp="1456507753008">
         <mark key="'" line="0" column="0" />
@@ -655,9 +661,6 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1458345895725">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/models/Rules.kt" timestamp="1458143281680">
         <mark key="[" line="34" column="32" />
         <mark key="]" line="35" column="16" />
@@ -706,6 +709,12 @@
         <mark key="]" line="38" column="25" />
         <mark key="^" line="38" column="25" />
         <mark key="." line="38" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Toothpick/annotation/src/main/java/com/imallan/toothpick/Bindable.java" timestamp="1458321166052">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+        <mark key="^" line="3" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Fave/app/src/main/java/com/imallan/fave/CircleDrawable.java" timestamp="1456250524332">
         <mark key="[" line="21" column="21" />
@@ -1392,6 +1401,13 @@
         <mark key="]" line="1" column="93" />
         <mark key="^" line="1" column="93" />
         <mark key="." line="1" column="93" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Toothpick/sample/build.gradle" timestamp="1458325020968">
+        <mark key="'" line="8" column="32" />
+        <mark key="[" line="31" column="22" />
+        <mark key="]" line="31" column="31" />
+        <mark key="." line="31" column="31" />
+        <mark key="^" line="31" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/AndroidManifest.xml" timestamp="1456764646035">
         <mark key="[" line="12" column="45" />
@@ -2129,12 +2145,12 @@
         <mark key="^" line="38" column="82" />
         <mark key="." line="38" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" timestamp="1458558204639">
-        <mark key="'" line="93" column="46" />
-        <mark key="[" line="127" column="58" />
-        <mark key="]" line="127" column="68" />
-        <mark key="^" line="127" column="68" />
-        <mark key="." line="127" column="68" />
+      <file name="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" timestamp="1458561009597">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="^" line="142" column="79" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/extensions/Completions.kt" timestamp="1456242519360">
         <mark key="[" line="7" column="20" />
@@ -2235,6 +2251,12 @@
         <mark key="]" line="19" column="45" />
         <mark key="^" line="19" column="45" />
         <mark key="." line="19" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Toothpick/sample/src/main/kotlin/com/imallan/toothpickkotlin/MainActivity.kt" timestamp="1458560950872">
+        <mark key="[" line="26" column="83" />
+        <mark key="]" line="26" column="100" />
+        <mark key="^" line="26" column="100" />
+        <mark key="." line="26" column="100" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/DataBindingPlayground/app/src/main/res/layout/view_item_main.xml" timestamp="1456236350976">
         <mark key="[" line="8" column="25" />
@@ -2499,7 +2521,7 @@
         <mark key="^" line="13" column="51" />
         <mark key="." line="13" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Toothpick/sample/build/generated/source/kapt/debug/com/imallan/toothpickkotlin/MainActivity$$ViewInjector.java" timestamp="1458557564233" />
+      <file name="$USER_HOME$/Documents/GitHub/Toothpick/sample/build/generated/source/kapt/debug/com/imallan/toothpickkotlin/MainActivity$$ViewInjector.java" timestamp="1458559174647" />
       <file name="$USER_HOME$/Documents/GitHub/androidintentredirect/app/build.gradle" timestamp="1458149124433">
         <mark key="'" line="48" column="34" />
         <mark key="[" line="54" column="49" />
@@ -2749,11 +2771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="6" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ViewGroup.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/UserActivity.kt" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/activity_user.xml" />
-      <jump line="65" column="7" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/activity_user.xml" />
-      <jump line="47" column="16" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/UserActivity.kt" />
       <jump line="125" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/activity_user.xml" />
       <jump line="204" column="38" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/activity_user.xml" />
       <jump line="88" column="58" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/activity_user.xml" />
@@ -2849,46 +2866,51 @@
       <jump line="335" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/ad53343e57ae0969aaf451a19eef381abe2ad3a1/butterknife-7.0.1-sources.jar!/butterknife/ButterKnife.java" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/Toothpick/toothpick/src/main/kotlin/com/imallan/toothpick/Toothpick.kt" />
       <jump line="93" column="46" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
+      <jump line="112" column="41" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
+      <jump line="110" column="41" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
+      <jump line="153" column="78" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
+      <jump line="141" column="24" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>L</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDw/IGV4dGVuZHMgVmFyaWFibGVFbGVtZW50PiBwYXJhbWV0ZXJzID0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoKEV4ZWN1dGFibGVFbGVtZW50KSBlbmNsb3NlZEVsZW1lbnQpLmdldFBhcmFtZXRlcnMoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>parameters</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmluZEFjdGl2aXR5QnVpbGRlci5hZGRTdGF0ZW1lbnQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiRUIG9uQ2xpY2sgPSAkTCIsIG9uQ2xpY2tMaXN0ZW5lciwgbGlzdGVuZXJGb3JBY3Rpdml0eQogICAgICAgICAgICAgICAgICAgICAgICApOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHBhcmFtZXRlcnMuc2l6ZSgpID4gMSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbU1lc3NhZ2VyLnByaW50TWVzc2FnZShEaWFnbm9zdGljLktpbmQuRVJST1IsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJAT25DbGljayBtZXRob2RzIG11c3QgaGF2ZSBleGFjdCBvbmUgb3Igbm8gcGFyYW1ldGVycyIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuY2xvc2VkRWxlbWVudC5nZXRFbmNsb3NpbmdFbGVtZW50KCkudG9TdHJpbmcoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgIjo6IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgZW5jbG9zZWRFbGVtZW50LnRvU3RyaW5nKCkgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJdIiwgZW5jbG9zZWRFbGVtZW50KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="1" type="4">
-        <text>L</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDw/IGV4dGVuZHMgVmFyaWFibGVFbGVtZW50PiBwYXJhbWV0ZXJzID0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoKEV4ZWN1dGFibGVFbGVtZW50KSBlbmNsb3NlZEVsZW1lbnQpLmdldFBhcmFtZXRlcnMoKTsK</text>
       </register>
       <register name="2" type="4">
-        <text>listenerForView</text>
+        <text>parameters</text>
       </register>
       <register name="3" type="4">
-        <text>listenerForActivity</text>
+        <text>x</text>
       </register>
       <register name="4" type="4">
-        <text>listenerForView</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDbGFzc05hbWUgb25DbGlja0xpc3RlbmVyID0gQ2xhc3NOYW1lLmdldCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFZJRVdfVFlQRV9QQUNLQUdFLCBWSUVXX1RZUEVfU0lNUExFX05BTUUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiT25DbGlja0xpc3RlbmVyIgogICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgICAgVHlwZVNwZWMgbGlzdGVuZXJGb3JBY3Rpdml0eSA9IGdldExpc3RlbmVyVHlwZVNwZWNGb3JBY3Rpdml0eShlbmNsb3NlZEVsZW1lbnQpOwogICAgICAgICAgICAgICAgICAgIFR5cGVTcGVjIGxpc3RlbmVyRm9yVmlldyA9IGdldExpc3RlbmVyVHlwZVNwZWNGb3JWaWV3KGVuY2xvc2VkRWxlbWVudCk7CiAgICAgICAgICAgICAgICAgICAgYmluZEFjdGl2aXR5QnVpbGRlci5hZGRTdGF0ZW1lbnQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiJFQgb25DbGljayA9ICRMIiwgb25DbGlja0xpc3RlbmVyLCBsaXN0ZW5lckZvckFjdGl2aXR5CiAgICAgICAgICAgICAgICAgICAgKTs=</text>
+        <text>n</text>
       </register>
       <register name="6" type="4">
-        <text>, listenerForActivity</text>
+        <text>must be applied to non-abstract functions[</text>
       </register>
-      <register name="7" type="4">
-        <text>L</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5jbG9zZWRFbGVtZW50KTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>$</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiIiwK</text>
       </register>
-      <register name="9" type="4">
-        <text>listenerForActivity</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
