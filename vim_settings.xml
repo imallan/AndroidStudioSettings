@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1458561103029">
+      <file name="/a.dummy" timestamp="1458561405362">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -345,6 +345,9 @@
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="46" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/Activity.java" timestamp="1458310974534">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/ServiceExample/app/src/main/res/layout/activity_main.xml" timestamp="1453308687904">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="12" column="37" />
@@ -425,6 +428,9 @@
         <mark key="]" line="29" column="46" />
         <mark key="^" line="29" column="46" />
         <mark key="." line="29" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/LoginFragment.java" timestamp="1457953190735">
+        <mark key="'" line="527" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/extension/TextExtensions.kt" timestamp="1456870534205">
         <mark key="[" line="12" column="5" />
@@ -660,9 +666,6 @@
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="11" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1458561103024">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/models/Rules.kt" timestamp="1458143281680">
         <mark key="[" line="34" column="32" />
@@ -1100,6 +1103,9 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="6" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SocialNetworksSettingsActivity.java" timestamp="1457962337465">
+        <mark key="'" line="452" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AIDLExample/app/src/main/res/layout/activity_messenger_service.xml" timestamp="1454274197801">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="8" column="36" />
@@ -1412,6 +1418,9 @@
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="31" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/org/json/JSONObject.java" timestamp="1457959703237">
+        <mark key="'" line="79" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/AndroidManifest.xml" timestamp="1456764646035">
         <mark key="[" line="12" column="45" />
         <mark key="]" line="12" column="57" />
@@ -1722,6 +1731,9 @@
         <mark key="]" line="37" column="8" />
         <mark key="^" line="37" column="8" />
         <mark key="." line="37" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/widget/AddressForm.java" timestamp="1458229205718">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/res/drawable/icon_drawer.xml" timestamp="1456406388107">
         <mark key="[" line="5" column="31" />
@@ -2148,12 +2160,12 @@
         <mark key="^" line="38" column="82" />
         <mark key="." line="38" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" timestamp="1458561009597">
+      <file name="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" timestamp="1458562360971">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="^" line="142" column="79" />
-        <mark key="." line="142" column="0" />
+        <mark key="[" line="156" column="91" />
+        <mark key="]" line="156" column="92" />
+        <mark key="^" line="160" column="77" />
+        <mark key="." line="156" column="92" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/extensions/Completions.kt" timestamp="1456242519360">
         <mark key="[" line="7" column="20" />
@@ -2255,11 +2267,11 @@
         <mark key="^" line="19" column="45" />
         <mark key="." line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Toothpick/sample/src/main/kotlin/com/imallan/toothpickkotlin/MainActivity.kt" timestamp="1458561403126">
-        <mark key="[" line="26" column="83" />
-        <mark key="]" line="26" column="83" />
-        <mark key="^" line="26" column="100" />
-        <mark key="." line="26" column="83" />
+      <file name="$USER_HOME$/Documents/GitHub/Toothpick/sample/src/main/kotlin/com/imallan/toothpickkotlin/MainActivity.kt" timestamp="1458561551376">
+        <mark key="[" line="30" column="52" />
+        <mark key="]" line="30" column="51" />
+        <mark key="^" line="30" column="51" />
+        <mark key="." line="30" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/DataBindingPlayground/app/src/main/res/layout/view_item_main.xml" timestamp="1456236350976">
         <mark key="[" line="8" column="25" />
@@ -2524,7 +2536,7 @@
         <mark key="^" line="13" column="51" />
         <mark key="." line="13" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Toothpick/sample/build/generated/source/kapt/debug/com/imallan/toothpickkotlin/MainActivity$$ViewInjector.java" timestamp="1458559174647" />
+      <file name="$USER_HOME$/Documents/GitHub/Toothpick/sample/build/generated/source/kapt/debug/com/imallan/toothpickkotlin/MainActivity$$ViewInjector.java" timestamp="1458562198344" />
       <file name="$USER_HOME$/Documents/GitHub/androidintentredirect/app/build.gradle" timestamp="1458149124433">
         <mark key="'" line="48" column="34" />
         <mark key="[" line="54" column="49" />
@@ -2549,6 +2561,9 @@
         <mark key="]" line="20" column="49" />
         <mark key="^" line="20" column="49" />
         <mark key="." line="20" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/NotificationsAdapter.java" timestamp="1458562027779">
+        <mark key="'" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/AndroidManifest.xml" timestamp="1458048727452">
         <mark key="[" line="29" column="0" />
@@ -2774,7 +2789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/activity_user.xml" />
       <jump line="204" column="38" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/activity_user.xml" />
       <jump line="88" column="58" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/activity_user.xml" />
       <jump line="70" column="70" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/UserActivity.kt" />
@@ -2874,46 +2888,47 @@
       <jump line="153" column="78" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
       <jump line="141" column="24" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/NotificationsAdapter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, context: Context</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>, context: Context</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHBhcmFtZXRlcnMuc2l6ZSgpID4gMSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbU1lc3NhZ2VyLnByaW50TWVzc2FnZShEaWFnbm9zdGljLktpbmQuRVJST1IsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJAT25DbGljayBtZXRob2RzIG11c3QgaGF2ZSBleGFjdCBvbmUgb3Igbm8gcGFyYW1ldGVycyIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuY2xvc2VkRWxlbWVudC5nZXRFbmNsb3NpbmdFbGVtZW50KCkudG9TdHJpbmcoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgIjo6IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgZW5jbG9zZWRFbGVtZW50LnRvU3RyaW5nKCkgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJdIiwgZW5jbG9zZWRFbGVtZW50KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
+        <text>onClickMethodName</text>
       </register>
       <register name="1" type="4">
-        <text>, context: Context</text>
+        <text>&quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDw/IGV4dGVuZHMgVmFyaWFibGVFbGVtZW50PiBwYXJhbWV0ZXJzID0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoKEV4ZWN1dGFibGVFbGVtZW50KSBlbmNsb3NlZEVsZW1lbnQpLmdldFBhcmFtZXRlcnMoKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICsgb25DbGlja1ZpZXdNZXRob2ROYW1lICsg</text>
       </register>
       <register name="3" type="4">
-        <text>parameters</text>
+        <text>).setOnClickListener(</text>
       </register>
       <register name="4" type="4">
-        <text>x</text>
-      </register>
-      <register name="5" type="4">
         <text>.</text>
       </register>
+      <register name="5" type="4">
+        <text>&quot;</text>
+      </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>must be applied to non-abstract functions[</text>
+        <text>&quot; + &quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5jbG9zZWRFbGVtZW50KTsK</text>
+      <register name="8" type="4">
+        <text>annotatedElement</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiIiwK</text>
+      <register name="9" type="4">
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
