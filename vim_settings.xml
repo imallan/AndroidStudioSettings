@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1458563131197">
+      <file name="/a.dummy" timestamp="1458563303581">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
@@ -673,9 +673,6 @@
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="11" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1458563131192">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/models/Rules.kt" timestamp="1458143281680">
         <mark key="[" line="34" column="32" />
@@ -1646,11 +1643,11 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1458562494981">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1458563482350">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="82" column="53" />
-        <mark key="]" line="82" column="54" />
-        <mark key="." line="82" column="54" />
+        <mark key="[" line="87" column="41" />
+        <mark key="]" line="87" column="42" />
+        <mark key="." line="87" column="42" />
         <mark key="^" line="80" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" timestamp="1457540298099">
