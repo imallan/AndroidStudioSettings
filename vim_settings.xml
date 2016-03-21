@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1458561011679">
+      <file name="/a.dummy" timestamp="1458561103029">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -660,6 +660,9 @@
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="11" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1458561103024">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/models/Rules.kt" timestamp="1458143281680">
         <mark key="[" line="34" column="32" />
@@ -1624,12 +1627,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1458325461913">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1458561175796">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="80" column="47" />
-        <mark key="]" line="80" column="48" />
-        <mark key="." line="80" column="48" />
-        <mark key="^" line="80" column="57" />
+        <mark key="[" line="82" column="53" />
+        <mark key="]" line="82" column="54" />
+        <mark key="." line="82" column="54" />
+        <mark key="^" line="63" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" timestamp="1457540298099">
         <mark key="[" line="409" column="65" />
@@ -2252,11 +2255,11 @@
         <mark key="^" line="19" column="45" />
         <mark key="." line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Toothpick/sample/src/main/kotlin/com/imallan/toothpickkotlin/MainActivity.kt" timestamp="1458560950872">
+      <file name="$USER_HOME$/Documents/GitHub/Toothpick/sample/src/main/kotlin/com/imallan/toothpickkotlin/MainActivity.kt" timestamp="1458561403126">
         <mark key="[" line="26" column="83" />
-        <mark key="]" line="26" column="100" />
+        <mark key="]" line="26" column="83" />
         <mark key="^" line="26" column="100" />
-        <mark key="." line="26" column="100" />
+        <mark key="." line="26" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/DataBindingPlayground/app/src/main/res/layout/view_item_main.xml" timestamp="1456236350976">
         <mark key="[" line="8" column="25" />
@@ -2873,11 +2876,11 @@
       <jump line="42" column="0" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDw/IGV4dGVuZHMgVmFyaWFibGVFbGVtZW50PiBwYXJhbWV0ZXJzID0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoKEV4ZWN1dGFibGVFbGVtZW50KSBlbmNsb3NlZEVsZW1lbnQpLmdldFBhcmFtZXRlcnMoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>, context: Context</text>
       </register>
       <register name="-" type="4">
-        <text>parameters</text>
+        <text>, context: Context</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2885,32 +2888,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHBhcmFtZXRlcnMuc2l6ZSgpID4gMSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbU1lc3NhZ2VyLnByaW50TWVzc2FnZShEaWFnbm9zdGljLktpbmQuRVJST1IsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJAT25DbGljayBtZXRob2RzIG11c3QgaGF2ZSBleGFjdCBvbmUgb3Igbm8gcGFyYW1ldGVycyIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuY2xvc2VkRWxlbWVudC5nZXRFbmNsb3NpbmdFbGVtZW50KCkudG9TdHJpbmcoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgIjo6IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgZW5jbG9zZWRFbGVtZW50LnRvU3RyaW5nKCkgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJdIiwgZW5jbG9zZWRFbGVtZW50KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>, context: Context</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDw/IGV4dGVuZHMgVmFyaWFibGVFbGVtZW50PiBwYXJhbWV0ZXJzID0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoKEV4ZWN1dGFibGVFbGVtZW50KSBlbmNsb3NlZEVsZW1lbnQpLmdldFBhcmFtZXRlcnMoKTsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>parameters</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>x</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>.</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>n</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>must be applied to non-abstract functions[</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5jbG9zZWRFbGVtZW50KTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiIiwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiIiwK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
