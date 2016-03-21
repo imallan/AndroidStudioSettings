@@ -335,12 +335,11 @@
         <mark key="^" line="71" column="37" />
         <mark key="." line="73" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsAdapter.kt" timestamp="1457693658215">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="28" />
-        <mark key="^" line="58" column="60" />
-        <mark key="." line="58" column="68" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsAdapter.kt" timestamp="1458575380408">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/res/layout/activity_main.xml" timestamp="1458040880687">
         <mark key="[" line="27" column="0" />
@@ -1060,7 +1059,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERlYWxzQWN0aXZpdHkuc3RhcnRBY3Rpdml0eShhY3Rpdml0eSwgRGVhbHNGcmFnbWVudC5UQUJfU0VMRUNURUQuTVlfREVBTFMpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>v</text>
@@ -1075,31 +1074,31 @@
                         userId, v, false));</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhbCBhcnIgOiBTcGFyc2VBcnJheQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERlYWxzQWN0aXZpdHkuc3RhcnRBY3Rpdml0eShhY3Rpdml0eSwgRGVhbHNGcmFnbWVudC5UQUJfU0VMRUNURUQuTVlfREVBTFMpOwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>v</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>)</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>list.getId()</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>this</text>
       </register>
-      <register name="6" type="4">
-        <text>userId</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEZWFsc1dhbnRlZEFjdGl2aXR5Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGhvbGRlci5pdGVtVmlldy5nZXRDb250ZXh0KCk=</text>
-      </register>
       <register name="9" type="4">
-        <text>Fix with multiple onclick listener</text>
+        <text>userId</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
