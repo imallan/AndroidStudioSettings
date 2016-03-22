@@ -941,11 +941,11 @@
         <mark key="^" line="15" column="25" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostRecyclerAdapter.java" timestamp="1455725491907">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="109" column="62" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostRecyclerAdapter.java" timestamp="1458663703136">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="9" />
+        <mark key="^" line="31" column="9" />
+        <mark key="." line="31" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/MvpExample/app/src/main/res/values/styles.xml" timestamp="1454176103830">
         <mark key="[" line="3" column="57" />
@@ -1842,12 +1842,6 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/PostsFragment.java" timestamp="1454084715812">
-        <mark key="[" line="69" column="87" />
-        <mark key="]" line="69" column="86" />
-        <mark key="^" line="69" column="86" />
-        <mark key="." line="69" column="86" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/res/layout/view_fave.xml" timestamp="1456780984526">
         <mark key="[" line="19" column="38" />
         <mark key="]" line="19" column="48" />
@@ -2165,9 +2159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="851" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/LoginActivity.java" />
-      <jump line="934" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/LoginActivity.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/LoginFragment.java" />
       <jump line="527" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/LoginFragment.java" />
       <jump line="739" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/LoginActivity.java" />
       <jump line="208" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SocialNetworksSettingsActivity.java" />
@@ -2265,46 +2256,49 @@
       <jump line="27" column="62" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
       <jump line="63" column="26" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
       <jump line="64" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
+      <jump line="244" column="18" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/PostsFragment.java" />
+      <jump line="39" column="47" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/PostsFragment.java" />
+      <jump line="52" column="36" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/PostsFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getWidth</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getWidth</text>
+        <text>pos</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>mViewPager</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldExvYWRlck1hbmFnZXIoKS5yZXN0YXJ0TG9hZGVyKExPQURFUl9UUkVORElOR19QT1NUUywgbnVsbCwgdGhpcyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>getWidth</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>recyclerView.getWidth()</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBtQWRhcHRlci5sYXN0QW5pbWF0ZWRQb3NpdGlvbiA9IHNhdmVkSW5zdGFuY2VTdGF0ZS5nZXRJbnQoIlBPU0lUSU9OIiwgLTEpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmlld0hvbGRlci5pdGVtVmlldwo=</text>
+      <register name="3" type="4">
+        <text>pos</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUG9zdEFkYXB0ZXIuVgo=</text>
+      <register name="4" type="4">
+        <text>private</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVjeWNsZXJWaWV3Lgo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRTdGF0ZS5wdXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRMb2FkZXJNYW5hZ2VyKCkucmVzdGFydExvYWRlcihMT0FERVJfVFJFTkRJTkdfUE9TVFMsIG51bGwsIHRoaXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRMb2FkZXJNYW5hZ2VyKCkucmVzdGFydExvYWRlcihMT0FERVJfVFJFTkRJTkdfUE9TVFMsIG51bGwsIHRoaXMpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
