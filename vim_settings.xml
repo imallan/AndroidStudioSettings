@@ -53,6 +53,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/PayUtils.java" timestamp="1458734219769">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="11" />
+        <mark key="^" line="15" column="11" />
+        <mark key="." line="15" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/ui/ScreenContainer.java" timestamp="1453756233075">
         <mark key="[" line="8" column="34" />
         <mark key="]" line="11" column="46" />
@@ -910,10 +916,6 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/recyclerview-v7/23.2.1/recyclerview-v7-23.2.1-sources.jar!/android/support/v7/widget/RecyclerView.java" timestamp="1458581631249">
-        <mark key="[" line="5373" column="40" />
-        <mark key="]" line="5373" column="62" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/UserListsFragment.java" timestamp="1453480590172">
         <mark key="[" line="106" column="84" />
       </file>
@@ -1317,11 +1319,11 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" timestamp="1457540298099">
-        <mark key="[" line="409" column="65" />
-        <mark key="]" line="409" column="64" />
-        <mark key="^" line="409" column="64" />
-        <mark key="." line="409" column="64" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" timestamp="1458733297479">
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="47" column="34" />
+        <mark key="^" line="47" column="34" />
+        <mark key="." line="47" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/reactnative/packages/ReactPackage.java" timestamp="1454426553357">
         <mark key="[" line="6" column="13" />
@@ -2045,6 +2047,13 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1458733736804">
+        <mark key="'" line="82" column="4" />
+        <mark key="[" line="137" column="61" />
+        <mark key="]" line="138" column="62" />
+        <mark key="^" line="138" column="62" />
+        <mark key="." line="138" column="62" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BookService.java" timestamp="1454409639600">
         <mark key="[" line="13" column="28" />
         <mark key="]" line="13" column="39" />
@@ -2164,8 +2173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="527" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/LoginFragment.java" />
-      <jump line="739" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/LoginActivity.java" />
       <jump line="208" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SocialNetworksSettingsActivity.java" />
       <jump line="442" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SocialNetworksSettingsActivity.java" />
       <jump line="101" column="58" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/UserFriendsFragment.java" />
@@ -2264,13 +2271,15 @@
       <jump line="244" column="18" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/PostsFragment.java" />
       <jump line="39" column="47" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/PostsFragment.java" />
       <jump line="52" column="36" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/PostsFragment.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="82" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDp0YWJHcmF2aXR5PSJmaWxsIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>pos</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2281,26 +2290,26 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtQWRhcHRlci5sYXN0QW5pbWF0ZWRQb3NpdGlvbiA9IHNhdmVkSW5zdGFuY2VTdGF0ZS5nZXRJbnQoIlBPU0lUSU9OIiwgLTEpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>pos</text>
+        <text>boolean</text>
       </register>
       <register name="4" type="4">
-        <text>private</text>
+        <text>eady</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRTdGF0ZS5wdXQK</text>
+        <text encoding="base64">ICAgICAgICBtQWRhcHRlci5sYXN0QW5pbWF0ZWRQb3NpdGlvbiA9IHNhdmVkSW5zdGFuY2VTdGF0ZS5nZXRJbnQoIlBPU0lUSU9OIiwgLTEpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRMb2FkZXJNYW5hZ2VyKCkucmVzdGFydExvYWRlcihMT0FERVJfVFJFTkRJTkdfUE9TVFMsIG51bGwsIHRoaXMpOwo=</text>
+      <register name="7" type="4">
+        <text>pos</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRMb2FkZXJNYW5hZ2VyKCkucmVzdGFydExvYWRlcihMT0FERVJfVFJFTkRJTkdfUE9TVFMsIG51bGwsIHRoaXMpOwo=</text>
+      <register name="8" type="4">
+        <text>private</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
