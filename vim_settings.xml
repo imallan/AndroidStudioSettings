@@ -941,6 +941,11 @@
         <mark key="^" line="15" column="25" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_profile.xml" timestamp="1458727411533">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="33" />
+        <mark key="." line="159" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostRecyclerAdapter.java" timestamp="1458663703136">
         <mark key="[" line="31" column="4" />
         <mark key="]" line="31" column="9" />
@@ -1010,9 +1015,9 @@
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_main_drawer.xml" timestamp="1457695036026">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_main_drawer.xml" timestamp="1458727408726">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="37" />
         <mark key="^" line="76" column="52" />
         <mark key="." line="78" column="0" />
       </file>
@@ -2262,7 +2267,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDp0YWJHcmF2aXR5PSJmaWxsIgo=</text>
       </register>
       <register name="-" type="4">
         <text>pos</text>
@@ -2271,7 +2276,7 @@
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldExvYWRlck1hbmFnZXIoKS5yZXN0YXJ0TG9hZGVyKExPQURFUl9UUkVORElOR19QT1NUUywgbnVsbCwgdGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDp0YWJHcmF2aXR5PSJmaWxsIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
