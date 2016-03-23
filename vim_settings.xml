@@ -53,11 +53,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/PayUtils.java" timestamp="1458734219769">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="11" />
-        <mark key="^" line="15" column="11" />
-        <mark key="." line="15" column="11" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/PayUtils.java" timestamp="1458735802391">
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+        <mark key="^" line="24" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/ui/ScreenContainer.java" timestamp="1453756233075">
         <mark key="[" line="8" column="34" />
@@ -2276,10 +2276,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL3Nob3cgYW5kcm9pZCBwYXkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Throwable</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2288,31 +2288,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDp0YWJHcmF2aXR5PSJmaWxsIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL3Nob3cgYW5kcm9pZCBwYXkK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Throwable</text>
       </register>
       <register name="3" type="4">
-        <text>boolean</text>
+        <text>new AndroidPayException()</text>
       </register>
       <register name="4" type="4">
-        <text>eady</text>
+        <text>RuntimeException</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>Exception</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtQWRhcHRlci5sYXN0QW5pbWF0ZWRQb3NpdGlvbiA9IHNhdmVkSW5zdGFuY2VTdGF0ZS5nZXRJbnQoIlBPU0lUSU9OIiwgLTEpOwo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>pos</text>
-      </register>
-      <register name="8" type="4">
-        <text>private</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWJzY3JpYmVyLm9uTmV4dChib29sZWFuUmVzdWx0LmdldFZhbHVlKCkpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>BooleanResult</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
