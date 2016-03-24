@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1458757021395">
+      <file name="/a.dummy" timestamp="1458816645392">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
@@ -373,13 +373,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" timestamp="1458755275390">
-        <mark key="'" line="282" column="19" />
-        <mark key="[" line="323" column="88" />
-        <mark key="]" line="323" column="94" />
-        <mark key="." line="323" column="94" />
-        <mark key="^" line="323" column="94" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/PlayGround/app/src/main/java/com/imallan/playground/presenters/Presenter.java" timestamp="1453757110667">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="15" />
@@ -506,6 +499,9 @@
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="11" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1458816645387">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.commit451/PhotoView/1.2.5/63d6393fdd432176a5869a51f64706c6c22bc370/PhotoView-1.2.5-sources.jar!/uk/co/senab/photoview/PhotoViewAttacher.java" timestamp="1458755939942">
         <mark key="[" line="167" column="21" />
@@ -877,11 +873,10 @@
         <mark key="^" line="17" column="74" />
         <mark key="." line="17" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/activity_shot.xml" timestamp="1456756441891">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="25" column="51" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/activity_shot.xml" timestamp="1458816561485">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/Rule.kt" timestamp="1458078138767">
         <mark key="[" line="6" column="0" />
@@ -1403,11 +1398,11 @@
         <mark key="^" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/content_shot.xml" timestamp="1457449095098">
-        <mark key="[" line="179" column="33" />
-        <mark key="]" line="179" column="49" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/content_shot.xml" timestamp="1458815425975">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
         <mark key="^" line="156" column="39" />
-        <mark key="." line="156" column="39" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/DBHelper.java" timestamp="1457102337706">
         <mark key="[" line="211" column="49" />
@@ -1600,7 +1595,7 @@
       <file name="$USER_HOME$/Documents/GitHub/AnnotationProcessorExample/processor/src/main/java/com/example/MyProcessor.java" timestamp="1458230919446">
         <mark key="[" line="10" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1458338084741">
+      <file name="/fragment.java" timestamp="1458814094875">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/build.gradle" timestamp="1457609848364">
@@ -1789,12 +1784,10 @@
         <mark key="^" line="53" column="60" />
         <mark key="." line="53" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" timestamp="1458583687458">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="135" column="40" />
-        <mark key="]" line="136" column="28" />
-        <mark key="^" line="136" column="28" />
-        <mark key="." line="136" column="28" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" timestamp="1458816634780">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/LoadingDelegateAdapter.kt" timestamp="1458582355394">
         <mark key="[" line="18" column="4" />
@@ -1820,7 +1813,9 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/extension/ActivityExtensions.kt" timestamp="1458813127918" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/extension/ActivityExtensions.kt" timestamp="1458813336053">
+        <mark key="'" line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/model/cache/ShotsCache.kt" timestamp="1456687030024">
         <mark key="[" line="19" column="41" />
         <mark key="]" line="20" column="34" />
@@ -1932,12 +1927,12 @@
         <mark key="^" line="89" column="59" />
         <mark key="." line="89" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" timestamp="1458643303288">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" timestamp="1458816670362">
         <mark key="'" line="64" column="0" />
-        <mark key="[" line="63" column="22" />
-        <mark key="]" line="63" column="26" />
-        <mark key="." line="63" column="26" />
-        <mark key="^" line="63" column="26" />
+        <mark key="[" line="62" column="18" />
+        <mark key="]" line="62" column="46" />
+        <mark key="." line="62" column="46" />
+        <mark key="^" line="62" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
@@ -2199,19 +2194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="10" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/MainActivity.kt" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/extension/PreferenceExtensions.kt" />
-      <jump line="57" column="0" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/Extensions.kt" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/Extensions.kt" />
-      <jump line="19" column="10" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/IntentHandleActivity.kt" />
-      <jump line="36" column="25" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/IntentHandleActivity.kt" />
-      <jump line="81" column="49" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/IntentHandleActivity.kt" />
-      <jump line="26" column="20" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/MockRules.kt" />
-      <jump line="38" column="8" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/MockRules.kt" />
-      <jump line="41" column="12" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/IntentHandleActivity.kt" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/GitHub/IntentRedirect/app/src/main/java/com/imallan/intentredirect/Extensions.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/androidintentredirect/app/build.gradle" />
-      <jump line="45" column="0" filename="$USER_HOME$/Documents/GitHub/androidintentredirect/app/build.gradle" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/androidintentredirect/app/build.gradle" />
       <jump line="29" column="21" filename="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/ui/IntentHandleActivity.kt" />
       <jump line="5" column="6" filename="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/mocks/MockRules.kt" />
@@ -2257,7 +2239,6 @@
       <jump line="98" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsAdapter.kt" />
       <jump line="24" column="24" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
       <jump line="18" column="9" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
       <jump line="47" column="4" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
@@ -2277,7 +2258,6 @@
       <jump line="61" column="7" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
       <jump line="49" column="43" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
       <jump line="27" column="62" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
-      <jump line="63" column="26" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
       <jump line="64" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
       <jump line="244" column="18" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/PostsFragment.java" />
       <jump line="39" column="47" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/PostsFragment.java" />
@@ -2292,53 +2272,68 @@
       <jump line="14" column="15" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/extension/ActivityExtensions.kt" />
       <jump line="70" column="21" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/UserActivity.kt" />
       <jump line="64" column="14" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/listener/RecyclerPaginationListener.kt" />
-      <jump line="20" column="18" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/extension/ActivityExtensions.kt" />
       <jump line="102" column="16" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ImageActivity.kt" />
       <jump line="100" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ImageActivity.kt" />
       <jump line="108" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ImageActivity.kt" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ImageActivity.kt" />
       <jump line="109" column="18" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ImageActivity.kt" />
       <jump line="113" column="53" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ImageActivity.kt" />
+      <jump line="20" column="18" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/extension/ActivityExtensions.kt" />
+      <jump line="39" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/extension/ActivityExtensions.kt" />
+      <jump line="13" column="16" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
+      <jump line="63" column="13" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
+      <jump line="15" column="20" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
+      <jump line="136" column="17" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
+      <jump line="62" column="11" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
+      <jump line="25" column="15" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
+      <jump line="65" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
+      <jump line="126" column="28" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
+      <jump line="332" column="42" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
+      <jump line="50" column="67" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
+      <jump line="144" column="5" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
+      <jump line="58" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
+      <jump line="342" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
+      <jump line="162" column="27" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dmFsIGludGVudCA9IEludGVudCh0aGlzLCBjbGF6eikKICAgIHBhaXJzLmZvckVhY2ggewogICAgICAgIHZhbCB2YWx1ZSA9IGl0LnNlY29uZAogICAgICAgIHdoZW4gKHZhbHVlKSB7CiAgICAgICAgICAgIGlzIEludCAtPiBpbnRlbnQucHV0RXh0cmEoaXQuZmlyc3QsIHZhbHVlKQogICAgICAgICAgICBpcyBTdHJpbmcgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkKICAgICAgICAgICAgaXMgRG91YmxlIC0+IGludGVudC5wdXRFeHRyYShpdC5maXJzdCwgdmFsdWUpCiAgICAgICAgICAgIGlzIExvbmcgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkKICAgICAgICAgICAgaXMgRmxvYXQgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkKICAgICAgICAgICAgaXMgQm9vbGVhbiAtPiBpbnRlbnQucHV0RXh0cmEoaXQuZmlyc3QsIHZhbHVlKQogICAgICAgICAgICBpcyBTZXJpYWxpemFibGUgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkKICAgICAgICAgICAgaXMgUGFyY2VsYWJsZSAtPiBpbnRlbnQucHV0RXh0cmEoaXQuZmlyc3QsIHZhbHVlKQogICAgICAgICAgICBpcyBDaGFyIC0+IGludGVudC5wdXRFeHRyYShpdC5maXJzdCwgdmFsdWUpCiAgICAgICAgICAgIGlzIEJ5dGUgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkKICAgICAgICAgICAgaXMgU2hvcnQgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkKICAgICAgICAgICAgaXMgQnVuZGxlIC0+IGludGVudC5wdXRFeHRyYShpdC5maXJzdCwgdmFsdWUpCiAgICAgICAgICAgIGlzIEludEFycmF5IC0+IGludGVudC5wdXRFeHRyYShpdC5maXJzdCwgdmFsdWUpCiAgICAgICAgICAgIGlzIExvbmdBcnJheSAtPiBpbnRlbnQucHV0RXh0cmEoaXQuZmlyc3QsIHZhbHVlKQogICAgICAgICAgICBpcyBDaGFyQXJyYXkgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkKICAgICAgICAgICAgaXMgRG91YmxlQXJyYXkgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkKICAgICAgICAgICAgaXMgQXJyYXk8Kj4gLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkKICAgICAgICAgICAgZWxzZSAtPiB0aHJvdyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oCiAgICAgICAgICAgICAgICAgICAgIklsbGVnYWwgYXJndW1lbnQgdHlwZTogJHt2YWx1ZS5qYXZhQ2xhc3MuY2Fub25pY2FsTmFtZX0iCiAgICAgICAgICAgICkKICAgICAgICB9CiAgICB9CiAgICB2aWV3Py5sZXQgewogICAgICAgIHZhbCBvcHRpb25zID0gQWN0aXZpdHlPcHRpb25zLm1ha2VTY2FsZVVwQW5pbWF0aW9uKHZpZXcsIDAsIDAsIHZpZXcud2lkdGgsIHZpZXcuaGVpZ2h0KQogICAgICAgIHN0YXJ0QWN0aXZpdHkoaW50ZW50LCBvcHRpb25zLnRvQnVuZGxlKCkpCiAgICAgICAgcmV0dXJuCiAgICB9CiAgICBzdGFydEFjdGl2aXR5KGludGVudCk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aW5kb3cuc2hhcmVkRWxlbWVudHNVc2VPdmVybGF5ID0gZmFsc2UK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyYXJnIA==</text>
+        <text>background</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dmFsIGludGVudCA9IEludGVudCh0aGlzLCBjbGF6eikKICAgIHBhaXJzLmZvckVhY2ggewogICAgICAgIHZhbCB2YWx1ZSA9IGl0LnNlY29uZAogICAgICAgIHdoZW4gKHZhbHVlKSB7CiAgICAgICAgICAgIGlzIEludCAtPiBpbnRlbnQucHV0RXh0cmEoaXQuZmlyc3QsIHZhbHVlKQogICAgICAgICAgICBpcyBTdHJpbmcgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkKICAgICAgICAgICAgaXMgRG91YmxlIC0+IGludGVudC5wdXRFeHRyYShpdC5maXJzdCwgdmFsdWUpCiAgICAgICAgICAgIGlzIExvbmcgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkKICAgICAgICAgICAgaXMgRmxvYXQgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkKICAgICAgICAgICAgaXMgQm9vbGVhbiAtPiBpbnRlbnQucHV0RXh0cmEoaXQuZmlyc3QsIHZhbHVlKQogICAgICAgICAgICBpcyBTZXJpYWxpemFibGUgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkKICAgICAgICAgICAgaXMgUGFyY2VsYWJsZSAtPiBpbnRlbnQucHV0RXh0cmEoaXQuZmlyc3QsIHZhbHVlKQogICAgICAgICAgICBpcyBDaGFyIC0+IGludGVudC5wdXRFeHRyYShpdC5maXJzdCwgdmFsdWUpCiAgICAgICAgICAgIGlzIEJ5dGUgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkKICAgICAgICAgICAgaXMgU2hvcnQgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkKICAgICAgICAgICAgaXMgQnVuZGxlIC0+IGludGVudC5wdXRFeHRyYShpdC5maXJzdCwgdmFsdWUpCiAgICAgICAgICAgIGlzIEludEFycmF5IC0+IGludGVudC5wdXRFeHRyYShpdC5maXJzdCwgdmFsdWUpCiAgICAgICAgICAgIGlzIExvbmdBcnJheSAtPiBpbnRlbnQucHV0RXh0cmEoaXQuZmlyc3QsIHZhbHVlKQogICAgICAgICAgICBpcyBDaGFyQXJyYXkgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkKICAgICAgICAgICAgaXMgRG91YmxlQXJyYXkgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkKICAgICAgICAgICAgaXMgQXJyYXk8Kj4gLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkKICAgICAgICAgICAgZWxzZSAtPiB0aHJvdyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oCiAgICAgICAgICAgICAgICAgICAgIklsbGVnYWwgYXJndW1lbnQgdHlwZTogJHt2YWx1ZS5qYXZhQ2xhc3MuY2Fub25pY2FsTmFtZX0iCiAgICAgICAgICAgICkKICAgICAgICB9CiAgICB9CiAgICB2aWV3Py5sZXQgewogICAgICAgIHZhbCBvcHRpb25zID0gQWN0aXZpdHlPcHRpb25zLm1ha2VTY2FsZVVwQW5pbWF0aW9uKHZpZXcsIDAsIDAsIHZpZXcud2lkdGgsIHZpZXcuaGVpZ2h0KQogICAgICAgIHN0YXJ0QWN0aXZpdHkoaW50ZW50LCBvcHRpb25zLnRvQnVuZGxlKCkpCiAgICAgICAgcmV0dXJuCiAgICB9CiAgICBzdGFydEFjdGl2aXR5KGludGVudCk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB3aW5kb3cuZXhpdFRyYW5zaXRpb24uZXhjbHVkZVRhcmdldChhbmRyb2lkLlIuaWQuc3RhdHVzQmFyQmFja2dyb3VuZCwgdHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cuc2hhcmVkRWxlbWVudHNVc2VPdmVybGF5ID0gZmFsc2UK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">dmFyYXJnIA==</text>
+        <text>background</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PFQ6IEFjdGl2aXR5PiA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dHJhbnNpdGlvbk5hbWU9ImJhY2tncm91bmQiCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>String</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQYWlyKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYWN0aXZpdHkuZmluZFZpZXdCeUlkKGFuZHJvaWQuUi5pZC5uYXZpZ2F0aW9uQmFyQmFja2dyb3VuZCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXaW5kb3cuTkFWSUdBVElPTl9CQVJfQkFDS0dST1VORF9UUkFOU0lUSU9OX05BTUUKICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="5" type="4">
-        <text>IntArray</text>
+        <text>shared</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBleHBsb2RlLmV4Y2x1ZGVUYXJnZXQoYW5kcm9pZC5SLmlkLnN0YXR1c0JhckJhY2tncm91bmQsIHRydWUpCiAgICAgICAgZXhwbG9kZS5leGNsdWRlVGFyZ2V0KGFuZHJvaWQuUi5pZC5uYXZpZ2F0aW9uQmFyQmFja2dyb3VuZCwgdHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXMgSW50QXJyYXkgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cucmVlbnRlclRyYW5zaXRpb24gPSBleHBsb2RlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXMgSW50QXJyYXkgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBleHBsb2RlLmV4Y2x1ZGVUYXJnZXQoYW5kcm9pZC5SLmlkLm5hdmlnYXRpb25CYXJCYWNrZ3JvdW5kLCB0cnVlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXMgSW50QXJyYXkgLT4gaW50ZW50LnB1dEV4dHJhKGl0LmZpcnN0LCB2YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBleHBsb2RlLmV4Y2x1ZGVUYXJnZXQoYW5kcm9pZC5SLmlkLnN0YXR1c0JhckJhY2tncm91bmQsIHRydWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
