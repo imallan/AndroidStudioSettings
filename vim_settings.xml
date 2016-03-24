@@ -53,7 +53,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/PayUtils.java" timestamp="1458755030714">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/PayUtils.java" timestamp="1458820670287">
         <mark key="[" line="24" column="17" />
         <mark key="]" line="24" column="15" />
         <mark key="." line="24" column="15" />
@@ -1179,6 +1179,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/NotificationActivity.java" timestamp="1458821089675">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="75" column="76" />
+        <mark key="^" line="75" column="66" />
+        <mark key="." line="74" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/BottomSheetDialog.kt" timestamp="1456695968040">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="6" />
@@ -1288,6 +1294,9 @@
         <mark key="^" line="13" column="70" />
         <mark key="." line="13" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/NotificationUtils.java" timestamp="1458820923197">
+        <mark key="'" line="177" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/LinksExample/app/src/main/AndroidManifest.xml" timestamp="1457544501283">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -1331,9 +1340,6 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" timestamp="1458733297479">
         <mark key="[" line="44" column="26" />
-        <mark key="]" line="47" column="34" />
-        <mark key="^" line="47" column="34" />
-        <mark key="." line="47" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/reactnative/packages/ReactPackage.java" timestamp="1454426553357">
         <mark key="[" line="6" column="13" />
@@ -2068,13 +2074,6 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1458733736804">
-        <mark key="'" line="82" column="4" />
-        <mark key="[" line="137" column="61" />
-        <mark key="]" line="138" column="62" />
-        <mark key="^" line="138" column="62" />
-        <mark key="." line="138" column="62" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BookService.java" timestamp="1454409639600">
         <mark key="[" line="13" column="28" />
         <mark key="]" line="13" column="39" />
@@ -2091,6 +2090,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/DealsActivity.java" timestamp="1458821101746">
+        <mark key="[" line="70" column="35" />
+        <mark key="]" line="70" column="41" />
+        <mark key="." line="70" column="41" />
+        <mark key="^" line="70" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AnnotationProcessorExample/api/build.gradle" timestamp="1458236854309">
         <mark key="[" line="0" column="20" />
@@ -2194,9 +2199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/androidintentredirect/app/build.gradle" />
-      <jump line="29" column="21" filename="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/ui/IntentHandleActivity.kt" />
-      <jump line="5" column="6" filename="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/mocks/MockRules.kt" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/ui/IntentHandleActivity.kt" />
       <jump line="62" column="0" filename="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/mocks/MockRules.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/AndroidManifest.xml" />
@@ -2294,46 +2296,49 @@
       <jump line="58" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" />
       <jump line="342" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="162" column="27" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
+      <jump line="32" column="15" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/NotificationUtils.java" />
+      <jump line="145" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/NotificationUtils.java" />
+      <jump line="177" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/NotificationUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cuc2hhcmVkRWxlbWVudHNVc2VPdmVybGF5ID0gZmFsc2UK</text>
+      <register name="&quot;" type="4">
+        <text>this</text>
       </register>
       <register name="-" type="4">
-        <text>background</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cuZXhpdFRyYW5zaXRpb24uZXhjbHVkZVRhcmdldChhbmRyb2lkLlIuaWQuc3RhdHVzQmFyQmFja2dyb3VuZCwgdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXN0QWN0aXZpdHkuc3RhcnRBY3Rpdml0eSh0aGlzLCAiMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAyIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVzZXIuaW5zdGFuY2UodGhpcykuZ2V0U2VydmVySWQoKSwgbnVsbCwgZmFsc2UpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cuc2hhcmVkRWxlbWVudHNVc2VPdmVybGF5ID0gZmFsc2UK</text>
+      <register name="1" type="4">
+        <text>this</text>
       </register>
       <register name="2" type="4">
-        <text>background</text>
+        <text>this</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dHJhbnNpdGlvbk5hbWU9ImJhY2tncm91bmQiCg==</text>
+      <register name="3" type="4">
+        <text>view</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQYWlyKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYWN0aXZpdHkuZmluZFZpZXdCeUlkKGFuZHJvaWQuUi5pZC5uYXZpZ2F0aW9uQmFyQmFja2dyb3VuZCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXaW5kb3cuTkFWSUdBVElPTl9CQVJfQkFDS0dST1VORF9UUkFOU0lUSU9OX05BTUUKICAgICAgICAgICAgICAgICAgICApCg==</text>
+      <register name="4" type="4">
+        <text>activity</text>
       </register>
       <register name="5" type="4">
-        <text>shared</text>
+        <text>activity</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBsb2RlLmV4Y2x1ZGVUYXJnZXQoYW5kcm9pZC5SLmlkLnN0YXR1c0JhckJhY2tncm91bmQsIHRydWUpCiAgICAgICAgZXhwbG9kZS5leGNsdWRlVGFyZ2V0KGFuZHJvaWQuUi5pZC5uYXZpZ2F0aW9uQmFyQmFja2dyb3VuZCwgdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cuc2hhcmVkRWxlbWVudHNVc2VPdmVybGF5ID0gZmFsc2UK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cucmVlbnRlclRyYW5zaXRpb24gPSBleHBsb2RlCg==</text>
+      <register name="7" type="4">
+        <text>background</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleHBsb2RlLmV4Y2x1ZGVUYXJnZXQoYW5kcm9pZC5SLmlkLm5hdmlnYXRpb25CYXJCYWNrZ3JvdW5kLCB0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dHJhbnNpdGlvbk5hbWU9ImJhY2tncm91bmQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBsb2RlLmV4Y2x1ZGVUYXJnZXQoYW5kcm9pZC5SLmlkLnN0YXR1c0JhckJhY2tncm91bmQsIHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQYWlyKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYWN0aXZpdHkuZmluZFZpZXdCeUlkKGFuZHJvaWQuUi5pZC5uYXZpZ2F0aW9uQmFyQmFja2dyb3VuZCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXaW5kb3cuTkFWSUdBVElPTl9CQVJfQkFDS0dST1VORF9UUkFOU0lUSU9OX05BTUUKICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
