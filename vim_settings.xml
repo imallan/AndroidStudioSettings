@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1458816645392">
+      <file name="/a.dummy" timestamp="1458821105069">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
@@ -499,9 +499,6 @@
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="11" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1458816645387">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.commit451/PhotoView/1.2.5/63d6393fdd432176a5869a51f64706c6c22bc370/PhotoView-1.2.5-sources.jar!/uk/co/senab/photoview/PhotoViewAttacher.java" timestamp="1458755939942">
         <mark key="[" line="167" column="21" />
@@ -1180,10 +1177,8 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/NotificationActivity.java" timestamp="1458821089675">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="75" column="76" />
-        <mark key="^" line="75" column="66" />
-        <mark key="." line="74" column="52" />
+        <mark key="]" line="12" column="76" />
+        <mark key="^" line="12" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/BottomSheetDialog.kt" timestamp="1456695968040">
         <mark key="[" line="6" column="0" />
@@ -2090,12 +2085,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/DealsActivity.java" timestamp="1458821101746">
-        <mark key="[" line="70" column="35" />
-        <mark key="]" line="70" column="41" />
-        <mark key="." line="70" column="41" />
-        <mark key="^" line="70" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AnnotationProcessorExample/api/build.gradle" timestamp="1458236854309">
         <mark key="[" line="0" column="20" />
