@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1459253890820">
+      <file name="/a.dummy" timestamp="1459260823027">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/DatabindingExample/app/src/main/res/layout/activity_main.xml" timestamp="1458840013956">
@@ -737,6 +737,11 @@
         <mark key="]" line="2" column="15" />
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/androidTest/kotlin/com.imallan.crossover/ShotsActivityTest.kt" timestamp="1459260819293">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="48" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" timestamp="1459250754775" />
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/item_view_loading.xml" timestamp="1458579277264">
@@ -2270,7 +2275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="46" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
       <jump line="112" column="41" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
       <jump line="110" column="41" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
       <jump line="153" column="78" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
@@ -2370,46 +2374,47 @@
       <jump line="64" column="58" filename="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" />
       <jump line="104" column="26" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/androidTest/kotlin/com.imallan.crossover/ShotsActivityTest.kt" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/androidTest/kotlin/com.imallan.crossover/ShotsActivityTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>unsubscribe</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXQ0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>unsubscribe</text>
+        <text>DayTheme</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvLmFjdGlvbi5WaWV3QWN0aW9ucy5jbGljawo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvLm1hdGNoZXIuVmlld01hdGNoZXJzLndpdGhUZXh0Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>unsubscribe</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXQ0Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>S</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>e</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRydWUsIE1hdGNoZXJkZCkK</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCkK</text>
       </register>
-      <register name="5" type="4">
-        <text>i</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQobWFpbi5hY3Rpdml0eSAhPSBudWxsKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>o</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtYWluLmFjdGl2aXR5LnN3aXRjaFRvTmlnaHRUaGVtZSgpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>p</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>m</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
