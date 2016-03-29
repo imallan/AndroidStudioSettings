@@ -2149,10 +2149,12 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1458842466645">
-        <mark key="'" line="24" column="4" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="42" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1459249038176">
+        <mark key="'" line="99" column="26" />
+        <mark key="[" line="99" column="53" />
+        <mark key="]" line="99" column="57" />
+        <mark key="^" line="99" column="57" />
+        <mark key="." line="99" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/java/com/imallan/binderexample/BookService.java" timestamp="1454409639600">
         <mark key="[" line="13" column="28" />
@@ -2279,7 +2281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="335" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/ad53343e57ae0969aaf451a19eef381abe2ad3a1/butterknife-7.0.1-sources.jar!/butterknife/ButterKnife.java" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/Toothpick/toothpick/src/main/kotlin/com/imallan/toothpick/Toothpick.kt" />
       <jump line="93" column="46" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
       <jump line="112" column="41" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
@@ -2379,13 +2380,14 @@
       <jump line="26" column="4" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
       <jump line="64" column="58" filename="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" />
+      <jump line="104" column="26" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAucGVyZm9ybSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>ViewAction</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
@@ -2393,32 +2395,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyICdhbmRyb2lkLnN1cHBvcnQudGVzdC5ydW5uZXIuQW5kcm9pZEpVbml0UnVubmVyJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAucGVyZm9ybSgpCg==</text>
+      <register name="1" type="4">
+        <text>true</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvblZpZXcod2l0aCkK</text>
+      <register name="2" type="4">
+        <text>true</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAucGVyZm9ybShWaWV3QWN0aW9uKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZW5zaQo=</text>
       </register>
       <register name="4" type="4">
-        <text>ViewAction</text>
+        <text>, &quot;xhdpi&quot;, &quot;xxhdpi&quot;, &quot;xxxhdpi&quot;</text>
       </register>
-      <register name="5" type="4">
-        <text>)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZW5zaQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>(</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBleGNsdWRlICJsZHBpIiwgInR2ZHBpIiwgInh4eGhkcGkiCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>N</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAucGVyZm9ybSgpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBvblZpZXcod2l0aCkK</text>
       </register>
-      <register name="9" type="4">
-        <text>open</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAucGVyZm9ybShWaWV3QWN0aW9uKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
