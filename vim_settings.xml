@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1459243519499">
+      <file name="/a.dummy" timestamp="1459253890820">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/DatabindingExample/app/src/main/res/layout/activity_main.xml" timestamp="1458840013956">
@@ -354,9 +354,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/DatabindingExample/build.gradle" timestamp="1458833944038">
-        <mark key="[" line="7" column="50" />
-        <mark key="]" line="7" column="61" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AbstractActivity.java" timestamp="1459253841551">
+        <mark key="[" line="241" column="30" />
+        <mark key="]" line="241" column="37" />
+        <mark key="." line="241" column="37" />
+        <mark key="^" line="241" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/FragmentAsAService/app/src/main/java/com/imallan/fragmentasaservice/MainActivity.java" timestamp="1454927670993">
         <mark key="[" line="28" column="37" />
@@ -513,10 +515,6 @@
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="11" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.commit451/PhotoView/1.2.5/63d6393fdd432176a5869a51f64706c6c22bc370/PhotoView-1.2.5-sources.jar!/uk/co/senab/photoview/PhotoViewAttacher.java" timestamp="1458755939942">
-        <mark key="[" line="167" column="21" />
-        <mark key="]" line="167" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/models/Rules.kt" timestamp="1458143281680">
         <mark key="[" line="34" column="32" />
@@ -723,12 +721,6 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/DatabindingExample/app/src/main/java/com/imallan/databindingexample/PreferenceExtension.kt" timestamp="1458831247448">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/AnnotationExample/api/build.gradle" timestamp="1458246291200">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -782,12 +774,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="6" column="32" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsAdapter.kt" timestamp="1458582989518">
-        <mark key="'" line="75" column="8" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="95" column="48" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/BaseViewHolder.java" timestamp="1458581709718">
         <mark key="[" line="8" column="0" />
@@ -1035,6 +1021,12 @@
         <mark key="]" line="122" column="31" />
         <mark key="^" line="122" column="31" />
         <mark key="." line="122" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/AbstractFragment.java" timestamp="1459253887721">
+        <mark key="[" line="63" column="30" />
+        <mark key="]" line="63" column="37" />
+        <mark key="." line="63" column="37" />
+        <mark key="^" line="63" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/DatabindingExample/app/src/main/java/com/imallan/databindingexample/User.kt" timestamp="1458842576402">
         <mark key="[" line="21" column="26" />
@@ -2381,10 +2373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>click</text>
+        <text>unsubscribe</text>
       </register>
       <register name="-" type="4">
-        <text>click</text>
+        <text>unsubscribe</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
@@ -2393,31 +2385,31 @@
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvLmFjdGlvbi5WaWV3QWN0aW9ucy5jbGljawo=</text>
       </register>
       <register name="1" type="4">
-        <text>click</text>
+        <text>unsubscribe</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvLmFjdGlvbi5WaWV3QWN0aW9ucy5jbGljawo=</text>
+      <register name="2" type="4">
+        <text>S</text>
       </register>
       <register name="3" type="4">
-        <text>click</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>click</text>
+        <text>t</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>i</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvLmFjdGlvbi5WaWV3QWN0aW9ucy5jbGljawo=</text>
+      <register name="6" type="4">
+        <text>s</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvLm1hdGNoZXIuVmlld01hdGNoZXJzLndpdGhUZXh0Cg==</text>
+      <register name="7" type="4">
+        <text>o</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvLkVzcHJlc3NvLm9uVmlldwo=</text>
+      <register name="8" type="4">
+        <text>p</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAucGVyZgo=</text>
+      <register name="9" type="4">
+        <text>m</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
