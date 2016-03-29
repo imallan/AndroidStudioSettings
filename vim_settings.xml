@@ -581,6 +581,12 @@
       <file name="$USER_HOME$/Documents/GitHub/Fave/app/src/main/res/layout/activity_main.xml" timestamp="1456250206618">
         <mark key="[" line="16" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/androidTest/java/com/imallan/crossover/MyTest.java" timestamp="1459251776398">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="69" />
+        <mark key="^" line="23" column="48" />
+        <mark key="." line="23" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/BinderExample/app/src/main/AndroidManifest.xml" timestamp="1454409765419">
         <mark key="[" line="18" column="44" />
         <mark key="]" line="18" column="67" />
@@ -740,12 +746,7 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/androidTest/kotlin/com.imallan.crossover/ShotsActivityTest.kt" timestamp="1459246875702">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="30" />
-        <mark key="^" line="22" column="30" />
-        <mark key="." line="22" column="30" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" timestamp="1459250754775" />
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/res/layout/item_view_loading.xml" timestamp="1458579277264">
         <mark key="[" line="3" column="36" />
         <mark key="]" line="3" column="47" />
@@ -1220,10 +1221,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/NotificationActivity.java" timestamp="1458821089675">
-        <mark key="]" line="12" column="76" />
-        <mark key="^" line="12" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/view/BottomSheetDialog.kt" timestamp="1456695968040">
         <mark key="[" line="6" column="0" />
@@ -2281,7 +2278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/Toothpick/toothpick/src/main/kotlin/com/imallan/toothpick/Toothpick.kt" />
       <jump line="93" column="46" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
       <jump line="112" column="41" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
       <jump line="110" column="41" filename="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/OnClickProcessor.java" />
@@ -2381,46 +2377,47 @@
       <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
       <jump line="64" column="58" filename="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" />
       <jump line="104" column="26" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/androidTest/kotlin/com.imallan.crossover/ShotsActivityTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>click</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>click</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyICdhbmRyb2lkLnN1cHBvcnQudGVzdC5ydW5uZXIuQW5kcm9pZEpVbml0UnVubmVyJwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvLmFjdGlvbi5WaWV3QWN0aW9ucy5jbGljawo=</text>
       </register>
       <register name="1" type="4">
-        <text>true</text>
+        <text>click</text>
       </register>
-      <register name="2" type="4">
-        <text>true</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvLmFjdGlvbi5WaWV3QWN0aW9ucy5jbGljawo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZW5zaQo=</text>
+      <register name="3" type="4">
+        <text>click</text>
       </register>
       <register name="4" type="4">
-        <text>, &quot;xhdpi&quot;, &quot;xxhdpi&quot;, &quot;xxxhdpi&quot;</text>
+        <text>click</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZW5zaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleGNsdWRlICJsZHBpIiwgInR2ZHBpIiwgInh4eGhkcGkiCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvLmFjdGlvbi5WaWV3QWN0aW9ucy5jbGljawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAucGVyZm9ybSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvLm1hdGNoZXIuVmlld01hdGNoZXJzLndpdGhUZXh0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvblZpZXcod2l0aCkK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvLkVzcHJlc3NvLm9uVmlldwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAucGVyZm9ybShWaWV3QWN0aW9uKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAucGVyZgo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
