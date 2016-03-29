@@ -1066,6 +1066,11 @@
         <mark key="^" line="76" column="52" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/receiver/CloudMessagesReceiver.java" timestamp="1459264226014">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/RemoteServiceImpl.java" timestamp="1454337049987">
         <mark key="[" line="35" column="28" />
         <mark key="]" line="35" column="33" />
@@ -2378,7 +2383,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXQ0Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmxlLmNvbgo=</text>
       </register>
       <register name="-" type="4">
         <text>DayTheme</text>
@@ -2390,31 +2395,31 @@
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvLm1hdGNoZXIuVmlld01hdGNoZXJzLndpdGhUZXh0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXQ0Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmxlLmNvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE9ic2VydmFibGUuY29uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRydWUsIE1hdGNoZXJkZCkK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXQ0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQobWFpbi5hY3Rpdml0eSAhPSBudWxsKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluLmFjdGl2aXR5LnN3aXRjaFRvTmlnaHRUaGVtZSgpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRydWUsIE1hdGNoZXJkZCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQobWFpbi5hY3Rpdml0eSAhPSBudWxsKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAuCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgICAgICBtYWluLmFjdGl2aXR5LnN3aXRjaFRvTmlnaHRUaGVtZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
