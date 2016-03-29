@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1458838520975">
+      <file name="/a.dummy" timestamp="1459243519499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/DatabindingExample/app/src/main/res/layout/activity_main.xml" timestamp="1458840013956">
@@ -1372,10 +1372,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1458833545751">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="47" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1459244033725">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="64" column="79" />
+        <mark key="]" line="64" column="79" />
+        <mark key="^" line="64" column="79" />
+        <mark key="." line="64" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" timestamp="1458838511225">
         <mark key="[" line="258" column="0" />
@@ -1647,6 +1649,11 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AnnotationProcessorExample/processor/src/main/java/com/example/MyProcessor.java" timestamp="1458230919446">
         <mark key="[" line="10" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/androidTest/java/com/imallan/crossover/ShotsActivityTest.kt" timestamp="1459244067172">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1458814094875">
         <mark key="[" line="0" column="0" />
@@ -2363,7 +2370,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">LyoqCiAqIFVzZXI6IHlpbHVuCiAqIERhdGU6IDI5LzAzLzIwMTYKICovCg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -2375,31 +2382,31 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ2lvLnJlYWN0aXZleDpyeGFuZHJvaWQ6MS4xLjAnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">LyoqCiAqIFVzZXI6IHlpbHVuCiAqIERhdGU6IDI5LzAzLzIwMTYKICovCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>;</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>io</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB1bml0VGVzdHMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>empty</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtYWluLmphdmEuc3JjRGlycyArPSAnc3JjL2FuZHJvaWRUZXN0L2tvdGxpbicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>count</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYW5hZ2VyLmNhbmNlbEFsbCgpCg==</text>
+      <register name="9" type="4">
+        <text>io</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
