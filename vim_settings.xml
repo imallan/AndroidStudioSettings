@@ -724,12 +724,6 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/DatabindingExample/app/src/main/java/com/imallan/databindingexample/PreferenceExtension.kt" timestamp="1458831247448">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/AnnotationExample/api/build.gradle" timestamp="1458246291200">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -788,12 +782,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="6" column="32" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsAdapter.kt" timestamp="1458582989518">
-        <mark key="'" line="75" column="8" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="95" column="48" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/BaseViewHolder.java" timestamp="1458581709718">
         <mark key="[" line="8" column="0" />
@@ -2217,7 +2205,7 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/CrossoverApplication.kt" timestamp="1459269053557">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/CrossoverApplication.kt" timestamp="1459271234600">
         <mark key="'" line="3" column="54" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
