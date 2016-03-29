@@ -1980,8 +1980,8 @@
         <mark key="^" line="89" column="59" />
         <mark key="." line="89" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" timestamp="1458816670362">
-        <mark key="'" line="64" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" timestamp="1459243518177">
+        <mark key="'" line="23" column="0" />
         <mark key="[" line="62" column="18" />
         <mark key="]" line="62" column="46" />
         <mark key="^" line="62" column="46" />
@@ -2260,8 +2260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/GitHub/ToothpickKotlin/toothpick/src/main/kotlin/com/imallan/toothpick/Toothpick.kt" />
       <jump line="300" column="11" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="335" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/ad53343e57ae0969aaf451a19eef381abe2ad3a1/butterknife-7.0.1-sources.jar!/butterknife/ButterKnife.java" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/Toothpick/toothpick/src/main/kotlin/com/imallan/toothpick/Toothpick.kt" />
@@ -2360,6 +2358,8 @@
       <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/DatabindingExample/app/src/main/java/com/imallan/databindingexample/User.kt" />
       <jump line="105" column="15" filename="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/23.2.1/support-v4-23.2.1-sources.jar!/android/support/v4/app/RemoteInput.java" />
       <jump line="24" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="26" column="4" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
