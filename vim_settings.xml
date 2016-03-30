@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1459347849865">
+      <file name="/a.dummy" timestamp="1459349077387">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
@@ -332,6 +332,9 @@
         <mark key="]" line="241" column="37" />
         <mark key="^" line="241" column="37" />
         <mark key="." line="241" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/layout_side_navigation.xml" timestamp="1459349160146">
+        <mark key="[" line="95" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/FragmentAsAService/app/src/main/java/com/imallan/fragmentasaservice/MainActivity.java" timestamp="1454927670993">
         <mark key="[" line="28" column="37" />
