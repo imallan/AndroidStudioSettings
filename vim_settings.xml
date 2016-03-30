@@ -373,7 +373,6 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/recyclerview-v7/23.2.1/recyclerview-v7-23.2.1-sources.jar!/android/support/v7/util/SortedList.java" timestamp="1458606623838" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_language_settings.xml" timestamp="1456318586849">
         <mark key="[" line="9" column="35" />
         <mark key="]" line="9" column="42" />
@@ -606,12 +605,6 @@
         <mark key="^" line="20" column="14" />
         <mark key="." line="20" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" timestamp="1458605341804">
-        <mark key="'" line="176" column="24" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/Presenter.kt" timestamp="1456762019266">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="8" />
@@ -825,12 +818,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/AnnotationExample/compiler/src/main/java/com/example/FactoryProcessor.java" timestamp="1458254760458">
-        <mark key="'" line="38" column="37" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/Test.java" timestamp="1456161529374">
         <mark key="[" line="14" column="11" />
@@ -1595,12 +1582,6 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" timestamp="1458607293035">
-        <mark key="[" line="104" column="44" />
-        <mark key="]" line="104" column="54" />
-        <mark key="^" line="104" column="54" />
-        <mark key="." line="104" column="54" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/Knife.java" timestamp="1456418523906">
         <mark key="[" line="16" column="18" />
         <mark key="]" line="16" column="18" />
@@ -1769,12 +1750,6 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/RecyclerViewDelegationAdapter.kt" timestamp="1458587328054">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="21" column="4" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_shopping_cart_product.xml" timestamp="1457952109576">
         <mark key="[" line="198" column="40" />
@@ -2035,8 +2010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" />
       <jump line="208" column="28" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
       <jump line="48" column="32" filename="$USER_HOME$/Documents/GitHub/RxContraCheatExample/app/src/main/java/com/imallan/rxcontracheatexample/MainActivity.java" />
       <jump line="30" column="33" filename="$USER_HOME$/Documents/GitHub/RxContraCheatExample/app/build.gradle" />
@@ -2135,13 +2108,15 @@
       <jump line="75" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegateAdapter.kt" />
       <jump line="18" column="42" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
       <jump line="103" column="9" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
+      <jump line="114" column="13" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
+      <jump line="15" column="38" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>indexOf(mLoadingItem)</text>
+        <text>mLoadingItem</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>mLoadingItem</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -2150,31 +2125,31 @@
         <text>indexOf(mLoadingItem)</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>mLoadingItem</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbXMucmVtb3ZlKG1Mb2FkaW5nSXRlbSkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0ZW1zLmluZGV4T2YobUxvYWRpbmdJdGVtKSA+PSAwKSB7Cg==</text>
+      <register name="4" type="4">
+        <text>null</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZChpdGVtcy5pbmRleE9mKG1Mb2FkaW5nSXRlbSkgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZChpdGVtcy5pbmRleE9mKG1Mb2FkaW5nSXRlbSkudG9TdHJpbmcoKSkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93TG9hZGluZyhmYWxzZSkK</text>
+      <register name="6" type="4">
+        <text>items.indexOf() == -1</text>
       </register>
       <register name="7" type="4">
-        <text>oldItem</text>
+        <text>mLoadingItem</text>
       </register>
       <register name="8" type="4">
-        <text>newItem</text>
+        <text>items</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpdGVtMS5nZXRWaWV3VHlwZSgpID09IExPQURJTkcgJiYgaXRlbTIuZ2V0Vmlld1R5cGUoKSA9PSBMT0FESU5HKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWUKICAgICAgICAgICAgICAgIH0K</text>
+      <register name="9" type="4">
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
