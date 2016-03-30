@@ -566,6 +566,9 @@
         <mark key="^" line="21" column="31" />
         <mark key="." line="21" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenter.java" timestamp="1459375292705">
+        <mark key="'" line="190" column="20" />
+      </file>
       <file name="$USER_HOME$/Desktop/FragmentAsAService/app/src/main/java/com/imallan/fragmentasaservice/MainActivity.java" timestamp="1454927670993">
         <mark key="[" line="28" column="37" />
         <mark key="]" line="29" column="46" />
@@ -613,6 +616,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="10" column="24" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" timestamp="1459376039567">
+        <mark key="'" line="95" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/build.gradle" timestamp="1456941530879">
         <mark key="[" line="35" column="48" />
@@ -2202,8 +2208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="48" filename="$USER_HOME$/Documents/GitHub/Toothpick/toothpick/src/main/kotlin/com/imallan/toothpick/Toothpick.kt" />
-      <jump line="89" column="28" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/java/lang/Class.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/UserActivity.kt" />
       <jump line="310" column="19" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
@@ -2302,6 +2306,8 @@
       <jump line="63" column="31" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_product_deal.xml" />
       <jump line="43" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_brand.xml" />
       <jump line="130" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/BrandsAdapter.java" />
+      <jump line="190" column="20" filename="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenter.java" />
+      <jump line="95" column="24" filename="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
