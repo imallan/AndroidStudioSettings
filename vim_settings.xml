@@ -456,6 +456,11 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/MainActivity.kt" timestamp="1459340004315">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_shopping_cart.xml" timestamp="1453814990775">
         <mark key="[" line="157" column="48" />
         <mark key="]" line="157" column="62" />
@@ -986,6 +991,7 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/CommentsPresenter.kt" timestamp="1459339871454" />
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/kotlin/com.imallan.playground/Bind.java" timestamp="1456418530105">
         <mark key="[" line="16" column="18" />
         <mark key="]" line="16" column="18" />
@@ -1371,7 +1377,7 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1459338331873">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1459339825600">
         <mark key="'" line="91" column="0" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -2369,28 +2375,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YQo=</text>
+        <text encoding="base64">ICAgIHZhciBpc05pZ2h0TW9kZTogQm9vbGVhbiBieSBwcmVmKFBSRUZfTklHSFRfTU9ERSwgZmFsc2UpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZnRlckV2YWx1YXRlIHsKICAgIGFuZHJvaWQuc291cmNlU2V0cy5hbGwgeyBzb3VyY2VTZXQgLT4KICAgICAgICBpZiAoIXNvdXJjZVNldC5uYW1lLnN0YXJ0c1dpdGgoInRlc3QiKSkgewogICAgICAgICAgICBzb3VyY2VTZXQua290bGluLnNldFNyY0RpcnMoW10pCiAgICAgICAgfQogICAgfQp9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVzZW50ZXIuZ2V0Q29tbWVudHMoMjYxOTg1NykK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNOaWdodE1vZGUpIHsKICAgICAgICAgICAgc3dpdGNoVG9OaWdodFRoZW1lKCkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBzd2l0Y2hUb0RheVRoZW1lKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0U3Vic2NyaWJlcigK</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2hUb05pZ2h0VGhlbWUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhciAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>presenter</text>
+      <register name="9" type="2">
+        <text encoding="base64">YQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
