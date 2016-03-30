@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1459349077387">
+      <file name="/a.dummy" timestamp="1459350980979">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
@@ -333,8 +333,11 @@
         <mark key="^" line="241" column="37" />
         <mark key="." line="241" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/layout_side_navigation.xml" timestamp="1459349160146">
-        <mark key="[" line="95" column="18" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/layout_side_navigation.xml" timestamp="1459351419796">
+        <mark key="[" line="89" column="20" />
+        <mark key="]" line="89" column="31" />
+        <mark key="." line="89" column="31" />
+        <mark key="^" line="89" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/FragmentAsAService/app/src/main/java/com/imallan/fragmentasaservice/MainActivity.java" timestamp="1454927670993">
         <mark key="[" line="28" column="37" />
@@ -2255,10 +2258,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TOOLBAR_ELEVATION</text>
+        <text>layout_marginTop</text>
       </register>
       <register name="-" type="4">
-        <text>TOOLBAR_ELEVATION</text>
+        <text>layout_marginTop</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
@@ -2267,31 +2270,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtVG9vbGJhci5zZXRFbGV2YXRpb24oVE9PTEJBUl9FTEVWQVRJT04pOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>TOOLBAR_ELEVATION</text>
+        <text>layout_marginTop</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ID0gRGV2aWNlVXRpbHMuZHBUb1BpeGVsKHRoaXMsIDgpOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IkBkaW1lbi9zcGFjZV9zbWFsbCIK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IkBkaW1lbi9zcGFjZV9tZWRpdW0iCg==</text>
       </register>
       <register name="4" type="4">
-        <text>final</text>
+        <text>paddingTop</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nVG9wPSJAZGltZW4vc3BhY2Vfc21hbGwiCg==</text>
+      </register>
+      <register name="6" type="4">
         <text>TOOLBAR_ELEVATION</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ID0gRGV2aWNlVXRpbHMuZHBUb1BpeGVsKHRoaXMsIDgpOw==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gQnVpbGQuVkVSU0lPTl9DT0RFUy5MT0xMSVBPUCkgewo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>final</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
