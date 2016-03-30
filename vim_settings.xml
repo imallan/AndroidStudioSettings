@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1459350980979">
+      <file name="/a.dummy" timestamp="1459351499713">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
@@ -59,6 +59,10 @@
         <mark key="]" line="11" column="46" />
         <mark key="^" line="11" column="46" />
         <mark key="." line="11" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_notification.xml" timestamp="1459352350756">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="78" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/spinner.xml" timestamp="1457529431170">
         <mark key="[" line="4" column="5" />
@@ -108,11 +112,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/NotificationFragment.java" timestamp="1458565726260">
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="207" column="0" />
-        <mark key="^" line="209" column="82" />
-        <mark key="." line="207" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/NotificationFragment.java" timestamp="1459351843556">
+        <mark key="[" line="190" column="54" />
+        <mark key="]" line="191" column="31" />
+        <mark key="^" line="191" column="31" />
+        <mark key="." line="191" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/ui/activity/BaseActivity.java" timestamp="1453743063197">
         <mark key="[" line="17" column="61" />
@@ -495,6 +499,9 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="11" />
       </file>
+      <file name="/Dummy.txt" timestamp="1459351893758">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/androidintentredirect/app/src/main/kotlin/com/imallan/intentredirect/models/Rules.kt" timestamp="1458143281680">
         <mark key="[" line="34" column="32" />
         <mark key="]" line="35" column="16" />
@@ -774,6 +781,9 @@
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/drawable/list_divider_left_margin.xml" timestamp="1459352014731">
+        <mark key="[" line="1" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotsPresenter.kt" timestamp="1456766917681">
         <mark key="[" line="72" column="21" />
@@ -2155,12 +2165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="33" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegateAdapter.kt" />
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegateAdapter.kt" />
-      <jump line="34" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegateAdapter.kt" />
-      <jump line="6" column="13" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
-      <jump line="38" column="35" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
       <jump line="75" column="8" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsAdapter.kt" />
       <jump line="61" column="7" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
       <jump line="49" column="43" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" />
@@ -2255,46 +2259,52 @@
       <jump line="193" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" />
       <jump line="52" column="44" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/CategoriesListAdapter.java" />
       <jump line="86" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/CategoriesListAdapter.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_notification.xml" />
+      <jump line="57" column="7" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_notification.xml" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_notification.xml" />
+      <jump line="67" column="14" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_notification.xml" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_notification.xml" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_notification.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>layout_marginTop</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PC9GcmFtZUxheW91dD4K</text>
       </register>
       <register name="-" type="4">
-        <text>layout_marginTop</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtVG9vbGJhci5zZXRFbGV2YXRpb24oVE9PTEJBUl9FTEVWQVRJT04pOwo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIK</text>
       </register>
-      <register name="1" type="4">
-        <text>layout_marginTop</text>
+      <register name="1" type="2">
+        <text encoding="base64">PC9GcmFtZUxheW91dD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IkBkaW1lbi9zcGFjZV9zbWFsbCIK</text>
+        <text encoding="base64">ICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOmZyZXNjbz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IkBkaW1lbi9zcGFjZV9tZWRpdW0iCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>paddingTop</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nVG9wPSJAZGltZW4vc3BhY2Vfc21hbGwiCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgPFZpZXcKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIxZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL2xpbmVzX2dyZXlfdHJhbnNwYXJlbnQiLz4K</text>
       </register>
       <register name="6" type="4">
-        <text>TOOLBAR_ELEVATION</text>
+        <text encoding="base64">ICAgICAgICA8VmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjFkcCIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvbGluZXNfZ3JleV90cmFuc3BhcmVudCIvPgo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ID0gRGV2aWNlVXRpbHMuZHBUb1BpeGVsKHRoaXMsIDgpOw==</text>
+        <text>1</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>final</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iNzJkcCIK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
