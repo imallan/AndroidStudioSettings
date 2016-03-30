@@ -463,7 +463,6 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/MainActivity.kt" timestamp="1459269368029" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_shopping_cart.xml" timestamp="1453814990775">
         <mark key="[" line="157" column="48" />
         <mark key="]" line="157" column="62" />
@@ -1383,10 +1382,10 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1459268965443">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1459327423102">
         <mark key="'" line="62" column="0" />
-        <mark key="[" line="60" column="1" />
-        <mark key="]" line="64" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="77" column="48" />
         <mark key="." line="64" column="0" />
         <mark key="^" line="64" column="0" />
       </file>
@@ -2205,7 +2204,7 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/CrossoverApplication.kt" timestamp="1459271234600">
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/CrossoverApplication.kt" timestamp="1459327715394">
         <mark key="'" line="3" column="54" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -2395,8 +2394,8 @@
       <jump line="17" column="54" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/CrossoverApplication.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBJbmplY3QKICAgIGxhdGVpbml0IHZhciBwcmVmczogU2hhcmVkUHJlZmVyZW5jZXMK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -2405,7 +2404,7 @@
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRGFnZ2VyQXBwbGljYXRpb25Db21wb25lbnQuYnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYXBwbGljYXRpb25Nb2R1bGUobmV3IEFwcGxpY2F0aW9uTW9kdWxlKGFwcCkpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgIEBJbmplY3QKICAgIGxhdGVpbml0IHZhciBwcmVmczogU2hhcmVkUHJlZmVyZW5jZXMK</text>
       </register>
       <register name="1" type="4">
         <text>,</text>
