@@ -1828,12 +1828,9 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" timestamp="1459436142237">
-        <mark key="'" line="55" column="15" />
-        <mark key="[" line="48" column="36" />
-        <mark key="]" line="49" column="7" />
-        <mark key="." line="49" column="7" />
-        <mark key="^" line="49" column="7" />
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" timestamp="1459436367958">
+        <mark key="'" line="10" column="0" />
+        <mark key="^" line="30" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" timestamp="1459431941867">
         <mark key="'" line="45" column="0" />
@@ -2255,11 +2252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/androidTest/kotlin/com.imallan.crossover/ShotsActivityTest.kt" />
-      <jump line="62" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" />
-      <jump line="34" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/CrossoverApplication.kt" />
-      <jump line="17" column="54" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/CrossoverApplication.kt" />
-      <jump line="46" column="26" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
       <jump line="81" column="51" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/NotificationActivity.java" />
       <jump line="78" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" />
       <jump line="24" column="33" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/androidTest/kotlin/com.imallan.crossover/ShotsActivityTest.kt" />
@@ -2355,13 +2347,18 @@
       <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/UserPresenter.kt" />
       <jump line="71" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
       <jump line="55" column="15" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
+      <jump line="32" column="24" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
+      <jump line="63" column="22" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
+      <jump line="9" column="29" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFyIHJlcG86IFNob3RSZXBvc2l0b3J5YW4uY3Jvc3NvdmVyLmFwaS5BUEkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
@@ -2369,32 +2366,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBtU3RhdGVNYWludGFpbmVyVGFnIGJ5IGxhenkgewogICAgICAgICIke2phdmFDbGFzcy5zaW1wbGVOYW1lfTokbVNob3RJZCIKICAgIH0KICAgIGxhdGVpbml0IHZhciBtU3RhdGVNYWludGFpbmVyOiBTdGF0ZU1haW50YWluZXIK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">dmFyIHJlcG86IFNob3RSZXBvc2l0b3J5YW4uY3Jvc3NvdmVyLmFwaS5BUEkK</text>
       </register>
-      <register name="2" type="4">
-        <text>?</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>?</text>
+        <text>(</text>
       </register>
       <register name="4" type="4">
-        <text>null</text>
+        <text>(var repo: ShotRepository)</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">dmFyIHJlcG86IFNob3RSZXBvc2l0b3J5YW4uY3Jvc3NvdmVyLmFwaS5BUEkK</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>?</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmxlLmNvbmNhdCgKICAgICAgICAgICAgICAgIFNob3RzQ2FjaGUuZ2V0U2hvdChpZCksCiAgICAgICAgICAgICAgICBBUEkuaW5zdGFuY2UuZ2V0U2hvdChpZCkuZG9Pbk5leHQgeyBpdC5jYWNoZSgpIH0KICAgICAgICApCiAgICAgICAgICAgICAgICAuZmlyc3QoKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZU9uSU8oKQogICAgICAgICAgICAgICAgLm9ic2VydmVPbk1haW4oKQ==</text>
+        <text>?</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>null</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
