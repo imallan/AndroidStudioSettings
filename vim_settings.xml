@@ -1831,6 +1831,13 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/MVPExample/app/src/main/kotlin/com/imallan/mvpexample/view/activity/MainActivity.kt" timestamp="1459414573898">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="17" column="5" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/AndroidManifest.xml" timestamp="1456242687345">
         <mark key="[" line="19" column="32" />
         <mark key="]" line="19" column="45" />
@@ -2232,8 +2239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/UserActivity.kt" />
       <jump line="310" column="19" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="14" column="15" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/extension/ActivityExtensions.kt" />
       <jump line="70" column="21" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/UserActivity.kt" />
@@ -2332,10 +2337,12 @@
       <jump line="130" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/BrandsAdapter.java" />
       <jump line="18" column="4" filename="$USER_HOME$/Documents/GitHub/MVPExample/app/src/main/kotlin/com/imallan/mvpexample/StateMaintainer.kt" />
       <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/MVPExample/app/src/main/kotlin/com/imallan/mvpexample/extension/LogExtensions.kt" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/GitHub/MVPExample/app/src/main/kotlin/com/imallan/mvpexample/view/activity/MainActivity.kt" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/GitHub/MVPExample/app/src/main/kotlin/com/imallan/mvpexample/view/activity/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID86IG51bGwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzaG93VG9hc3QobXNnOiBTdHJpbmcpIHsKICAgICAgICB0aHJvdyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigpCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIHNob3dBbGVydChtc2c6IFN0cmluZykgewogICAgICAgIHRocm93IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCkKICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ID86IG51bGwg</text>
@@ -2346,32 +2353,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbVN0YXRlTWFpbnRhaW5lckZyYWcgPSBTdGF0ZU1uZ0ZyYWdtZW50KCkKICAgICAgICAgICAgbUZyYWdtZW50TWFuYWdlci5nZXQoKQogICAgICAgICAgICAgICAgICAgID8uYmVnaW5UcmFuc2FjdGlvbigpCiAgICAgICAgICAgICAgICAgICAgPy5hZGQobVN0YXRlTWFpbnRhaW5lckZyYWcsIG1TdGF0ZU1haW50YWluZXJUYWcpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ID86IG51bGwg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzaG93VG9hc3QobXNnOiBTdHJpbmcpIHsKICAgICAgICB0aHJvdyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigpCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIHNob3dBbGVydChtc2c6IFN0cmluZykgewogICAgICAgIHRocm93IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCkKICAgIH0K</text>
       </register>
       <register name="2" type="4">
-        <text>?</text>
+        <text encoding="base64">ID86IG51bGwg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>?</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">Pg==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">PA==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>? = null</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHB1dAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHB1dAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
