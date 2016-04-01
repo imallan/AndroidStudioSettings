@@ -775,12 +775,12 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" timestamp="1459527017545">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="131" column="16" />
-        <mark key="]" line="131" column="29" />
-        <mark key="." line="132" column="33" />
-        <mark key="^" line="132" column="33" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" timestamp="1459527896736">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="95" column="66" />
+        <mark key="]" line="95" column="96" />
+        <mark key="." line="95" column="96" />
+        <mark key="^" line="95" column="96" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AnnotationExample/app/src/main/java/com/imallan/annotationexample/Chargable.java" timestamp="1458250729469">
         <mark key="[" line="2" column="7" />
@@ -1427,10 +1427,12 @@
         <mark key="^" line="235" column="98" />
         <mark key="." line="235" column="98" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_posts_list.xml" timestamp="1459523210787">
-        <mark key="'" line="16" column="24" />
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="43" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_posts_list.xml" timestamp="1459527822520">
+        <mark key="'" line="24" column="25" />
+        <mark key="[" line="79" column="25" />
+        <mark key="]" line="79" column="53" />
+        <mark key="^" line="79" column="54" />
+        <mark key="." line="79" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/reactnative/packages/ReactPackage.java" timestamp="1454426553357">
         <mark key="[" line="6" column="13" />
@@ -1678,11 +1680,11 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/PostViewHolder.java" timestamp="1459523239385">
-        <mark key="[" line="32" column="16" />
-        <mark key="]" line="32" column="29" />
-        <mark key="^" line="32" column="30" />
-        <mark key="." line="32" column="30" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/PostViewHolder.java" timestamp="1459527860636">
+        <mark key="[" line="34" column="45" />
+        <mark key="]" line="35" column="25" />
+        <mark key="^" line="35" column="25" />
+        <mark key="." line="35" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AnnotationProcessorExample/processor/src/main/java/com/example/MyProcessor.java" timestamp="1458230919446">
         <mark key="[" line="10" column="52" />
@@ -2326,7 +2328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="11" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/java/util/LinkedHashMap.java" />
       <jump line="299" column="8" filename="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" />
       <jump line="284" column="0" filename="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" />
@@ -2426,10 +2427,11 @@
       <jump line="177" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostRecyclerAdapter.java" />
       <jump line="58" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" />
       <jump line="108" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
+      <jump line="24" column="25" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_posts_list.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>resetAnimation</text>
+        <text>post_list_loading_progressbar</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -2438,34 +2440,34 @@
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>resetAnimation</text>
+        <text>post_list_loading_progressbar</text>
       </register>
-      <register name="1" type="4">
-        <text>i</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b0xpc3QoKQo=</text>
       </register>
       <register name="2" type="4">
-        <text>Holder</text>
+        <text>i</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text>Holder</text>
       </register>
       <register name="4" type="4">
-        <text>mContext</text>
+        <text>0</text>
       </register>
       <register name="5" type="4">
-        <text>getId</text>
+        <text>mContext</text>
       </register>
       <register name="6" type="4">
-        <text>Id</text>
+        <text>getId</text>
       </register>
       <register name="7" type="4">
-        <text>TITLE</text>
+        <text>Id</text>
       </register>
       <register name="8" type="4">
-        <text>Title</text>
+        <text>TITLE</text>
       </register>
       <register name="9" type="4">
-        <text>mPosts</text>
+        <text>Title</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
