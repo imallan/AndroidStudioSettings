@@ -1442,6 +1442,12 @@
         <mark key="^" line="83" column="30" />
         <mark key="." line="83" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/PointsUtil.java" timestamp="1459781132909">
+        <mark key="[" line="30" column="66" />
+        <mark key="]" line="30" column="68" />
+        <mark key="^" line="30" column="68" />
+        <mark key="." line="30" column="68" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/reactnative/packages/ReactPackage.java" timestamp="1454426553357">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="26" />
@@ -2444,11 +2450,11 @@
       <jump line="90" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgVHJlbmRpbmdQb3N0c0ZyYWdtZW50KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>400</text>
       </register>
       <register name="-" type="4">
-        <text>PostTrending</text>
+        <text>400</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
@@ -2456,32 +2462,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTaG9wY2FkZUFwcGxpY2F0aW9uLmdldFNxbEJyaXRlRGF0YWJhc2UodGhpcykuZGVsZXRlKFRhYmxlLlBvc3QuVEFCTEVfTkFNRSwgbnVsbCk7CiAgICAgICAgU2hvcGNhZGVBcHBsaWNhdGlvbi5nZXRTcWxCcml0ZURhdGFiYXNlKHRoaXMpLmRlbGV0ZShUYWJsZS5Qb3N0U3RpY2t5LlRBQkxFX05BTUUsIG51bGwpOwogICAgICAgIFNob3BjYWRlQXBwbGljYXRpb24uZ2V0U3FsQnJpdGVEYXRhYmFzZSh0aGlzKS5kZWxldGUoVGFibGUuUG9zdFRyZW5kaW5nLlRBQkxFX05BTUUsIG51bGwpOwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>400</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgVHJlbmRpbmdQb3N0c0ZyYWdtZW50KCk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>PostTrending</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>PostSticky</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>Post</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTaG9wY2FkZUFwcGxpY2F0aW9uCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1Tb3J0ZWRMaXN0LnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtU29ydGVkTGlzdC5nZXQoaSkudHlwZSA9PSBQT1NUX1RZUEUuTk9STUFMKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgbVNvcnRlZExpc3QucmVtb3ZlSXRlbUF0KGkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTaG9wY2FkZUFwcGxpY2F0aW9uCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1Tb3J0ZWRMaXN0LnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtU29ydGVkTGlzdC5nZXQoaSkudHlwZSA9PSBQT1NUX1RZUEUuTk9STUFMKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgbVNvcnRlZExpc3QucmVtb3ZlSXRlbUF0KGkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1Tb3J0ZWRMaXN0LnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtU29ydGVkTGlzdC5nZXQoaSkudHlwZSA9PSBQT1NUX1RZUEUuU1RJQ0tZKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgbVNvcnRlZExpc3QucmVtb3ZlSXRlbUF0KGkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1Tb3J0ZWRMaXN0LnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtU29ydGVkTGlzdC5nZXQoaSkudHlwZSA9PSBQT1NUX1RZUEUuTk9STUFMKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgbVNvcnRlZExpc3QucmVtb3ZlSXRlbUF0KGkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
