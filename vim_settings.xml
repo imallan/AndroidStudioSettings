@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1459767491078">
+      <file name="/a.dummy" timestamp="1459774095829">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
@@ -89,11 +89,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/MainDrawerActivityPagerAdapter.java" timestamp="1459519563279">
-        <mark key="[" line="26" column="27" />
-        <mark key="]" line="27" column="49" />
-        <mark key="^" line="27" column="49" />
-        <mark key="." line="27" column="49" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/MainDrawerActivityPagerAdapter.java" timestamp="1459773887115">
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="33" column="16" />
+        <mark key="^" line="33" column="16" />
+        <mark key="." line="33" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Toothpick/sample/src/main/res/layout/activity_main.xml" timestamp="1458323125870">
         <mark key="[" line="20" column="40" />
@@ -2444,8 +2444,8 @@
       <jump line="90" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PostTrending</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgVHJlbmRpbmdQb3N0c0ZyYWdtZW50KCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>PostTrending</text>
@@ -2456,32 +2456,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTaG9wY2FkZUFwcGxpY2F0aW9uLmdldFNxbEJyaXRlRGF0YWJhc2UodGhpcykuZGVsZXRlKFRhYmxlLlBvc3QuVEFCTEVfTkFNRSwgbnVsbCk7CiAgICAgICAgU2hvcGNhZGVBcHBsaWNhdGlvbi5nZXRTcWxCcml0ZURhdGFiYXNlKHRoaXMpLmRlbGV0ZShUYWJsZS5Qb3N0U3RpY2t5LlRBQkxFX05BTUUsIG51bGwpOwogICAgICAgIFNob3BjYWRlQXBwbGljYXRpb24uZ2V0U3FsQnJpdGVEYXRhYmFzZSh0aGlzKS5kZWxldGUoVGFibGUuUG9zdFRyZW5kaW5nLlRBQkxFX05BTUUsIG51bGwpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>PostTrending</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgVHJlbmRpbmdQb3N0c0ZyYWdtZW50KCk7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>PostSticky</text>
+        <text>PostTrending</text>
       </register>
       <register name="3" type="4">
+        <text>PostSticky</text>
+      </register>
+      <register name="4" type="4">
         <text>Post</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTaG9wY2FkZUFwcGxpY2F0aW9uCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1Tb3J0ZWRMaXN0LnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtU29ydGVkTGlzdC5nZXQoaSkudHlwZSA9PSBQT1NUX1RZUEUuTk9STUFMKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgbVNvcnRlZExpc3QucmVtb3ZlSXRlbUF0KGkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTaG9wY2FkZUFwcGxpY2F0aW9uCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1Tb3J0ZWRMaXN0LnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtU29ydGVkTGlzdC5nZXQoaSkudHlwZSA9PSBQT1NUX1RZUEUuTk9STUFMKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgbVNvcnRlZExpc3QucmVtb3ZlSXRlbUF0KGkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1Tb3J0ZWRMaXN0LnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtU29ydGVkTGlzdC5nZXQoaSkudHlwZSA9PSBQT1NUX1RZUEUuU1RJQ0tZKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgbVNvcnRlZExpc3QucmVtb3ZlSXRlbUF0KGkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1Tb3J0ZWRMaXN0LnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtU29ydGVkTGlzdC5nZXQoaSkudHlwZSA9PSBQT1NUX1RZUEUuTk9STUFMKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgbVNvcnRlZExpc3QucmVtb3ZlSXRlbUF0KGkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBob2xkZXIubUltYWdlUG9zdC5zZXRJbWFnZVVSSShudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1Tb3J0ZWRMaXN0LnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtU29ydGVkTGlzdC5nZXQoaSkudHlwZSA9PSBQT1NUX1RZUEUuU1RJQ0tZKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgbVNvcnRlZExpc3QucmVtb3ZlSXRlbUF0KGkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
