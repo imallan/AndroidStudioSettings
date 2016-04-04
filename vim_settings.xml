@@ -774,12 +774,12 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" timestamp="1459762474520">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" timestamp="1459763758170">
         <mark key="'" line="71" column="8" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="^" line="145" column="24" />
-        <mark key="." line="145" column="0" />
+        <mark key="[" line="146" column="43" />
+        <mark key="]" line="147" column="41" />
+        <mark key="." line="147" column="41" />
+        <mark key="^" line="147" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AnnotationExample/app/src/main/java/com/imallan/annotationexample/Chargable.java" timestamp="1458250729469">
         <mark key="[" line="2" column="7" />
@@ -2442,8 +2442,8 @@
       <jump line="346" column="42" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>smoothScrollToPosition</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXcuc2V0VHJhbnNsYXRpb25ZKERldmljZVV0aWxzLmdldFdpbmRvd0hlaWdodCh2aWV3LmdldENvbnRleHQoKSkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>smoothScrollToPosition</text>
@@ -2452,34 +2452,34 @@
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVJlY3ljbGVyVmlldy5zbW9vdGhTY3JvbGxUb1Bvc2l0aW9uKDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXcuc2V0VHJhbnNsYXRpb25ZKDApOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>smoothScrollToPosition</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXcuc2V0VHJhbnNsYXRpb25ZKERldmljZVV0aWxzLmdldFdpbmRvd0hlaWdodCh2aWV3LmdldENvbnRleHQoKSkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>smoothScrollToPosition</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmlldy5zZXRUcmFuc2xhdGlvblkoMCk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlldy5zZXRUcmFuc2xhdGlvblkoRGV2aWNlVXRpbHMuZ2V0V2luZG93SGVpZ2h0KHZpZXcuZ2V0Q29udGV4dCgpKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtUmVjeWNsZXJWaWV3LnNtb290aFNjcm9sbFRvUG9zaXRpb24oMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>5</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBob2xkZXIuaXRlbVZpZXcuc2V0VHJhbnNsYXRpb25ZKDApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0QW5pbWF0ZWRQb3NpdGlvbiA9IC0xOwo=</text>
+        <text encoding="base64">ICAgICAgICBob2xkZXIuaXRlbVZpZXcuYW5pbWF0ZSgpLmNhbmNlbCgpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>padding</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBob2xkZXIuaXRlbVZpZXcuc2V0VHJhbnNsYXRpb25ZKDApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
