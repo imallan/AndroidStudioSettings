@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1459777459124">
+      <file name="/a.dummy" timestamp="1459788221494">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
@@ -775,11 +775,12 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" timestamp="1459773533202">
-        <mark key="'" line="135" column="0" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" timestamp="1459788419191">
+        <mark key="'" line="137" column="12" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="43" column="77" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AnnotationExample/app/src/main/java/com/imallan/annotationexample/Chargable.java" timestamp="1458250729469">
         <mark key="[" line="2" column="7" />
@@ -2385,7 +2386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="8" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/UserPresenter.kt" />
       <jump line="0" column="19" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/UserPresenter.kt" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
@@ -2485,10 +2485,11 @@
       <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_details.xml" />
       <jump line="67" column="47" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/AppDetailsFragment.java" />
       <jump line="73" column="17" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/AppDetailsFragment.java" />
+      <jump line="137" column="12" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBJbnRlZ2VyLk1JTl9WQUxVRSAvIDIgLSBvMS5vcmRlcjsK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -2496,35 +2497,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>POINTS_CLICK_LIKE_POST</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBvMS5vcmRlciAtIG8yLm9yZGVyICsgSW50ZWdlci5NQVhfVkFMVUUgLyAyOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBJbnRlZ2VyLk1JTl9WQUxVRSAvIDIgLSBvMS5vcmRlcjsK</text>
       </register>
-      <register name="2" type="4">
-        <text>edit()</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBJbnRlZ2VyLk1JTl9WQUxVRSAvIDIgLSBvMS5vcmRlcjsK</text>
       </register>
-      <register name="3" type="4">
-        <text>SETTINGS_LAST_SHOWN_TIME</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBJbnRlZ2VyLk1BWF9WQUxVRSAvIDIgKyBvMi5vcmRlcjsK</text>
       </register>
       <register name="4" type="4">
-        <text>remove</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>LastShownTime</text>
+        <text>edit()</text>
       </register>
       <register name="6" type="4">
-        <text>this</text>
+        <text>SETTINGS_LAST_SHOWN_TIME</text>
       </register>
       <register name="7" type="4">
-        <text>wrap_content</text>
+        <text>remove</text>
       </register>
       <register name="8" type="4">
-        <text>ClickTime</text>
+        <text>LastShownTime</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>this</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
