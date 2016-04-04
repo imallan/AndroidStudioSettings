@@ -15,7 +15,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1459788221494">
+      <file name="/a.dummy" timestamp="1459790515733">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProfileActivity.java" timestamp="1455192672405">
@@ -30,12 +30,12 @@
         <mark key="^" line="20" column="64" />
         <mark key="." line="20" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" timestamp="1459772225327">
-        <mark key="'" line="171" column="20" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="22" />
-        <mark key="." line="110" column="0" />
-        <mark key="^" line="346" column="42" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" timestamp="1459790457977">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="153" column="20" />
+        <mark key="]" line="158" column="21" />
+        <mark key="^" line="128" column="62" />
+        <mark key="." line="153" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/Utils.java" timestamp="1455639051109">
         <mark key="[" line="13" column="38" />
@@ -775,7 +775,7 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" timestamp="1459788419191">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" timestamp="1459789628159">
         <mark key="'" line="137" column="12" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -2386,7 +2386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/UserPresenter.kt" />
       <jump line="0" column="19" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/UserPresenter.kt" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
       <jump line="60" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/UserPresenter.kt" />
@@ -2442,7 +2441,6 @@
       <jump line="190" column="54" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
       <jump line="242" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" />
-      <jump line="126" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
       <jump line="16" column="24" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_posts_list.xml" />
       <jump line="145" column="25" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
       <jump line="41" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" />
@@ -2486,46 +2484,48 @@
       <jump line="67" column="47" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/AppDetailsFragment.java" />
       <jump line="73" column="17" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/AppDetailsFragment.java" />
       <jump line="137" column="12" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" />
+      <jump line="126" column="48" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBJbnRlZ2VyLk1JTl9WQUxVRSAvIDIgLSBvMS5vcmRlcjsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aWYgKGN1cnNvciAhPSBudWxsICYmIGN1cnNvci5tb3ZlVG9GaXJzdCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHdoaWxlIChjdXJzb3IubW92ZVRvTmV4dCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb3N0cy5hZGQoUG9zdE1hcHBlci5tYXBQb3N0KGN1cnNvcikpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>cursor.moveToPosition(i)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBvMS5vcmRlciAtIG8yLm9yZGVyICsgSW50ZWdlci5NQVhfVkFMVUUgLyAyOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">aWYgKGN1cnNvciAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgY3Vyc29yLmdldENvdW50KCk7IGkrKykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY3Vyc29yLm1vdmVUb1Bvc2l0aW9uKGkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgcG9zdHMuYWRkKFBvc3RNYXBwZXIubWFwUG9zdChjdXJzb3IpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBJbnRlZ2VyLk1JTl9WQUxVRSAvIDIgLSBvMS5vcmRlcjsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">aWYgKGN1cnNvciAhPSBudWxsICYmIGN1cnNvci5tb3ZlVG9GaXJzdCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHdoaWxlIChjdXJzb3IubW92ZVRvTmV4dCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb3N0cy5hZGQoUG9zdE1hcHBlci5tYXBQb3N0KGN1cnNvcikpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBJbnRlZ2VyLk1JTl9WQUxVRSAvIDIgLSBvMS5vcmRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBJbnRlZ2VyLk1BWF9WQUxVRSAvIDIgKyBvMi5vcmRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY3Vyc29yICE9IG51bGwgJiYgY3Vyc29yLm1vdmVUb0ZpcnN0KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgd2hpbGUgKGN1cnNvci4pIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvc3RzLmFkZChQb3N0TWFwcGVyLm1hcFBvc3QoY3Vyc29yKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>cursor.moveToPosition(i)</text>
       </register>
-      <register name="5" type="4">
-        <text>edit()</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>SETTINGS_LAST_SHOWN_TIME</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>remove</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>LastShownTime</text>
+        <text>cursor.moveToNext()</text>
       </register>
-      <register name="9" type="4">
-        <text>this</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBJbnRlZ2VyLk1JTl9WQUxVRSAvIDIgLSBvMS5vcmRlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
