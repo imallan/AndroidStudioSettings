@@ -30,7 +30,7 @@
         <mark key="^" line="20" column="64" />
         <mark key="." line="20" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" timestamp="1459847228556">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" timestamp="1459849443366">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="148" column="66" />
         <mark key="]" line="148" column="66" />
@@ -778,12 +778,12 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" timestamp="1459789628159">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" timestamp="1459850057109">
         <mark key="'" line="137" column="12" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="43" column="77" />
-        <mark key="." line="46" column="0" />
+        <mark key="[" line="42" column="45" />
+        <mark key="]" line="42" column="50" />
+        <mark key="^" line="42" column="50" />
+        <mark key="." line="42" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AnnotationExample/app/src/main/java/com/imallan/annotationexample/Chargable.java" timestamp="1458250729469">
         <mark key="[" line="2" column="7" />
@@ -1955,7 +1955,7 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksContract.java" timestamp="1459426600586">
+      <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksContract.java" timestamp="1459848956419">
         <mark key="'" line="31" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/KotlinPlayground/app/src/main/AndroidManifest.xml" timestamp="1456242687345">
@@ -2492,43 +2492,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PostTrending</text>
+        <text>STICKY</text>
       </register>
       <register name="-" type="4">
-        <text>PostTrending</text>
+        <text>STICKY</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKyAiIE9SREVSIEJZICIgKyBUYWJsZS5Qb3N0VHJlbmRpbmcuSUQgKyAiQVNDIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3JkZXIxIC09IHN0aWNreVdlaWdodDsK</text>
       </register>
       <register name="1" type="4">
-        <text>PostTrending</text>
+        <text>STICKY</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">aWYgKGN1cnNvciAhPSBudWxsICYmIGN1cnNvci5tb3ZlVG9GaXJzdCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHdoaWxlIChjdXJzb3IubW92ZVRvTmV4dCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb3N0cy5hZGQoUG9zdE1hcHBlci5tYXBQb3N0KGN1cnNvcikpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
+        <text>o1.order - o2.order;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>stickyWeight</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY3Vyc29yICE9IG51bGwgJiYgY3Vyc29yLm1vdmVUb0ZpcnN0KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgd2hpbGUgKGN1cnNvci4pIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvc3RzLmFkZChQb3N0TWFwcGVyLm1hcFBvc3QoY3Vyc29yKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="4">
-        <text>cursor.moveToPosition(i)</text>
+        <text>} else {
+                        if (o1.type == POST_TYPE.NORMAL) {
+                            return o1.order - o2.order + Integer.MAX_VALUE / 2;
+                        } else {
+                            return o1.order - o2.order - Integer.MAX_VALUE / 2;
+                        }
+                    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobzEudHlwZSA9PSBvMi50eXBlKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbzEgPSBvMSAtIHN0aWNreVdlaWdodDsK</text>
       </register>
       <register name="9" type="4">
-        <text>cursor.moveToNext()</text>
+        <text>-</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
