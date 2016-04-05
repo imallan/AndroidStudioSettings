@@ -104,6 +104,12 @@
         <mark key="^" line="77" column="37" />
         <mark key="." line="77" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Pokemon/build.gradle" timestamp="1459870168581">
+        <mark key="[" line="7" column="60" />
+        <mark key="]" line="7" column="59" />
+        <mark key="^" line="7" column="59" />
+        <mark key="." line="7" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
       </file>
@@ -131,6 +137,13 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductsSearchRecyclerFragment.java" timestamp="1459353177512">
         <mark key="'" line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Pokemon/app/build.gradle" timestamp="1459870234938">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="34" column="46" />
+        <mark key="]" line="35" column="52" />
+        <mark key="." line="35" column="52" />
+        <mark key="^" line="35" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/NotificationActivity.java" timestamp="1459333736002">
         <mark key="'" line="81" column="51" />
@@ -341,9 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="32" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
-      <jump line="34" column="23" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/UserPresenter.kt" />
@@ -441,13 +451,16 @@
       <jump line="234" column="0" filename="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenter.java" />
       <jump line="96" column="30" filename="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" />
       <jump line="74" column="19" filename="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/Pokemon/app/build.gradle" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/GitHub/Pokemon/app/build.gradle" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/Pokemon/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>newItem</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>newItem</text>
+        <text>alpha5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
@@ -455,32 +468,43 @@
       <register name="0" type="4">
         <text>divider_category</text>
       </register>
-      <register name="1" type="4">
-        <text>newItem</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="4">
+        <text>buildscript {
+    ext.kotlin_version = '1.0.1-2'
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath &quot;org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version&quot;
+    }
+}
+repositories {
+    mavenCentral()
+}</text>
+      </register>
+      <register name="3" type="4">
+        <text>alpha5</text>
+      </register>
+      <register name="4" type="4">
+        <text>alpha5</text>
+      </register>
+      <register name="5" type="4">
+        <text>newItem</text>
+      </register>
+      <register name="6" type="4">
         <text>oldItem</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9sZEl0ZW0ub3JkZXIgPT0gbmV3SXRlbS5vcmRlciAmJgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbUFkYXB0ZXIubm90aWZ5RGF0YVNldENoYW5nZWQoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG1BZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9sZEl0ZW0ub3JkZXIgPT0gbmV3SXRlbS5vcmRlciAmJgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtUmVjeWNsZXJWaWV3LnJlbW92ZU9uTGF5b3V0Q2hhbmdlTGlzdGVuZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbUFkYXB0ZXIubm90aWZ5RGF0YVNldENoYW5nZWQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
