@@ -13,7 +13,7 @@
         <mark key="^" line="423" column="56" />
         <mark key="." line="423" column="56" />
       </file>
-      <file name="/a.dummy" timestamp="1459853283044">
+      <file name="/a.dummy" timestamp="1459875360663">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/CategoriesListAdapter.java" timestamp="1459851088436">
@@ -109,11 +109,6 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/PlayerView.java" timestamp="1453733017079">
         <mark key="[" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/ABTestUtils.java" timestamp="1459785259157">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_category.xml" timestamp="1459850723045">
         <mark key="'" line="2" column="4" />
@@ -247,17 +242,18 @@
         <mark key="^" line="79" column="60" />
         <mark key="." line="79" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProductActivity.java" timestamp="1459786116616">
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" timestamp="1459867453403">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" timestamp="1459874522057">
         <mark key="'" line="53" column="60" />
         <mark key="[" line="82" column="57" />
         <mark key="]" line="82" column="82" />
         <mark key="." line="82" column="82" />
         <mark key="^" line="82" column="82" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/build.gradle" timestamp="1459874068390">
+        <mark key="[" line="5" column="59" />
+        <mark key="]" line="5" column="59" />
+        <mark key="." line="5" column="59" />
+        <mark key="^" line="5" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" timestamp="1459509088226">
         <mark key="'" line="980" column="0" />
@@ -299,6 +295,13 @@
         <mark key="." line="266" column="26" />
         <mark key="^" line="266" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" timestamp="1459875203441">
+        <mark key="'" line="65" column="61" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="442" column="92" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_details.xml" timestamp="1459787865427">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="128" column="39" />
@@ -331,11 +334,6 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/drawable/list_divider_left_margin.xml" timestamp="1459352014731">
         <mark key="[" line="1" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProductFragment.java" timestamp="1459786864702">
-        <mark key="[" line="1516" column="0" />
-        <mark key="]" line="1516" column="84" />
-        <mark key="." line="1516" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" timestamp="1459863684678">
         <mark key="'" line="74" column="19" />
       </file>
@@ -351,7 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/UserPresenter.kt" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/UserPresenter.kt" />
@@ -451,13 +448,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/Pokemon/app/build.gradle" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/GitHub/Pokemon/app/build.gradle" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/Pokemon/app/build.gradle" />
+      <jump line="65" column="61" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5Lk1VTFRJV0lORE9XX0xBVU5DSEVSIi8+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>alpha5</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
@@ -466,42 +464,31 @@
         <text>divider_category</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5Lk1VTFRJV0lORE9XX0xBVU5DSEVSIi8+Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>buildscript {
-    ext.kotlin_version = '1.0.1-2'
-    repositories {
-        mavenCentral()
-    }
-    dependencies {
-        classpath &quot;org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version&quot;
-    }
-}
-repositories {
-    mavenCentral()
-}</text>
-      </register>
-      <register name="3" type="4">
-        <text>alpha5</text>
-      </register>
-      <register name="4" type="4">
-        <text>alpha5</text>
-      </register>
-      <register name="5" type="4">
-        <text>newItem</text>
-      </register>
-      <register name="6" type="4">
-        <text>oldItem</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9sZEl0ZW0ub3JkZXIgPT0gbmV3SXRlbS5vcmRlciAmJgo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbUFkYXB0ZXIubm90aWZ5RGF0YVNldENoYW5nZWQoKTsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8dXNlcy1saWJyYXJ5CiAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iY29tLnNlYy5hbmRyb2lkLmFwcC5tdWx0aXdpbmRvdyIKICAgICAgICAgICAgYW5kcm9pZDpyZXF1aXJlZD0iZmFsc2UiLz4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8dXNlcy1saWJyYXJ5CiAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iY29tLnNlYy5hbmRyb2lkLmFwcC5tdWx0aXdpbmRvdyIKICAgICAgICAgICAgYW5kcm9pZDpyZXF1aXJlZD0iZmFsc2UiLz4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8dXNlcy1saWJyYXJ5IGFuZHJvaWQ6bmFtZT0iIgo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="9" type="4">
+        <text>beta6</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
