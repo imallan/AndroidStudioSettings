@@ -88,6 +88,9 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProfileFollowingsFragment.java" timestamp="1459852805859">
         <mark key="'" line="257" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/build.gradle" timestamp="1459933150400">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/StateMaintainer.kt" timestamp="1459431969192">
         <mark key="'" line="56" column="8" />
       </file>
@@ -225,12 +228,11 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AddProductToListActivity.java" timestamp="1459784027873">
         <mark key="'" line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1459509991426">
-        <mark key="'" line="23" column="32" />
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="0" />
-        <mark key="^" line="182" column="49" />
-        <mark key="." line="182" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1459933711942">
+        <mark key="'" line="110" column="2" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" timestamp="1459436792030">
         <mark key="'" line="30" column="0" />
@@ -345,10 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/UserPresenter.kt" />
-      <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/UserPresenter.kt" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/UserPresenter.kt" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/UserPresenter.kt" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenterImpl.kt" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/CommentsPresenter.kt" />
@@ -445,46 +443,50 @@
       <jump line="31" column="0" filename="$USER_HOME$/Documents/GitHub/Pokemon/app/build.gradle" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/Pokemon/app/build.gradle" />
       <jump line="65" column="61" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/build.gradle" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="114" column="2" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5Lk1VTFRJV0lORE9XX0xBVU5DSEVSIi8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Network</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>divider_category</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8qKiBOZXR3b3JrICoqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5Lk1VTFRJV0lORE9XX0xBVU5DSEVSIi8+Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ZXh0IHsKICAgIGFwcGNvbXBhdFZlcnNpb24gIjIzLjIuMSIKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8dXNlcy1saWJyYXJ5CiAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iY29tLnNlYy5hbmRyb2lkLmFwcC5tdWx0aXdpbmRvdyIKICAgICAgICAgICAgYW5kcm9pZDpyZXF1aXJlZD0iZmFsc2UiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6bXVsdGlkZXg6MS4wLjEnCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8dXNlcy1saWJyYXJ5CiAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iY29tLnNlYy5hbmRyb2lkLmFwcC5tdWx0aXdpbmRvdyIKICAgICAgICAgICAgYW5kcm9pZDpyZXF1aXJlZD0iZmFsc2UiLz4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2pwLmNvLmN5YmVyYWdlbnQuYW5kcm9pZC5ncHVpbWFnZTpncHVpbWFnZS1saWJyYXJ5OjEuMy4wJwogICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8dXNlcy1saWJyYXJ5IGFuZHJvaWQ6bmFtZT0iIgo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuYWxsYW4xc3Q6UmljaFF1aWNrQWN0aW9uOjAuNScK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>beta6</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUoJ2NvbS5jcmFzaGx5dGljcy5zZGsuYW5kcm9pZDpjcmFzaGx5dGljczoyLjUuNUBhYXInKSB7CiAgICAgICAgdHJhbnNpdGl2ZSA9IHRydWU7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
