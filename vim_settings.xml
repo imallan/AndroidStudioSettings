@@ -13,7 +13,7 @@
         <mark key="^" line="423" column="56" />
         <mark key="." line="423" column="56" />
       </file>
-      <file name="/a.dummy" timestamp="1459934816631">
+      <file name="/a.dummy" timestamp="1459962763769">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/CategoriesListAdapter.java" timestamp="1459851088436">
@@ -85,8 +85,11 @@
         <mark key="^" line="20" column="41" />
         <mark key="." line="20" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProfileFollowingsFragment.java" timestamp="1459852805859">
-        <mark key="'" line="257" column="54" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProfileFollowingsFragment.java" timestamp="1459962707034">
+        <mark key="[" line="110" column="15" />
+        <mark key="]" line="110" column="16" />
+        <mark key="." line="110" column="16" />
+        <mark key="^" line="110" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/build.gradle" timestamp="1459933150400">
         <mark key="'" line="0" column="0" />
@@ -348,8 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="61" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
-      <jump line="91" column="18" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
       <jump line="111" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
       <jump line="134" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
       <jump line="105" column="16" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
@@ -448,55 +449,57 @@
       <jump line="60" column="27" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="17" column="33" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="108" column="10" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="217" column="47" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProfileFollowingsFragment.java" />
+      <jump line="343" column="32" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProfileFollowingsFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgcmVsZWFzZUNvbXBpbGUgImNvbS5zcXVhcmV1cC5sZWFrY2FuYXJ5OmxlYWtjYW5hcnktYW5kcm9pZDokbGVha0NhbmFyeVZlcnNpb24iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>23.2.1</text>
+        <text>invalidate</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbmRyb2lkXD4=</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGV0aG9WZXJzaW9uID0gIjEuMy4xIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgcmVsZWFzZUNvbXBpbGUgImNvbS5zcXVhcmV1cC5sZWFrY2FuYXJ5OmxlYWtjYW5hcnktYW5kcm9pZDokbGVha0NhbmFyeVZlcnNpb24iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUFkYXB0ZXIubm90aWZ5RGF0YVNldENoYW5nZWQoKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>23.2.1</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbVJlY3ljbGVyVmlldy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUFkYXB0ZXIucG8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFwcGNvbXBhdFZlcnNpb24gPSAiMjMuMi4xIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtQWRhcHRlci5ub3RpZnlEYXRhU2V0Q2hhbmdlZCgpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>appcompatVersion</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBtUmVjeWNsZXJWaWV3LnJlcXVlc3RMYXlvdXQoKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbmRyb2lkXD4=</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbmRyb2lkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -505,6 +508,7 @@
         <entry>user</entry>
         <entry>list</entry>
         <entry encoding="base64">XDxhbmRyb2lkXD4=</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
