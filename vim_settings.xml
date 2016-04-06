@@ -228,11 +228,11 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AddProductToListActivity.java" timestamp="1459784027873">
         <mark key="'" line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1459933711942">
-        <mark key="'" line="110" column="2" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1459934390902">
+        <mark key="'" line="108" column="10" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="84" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" timestamp="1459436792030">
         <mark key="'" line="30" column="0" />
@@ -335,7 +335,7 @@
       <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" timestamp="1459863684678">
         <mark key="'" line="74" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1459786284881">
+      <file name="/fragment.java" timestamp="1459933746937">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_brand.xml" timestamp="1459354070599">
@@ -347,21 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/UserPresenter.kt" />
-      <jump line="42" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenterImpl.kt" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/CommentsPresenter.kt" />
-      <jump line="23" column="32" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
-      <jump line="176" column="0" filename="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFragment.java" />
-      <jump line="66" column="122" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" />
-      <jump line="960" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" />
-      <jump line="420" column="33" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" />
-      <jump line="34" column="23" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
-      <jump line="77" column="104" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
-      <jump line="82" column="35" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
-      <jump line="216" column="22" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/DBHelper.java" />
-      <jump line="86" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
-      <jump line="174" column="91" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
       <jump line="37" column="61" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
       <jump line="91" column="18" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
       <jump line="111" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
@@ -444,49 +429,64 @@
       <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/Pokemon/app/build.gradle" />
       <jump line="65" column="61" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/build.gradle" />
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="114" column="2" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="131" column="39" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="13" column="31" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="128" column="40" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="136" column="59" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="148" column="44" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="151" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="194" column="46" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="211" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="73" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="224" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="16" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="60" column="27" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="17" column="33" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="108" column="10" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgcmVsZWFzZUNvbXBpbGUgImNvbS5zcXVhcmV1cC5sZWFrY2FuYXJ5OmxlYWtjYW5hcnktYW5kcm9pZDokbGVha0NhbmFyeVZlcnNpb24iCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Network</text>
+        <text>23.2.1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKiBOZXR3b3JrICoqLwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGV0aG9WZXJzaW9uID0gIjEuMy4xIgo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgcmVsZWFzZUNvbXBpbGUgImNvbS5zcXVhcmV1cC5sZWFrY2FuYXJ5OmxlYWtjYW5hcnktYW5kcm9pZDokbGVha0NhbmFyeVZlcnNpb24iCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZXh0IHsKICAgIGFwcGNvbXBhdFZlcnNpb24gIjIzLjIuMSIKfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>23.2.1</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6bXVsdGlkZXg6MS4wLjEnCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwcGNvbXBhdFZlcnNpb24gPSAiMjMuMi4xIgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2pwLmNvLmN5YmVyYWdlbnQuYW5kcm9pZC5ncHVpbWFnZTpncHVpbWFnZS1saWJyYXJ5OjEuMy4wJwogICAgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuYWxsYW4xc3Q6UmljaFF1aWNrQWN0aW9uOjAuNScK</text>
+      <register name="7" type="4">
+        <text>appcompatVersion</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoJ2NvbS5jcmFzaGx5dGljcy5zZGsuYW5kcm9pZDpjcmFzaGx5dGljczoyLjUuNUBhYXInKSB7CiAgICAgICAgdHJhbnNpdGl2ZSA9IHRydWU7CiAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
