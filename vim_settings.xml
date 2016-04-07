@@ -13,7 +13,7 @@
         <mark key="^" line="423" column="56" />
         <mark key="." line="423" column="56" />
       </file>
-      <file name="/a.dummy" timestamp="1459962763769">
+      <file name="/a.dummy" timestamp="1460035363144">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/CategoriesListAdapter.java" timestamp="1459851088436">
@@ -41,11 +41,11 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/java/util/LinkedHashMap.java" timestamp="1459427443586">
         <mark key="'" line="65" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/BluetoothExample/app/src/main/res/layout/activity_main.xml" timestamp="1460027868861">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="13" column="40" />
-        <mark key="." line="13" column="40" />
-        <mark key="^" line="13" column="40" />
+      <file name="$USER_HOME$/Documents/GitHub/BluetoothExample/app/src/main/res/layout/activity_main.xml" timestamp="1460037077346">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="31" />
+        <mark key="." line="20" column="31" />
+        <mark key="^" line="20" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/SearchBrandsFragment.java" timestamp="1459353003923">
         <mark key="'" line="75" column="71" />
@@ -150,12 +150,10 @@
         <mark key="^" line="35" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksLocalDataSource.java" timestamp="1459960257831" />
-      <file name="$USER_HOME$/Documents/GitHub/BluetoothExample/app/src/main/java/com/imallan/bluetoothexample/MainActivity.java" timestamp="1460034462795">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="57" column="24" />
-        <mark key="]" line="58" column="18" />
-        <mark key="^" line="58" column="18" />
-        <mark key="." line="58" column="18" />
+      <file name="$USER_HOME$/Documents/GitHub/BluetoothExample/app/src/main/java/com/imallan/bluetoothexample/MainActivity.java" timestamp="1460037344813">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/NotificationActivity.java" timestamp="1459333736002">
         <mark key="'" line="81" column="51" />
@@ -362,8 +360,11 @@
       <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" timestamp="1459863684678">
         <mark key="'" line="74" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1459933746937">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1460036376086">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="52" />
+        <mark key="." line="0" column="52" />
+        <mark key="^" line="0" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_brand.xml" timestamp="1459354070599">
         <mark key="'" line="43" column="0" />
@@ -477,54 +478,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtQmx1ZXRvb3RoQWRhcHRlci5nZXRCbHVldG9vdGhMZVNjYW5uZXIoKS5zdG9wU2NhbihuZXcgU2NhbkNhbGxiYWNrKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25TY2FuUmVzdWx0KGludCBjYWxsYmFja1R5cGUsIFNjYW5SZXN1bHQgcmVzdWx0KSB7CiAgICAgICAgICAgICAgICBzdXBlci5vblNjYW5SZXN1bHQoY2FsbGJhY2tUeXBlLCByZXN1bHQpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.getAdapter()</text>
+        <text>minor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiXG5OYW1lOiAiICsgcmVzdWx0LmdldERldmljZSgpLmdldE5hbWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArICJcbk1pbm9yIiArIG1pbm9yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtQmx1ZXRvb3RoQWRhcHRlci5nZXRCbHVldG9vdGhMZVNjYW5uZXIoKS5zdG9wU2NhbihuZXcgU2NhbkNhbGxiYWNrKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25TY2FuUmVzdWx0KGludCBjYWxsYmFja1R5cGUsIFNjYW5SZXN1bHQgcmVzdWx0KSB7CiAgICAgICAgICAgICAgICBzdXBlci5vblNjYW5SZXN1bHQoY2FsbGJhY2tUeXBlLCByZXN1bHQpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtQmx1ZXRvb3RoQWRhcHRlci5nZXRCbHVldG9vdGhMZVNjYW5uZXIoKS5zdG9wU2NhbihuZXcgU2NhbkNhbGxiYWNrKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25TY2FuUmVzdWx0KGludCBjYWxsYmFja1R5cGUsIFNjYW5SZXN1bHQgcmVzdWx0KSB7CiAgICAgICAgICAgICAgICBzdXBlci5vblNjYW5SZXN1bHQoY2FsbGJhY2tUeXBlLCByZXN1bHQpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5nZXREZXZpY2UoKS5jb25uZWN0R2F0dChNYWluQWN0aXZpdHkudGhpcywgdHIpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>private void scan() {
-                mBluetoothAdapter.getBluetoothLeScanner().startScan(new ScanCallback() {
-                    @Override
-                    public void onScanResult(int callbackType, ScanResult result) {
-                        super.onScanResult(callbackType, result);
-                        Log.d(TAG, &quot;onScanResult: &quot; +
-                                &quot;\nName: &quot; + result.getDevice().getName()
-                                + &quot;\nAddress: &quot; + result.getDevice().getAddress()
-                                + &quot;\nRSSI: [&quot; + result.getRssi() + &quot;]&quot;);
-                    }
-                });
-            }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="4">
-        <text>.getAdapter()</text>
+        <text>minor</text>
       </register>
       <register name="6" type="4">
-        <text>mBluetoothManager</text>
+        <text>nMinor</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBCbHVldG9vdGhNYW5hZ2VyIG1CbHVldG9vdGhNYW5hZ2VyCiAgICAgICAgICAgICAgICA9IChCbHVldG9vdGhNYW5hZ2VyKSBnZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuQkxVRVRPT1RIX1NFUlZJQ0UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtQmx1ZXRvb3RoTWFuYWdlciAK</text>
+      <register name="8" type="4">
+        <text>gravity</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtQm9vCg==</text>
+      <register name="9" type="4">
+        <text>Major</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
