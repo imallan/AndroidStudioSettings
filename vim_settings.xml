@@ -111,6 +111,12 @@
         <mark key="^" line="77" column="37" />
         <mark key="." line="77" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/build.gradle" timestamp="1460064172007">
+        <mark key="[" line="7" column="55" />
+        <mark key="]" line="7" column="55" />
+        <mark key="^" line="7" column="54" />
+        <mark key="." line="7" column="55" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/MVPExample/app/src/main/kotlin/com/imallan/mvpexample/presenter/MainPresenter.kt" timestamp="1459430860502">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="49" column="44" />
@@ -408,11 +414,11 @@
       <jump line="4" column="1" filename="$USER_HOME$/Documents/GitHub/BluetoothExample/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbmV3IEJlYWNvblBhcnNlcigpLnNldEJlYWNvbkxheW91dCgibTowLTM9NGMwMDAyMTUsaTo0LTE5LGk6MjAtMjEsaToyMi0yMyxwOjI0LTI0IikK</text>
+      <register name="&quot;" type="4">
+        <text>-alpha4</text>
       </register>
       <register name="-" type="4">
-        <text>m:2-3=0215,i:4-19,i:20-21,i:22-23,p:24-24</text>
+        <text>-alpha4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -420,32 +426,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBCZWFjb25QYXJzZXIoKS5zZXRCZWFjb25MYXlvdXQoIm06Mi0zPTAyMTUsaTo0LTE5LGk6MjAtMjEsaToyMi0yMyxwOjI0LTI0IikK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>-alpha4</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbmV3IEJlYWNvblBhcnNlcigpLnNldEJlYWNvbkxheW91dCgibTowLTM9NGMwMDAyMTUsaTo0LTE5LGk6MjAtMjEsaToyMi0yMyxwOjI0LTI0IikK</text>
       </register>
-      <register name="2" type="4">
-        <text>m:2-3=0215,i:4-19,i:20-21,i:22-23,p:24-24</text>
-      </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text>m:2-3=0215,i:4-19,i:20-21,i:22-23,p:24-24</text>
       </register>
       <register name="4" type="4">
         <text>0</text>
       </register>
       <register name="5" type="4">
-        <text>c</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>4</text>
+        <text>c</text>
       </register>
       <register name="7" type="4">
+        <text>4</text>
+      </register>
+      <register name="8" type="4">
         <text>m:2-3=0215,i:4-19,i:20-21,i:22-23,p:24-24</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoQmVhY29uIGJlYWNvbiA6IGNvbGxlY3Rpb24pIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
