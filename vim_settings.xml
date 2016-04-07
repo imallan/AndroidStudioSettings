@@ -41,6 +41,12 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/java/util/LinkedHashMap.java" timestamp="1459427443586">
         <mark key="'" line="65" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/BluetoothExample/app/src/main/res/layout/activity_main.xml" timestamp="1460027868861">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+        <mark key="^" line="13" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/SearchBrandsFragment.java" timestamp="1459353003923">
         <mark key="'" line="75" column="71" />
         <mark key="[" line="81" column="53" />
@@ -85,7 +91,7 @@
         <mark key="^" line="20" column="41" />
         <mark key="." line="20" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProfileFollowingsFragment.java" timestamp="1460021623775">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProfileFollowingsFragment.java" timestamp="1460027621608">
         <mark key="[" line="110" column="15" />
         <mark key="]" line="110" column="16" />
         <mark key="." line="110" column="16" />
@@ -144,6 +150,12 @@
         <mark key="^" line="35" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksLocalDataSource.java" timestamp="1459960257831" />
+      <file name="$USER_HOME$/Documents/GitHub/BluetoothExample/app/src/main/java/com/imallan/bluetoothexample/MainActivity.java" timestamp="1460030281927">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/NotificationActivity.java" timestamp="1459333736002">
         <mark key="'" line="81" column="51" />
       </file>
@@ -237,6 +249,10 @@
         <mark key="[" line="196" column="0" />
         <mark key="]" line="196" column="84" />
         <mark key="." line="196" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/bluetooth/le/BluetoothLeScanner.java" timestamp="1460028909016">
+        <mark key="[" line="64" column="18" />
+        <mark key="]" line="64" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotPresenter.kt" timestamp="1459436792030">
         <mark key="'" line="30" column="0" />
@@ -333,6 +349,12 @@
       <file name="$USER_HOME$/Documents/GitHub/Griffin/build.gradle" timestamp="1453464337709">
         <mark key="[" line="7" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/BluetoothExample/app/src/main/AndroidManifest.xml" timestamp="1460029232245">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="76" />
+        <mark key="^" line="6" column="76" />
+        <mark key="." line="6" column="76" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/drawable/list_divider_left_margin.xml" timestamp="1459352014731">
         <mark key="[" line="1" column="66" />
       </file>
@@ -351,9 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
-      <jump line="134" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
-      <jump line="105" column="16" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
       <jump line="160" column="16" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
       <jump line="164" column="45" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIFactory.java" />
@@ -451,46 +470,49 @@
       <jump line="108" column="10" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="217" column="47" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProfileFollowingsFragment.java" />
       <jump line="343" column="32" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProfileFollowingsFragment.java" />
+      <jump line="23" column="42" filename="$USER_HOME$/Documents/GitHub/BluetoothExample/app/src/main/java/com/imallan/bluetoothexample/MainActivity.java" />
+      <jump line="43" column="49" filename="$USER_HOME$/Documents/GitHub/BluetoothExample/app/src/main/java/com/imallan/bluetoothexample/MainActivity.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/Documents/GitHub/BluetoothExample/app/src/main/java/com/imallan/bluetoothexample/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArICJcblVVSUQ6ICIgKyByZXN1bHQuZ2V0RGV2aWNlKCkuZ2V0VXVpZHMoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>invalidate</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGV0aG9WZXJzaW9uID0gIjEuMy4xIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiXG5OYW1lOiAiICsgcmVzdWx0LmdldERldmljZSgpLmdldE5hbWUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArICJcblVVSUQ6ICIgKyByZXN1bHQuZ2V0RGV2aWNlKCkuZ2V0VXVpZHMoKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUFkYXB0ZXIubm90aWZ5RGF0YVNldENoYW5nZWQoKTsK</text>
+      <register name="2" type="4">
+        <text />
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVJlY3ljbGVyVmlldy4K</text>
+      <register name="3" type="4">
+        <text>nName</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUFkYXB0ZXIucG8K</text>
+      <register name="4" type="4">
+        <text>getName</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>getDeviceName</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtQWRhcHRlci5ub3RpZnlEYXRhU2V0Q2hhbmdlZCgpOwo=</text>
+      <register name="6" type="4">
+        <text>getScanRecord</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text>getTxPowerLevel</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtUmVjeWNsZXJWaWV3LnJlcXVlc3RMYXlvdXQoKTsK</text>
+      <register name="8" type="4">
+        <text>getScanRecord</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+      <register name="9" type="4">
+        <text>nTX</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
