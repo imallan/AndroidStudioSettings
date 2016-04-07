@@ -150,11 +150,12 @@
         <mark key="^" line="35" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksLocalDataSource.java" timestamp="1459960257831" />
-      <file name="$USER_HOME$/Documents/GitHub/BluetoothExample/app/src/main/java/com/imallan/bluetoothexample/MainActivity.java" timestamp="1460030281927">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/BluetoothExample/app/src/main/java/com/imallan/bluetoothexample/MainActivity.java" timestamp="1460034462795">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="57" column="24" />
+        <mark key="]" line="58" column="18" />
+        <mark key="^" line="58" column="18" />
+        <mark key="." line="58" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/NotificationActivity.java" timestamp="1459333736002">
         <mark key="'" line="81" column="51" />
@@ -476,10 +477,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArICJcblVVSUQ6ICIgKyByZXN1bHQuZ2V0RGV2aWNlKCkuZ2V0VXVpZHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICBtQmx1ZXRvb3RoQWRhcHRlci5nZXRCbHVldG9vdGhMZVNjYW5uZXIoKS5zdG9wU2NhbihuZXcgU2NhbkNhbGxiYWNrKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25TY2FuUmVzdWx0KGludCBjYWxsYmFja1R5cGUsIFNjYW5SZXN1bHQgcmVzdWx0KSB7CiAgICAgICAgICAgICAgICBzdXBlci5vblNjYW5SZXN1bHQoY2FsbGJhY2tUeXBlLCByZXN1bHQpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>.getAdapter()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -488,31 +489,42 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiXG5OYW1lOiAiICsgcmVzdWx0LmdldERldmljZSgpLmdldE5hbWUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArICJcblVVSUQ6ICIgKyByZXN1bHQuZ2V0RGV2aWNlKCkuZ2V0VXVpZHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICBtQmx1ZXRvb3RoQWRhcHRlci5nZXRCbHVldG9vdGhMZVNjYW5uZXIoKS5zdG9wU2NhbihuZXcgU2NhbkNhbGxiYWNrKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25TY2FuUmVzdWx0KGludCBjYWxsYmFja1R5cGUsIFNjYW5SZXN1bHQgcmVzdWx0KSB7CiAgICAgICAgICAgICAgICBzdXBlci5vblNjYW5SZXN1bHQoY2FsbGJhY2tUeXBlLCByZXN1bHQpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text />
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBtQmx1ZXRvb3RoQWRhcHRlci5nZXRCbHVldG9vdGhMZVNjYW5uZXIoKS5zdG9wU2NhbihuZXcgU2NhbkNhbGxiYWNrKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25TY2FuUmVzdWx0KGludCBjYWxsYmFja1R5cGUsIFNjYW5SZXN1bHQgcmVzdWx0KSB7CiAgICAgICAgICAgICAgICBzdXBlci5vblNjYW5SZXN1bHQoY2FsbGJhY2tUeXBlLCByZXN1bHQpOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>nName</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="4">
-        <text>getName</text>
+        <text>private void scan() {
+                mBluetoothAdapter.getBluetoothLeScanner().startScan(new ScanCallback() {
+                    @Override
+                    public void onScanResult(int callbackType, ScanResult result) {
+                        super.onScanResult(callbackType, result);
+                        Log.d(TAG, &quot;onScanResult: &quot; +
+                                &quot;\nName: &quot; + result.getDevice().getName()
+                                + &quot;\nAddress: &quot; + result.getDevice().getAddress()
+                                + &quot;\nRSSI: [&quot; + result.getRssi() + &quot;]&quot;);
+                    }
+                });
+            }</text>
       </register>
       <register name="5" type="4">
-        <text>getDeviceName</text>
+        <text>.getAdapter()</text>
       </register>
       <register name="6" type="4">
-        <text>getScanRecord</text>
+        <text>mBluetoothManager</text>
       </register>
-      <register name="7" type="4">
-        <text>getTxPowerLevel</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBCbHVldG9vdGhNYW5hZ2VyIG1CbHVldG9vdGhNYW5hZ2VyCiAgICAgICAgICAgICAgICA9IChCbHVldG9vdGhNYW5hZ2VyKSBnZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuQkxVRVRPT1RIX1NFUlZJQ0UpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>getScanRecord</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBtQmx1ZXRvb3RoTWFuYWdlciAK</text>
       </register>
-      <register name="9" type="4">
-        <text>nTX</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBtQm9vCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
