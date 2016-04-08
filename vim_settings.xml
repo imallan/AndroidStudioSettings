@@ -22,12 +22,6 @@
         <mark key="^" line="7" column="54" />
         <mark key="." line="7" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/CategoriesListAdapter.java" timestamp="1459851088436">
-        <mark key="'" line="88" column="4" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/AppDetailsFragment.java" timestamp="1459787987141">
         <mark key="'" line="73" column="17" />
         <mark key="[" line="269" column="51" />
@@ -57,12 +51,6 @@
         <mark key="]" line="87" column="31" />
         <mark key="^" line="87" column="31" />
         <mark key="." line="87" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" timestamp="1459787071566">
-        <mark key="'" line="199" column="0" />
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="274" column="0" />
-        <mark key="." line="274" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" timestamp="1459849443366">
         <mark key="'" line="0" column="0" />
@@ -214,11 +202,12 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AddProductToListActivity.java" timestamp="1459784027873">
         <mark key="'" line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1459934390902">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1460106806335">
         <mark key="'" line="108" column="10" />
-        <mark key="[" line="196" column="0" />
-        <mark key="]" line="196" column="84" />
-        <mark key="." line="196" column="0" />
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="14" column="34" />
+        <mark key="^" line="14" column="34" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/bluetooth/le/BluetoothLeScanner.java" timestamp="1460028909016">
         <mark key="[" line="64" column="18" />
