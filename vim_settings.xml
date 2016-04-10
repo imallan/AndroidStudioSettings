@@ -78,6 +78,7 @@
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/StateMaintainer.kt" timestamp="1459431969192">
         <mark key="'" line="56" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/adapter/ShotsDelegationAdapter.kt" timestamp="1460320748902" />
       <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" timestamp="1459863684678">
         <mark key="'" line="74" column="19" />
       </file>
@@ -111,7 +112,7 @@
         <mark key="^" line="77" column="37" />
         <mark key="." line="77" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Crossover/build.gradle" timestamp="1460064172007">
+      <file name="$USER_HOME$/Documents/GitHub/Crossover/build.gradle" timestamp="1460320694111">
         <mark key="[" line="7" column="55" />
         <mark key="]" line="7" column="55" />
         <mark key="^" line="7" column="54" />
