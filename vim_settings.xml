@@ -319,6 +319,12 @@
       <file name="/a.regexp" timestamp="1454088273903">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1460365872388">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/PointsUtil.java" timestamp="1459787956260">
         <mark key="'" line="101" column="21" />
         <mark key="[" line="266" column="26" />
@@ -370,6 +376,7 @@
       <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" timestamp="1459863684678">
         <mark key="'" line="74" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" timestamp="1460365802779" />
       <file name="/fragment.java" timestamp="1460109266333">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="31" />
