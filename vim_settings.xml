@@ -239,12 +239,12 @@
         <mark key="." line="5" column="59" />
         <mark key="^" line="5" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" timestamp="1460375490256">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" timestamp="1460378063952">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="361" column="30" />
-        <mark key="]" line="361" column="30" />
-        <mark key="." line="361" column="30" />
-        <mark key="^" line="361" column="30" />
+        <mark key="[" line="238" column="17" />
+        <mark key="]" line="238" column="22" />
+        <mark key="." line="238" column="22" />
+        <mark key="^" line="238" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_user.xml" timestamp="1459354727492">
         <mark key="'" line="7" column="0" />
@@ -420,10 +420,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -432,31 +432,31 @@
         <text encoding="base64">ICAgIEBEZXByZWNhdGVkCg==</text>
       </register>
       <register name="1" type="4">
+        <text>?</text>
+      </register>
+      <register name="2" type="4">
+        <text>?</text>
+      </register>
+      <register name="3" type="4">
+        <text>?</text>
+      </register>
+      <register name="4" type="4">
         <text>]</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIEBEZXByZWNhdGVkCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
-      </register>
-      <register name="6" type="4">
-        <text>logAndThrow</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="9" type="4">
-        <text>new</text>
+        <text>logAndThrow</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
