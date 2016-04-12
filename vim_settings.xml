@@ -16,11 +16,10 @@
         <mark key="^" line="423" column="56" />
         <mark key="." line="423" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/db/PostDBSourceTest.java" timestamp="1460394841655">
-        <mark key="[" line="31" column="56" />
-        <mark key="]" line="31" column="71" />
-        <mark key="." line="31" column="71" />
-        <mark key="^" line="31" column="71" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/db/PostDBSourceTest.java" timestamp="1460451197159">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/AppDetailsFragment.java" timestamp="1459787987141">
         <mark key="'" line="73" column="17" />
@@ -271,6 +270,16 @@
         <mark key="." line="35" column="52" />
         <mark key="^" line="35" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/BluetoothExample/app/src/main/java/com/imallan/bluetoothexample/MainActivity.java" timestamp="1460043606241">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/PostDataSource.java" timestamp="1460388887182">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/androidTest/kotlin/com.imallan.crossover/PresenterTests.kt" timestamp="1459336912487">
         <mark key="'" line="36" column="20" />
         <mark key="[" line="44" column="0" />
@@ -462,8 +471,8 @@
       <jump line="113" column="22" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getActivity</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>getActivity</text>
@@ -474,32 +483,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvYnNlcnZhYmxlLnN1YnNjcmliZSh0ZXN0U3Vic2NyaWJlcik7CiAgICAgICAgdGVzdFN1YnNjcmliZXIuYXNzZXJ0Tm9FcnJvcnMoKTsKICAgICAgICB0ZXN0U3Vic2NyaWJlci5hc3NlcnROb1ZhbHVlcygpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>getActivity</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>getActivity</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAoKFNob3BjYWRlQXBwbGljYXRpb24pZ2V0QXBwbGljYXRpb24oKSkuaW5qCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKGdldCgpLmdldEFwcGxpY2F0aW9uKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvbgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>getActivity</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwb3N0REJTb3VyY2UubURhdGFiYXNlLgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>getActivity</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXN0U3Vic2NyaWJlci5hc3NlcnRWYWx1ZUNvdW50KDEpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRJbnN0cnVtZW50YXRpb24oKS53YWl0Rm9ySWRsZVN5bmMoKTsK</text>
+        <text encoding="base64">ICAgICAgICBwb3N0REJTb3VyY2UuCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>applicationClass</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>ActivityTestCase</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
