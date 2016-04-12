@@ -54,7 +54,7 @@
         <mark key="^" line="238" column="75" />
         <mark key="." line="238" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" timestamp="1460392793985">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" timestamp="1460452070454">
         <mark key="'" line="60" column="41" />
         <mark key="[" line="108" column="62" />
         <mark key="]" line="108" column="89" />
@@ -86,11 +86,12 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/db/PostDBSource.java" timestamp="1460393610233">
-        <mark key="[" line="53" column="27" />
-        <mark key="]" line="53" column="44" />
-        <mark key="^" line="53" column="44" />
-        <mark key="." line="53" column="44" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/db/PostDBSource.java" timestamp="1460452407707">
+        <mark key="'" line="22" column="46" />
+        <mark key="[" line="62" column="8" />
+        <mark key="]" line="62" column="14" />
+        <mark key="^" line="62" column="14" />
+        <mark key="." line="62" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIPost.java" timestamp="1460384954867">
         <mark key="'" line="660" column="90" />
@@ -275,10 +276,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/PostDataSource.java" timestamp="1460388887182">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/PostDataSource.java" timestamp="1460452033374">
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="54" />
+        <mark key="." line="14" column="54" />
+        <mark key="^" line="14" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/androidTest/kotlin/com.imallan.crossover/PresenterTests.kt" timestamp="1459336912487">
         <mark key="'" line="36" column="20" />
@@ -357,9 +359,6 @@
         <mark key="." line="419" column="106" />
         <mark key="^" line="419" column="99" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" timestamp="1460390772454">
-        <mark key="'" line="74" column="19" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_brand.xml" timestamp="1459354070599">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="56" column="25" />
@@ -369,7 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" />
       <jump line="198" column="17" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" />
       <jump line="81" column="19" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" />
       <jump line="171" column="20" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" />
@@ -469,46 +467,47 @@
       <jump line="424" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
       <jump line="392" column="72" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" />
       <jump line="113" column="22" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="24" column="46" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/db/PostDBSource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>getActivity</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvYnNlcnZhYmxlLnN1YnNjcmliZSh0ZXN0U3Vic2NyaWJlcik7CiAgICAgICAgdGVzdFN1YnNjcmliZXIuYXNzZXJ0Tm9FcnJvcnMoKTsKICAgICAgICB0ZXN0U3Vic2NyaWJlci5hc3NlcnROb1ZhbHVlcygpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgT2JzZXJ2YWJsZTxQb3N0PiBnZXRQb3N0QnlJZChTdHJpbmcgaWQpIHsKICAgICAgICBmaW5hbCBTUUxpdGVRdWVyeUJ1aWxkZXIgcWIgPSBuZXcgU1FMaXRlUXVlcnlCdWlsZGVyKCk7CiAgICAgICAgU3RyaW5nIHRhYmxlTmFtZSA9IFRhYmxlLlBvc3QuVEFCTEVfTkFNRQogICAgICAgICAgICAgICAgKyAiIEpPSU4gIiArIFRhYmxlLlVzZXIuVEFCTEVfTkFNRQogICAgICAgICAgICAgICAgKyAiIE9OICIgKyBUYWJsZS5Vc2VyLlNFUlZFUl9JRCArICI9IiArIFRhYmxlLlBvc3QuVVNFUl9TRVJWRVJfSUQ7CiAgICAgICAgcWIuc2V0VGFibGVzKHRhYmxlTmFtZSk7CiAgICAgICAgcWIuYXBwZW5kV2hlcmUoVGFibGUuUG9zdC5TRVJWRVJfSUQgKyAiPVwiIiArIGlkICsgIlwiIik7CiAgICAgICAgTG9nLmQoVEFHLCAib2JzZXJ2ZXJQb3N0RnJvbURCOiAiICsgcWIuYnVpbGRRdWVyeShudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsKSk7CiAgICAgICAgcmV0dXJuIG1EYXRhYmFzZS5jcmVhdGVRdWVyeSgKICAgICAgICAgICAgICAgIEFycmF5cy5hc0xpc3QoVGFibGUuUG9zdC5UQUJMRV9OQU1FLCBUYWJsZS5Vc2VyLlRBQkxFX05BTUUpLAogICAgICAgICAgICAgICAgcWIuYnVpbGRRdWVyeShudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsKSkKICAgICAgICAgICAgICAgIC5tYXAoU3FsQnJpdGUuUXVlcnk6OnJ1bikKICAgICAgICAgICAgICAgIC5maXJzdCgpCiAgICAgICAgICAgICAgICAuZmxhdE1hcChjdXJzb3IgLT4gewogICAgICAgICAgICAgICAgICAgIGlmIChjdXJzb3IubW92ZVRvRmlyc3QoKSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gT2JzZXJ2YWJsZS5qdXN0KFBvc3RNYXBwZXIubWFwUG9zdChjdXJzb3IpKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE9ic2VydmFibGUuZW1wdHkoKTsKICAgICAgICAgICAgICAgIH0pOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAoKFNob3BjYWRlQXBwbGljYXRpb24pZ2V0QXBwbGljYXRpb24oKSkuaW5qCg==</text>
+        <text encoding="base64">ICAgICAgICBtUGVuZGluZ1N1YnNjcmlwdGlvbnMuYWRkKHN1YnNjcmlwdGlvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0REJTb3VyY2UubURhdGFiYXNlLgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IC5vYnNlcnZlT24oQW5kcm9pZFNjaGVkdWxlcnMubWFpblRocmVhZCgpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZShwb3N0cyAtPiB7CiAgICAgICAgICAgICAgICAgICAgbUFkYXB0ZXIuc2V0U3RpY2t5UG9zdHMocG9zdHMpOwogICAgICAgICAgICAgICAgfSwgdGhyb3dhYmxlIC0+IHsKICAgICAgICAgICAgICAgICAgICBMb2cuZShUQUcsICJxdWVyeVN0aWNreTogIiArIHRocm93YWJsZS5nZXRNZXNzYWdlKCksIHRocm93YWJsZSk7CiAgICAgICAgICAgICAgICB9KTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0U3Vic2NyaWJlci5hc3NlcnRWYWx1ZUNvdW50KDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBPYgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>k</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0REJTb3VyY2UuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgT2JzZXJ2YWJsZTxQb3N0PiBnZXRTdGlja3lQb3N0cyhsaW1pdCkgewogICAgICAgIGZpbmFsIFNRTGl0ZVF1ZXJ5QnVpbGRlciBxYiA9IG5ldyBTUUxpdGVRdWVyeUJ1aWxkZXIoKTsKICAgICAgICBTdHJpbmcgdGFibGVOYW1lID0gVGFibGUuUG9zdC5UQUJMRV9OQU1FCiAgICAgICAgICAgICAgICArICIgSk9JTiAiICsgVGFibGUuVXNlci5UQUJMRV9OQU1FCiAgICAgICAgICAgICAgICArICIgT04gIiArIFRhYmxlLlVzZXIuU0VSVkVSX0lEICsgIj0iICsgVGFibGUuUG9zdC5VU0VSX1NFUlZFUl9JRDsKICAgICAgICBxYi5zZXRUYWJsZXModGFibGVOYW1lKTsKICAgICAgICBxYi5hcHBlbmRXaGVyZShUYWJsZS5Qb3N0LlNFUlZFUl9JRCArICI9XCIiICsgaWQgKyAiXCIiKTsKICAgICAgICBMb2cuZChUQUcsICJvYnNlcnZlclBvc3RGcm9tREI6ICIgKyBxYi5idWlsZFF1ZXJ5KG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwpKTsKICAgICAgICByZXR1cm4gbURhdGFiYXNlLmNyZWF0ZVF1ZXJ5KAogICAgICAgICAgICAgICAgQXJyYXlzLmFzTGlzdChUYWJsZS5Qb3N0LlRBQkxFX05BTUUsIFRhYmxlLlVzZXIuVEFCTEVfTkFNRSksCiAgICAgICAgICAgICAgICBxYi5idWlsZFF1ZXJ5KG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwpKQogICAgICAgICAgICAgICAgLm1hcChTcWxCcml0ZS5RdWVyeTo6cnVuKQogICAgICAgICAgICAgICAgLmZpcnN0KCkKICAgICAgICAgICAgICAgIC5mbGF0TWFwKGN1cnNvciAtPiB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGN1cnNvci5tb3ZlVG9GaXJzdCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBPYnNlcnZhYmxlLmp1c3QoUG9zdE1hcHBlci5tYXBQb3N0KGN1cnNvcikpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gT2JzZXJ2YWJsZS5lbXB0eSgpOwogICAgICAgICAgICAgICAgfSk7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
