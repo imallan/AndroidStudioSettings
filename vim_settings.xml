@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/build.gradle" timestamp="1460105979175">
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="7" column="53" />
-        <mark key="^" line="7" column="55" />
-        <mark key="." line="7" column="53" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/build.gradle" timestamp="1460473400760">
+        <mark key="[" line="7" column="55" />
+        <mark key="]" line="7" column="61" />
+        <mark key="^" line="7" column="61" />
+        <mark key="." line="7" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/cache/PostCacheSource.java" timestamp="1460453680308">
         <mark key="[" line="29" column="49" />
@@ -493,7 +493,7 @@
       <file name="$USER_HOME$/Documents/GitHub/AnnotationProcessorExample/api/build.gradle" timestamp="1458236854309">
         <mark key="[" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostDBSource.java" timestamp="1460471674670">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostDBSource.java" timestamp="1460473348343">
         <mark key="'" line="156" column="0" />
         <mark key="[" line="144" column="43" />
         <mark key="]" line="144" column="42" />
