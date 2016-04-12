@@ -25,6 +25,11 @@
       <file name="/a.dummy" timestamp="1460458578576">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/db/PostDBSourceTest.java" timestamp="1460451197159">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/AppDetailsFragment.java" timestamp="1459787987141">
         <mark key="'" line="73" column="17" />
         <mark key="[" line="269" column="51" />
@@ -61,10 +66,10 @@
         <mark key="^" line="238" column="75" />
         <mark key="." line="238" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" timestamp="1460463170410">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" timestamp="1460463698637">
         <mark key="'" line="214" column="24" />
-        <mark key="[" line="205" column="20" />
-        <mark key="]" line="218" column="20" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="84" column="4" />
         <mark key="." line="108" column="89" />
         <mark key="^" line="108" column="89" />
       </file>
@@ -73,6 +78,11 @@
         <mark key="]" line="110" column="16" />
         <mark key="." line="110" column="16" />
         <mark key="^" line="110" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingFragment.java" timestamp="1460463691219">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/build.gradle" timestamp="1460459995399">
         <mark key="'" line="0" column="0" />
@@ -335,6 +345,11 @@
         <mark key="." line="35" column="52" />
         <mark key="^" line="35" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/BluetoothExample/app/src/main/java/com/imallan/bluetoothexample/MainActivity.java" timestamp="1460043606241">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/UserListsFragment.java" timestamp="1453480590172">
         <mark key="[" line="106" column="84" />
       </file>
@@ -577,8 +592,8 @@
       <jump line="14" column="24" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TrendingPosts</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>TrendingPosts</text>
@@ -587,34 +602,34 @@
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgT2JzZXJ2YWJsZTxWb2lkPiByZXF1ZXN0VHJlbmRpbmdQb3N0cyhpbnQgc2tpcCwgaW50IGxpbWl0KSB7CiAgICAgICAgcmV0dXJuIG1SZW1vdGVTb3VyY2UuZ2V0VHJlbmRpbmdQb3N0cyhza2lwLCBsaW1pdCkKICAgICAgICAgICAgICAgIC5kb09uTmV4dChtRGF0YWJhc2U6OnNhdmVUcmVuZGluZ1Bvc3RzKQogICAgICAgICAgICAgICAgLm1hcChwb3N0cyAtPiBudWxsKTsKICAgIH0KCiAgICBwdWJsaWMgT2JzZXJ2YWJsZTxWb2lkPiBjbGVhclRyZW5kaW5nUG9zdCgpIHsKICAgICAgICByZXR1cm4gT2JzZXJ2YWJsZS5kZWZlcigoKSAtPiB7CiAgICAgICAgICAgIG1EYXRhYmFzZS5jbGVhclRyZW5kaW5nUG9zdHMoKTsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfSk7CiAgICB9</text>
+        <text encoding="base64">CiAgICBATnVsbGFibGUKICAgIEBPdmVycmlkZQogICAgcHVibGljIFZpZXcgb25DcmVhdGVWaWV3KExheW91dEluZmxhdGVyIGluZmxhdGVyLCBATnVsbGFibGUgVmlld0dyb3VwIGNvbnRhaW5lciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBATnVsbGFibGUgQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIFZpZXcgcm9vdFZpZXcgPSBpbmZsYXRlci5pbmZsYXRlKFIubGF5b3V0LmZyYWdtZW50X3Bvc3RzLCBjb250YWluZXIsIGZhbHNlKTsKICAgICAgICBCdXR0ZXJLbmlmZS5iaW5kKHRoaXMsIHJvb3RWaWV3KTsKICAgICAgICBpZiAoIShnZXRBY3Rpdml0eSgpIGluc3RhbmNlb2YgTWFpblRhYkFjdGl2aXR5KSkgewogICAgICAgICAgICBtUmVjeWNsZXJWaWV3LnNldFBhZGRpbmcoCiAgICAgICAgICAgICAgICAgICAgMCwgMCwgbVJlY3ljbGVyVmlldy5nZXRQYWRkaW5nUmlnaHQoKSwgbVJlY3ljbGVyVmlldy5nZXRQYWRkaW5nQm90dG9tKCkKICAgICAgICAgICAgKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHJvb3RWaWV3OwogICAgfQ==</text>
       </register>
-      <register name="1" type="4">
-        <text>TrendingPosts</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>j</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>TrendingPost</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="4">
-        <text>;</text>
-      </register>
-      <register name="5" type="4">
         <text>TrendingPosts</text>
       </register>
+      <register name="5" type="4">
+        <text>j</text>
+      </register>
       <register name="6" type="4">
-        <text>g</text>
+        <text>TrendingPost</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text>;</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>TrendingPosts</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>g</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
