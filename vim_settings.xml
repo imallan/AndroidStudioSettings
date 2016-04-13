@@ -28,7 +28,7 @@
         <mark key="^" line="14" column="80" />
         <mark key="." line="14" column="80" />
       </file>
-      <file name="/a.dummy" timestamp="1460566695008">
+      <file name="/a.dummy" timestamp="1460567670281">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/db/PostDBSourceTest.java" timestamp="1460565806433">
@@ -72,12 +72,6 @@
         <mark key="]" line="87" column="31" />
         <mark key="^" line="87" column="31" />
         <mark key="." line="87" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" timestamp="1460561800353">
-        <mark key="'" line="398" column="72" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/scope/ApplicationScope.java" timestamp="1460566185898">
         <mark key="[" line="13" column="7" />
