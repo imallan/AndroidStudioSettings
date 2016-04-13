@@ -28,7 +28,7 @@
         <mark key="^" line="13" column="9" />
         <mark key="." line="13" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1460480003818">
+      <file name="/a.dummy" timestamp="1460537619151">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/db/PostDBSourceTest.java" timestamp="1460451197159">
@@ -98,12 +98,12 @@
         <mark key="." line="110" column="16" />
         <mark key="^" line="110" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingFragment.java" timestamp="1460478142745">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingFragment.java" timestamp="1460537413643">
         <mark key="'" line="107" column="31" />
-        <mark key="[" line="129" column="47" />
-        <mark key="]" line="129" column="47" />
-        <mark key="." line="129" column="47" />
-        <mark key="^" line="129" column="46" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="^" line="148" column="88" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/StateMaintainer.kt" timestamp="1460475129426">
         <mark key="'" line="77" column="0" />
@@ -123,7 +123,6 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/EndlessRecyclerOnScrollListener.java" timestamp="1460476424894" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/MainDrawerActivityPagerAdapter.java" timestamp="1460470552700">
         <mark key="[" line="31" column="31" />
         <mark key="]" line="32" column="48" />
@@ -161,7 +160,6 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksLocalDataSource.java" timestamp="1460368149456" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_loading.xml" timestamp="1460470287840">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="37" />
@@ -190,7 +188,6 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_product.xml" timestamp="1453387155326">
         <mark key="[" line="215" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksActivity.java" timestamp="1460391100148" />
       <file name="$USER_HOME$/Documents/GitHub/Toothpick/compiler/src/main/java/com/imallan/toothpick/Bindable.kt" timestamp="1458318606829">
         <mark key="[" line="1" column="0" />
       </file>
@@ -328,7 +325,6 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="36" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/mock/java/com/example/android/architecture/blueprints/todoapp/Injection.java" timestamp="1460390818186" />
       <file name="$USER_HOME$/Documents/GitHub/AnnotationExample/api/src/main/java/com/example/Factory.java" timestamp="1458250362115">
         <mark key="[" line="12" column="16" />
       </file>
@@ -351,7 +347,6 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/drawable/list_divider_left_margin.xml" timestamp="1459352014731">
         <mark key="[" line="1" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" timestamp="1460365802779" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/DatabaseDataSource.java" timestamp="1460462733874">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="17" />
@@ -373,7 +368,6 @@
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/java/com/imallan/crossover/ui/widget/CurvedBottomView.java" timestamp="1457365595592">
         <mark key="[" line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenter.java" timestamp="1460390885473" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/SearchBrandsFragment.java" timestamp="1459353003923">
         <mark key="'" line="75" column="71" />
         <mark key="[" line="81" column="53" />
@@ -414,7 +408,6 @@
         <mark key="." line="40" column="40" />
         <mark key="^" line="40" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/ui/activity/ProductActivityUnitTest.java" timestamp="1460393661901" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_product_deal.xml" timestamp="1459353244680">
         <mark key="'" line="63" column="31" />
         <mark key="[" line="7" column="26" />
@@ -479,7 +472,6 @@
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/view/SquareFrameLayout.java" timestamp="1455723289684">
         <mark key="[" line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/AbstractActivityFunctionalTest.java" timestamp="1460393759687" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/DBComponent.java" timestamp="1460393345894">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="23" column="47" />
@@ -494,7 +486,6 @@
         <mark key="^" line="35" column="49" />
         <mark key="." line="35" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/api/API.kt" timestamp="1460371861596" />
       <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/presenters/MyPresenter.java" timestamp="1453744527833">
         <mark key="[" line="8" column="18" />
       </file>
@@ -709,7 +700,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDpjb25maWdDaGFuZ2VzPSJvcmllbnRhdGlvbnxrZXlib2FyZEhpZGRlbnxzY3JlZW5TaXplfHNtYWxsZXN0U2NyZWVuU2l6ZSItLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1UcmVuZGluZ1ByZXNlbnRlciA9PSBudWxsKSB7CgogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -721,31 +712,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbVRyZW5kaW5nUHJlc2VudGVyLmxvYWRUcmVuZGluZ1Bvc3RzKDAsIDAsIGZhbHNlLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDpjb25maWdDaGFuZ2VzPSJvcmllbnRhdGlvbnxrZXlib2FyZEhpZGRlbnxzY3JlZW5TaXplfHNtYWxsZXN0U2NyZWVuU2l6ZSItLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1UcmVuZGluZ1ByZXNlbnRlciA9PSBudWxsKSB7CgogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBzdGF0aWMgU3FsQnJpdGUgc1NxbEJyaXRlID0gU3FsQnJpdGUuY3JlYXRlKCk7CgovLyAgICBwcml2YXRlIHN0YXRpYyBCcml0ZURhdGFiYXNlIHNCcml0ZURhdGFiYXNlOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDpjb25maWdDaGFuZ2VzPSJvcmllbnRhdGlvbnxrZXlib2FyZEhpZGRlbnxzY3JlZW5TaXplfHNtYWxsZXN0U2NyZWVuU2l6ZSItLT4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBzdGF0aWMgU3FsQnJpdGUgc1NxbEJyaXRlID0gU3FsQnJpdGUuY3JlYXRlKCk7CgovLyAgICBwcml2YXRlIHN0YXRpYyBCcml0ZURhdGFiYXNlIHNCcml0ZURhdGFiYXNlOwoK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZCgiREFHR0VSIiwgIm9uQ3JlYXRlOiBleGlzdDogIiArIChtREIgIT0gbnVsbCkpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="4">
-        <text>,</text>
-      </register>
       <register name="6" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="8" type="4">
         <text>,</text>
       </register>
-      <register name="9" type="4">
+      <register name="8" type="4">
         <text>0</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
