@@ -28,7 +28,7 @@
         <mark key="^" line="13" column="9" />
         <mark key="." line="13" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1460537619151">
+      <file name="/a.dummy" timestamp="1460545679356">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/db/PostDBSourceTest.java" timestamp="1460451197159">
@@ -98,12 +98,12 @@
         <mark key="." line="110" column="16" />
         <mark key="^" line="110" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingFragment.java" timestamp="1460538740380">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingFragment.java" timestamp="1460546304705">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="160" column="58" />
-        <mark key="]" line="160" column="51" />
-        <mark key="^" line="160" column="51" />
-        <mark key="." line="160" column="51" />
+        <mark key="[" line="69" column="47" />
+        <mark key="]" line="74" column="71" />
+        <mark key="^" line="74" column="71" />
+        <mark key="." line="74" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/StateMaintainer.kt" timestamp="1460475129426">
         <mark key="'" line="77" column="0" />
@@ -711,8 +711,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVRyZW5kaW5nUHJlc2VudGVyLmxvYWRTdGlja3lQb3N0cyhmYWxzZSwgZmFsc2UpOwogICAgICAgICAgICBtVHJlbmRpbmdQcmVzZW50ZXIubG9hZFRyZW5kaW5nUG9zdHMoMCwgMCwgZmFsc2UsIGZhbHNlKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -723,13 +723,16 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtVHJlbmRpbmdWaWV3ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBtVHJlbmRpbmdWaWV3LnNob3dDb250ZW50KCk7CiAgICAgICAgICAgICAgICAgICAgbVRyZW5kaW5nVmlldy5zaG93U3RpY2t5UG9zdHMobVN0aWNreVBvc3RzKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVRyZW5kaW5nUHJlc2VudGVyLmxvYWRTdGlja3lQb3N0cyhmYWxzZSwgZmFsc2UpOwogICAgICAgICAgICBtVHJlbmRpbmdQcmVzZW50ZXIubG9hZFRyZW5kaW5nUG9zdHMoMCwgMCwgZmFsc2UsIGZhbHNlKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbVRyZW5kaW5nUHJlc2VudGVyLmxvYWRTdGlja3lQb3N0cyhmYWxzZSwgZmFsc2UpOwogICAgICAgICAgICBtVHJlbmRpbmdQcmVzZW50ZXIubG9hZFRyZW5kaW5nUG9zdHMoMCwgMCwgZmFsc2UsIGZhbHNlKTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>} else {
                 if (mTrendingView != null) {
                     mTrendingView.showContent();
@@ -737,28 +740,20 @@
                 }
             }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGZvcmNlVXBkYXRlKSB7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>forceUpdate ||</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>, boolean forceUpdate</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfSAK</text>
-      </register>
-      <register name="9" type="4">
-        <text>else {
-                if (mTrendingView != null) {
-                    mTrendingView.showContent();
-                    mTrendingView.showStickyPosts(mStickyPosts);
-                }
-            }</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
