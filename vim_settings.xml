@@ -28,7 +28,7 @@
         <mark key="^" line="14" column="80" />
         <mark key="." line="14" column="80" />
       </file>
-      <file name="/a.dummy" timestamp="1460567670281">
+      <file name="/a.dummy" timestamp="1460624510236">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/db/PostDBSourceTest.java" timestamp="1460565806433">
@@ -506,7 +506,7 @@
       <file name="$USER_HOME$/Documents/GitHub/Gank/app/src/main/java/com/imallan/gank/ui/view/SquareFrameLayout.java" timestamp="1455723289684">
         <mark key="[" line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/DBComponent.java" timestamp="1460565687839">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/DBComponent.java" timestamp="1460624502191">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="33" />
@@ -551,6 +551,9 @@
         <mark key="]" line="15" column="3" />
         <mark key="^" line="15" column="3" />
         <mark key="." line="15" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1460624510211">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/BasePresenter.java" timestamp="1460538214093">
         <mark key="[" line="8" column="17" />
