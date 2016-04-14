@@ -85,6 +85,12 @@
         <mark key="^" line="380" column="30" />
         <mark key="." line="380" column="77" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingPostsFragment.java" timestamp="1460627438353">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingFragment.java" timestamp="1460565163898">
         <mark key="'" line="161" column="33" />
         <mark key="[" line="145" column="19" />
@@ -229,8 +235,10 @@
         <mark key="^" line="16" column="11" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/AppComponent.java" timestamp="1460630750306">
-        <mark key="[" line="14" column="38" />
+      <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/AppComponent.java" timestamp="1460633732515">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/ApplicationModule.java" timestamp="1460630197886">
         <mark key="[" line="21" column="0" />
@@ -280,11 +288,10 @@
         <mark key="^" line="5" column="59" />
         <mark key="." line="5" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/MainActivity.java" timestamp="1460631763304">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="49" />
-        <mark key="." line="23" column="49" />
-        <mark key="^" line="23" column="49" />
+      <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/MainActivity.java" timestamp="1460633618282">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_user.xml" timestamp="1459354727492">
         <mark key="'" line="7" column="0" />
@@ -461,11 +468,10 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/ActivityComponent.java" timestamp="1460631421247">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="23" />
-        <mark key="." line="14" column="23" />
-        <mark key="^" line="14" column="23" />
+      <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/ActivityComponent.java" timestamp="1460633608405">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1459436072029">
         <mark key="[" line="0" column="0" />
@@ -608,15 +614,20 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/BasePresenter.java" timestamp="1460538214093">
         <mark key="[" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/MyApplication.java" timestamp="1460631605569">
-        <mark key="'" line="29" column="21" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="29" column="21" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/MyApplication.java" timestamp="1460633725552">
+        <mark key="'" line="28" column="21" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AnnotationProcessorExample/api/build.gradle" timestamp="1458236854309">
         <mark key="[" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostDBSource.java" timestamp="1460627495851">
+        <mark key="'" line="156" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/Post/PostRepository.java" timestamp="1460454592995">
         <mark key="[" line="19" column="15" />
@@ -791,43 +802,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBTaW5nbGV0b25Qcm8K</text>
+        <text encoding="base64">ICAgIHZvaWQgcGx1cyhBY3Rpdml0eUNvbXBvbmVudCBhY3Rpdml0eUNvbXBvbmVudCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Application application</text>
+        <text>ActivityComponent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLm5lZW5iZWRhbmt0LmFuZHJvaWQtYXB0Jwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiREFHR0VSMiIsICJPU0hlbHBlciBub3QgbnVsbDogIiArIChtT1NIZWxwZXIgIT0gbnVsbCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBTaW5nbGV0b25Qcm8K</text>
+        <text encoding="base64">ICAgIHZvaWQgcGx1cyhBY3Rpdml0eUNvbXBvbmVudCBhY3Rpdml0eUNvbXBvbmVudCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzQXBwQ29tcG9uZW50LnBsdXMoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQXBwbGljYXRpb24gbUFwcGxpY2F0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wbHUK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtQXBwbGljYXRpb24gPSBhcHBsaWNhdGlvbjsK</text>
+      <register name="4" type="4">
+        <text>ActivityComponent</text>
       </register>
-      <register name="5" type="4">
-        <text>Application application</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiREFHR0VSMiIsICJBcHBsaWNhdGlvbiBub3QgbnVsbDogIiArIChtQXBwbGljYXRpb24gIT0gbnVsbCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQ29udGV4dCBtQ29udGV4dDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtQ29udGV4dCA9IGNvbnRleHQ7Cg==</text>
+        <text encoding="base64">ICAgIEBJbmplY3QKICAgIEFwcGxpY2F0aW9uIG1BcHBsaWNhdGlvbjsK</text>
       </register>
-      <register name="8" type="4">
-        <text>Context context</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiTXlBcHBsaWNhdGlvbiI7Cg==</text>
+        <text encoding="base64">ICAgIEFwcGxpY2F0aW9uIGdldEFwcGxpY2F0aW9uKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
