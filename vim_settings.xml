@@ -230,11 +230,11 @@
         <mark key="^" line="16" column="11" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/AppComponent.java" timestamp="1460635449056">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="57" />
-        <mark key="." line="16" column="57" />
+      <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/AppComponent.java" timestamp="1460640123803">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="10" />
         <mark key="^" line="16" column="57" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/ApplicationModule.java" timestamp="1460630197886">
         <mark key="[" line="21" column="0" />
@@ -261,9 +261,9 @@
         <mark key="." line="12" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/AppModule.java" timestamp="1460636159626">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotsActivity.kt" timestamp="1460475375635">
         <mark key="'" line="45" column="0" />
@@ -302,16 +302,17 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/ActivityModule.java" timestamp="1460635316783">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="21" column="69" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/DomainModule.java" timestamp="1460636165948">
+      <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/ActivityModule.java" timestamp="1460640269322">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
+        <mark key="^" line="18" column="69" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/DomainModule.java" timestamp="1460640295758">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
+        <mark key="^" line="17" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_posts_list.xml" timestamp="1459762448647">
         <mark key="'" line="79" column="25" />
@@ -473,11 +474,11 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/ActivityComponent.java" timestamp="1460635467567">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/ActivityComponent.java" timestamp="1460640128967">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="14" />
         <mark key="^" line="8" column="43" />
-        <mark key="." line="14" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1459436072029">
         <mark key="[" line="0" column="0" />
@@ -819,28 +820,28 @@
         <text encoding="base64">ICAgIEBTaW5nbGV0b24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBTaW5nbGV0b24K</text>
+        <text encoding="base64">QFNjb3BlQWN0aXZpdHkK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">QFNpbmdsZXRvbgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QFNpbmdsZXRvbgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIEBTaW5nbGV0b24K</text>
       </register>
-      <register name="4" type="4">
-        <text>mOSHelper</text>
-      </register>
-      <register name="5" type="4">
-        <text>OSHelper</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE9TSGVscGVyIG1PU0hlbHBlcjsK</text>
+        <text encoding="base64">ICAgIEBTaW5nbGV0b24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNeUFwcGxpY2F0aW9uLmdldEFwcENvbXBvbmVudCgpLnBsdXMoKQo=</text>
+        <text encoding="base64">ICAgIEBTaW5nbGV0b24K</text>
       </register>
       <register name="8" type="4">
-        <text>AppComponent</text>
+        <text>mOSHelper</text>
       </register>
       <register name="9" type="4">
-        <text>plus</text>
+        <text>OSHelper</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
