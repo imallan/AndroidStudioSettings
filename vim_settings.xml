@@ -15,6 +15,7 @@
         <mark key="^" line="29" column="48" />
         <mark key="." line="29" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/menu/search_main.xml" timestamp="1460719135450" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1460392705615">
         <mark key="'" line="424" column="4" />
         <mark key="[" line="423" column="53" />
@@ -220,10 +221,6 @@
         <mark key="]" line="74" column="101" />
         <mark key="^" line="450" column="60" />
         <mark key="." line="450" column="60" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/design/23.3.0/design-23.3.0-sources.jar!/android/support/design/widget/FloatingActionButton.java" timestamp="1460712297063">
-        <mark key="[" line="455" column="41" />
-        <mark key="]" line="455" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRepository.java" timestamp="1460551559074">
         <mark key="'" line="28" column="11" />
