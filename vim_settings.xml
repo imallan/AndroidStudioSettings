@@ -29,7 +29,7 @@
         <mark key="^" line="35" column="91" />
         <mark key="." line="35" column="91" />
       </file>
-      <file name="/a.dummy" timestamp="1460979397112">
+      <file name="/a.dummy" timestamp="1460981800276">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/Settings.kt" timestamp="1460653310642">
@@ -71,11 +71,12 @@
         <mark key="^" line="87" column="31" />
         <mark key="." line="87" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" timestamp="1460629186474">
-        <mark key="[" line="240" column="37" />
-        <mark key="]" line="240" column="37" />
-        <mark key="^" line="238" column="55" />
-        <mark key="." line="240" column="37" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" timestamp="1460981827324">
+        <mark key="'" line="483" column="40" />
+        <mark key="[" line="74" column="25" />
+        <mark key="]" line="483" column="53" />
+        <mark key="." line="483" column="53" />
+        <mark key="^" line="483" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/scope/ApplicationScope.java" timestamp="1460566185898">
         <mark key="[" line="13" column="7" />
@@ -263,6 +264,12 @@
         <mark key="^" line="15" column="8" />
         <mark key="." line="15" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/mapper/PostImageMapper.java" timestamp="1460980954477">
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="64" />
+        <mark key="^" line="31" column="64" />
+        <mark key="." line="31" column="64" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/LogExtensions.kt" timestamp="1460713353862">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -313,6 +320,13 @@
         <mark key="]" line="80" column="55" />
         <mark key="^" line="79" column="60" />
         <mark key="." line="79" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" timestamp="1460981581409">
+        <mark key="'" line="545" column="0" />
+        <mark key="[" line="280" column="41" />
+        <mark key="]" line="280" column="47" />
+        <mark key="^" line="280" column="47" />
+        <mark key="." line="280" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Presenter/Presenter.java" timestamp="1460388696719">
         <mark key="[" line="6" column="28" />
@@ -395,11 +409,10 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/mapper/PostMapper.java" timestamp="1460549928673">
-        <mark key="[" line="30" column="47" />
-        <mark key="]" line="31" column="11" />
-        <mark key="^" line="31" column="11" />
-        <mark key="." line="31" column="11" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/mapper/PostMapper.java" timestamp="1460980984696">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRemoteSource.java" timestamp="1460978468736">
         <mark key="[" line="38" column="0" />
@@ -412,6 +425,11 @@
         <mark key="]" line="7" column="79" />
         <mark key="^" line="7" column="79" />
         <mark key="." line="7" column="79" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" timestamp="1460981835480">
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/DatabaseDataSource.java" timestamp="1460462733874">
         <mark key="[" line="6" column="17" />
@@ -445,12 +463,6 @@
         <mark key="]" line="41" column="13" />
         <mark key="^" line="41" column="13" />
         <mark key="." line="41" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/ApplicationComponent.java" timestamp="1460975722487">
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="30" column="43" />
-        <mark key="." line="30" column="43" />
-        <mark key="^" line="30" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIFactory.java" timestamp="1460456308085">
         <mark key="'" line="68" column="31" />
@@ -585,6 +597,12 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ImageRecyclerAdapter.java" timestamp="1460981671139">
+        <mark key="[" line="50" column="45" />
+        <mark key="]" line="50" column="45" />
+        <mark key="." line="50" column="45" />
+        <mark key="^" line="50" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/androidTest/kotlin/com.imallan.crossover/PresenterTests.kt" timestamp="1459336912487">
         <mark key="'" line="36" column="20" />
         <mark key="[" line="44" column="0" />
@@ -636,6 +654,13 @@
         <mark key="^" line="31" column="9" />
         <mark key="." line="31" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Post.java" timestamp="1460980787020">
+        <mark key="'" line="226" column="16" />
+        <mark key="[" line="210" column="11" />
+        <mark key="]" line="210" column="17" />
+        <mark key="^" line="210" column="17" />
+        <mark key="." line="210" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/UserModule.java" timestamp="1460971214432">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="18" column="13" />
@@ -655,6 +680,13 @@
         <mark key="]" line="63" column="14" />
         <mark key="^" line="35" column="4" />
         <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostImageViewPagerAdapter.java" timestamp="1460981528141">
+        <mark key="'" line="87" column="32" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="76" />
+        <mark key="^" line="49" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/PostPaginatedDataSource.java" timestamp="1460454379794">
         <mark key="[" line="14" column="42" />
@@ -699,6 +731,12 @@
         <mark key="^" line="23" column="64" />
         <mark key="." line="23" column="64" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/mapper/PostImagesMapper.java" timestamp="1460980673158">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="8" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/MyApplication.java" timestamp="1460648425095">
         <mark key="'" line="14" column="61" />
         <mark key="[" line="14" column="55" />
@@ -733,6 +771,9 @@
         <mark key="]" line="128" column="50" />
         <mark key="^" line="128" column="50" />
         <mark key="." line="128" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/VideoUtils.java" timestamp="1460981813430">
+        <mark key="'" line="203" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/UserService.java" timestamp="1460565604404">
         <mark key="'" line="1005" column="8" />
@@ -804,15 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingFragment.java" />
-      <jump line="17" column="63" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/trending/TrendingPresenter.java" />
-      <jump line="127" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/trending/TrendingPresenter.java" />
-      <jump line="96" column="13" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/trending/TrendingPresenter.java" />
-      <jump line="234" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingFragment.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingFragment.java" />
-      <jump line="160" column="52" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingFragment.java" />
-      <jump line="84" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/User.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRepository.java" />
       <jump line="28" column="11" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRepository.java" />
       <jump line="16" column="41" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostMemorySource.java" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostMemorySource.java" />
@@ -904,46 +936,55 @@
       <jump line="224" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="2" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/ApplicationModule.java" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/db/PostDBSourceTest.java" />
+      <jump line="444" column="37" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" />
+      <jump line="227" column="45" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Post.java" />
+      <jump line="226" column="16" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Post.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostImageViewPagerAdapter.java" />
+      <jump line="91" column="32" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostImageViewPagerAdapter.java" />
+      <jump line="428" column="35" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" />
+      <jump line="546" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" />
+      <jump line="203" column="35" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/VideoUtils.java" />
+      <jump line="483" column="40" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getBriteDatabase</text>
+        <text>cursor</text>
       </register>
       <register name="-" type="4">
-        <text>getBriteDatabase</text>
+        <text>cursor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZvaWQgaW5qZWN0KFRyZW5kaW5nUG9zdHNGcmFnbWVudCBmcmFnbWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZS5zZXRJZCgpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>getBriteDatabase</text>
+        <text>cursor</text>
       </register>
-      <register name="2" type="4">
-        <text>getBriteDatabase</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQWRhcHRlci5zZXRDdXJzb3JQb3N0SW1hZ2UoY3Vyc29yKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1DdXJzb3IuZ2V0U3RyaW5nKGltYWdlKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1Qb3N0UmVtb3RlU291cmNlID0gbmV3IFBvc3RSZW1vdGVTb3VyY2UoKTsK</text>
+      <register name="4" type="4">
+        <text>mCursor.getColumnIndex(Table.PostImage.VIDEO_URL)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+      <register name="5" type="4">
+        <text>mCursor.getString(mCursor.getColumnIndex(Table.PostImage.URL))</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QK</text>
+        <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQgPSBob2xkZXIuaXRlbVZpZXcuZ2V0Q29udGV4dCgpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>B</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpbWEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTaG9wY2FkZUFwcGxpY2F0aW9uLmdldERCQ29tcG9uZW50KCkuaW5qZWN0KHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZvaWQgaW5qZWN0KFBvc3REQlNvdXJjZSBwb3N0REJTb3VyY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
