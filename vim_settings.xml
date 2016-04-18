@@ -28,7 +28,7 @@
         <mark key="^" line="35" column="52" />
         <mark key="." line="35" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1460974155199">
+      <file name="/a.dummy" timestamp="1460976199119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/Settings.kt" timestamp="1460653310642">
@@ -181,12 +181,11 @@
         <mark key="^" line="24" column="28" />
         <mark key="." line="24" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ShopcadeApplication.java" timestamp="1460973865300">
-        <mark key="'" line="219" column="0" />
-        <mark key="[" line="97" column="41" />
-        <mark key="]" line="99" column="45" />
-        <mark key="^" line="99" column="45" />
-        <mark key="." line="99" column="45" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ShopcadeApplication.java" timestamp="1460976012301">
+        <mark key="'" line="208" column="0" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/AnalyticsManager.java" timestamp="1460630556914">
         <mark key="[" line="8" column="32" />
@@ -449,11 +448,11 @@
         <mark key="^" line="41" column="13" />
         <mark key="." line="41" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/ApplicationComponent.java" timestamp="1460973715843">
-        <mark key="[" line="18" column="62" />
-        <mark key="]" line="18" column="62" />
-        <mark key="." line="18" column="62" />
-        <mark key="^" line="18" column="80" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/ApplicationComponent.java" timestamp="1460975722487">
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="30" column="43" />
+        <mark key="." line="30" column="43" />
+        <mark key="^" line="30" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIFactory.java" timestamp="1460456308085">
         <mark key="'" line="68" column="31" />
@@ -639,12 +638,12 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/DBComponent.java" timestamp="1460974779960">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="19" column="100" />
-        <mark key="]" line="19" column="99" />
-        <mark key="^" line="19" column="99" />
-        <mark key="." line="19" column="99" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/DBComponent.java" timestamp="1460975792621">
+        <mark key="'" line="21" column="36" />
+        <mark key="[" line="19" column="59" />
+        <mark key="]" line="19" column="59" />
+        <mark key="^" line="19" column="102" />
+        <mark key="." line="19" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/APIModule.java" timestamp="1460970905540">
         <mark key="'" line="63" column="4" />
@@ -691,11 +690,10 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/UserComponent.java" timestamp="1460970619114">
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="19" column="40" />
-        <mark key="^" line="19" column="40" />
-        <mark key="." line="19" column="40" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/UserComponent.java" timestamp="1460975842512">
+        <mark key="]" line="23" column="64" />
+        <mark key="^" line="23" column="64" />
+        <mark key="." line="23" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/MyApplication.java" timestamp="1460648425095">
         <mark key="'" line="14" column="61" />
@@ -796,7 +794,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostsAdapter.java" />
       <jump line="85" column="45" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingAdapter.java" />
       <jump line="27" column="3" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingAdapter.java" />
       <jump line="90" column="42" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingAdapter.java" />
@@ -823,7 +820,6 @@
       <jump line="157" column="6" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingFragment.java" />
       <jump line="76" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingFragment.java" />
       <jump line="158" column="20" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingFragment.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/DBComponent.java" />
       <jump line="82" column="89" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingFragment.java" />
       <jump line="161" column="24" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingFragment.java" />
       <jump line="66" column="30" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingFragment.java" />
@@ -896,13 +892,15 @@
       <jump line="64" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ShopcadeApplication.java" />
       <jump line="109" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ShopcadeApplication.java" />
       <jump line="218" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ShopcadeApplication.java" />
+      <jump line="9" column="23" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/DBComponent.java" />
+      <jump line="22" column="36" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/DBComponent.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">CgogICAgICAgICAgICAgICAgRGFnZ2VyREJDb21wb25lbnQuYnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYXBwbGljYXRpb25Db21wb25lbnQoYXBwbGljYXRpb25Db21wb25lbnQpCiAgICAgICAgICAgICAgICAuZEJNb2R1bGUobmV3IERCTW9kdWxlKCkpCiAgICAgICAgICAgICAgICAuY2FjaGVNb2R1bGUobmV3IENhY2hlTW9kdWxlKCkpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>mDBComponent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -911,31 +909,34 @@
         <text encoding="base64">ICAgIHZvaWQgaW5qZWN0KFRyZW5kaW5nUG9zdHNGcmFnbWVudCBmcmFnbWVudCk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>s</text>
+        <text encoding="base64">CgogICAgICAgICAgICAgICAgRGFnZ2VyREJDb21wb25lbnQuYnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYXBwbGljYXRpb25Db21wb25lbnQoYXBwbGljYXRpb25Db21wb25lbnQpCiAgICAgICAgICAgICAgICAuZEJNb2R1bGUobmV3IERCTW9kdWxlKCkpCiAgICAgICAgICAgICAgICAuY2FjaGVNb2R1bGUobmV3IENhY2hlTW9kdWxlKCkpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>t</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvL25vaW5zcGVjdGlvbiBDb25zdGFudENvbmRpdGlvbnMK</text>
       </register>
-      <register name="3" type="4">
-        <text>s</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>o</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzREJDb21wb25lbnQgPSBzVXNlckNvbXBvbmVudC5wbHVzKG5ldyBEQk1vZHVsZSgpLCBuZXcgQ2FjaGVNb2R1bGUoKSk7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>P</text>
+        <text>DaggerUserComponent.builder()
+                .applicationComponent(applicationComponent)
+                .userModule(new UserModule())
+                .build();</text>
       </register>
-      <register name="6" type="4">
-        <text>getCacheComponent</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbkNvbXBvbmVudC5wbHVzKG5ldyBVc2VyTW9kdWxlKCkpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>Singletn</text>
+        <text>mDBComponent</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>, dependencies = ApplicationComponent.class</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgfQo=</text>
+      <register name="9" type="4">
+        <text>Component</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
