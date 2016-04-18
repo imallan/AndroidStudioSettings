@@ -1,4 +1,6 @@
-<code_scheme name="java_formating">
+<code_scheme name="Default (1)">
+  <option name="FIELD_NAME_PREFIX" value="m" />
+  <option name="STATIC_FIELD_NAME_PREFIX" value="s" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
@@ -61,20 +63,10 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
-  <codeStyleSettings language="JAVA">
-    <option name="BLANK_LINES_AROUND_FIELD" value="1" />
-    <option name="BLANK_LINES_AROUND_FIELD_IN_INTERFACE" value="1" />
-    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
     <arrangement>
       <rules>
@@ -83,7 +75,7 @@
             <match>
               <AND>
                 <NAME>xmlns:android</NAME>
-                <XML_NAMESPACE>Namespace:</XML_NAMESPACE>
+                <XML_NAMESPACE>^$</XML_NAMESPACE>
               </AND>
             </match>
           </rule>
@@ -93,7 +85,7 @@
             <match>
               <AND>
                 <NAME>xmlns:.*</NAME>
-                <XML_NAMESPACE>Namespace:</XML_NAMESPACE>
+                <XML_NAMESPACE>^$</XML_NAMESPACE>
               </AND>
             </match>
             <order>BY_NAME</order>
