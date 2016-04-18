@@ -639,9 +639,12 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/DBComponent.java" timestamp="1460973906564">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/DBComponent.java" timestamp="1460974779960">
         <mark key="'" line="20" column="0" />
-        <mark key="^" line="26" column="3" />
+        <mark key="[" line="19" column="100" />
+        <mark key="]" line="19" column="99" />
+        <mark key="^" line="19" column="99" />
+        <mark key="." line="19" column="99" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/APIModule.java" timestamp="1460970905540">
         <mark key="'" line="63" column="4" />
