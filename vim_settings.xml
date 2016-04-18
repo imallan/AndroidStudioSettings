@@ -29,7 +29,7 @@
         <mark key="^" line="35" column="91" />
         <mark key="." line="35" column="91" />
       </file>
-      <file name="/a.dummy" timestamp="1460981800276">
+      <file name="/a.dummy" timestamp="1460981836156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/Settings.kt" timestamp="1460653310642">
@@ -464,10 +464,10 @@
         <mark key="^" line="41" column="13" />
         <mark key="." line="41" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIFactory.java" timestamp="1460456308085">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIFactory.java" timestamp="1460981989054">
         <mark key="'" line="68" column="31" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="39" column="68" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="75" column="76" />
         <mark key="^" line="39" column="11" />
         <mark key="." line="43" column="0" />
       </file>
@@ -772,8 +772,12 @@
         <mark key="^" line="128" column="50" />
         <mark key="." line="128" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/VideoUtils.java" timestamp="1460981813430">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/VideoUtils.java" timestamp="1460982010036">
         <mark key="'" line="203" column="35" />
+        <mark key="[" line="189" column="15" />
+        <mark key="]" line="189" column="22" />
+        <mark key="." line="189" column="22" />
+        <mark key="^" line="189" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/UserService.java" timestamp="1460565604404">
         <mark key="'" line="1005" column="8" />
@@ -948,43 +952,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cursor</text>
+        <text>restAdapter</text>
       </register>
       <register name="-" type="4">
-        <text>cursor</text>
+        <text>restAdapter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZS5zZXRJZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmFkZENhbGxBZGFwdGVyRmFjdG9yeShSeEphdmFDYWxsQWRhcHRlckZhY3RvcnkuY3JlYXRlKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5hZGRDb252ZXJ0ZXJGYWN0b3J5KEdzb25Db252ZXJ0ZXJGYWN0b3J5LmNyZWF0ZSgpKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>cursor</text>
+        <text>restAdapter</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQWRhcHRlci5zZXRDdXJzb3JQb3N0SW1hZ2UoY3Vyc29yKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1DdXJzb3IuZ2V0U3RyaW5nKGltYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>mCursor.getColumnIndex(Table.PostImage.VIDEO_URL)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
-      <register name="5" type="4">
-        <text>mCursor.getString(mCursor.getColumnIndex(Table.PostImage.URL))</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQgPSBob2xkZXIuaXRlbVZpZXcuZ2V0Q29udGV4dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAuYgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbWEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRFbmRwb2ludChWSU1FT19QTEFZRVJfQkFTRV9VUkwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXN0QWRhcHRlciByZXN0QWRhcHRlciA9IG5ldyBSZXN0QWRhcHRlci5CdWlsZGVyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
