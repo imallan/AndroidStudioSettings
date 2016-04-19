@@ -209,6 +209,13 @@
         <mark key="^" line="5" column="59" />
         <mark key="." line="5" column="59" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/AgeraExample/app/build.gradle" timestamp="1461067409870">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="53" />
+        <mark key="." line="26" column="53" />
+        <mark key="^" line="26" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/MainActivity.java" timestamp="1460653418427">
         <mark key="[" line="26" column="35" />
         <mark key="]" line="26" column="39" />
@@ -569,8 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="41" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
-      <jump line="31" column="21" filename="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/MyApplication.java" />
       <jump line="11" column="13" filename="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/MyApplication.java" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/MyApplication.java" />
       <jump line="154" column="52" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/TrendingFragment.java" />
@@ -669,10 +674,12 @@
       <jump line="47" column="53" filename="$USER_HOME$/Documents/GitHub/agera/samples/BasicSample/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ViewGroup.java" />
       <jump line="7780" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ViewGroup.java" />
+      <jump line="11" column="24" filename="$USER_HOME$/Documents/GitHub/AgeraExample/app/build.gradle" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/AgeraExample/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuYW5kcm9pZC5hZ2VyYTphZ2VyYToxLjAuMC1SQzEnCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuZ29vZ2xlOmFnZXJhOnYxLjAuMC1SQzEnCg==</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
@@ -684,31 +691,31 @@
         <text>columnWidth</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuYW5kcm9pZC5hZ2VyYTphZ2VyYToxLjAuMC1SQzEnCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuZ29vZ2xlOmFnZXJhOnYxLjAuMC1SQzEnCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>5</text>
+      <register name="2" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>1</text>
+      <register name="3" type="2">
+        <text encoding="base64">YWxscHJvamVjdHMgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9qaXRwYWNrLmlvIiB9CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGF5b3V0TWFuYWdlciA9IExpbmVhckxheW91dE1hbmFnZXIoY29udGV4dCkK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuYW5kcm9pZC5hZ2VyYTphZ2VyYToxLjAuMC1SQzEnCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>columnWidth</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7bWF2ZW4geyB1cmwgImh0dHBzOi8vaml0cGFjay5pbyIgfX0K</text>
       </register>
       <register name="6" type="4">
-        <text>2</text>
+        <text encoding="base64">CiAgICBjb21waWxlICdjb20uZ29vZ2xlLmFuZHJvaWQuYWdlcmE6Y29udGVudDoxLjAuMC1SQzEnCiAgICBjb21waWxlICdjb20uZ29vZ2xlLmFuZHJvaWQuYWdlcmE6ZGF0YWJhc2U6MS4wLjAtUkMxJwogICAgY29tcGlsZSAnY29tLmdvb2dsZS5hbmRyb2lkLmFnZXJhOm5ldDoxLjAuMC1SQzEnCiAgICBjb21waWxlICdjb20uZ29vZ2xlLmFuZHJvaWQuYWdlcmE6cnZhZGFwdGVyOjEuMC4wLVJDMSc=</text>
       </register>
-      <register name="7" type="4">
-        <text>0</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuYW5kcm9pZC5hZ2VyYTphZ2VyYToxLjAuMC1SQzEnCg==</text>
       </register>
       <register name="8" type="4">
-        <text>3</text>
+        <text>5</text>
       </register>
       <register name="9" type="4">
-        <text>.support.v7.widget.RecyclerView</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
