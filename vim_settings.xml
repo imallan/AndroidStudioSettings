@@ -29,6 +29,9 @@
         <mark key="^" line="35" column="91" />
         <mark key="." line="35" column="91" />
       </file>
+      <file name="/a.dummy" timestamp="1461058661100">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/Settings.kt" timestamp="1460653310642">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
