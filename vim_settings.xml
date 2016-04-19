@@ -29,7 +29,7 @@
         <mark key="^" line="35" column="91" />
         <mark key="." line="35" column="91" />
       </file>
-      <file name="/a.dummy" timestamp="1461058661100">
+      <file name="/a.dummy" timestamp="1461058792584">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/Settings.kt" timestamp="1460653310642">
@@ -454,6 +454,12 @@
         <mark key="]" line="7" column="79" />
         <mark key="^" line="7" column="79" />
         <mark key="." line="7" column="79" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/agera/samples/BasicSample/app/build.gradle" timestamp="1461059010440">
+        <mark key="'" line="47" column="53" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/DatabaseDataSource.java" timestamp="1460462733874">
         <mark key="[" line="6" column="17" />
@@ -917,7 +923,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="13" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/APIModule.java" />
       <jump line="24" column="18" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/APIModule.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/DaggerExamples/app/build.gradle" />
       <jump line="211" column="41" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
@@ -1017,10 +1022,11 @@
       <jump line="82" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/AutoFitRecyclerView.java" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/AutoFitRecyclerView.kt" />
       <jump line="57" column="0" filename="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/ui/widget/AutoFitRecyclerView.kt" />
+      <jump line="47" column="53" filename="$USER_HOME$/Documents/GitHub/agera/samples/BasicSample/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuYW5kcm9pZC5hZ2VyYTphZ2VyYToxLjAuMC1SQzEnCg==</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
@@ -1031,32 +1037,32 @@
       <register name="0" type="4">
         <text>columnWidth</text>
       </register>
-      <register name="1" type="4">
-        <text>5</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuYW5kcm9pZC5hZ2VyYTphZ2VyYToxLjAuMC1SQzEnCg==</text>
       </register>
       <register name="2" type="4">
+        <text>5</text>
+      </register>
+      <register name="3" type="4">
         <text>1</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGF5b3V0TWFuYWdlciA9IExpbmVhckxheW91dE1hbmFnZXIoY29udGV4dCkK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>columnWidth</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>2</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>0</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>3</text>
       </register>
-      <register name="8" type="4">
-        <text>.support.v7.widget.RecyclerView</text>
-      </register>
       <register name="9" type="4">
-        <text>android</text>
+        <text>.support.v7.widget.RecyclerView</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
