@@ -122,12 +122,12 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/agera/samples/BasicSampleWithoutCallbacks/app/src/main/java/com/example/android/agera/basicsamplewithoutcallbacks/OnRefreshObservable.java" timestamp="1461149509361" />
       <file name="$USER_HOME$/Documents/GitHub/agera/samples/BasicSample/app/src/main/java/com/example/android/agera/basicsample/MainFragment.java" timestamp="1461146670726" />
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRepository.java" timestamp="1461153329851">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRepository.java" timestamp="1461158010857">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="31" column="26" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="32" />
-        <mark key="^" line="31" column="32" />
+        <mark key="[" line="37" column="9" />
+        <mark key="]" line="37" column="9" />
+        <mark key="." line="37" column="9" />
+        <mark key="^" line="37" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/AppModule.kt" timestamp="1460971047594">
         <mark key="[" line="21" column="13" />
@@ -310,12 +310,12 @@
         <mark key="^" line="7" column="79" />
         <mark key="." line="7" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" timestamp="1461150608482">
-        <mark key="'" line="642" column="8" />
-        <mark key="[" line="279" column="10" />
-        <mark key="]" line="279" column="27" />
-        <mark key="^" line="643" column="46" />
-        <mark key="." line="644" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" timestamp="1461158383808">
+        <mark key="'" line="643" column="8" />
+        <mark key="[" line="631" column="54" />
+        <mark key="]" line="632" column="46" />
+        <mark key="^" line="632" column="46" />
+        <mark key="." line="632" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" timestamp="1461152842640">
         <mark key="[" line="202" column="39" />
@@ -566,11 +566,8 @@
         <mark key="^" line="9" column="37" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostDBSource.java" timestamp="1461153297608">
-        <mark key="[" line="84" column="9" />
-        <mark key="]" line="85" column="23" />
-        <mark key="." line="85" column="23" />
-        <mark key="^" line="85" column="23" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostDBSource.java" timestamp="1461157423480">
+        <mark key="[" line="86" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/CrossoverApplication.kt" timestamp="1461056995103">
         <mark key="[" line="50" column="12" />
@@ -725,8 +722,8 @@
       <jump line="62" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>amb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uTmV4dChtRGF0YWJhc2U6OnNhdmVQb3N0KQogICAgICAgICAgICAgICAgLmRvT25OZXh0KG1NZW1vcnlDYWNoZTo6Y2FjaGUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>amb</text>
@@ -737,32 +734,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcUxpdGVEYXRhYmFzZS5leGVjU1FMKCJEUk9QIFRBQkxFIElGIEVYSVNUUyAiICsgVGFibGUuUG9zdFRyZW5kaW5nLlRBQkxFX05BTUUpOwogICAgICAgICAgICAgICAgICAgIHNxTGl0ZURhdGFiYXNlLmV4ZWNTUUwoVGFibGUuUG9zdFRyZW5kaW5nLkNSRUFURV9TUUwpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>amb</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uTmV4dChtRGF0YWJhc2U6OnNhdmVQb3N0KQogICAgICAgICAgICAgICAgLmRvT25OZXh0KG1NZW1vcnlDYWNoZTo6Y2FjaGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maXJzdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>concat</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>PostTrending</text>
+      <register name="4" type="2">
+        <text encoding="base64">Lwo=</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">LwovLyAgICAgICAgZmluYWwgU1FMaXRlUXVlcnlCdWlsZGVyIGJsb2NrUXVlcnlCdWlsZGVyID0gbmV3IFNRTGl0ZVF1ZXJ5QnVpbGRlcigpOwovLyAgICAgICAgU3RyaW5nIGJsb2NrVGFibGVOYW1lID0gVGFibGUuUG9zdEJsb2NrLlRBQkxFX05BTUUKLy8gICAgICAgICAgICAgICAgKyAiIEpPSU4gIiArIFRhYmxlLlBvc3RCbG9ja1Byb2R1Y3QuVEFCTEVfTkFNRQovLyAgICAgICAgICAgICAgICArICIgT04gIiArIFRhYmxlLlBvc3RCbG9jay5TRVJWRVJfSUQgKyAiPSIgKyBUYWJsZS5Qb3N0QmxvY2tQcm9kdWN0LlBPU1RfQkxPQ0tfSUQ7Ci8vICAgICAgICBibG9ja1F1ZXJ5QnVpbGRlci5zZXRUYWJsZXMoYmxvY2tUYWJsZU5hbWUpOwovLyAgICAgICAgYmxvY2tRdWVyeUJ1aWxkZXIuYXBwZW5kV2hlcmUoVGFibGUuUG9zdEJsb2NrLlNFUlZFUl9JRCArICI9XCIiICsgaWQgKyAiXCIiKTsKLy8gICAgICAgIE9ic2VydmFibGU8TGlzdDxQb3N0LkJsb2NrPj4gcG9zdEJsb2Nrc09ic2VydmFibGUgPSBtRGF0YWJhc2UuY3JlYXRlUXVlcnkoCi8vICAgICAgICAgICAgICAgIEFycmF5cy5hc0xpc3QoVGFibGUuUG9zdEJsb2NrLlRBQkxFX05BTUUsIFRhYmxlLlBvc3RCbG9ja1Byb2R1Y3QuVEFCTEVfTkFNRSksCi8vICAgICAgICAgICAgICAgIHFiLmJ1aWxkUXVlcnkobnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCkpLg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>amb</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maXJzdCgpCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>concat</text>
+      </register>
+      <register name="9" type="4">
         <text>PostTrending</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IE5PVCBOVUxMLCA=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBCcml0ZURhdGFiYXNlLlRyYW5zYWN0aW9uIHRyYW5zYWN0aW9uID0gbURhdGFiYXNlLm5ld1RyYW5zYWN0aW9uKCk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
