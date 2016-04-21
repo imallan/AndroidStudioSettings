@@ -96,6 +96,13 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/posts/PostRemoteSourceTest.java" timestamp="1461244938146">
+        <mark key="'" line="27" column="10" />
+        <mark key="[" line="144" column="43" />
+        <mark key="]" line="145" column="45" />
+        <mark key="." line="145" column="45" />
+        <mark key="^" line="145" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/res/menu/main.xml" timestamp="1460713892482">
         <mark key="[" line="6" column="37" />
         <mark key="]" line="6" column="37" />
@@ -555,6 +562,9 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
+      <file name="/Dummy.txt" timestamp="1461244348994">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/mapper/PostImagesMapper.java" timestamp="1460980673158">
         <mark key="[" line="6" column="22" />
         <mark key="]" line="6" column="22" />
@@ -627,12 +637,11 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1461231308643">
+      <file name="/fragment.java" timestamp="1461244349001">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="483" column="40" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostRecyclerActivity.java" />
       <jump line="86" column="17" filename="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/MainActivity.kt" />
       <jump line="91" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/MainActivity.kt" />
       <jump line="36" column="33" filename="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/MainActivity.kt" />
@@ -732,46 +741,47 @@
       <jump line="68" column="15" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
       <jump line="18" column="27" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
       <jump line="15" column="13" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRepository.java" />
+      <jump line="28" column="10" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/posts/PostRemoteSourceTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIE9ic2VydmFibGU8UG9zdD4gbGlrZVBvc3QoQE5vbk51bGwgU3RyaW5nIHBpZCkgewogICAgICAgIE9ic2VydmFibGU8UGF5bG9hZExpa2U+IGxpa2VPYnNlcnZhYmxlID0gbVJlbW90ZVNvdXJjZS5saWtlUG9zdChwaWQpOwogICAgICAgIE9ic2VydmFibGU8UG9zdD4gcG9zdE9ic2VydmFibGUgPSBPYnNlcnZhYmxlLmNvbmNhdCgKICAgICAgICAgICAgICAgIG1NZW1vcnlDYWNoZS5nZXRQb3N0QnlJZChwaWQpLAogICAgICAgICAgICAgICAgbURhdGFiYXNlLmdldFBvc3RCeUlkKHBpZCksCiAgICAgICAgICAgICAgICBtUmVtb3RlU291cmNlLmdldFBvc3RCeUlkKHBpZCkpCiAgICAgICAgICAgICAgICAuZmlyc3QoKTsgLy9Pbmx5IGVtaXQgb25jZSwgc3RvcCBjaGFpbmluZyBhZnRlciBoaXR0aW5nIGluIGNhY2hlCiAgICAgICAgcmV0dXJuIE9ic2VydmFibGUuemlwKGxpa2VPYnNlcnZhYmxlLCBwb3N0T2JzZXJ2YWJsZSwgKHBheWxvYWRMaWtlLCBwb3N0KSAtPiB7CiAgICAgICAgICAgIHBvc3Quc2V0TGlrZVN0YXR1cyhwYXlsb2FkTGlrZS5pc1N0YXR1cygpKTsKICAgICAgICAgICAgcG9zdC5zZXRMaWtlQ291bnQocGF5bG9hZExpa2UuZ2V0Q291bnQoKSk7CiAgICAgICAgICAgIHJldHVybiBwb3N0OwogICAgICAgIH0pCiAgICAgICAgICAgICAgICAuZG9Pbk5leHQobURhdGFiYXNlOjpzYXZlUG9zdCkKICAgICAgICAgICAgICAgIC5kb09uTmV4dChtTWVtb3J5Q2FjaGU6OmNhY2hlKTsKICAgIH0=</text>
+        <text>likePost</text>
       </register>
       <register name="-" type="4">
-        <text>mPost</text>
+        <text>likePost</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cHVibGljIE9ic2VydmFibGU8UG9zdD4gbGlrZVBvc3QoQE5vbk51bGwgU3RyaW5nIHBpZCkgewogICAgICAgIE9ic2VydmFibGU8UGF5bG9hZExpa2U+IGxpa2VPYnNlcnZhYmxlID0gbVJlbW90ZVNvdXJjZS5saWtlUG9zdChwaWQpOwogICAgICAgIE9ic2VydmFibGU8UG9zdD4gcG9zdE9ic2VydmFibGUgPSBPYnNlcnZhYmxlLmNvbmNhdCgKICAgICAgICAgICAgICAgIG1NZW1vcnlDYWNoZS5nZXRQb3N0QnlJZChwaWQpLAogICAgICAgICAgICAgICAgbURhdGFiYXNlLmdldFBvc3RCeUlkKHBpZCksCiAgICAgICAgICAgICAgICBtUmVtb3RlU291cmNlLmdldFBvc3RCeUlkKHBpZCkpCiAgICAgICAgICAgICAgICAuZmlyc3QoKTsgLy9Pbmx5IGVtaXQgb25jZSwgc3RvcCBjaGFpbmluZyBhZnRlciBoaXR0aW5nIGluIGNhY2hlCiAgICAgICAgcmV0dXJuIE9ic2VydmFibGUuemlwKGxpa2VPYnNlcnZhYmxlLCBwb3N0T2JzZXJ2YWJsZSwgKHBheWxvYWRMaWtlLCBwb3N0KSAtPiB7CiAgICAgICAgICAgIHBvc3Quc2V0TGlrZVN0YXR1cyhwYXlsb2FkTGlrZS5pc1N0YXR1cygpKTsKICAgICAgICAgICAgcG9zdC5zZXRMaWtlQ291bnQocGF5bG9hZExpa2UuZ2V0Q291bnQoKSk7CiAgICAgICAgICAgIHJldHVybiBwb3N0OwogICAgICAgIH0pCiAgICAgICAgICAgICAgICAuZG9Pbk5leHQobURhdGFiYXNlOjpzYXZlUG9zdCkKICAgICAgICAgICAgICAgIC5kb09uTmV4dChtTWVtb3J5Q2FjaGU6OmNhY2hlKTsKICAgIH0=</text>
+        <text encoding="base64">QFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RMaWtlUG9zdCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFRlc3RTdWJzY3JpYmVyPFBheWxvYWRMaWtlPiBzdWJzY3JpYmVyID0gbmV3IFRlc3RTdWJzY3JpYmVyPD4oKTsKICAgICAgICBtUG9zdFJlbW90ZVNvdXJjZS5saWtlUG9zdCgiNTZiMDgyMWU0Njk4ZmZhZTdhOGI0NTY3Iikuc3Vic2NyaWJlKHN1YnNjcmliZXIpOwogICAgICAgIHN1YnNjcmliZXIuYXNzZXJ0Tm9FcnJvcnMoKTsKICAgICAgICBzdWJzY3JpYmVyLmFzc2VydFVuc3Vic2NyaWJlZCgpOwogICAgICAgIHN1YnNjcmliZXIuYXNzZXJ0VmFsdWVDb3VudCgxKTsKICAgICAgICBQYXlsb2FkTGlrZSBwYXlsb2FkTGlrZSA9IHN1YnNjcmliZXIuZ2V0T25OZXh0RXZlbnRzKCkuZ2V0KDApOwogICAgICAgIGFzc2VydFRydWUocGF5bG9hZExpa2UuaXNTdGF0dXMoKSk7CiAgICB9</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>likePost</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>;</text>
       </register>
       <register name="3" type="4">
-        <text>mPost</text>
+        <text>)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>e</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>0, 20</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+      <register name="7" type="4">
+        <text>Post</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtUmVwb3NpdG9yeQo=</text>
+      <register name="8" type="4">
+        <text>getTrendingPosts</text>
       </register>
       <register name="9" type="4">
-        <text>;</text>
+        <text>List</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
