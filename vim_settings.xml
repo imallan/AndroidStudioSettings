@@ -108,6 +108,7 @@
         <mark key="^" line="24" column="28" />
         <mark key="." line="24" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/agera/samples/BasicSampleWithoutCallbacks/app/src/main/java/com/example/android/agera/basicsamplewithoutcallbacks/MainFragment.java" timestamp="1461149519137" />
       <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/AnalyticsManager.java" timestamp="1460630556914">
         <mark key="[" line="8" column="32" />
         <mark key="]" line="9" column="42" />
@@ -120,6 +121,7 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="36" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Analytics.java" timestamp="1461233610528" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/TYPE_LIKE.java" timestamp="1461231348492">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="12" />
@@ -131,6 +133,8 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/agera/samples/BasicSampleWithoutCallbacks/app/src/main/java/com/example/android/agera/basicsamplewithoutcallbacks/OnRefreshObservable.java" timestamp="1461149509361" />
+      <file name="$USER_HOME$/Documents/GitHub/agera/samples/BasicSample/app/src/main/java/com/example/android/agera/basicsample/MainFragment.java" timestamp="1461146670726" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRepository.java" timestamp="1461232896842">
         <mark key="'" line="15" column="13" />
         <mark key="[" line="105" column="31" />
@@ -270,6 +274,7 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/android-UniversalMusicPlayer/mobile/src/main/res/layout/activity_player.xml" timestamp="1461147950689" />
       <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/cache/Cache.java" timestamp="1460652160458">
         <mark key="[" line="10" column="11" />
         <mark key="]" line="12" column="13" />
@@ -350,6 +355,7 @@
         <mark key="^" line="7" column="54" />
         <mark key="." line="7" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/android-UniversalMusicPlayer/mobile/src/main/java/com/example/android/uamp/ui/BaseActivity.java" timestamp="1461147959430" />
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/MainActivityPresenter.kt" timestamp="1460986554945">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="28" />
@@ -512,6 +518,7 @@
         <mark key="^" line="16" column="40" />
         <mark key="." line="16" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Post.java" timestamp="1461151999511" />
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/UserModule.java" timestamp="1460971214432">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="18" column="13" />
@@ -595,6 +602,7 @@
         <mark key="^" line="27" column="41" />
         <mark key="." line="27" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/agera/samples/BasicSampleWithoutCallbacks/app/src/main/java/com/example/android/agera/basicsamplewithoutcallbacks/UsernamesSupplier.java" timestamp="1461149281930" />
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/nav/FAB.java" timestamp="1460717642030">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="44" />
