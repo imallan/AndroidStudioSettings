@@ -116,12 +116,12 @@
         <mark key="." line="24" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/agera/samples/BasicSampleWithoutCallbacks/app/src/main/java/com/example/android/agera/basicsamplewithoutcallbacks/MainFragment.java" timestamp="1461149519137" />
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ShopcadeApplication.java" timestamp="1461253691105">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ShopcadeApplication.java" timestamp="1461254494947">
         <mark key="'" line="144" column="8" />
-        <mark key="[" line="91" column="24" />
-        <mark key="]" line="91" column="23" />
+        <mark key="[" line="92" column="56" />
+        <mark key="]" line="92" column="56" />
         <mark key="^" line="91" column="23" />
-        <mark key="." line="91" column="23" />
+        <mark key="." line="92" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/AnalyticsManager.java" timestamp="1460630556914">
         <mark key="[" line="8" column="32" />
@@ -186,12 +186,6 @@
         <mark key="^" line="31" column="64" />
         <mark key="." line="31" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/AgeraExample/app/src/main/java/com/imallan/ageraexample/MainActivity.java" timestamp="1461146217278">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/LogExtensions.kt" timestamp="1460713353862">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -247,11 +241,12 @@
         <mark key="^" line="167" column="23" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" timestamp="1461230807568">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" timestamp="1461255584427">
         <mark key="'" line="133" column="12" />
-        <mark key="[" line="333" column="0" />
-        <mark key="]" line="333" column="0" />
-        <mark key="." line="333" column="0" />
+        <mark key="[" line="330" column="58" />
+        <mark key="]" line="330" column="62" />
+        <mark key="." line="330" column="62" />
+        <mark key="^" line="330" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Presenter/Presenter.java" timestamp="1460388696719">
         <mark key="[" line="6" column="28" />
@@ -791,43 +786,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>likePost</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>likePost</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">QFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RMaWtlUG9zdCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFRlc3RTdWJzY3JpYmVyPFBheWxvYWRMaWtlPiBzdWJzY3JpYmVyID0gbmV3IFRlc3RTdWJzY3JpYmVyPD4oKTsKICAgICAgICBtUG9zdFJlbW90ZVNvdXJjZS5saWtlUG9zdCgiNTZiMDgyMWU0Njk4ZmZhZTdhOGI0NTY3Iikuc3Vic2NyaWJlKHN1YnNjcmliZXIpOwogICAgICAgIHN1YnNjcmliZXIuYXNzZXJ0Tm9FcnJvcnMoKTsKICAgICAgICBzdWJzY3JpYmVyLmFzc2VydFVuc3Vic2NyaWJlZCgpOwogICAgICAgIHN1YnNjcmliZXIuYXNzZXJ0VmFsdWVDb3VudCgxKTsKICAgICAgICBQYXlsb2FkTGlrZSBwYXlsb2FkTGlrZSA9IHN1YnNjcmliZXIuZ2V0T25OZXh0RXZlbnRzKCkuZ2V0KDApOwogICAgICAgIGFzc2VydFRydWUocGF5bG9hZExpa2UuaXNTdGF0dXMoKSk7CiAgICB9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaG9sZGVyLnNldExpa2VGYWIobVBvc3QuZ2V0TGlrZVN0YXR1cygpLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>likePost</text>
+        <text>true</text>
       </register>
       <register name="2" type="4">
-        <text>;</text>
+        <text>false</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>0, 20</text>
+        <text>likePost</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>;</text>
       </register>
       <register name="7" type="4">
-        <text>Post</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>getTrendingPosts</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>List</text>
+        <text>0, 20</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
