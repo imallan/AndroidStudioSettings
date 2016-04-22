@@ -15,7 +15,7 @@
         <mark key="^" line="29" column="48" />
         <mark key="." line="29" column="48" />
       </file>
-      <file name="/a.dummy" timestamp="1461255669685">
+      <file name="/a.dummy" timestamp="1461321609094">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/Settings.kt" timestamp="1460653310642">
@@ -360,12 +360,12 @@
         <mark key="^" line="7" column="79" />
         <mark key="." line="7" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" timestamp="1461232854183">
-        <mark key="'" line="553" column="0" />
-        <mark key="[" line="289" column="0" />
-        <mark key="]" line="289" column="0" />
-        <mark key="^" line="334" column="46" />
-        <mark key="." line="289" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" timestamp="1461321437494">
+        <mark key="'" line="554" column="0" />
+        <mark key="[" line="542" column="27" />
+        <mark key="]" line="542" column="36" />
+        <mark key="^" line="542" column="36" />
+        <mark key="." line="542" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/db/Table.java" timestamp="1461152842640">
         <mark key="[" line="202" column="39" />
@@ -612,6 +612,12 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="6" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_main_drawer.xml" timestamp="1461321511728">
+        <mark key="[" line="36" column="58" />
+        <mark key="]" line="36" column="58" />
+        <mark key="^" line="36" column="58" />
+        <mark key="." line="36" column="58" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/AgeraExample/app/src/main/res/layout/activity_main.xml" timestamp="1461143770749">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="13" column="40" />
@@ -786,43 +792,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG9sZGVyLnNldExpa2VGYWIobVBvc3QuZ2V0TGlrZVN0YXR1cygpLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1TdWJ0aXRsZSA9IHBvc3QuZ2V0U3VidGl0bGUoKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>true</text>
+        <text>|</text>
       </register>
       <register name="2" type="4">
-        <text>false</text>
+        <text>snap</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text>getSubtitle</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>mSubtitle</text>
       </register>
       <register name="5" type="4">
-        <text>likePost</text>
+        <text>|</text>
       </register>
       <register name="6" type="4">
-        <text>;</text>
+        <text>exitUntilCollapsed</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>true</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>false</text>
       </register>
       <register name="9" type="4">
-        <text>0, 20</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
