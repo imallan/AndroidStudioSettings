@@ -35,7 +35,7 @@
         <option name="PATH_TO_PPK" value="" />
       </value>
     </option>
-    <option name="PATH_TO_PASSWORD_FILE" />
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
     <option name="TIMEOUT" value="10" />
     <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
     <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
@@ -114,5 +114,16 @@
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
     </filter>
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
 </application>
