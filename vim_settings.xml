@@ -123,7 +123,7 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="16" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_content_product.xml" timestamp="1461940644945">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_content_product.xml" timestamp="1461941229584">
         <mark key="'" line="298" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_product_deal.xml" timestamp="1459353244680">
@@ -376,6 +376,12 @@
         <mark key="]" line="489" column="8" />
         <mark key="^" line="441" column="32" />
         <mark key="." line="441" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_voucher.xml" timestamp="1461941727437">
+        <mark key="[" line="40" column="60" />
+        <mark key="]" line="41" column="46" />
+        <mark key="^" line="41" column="46" />
+        <mark key="." line="41" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/MainActivityPresenter.kt" timestamp="1460986554945">
         <mark key="[" line="6" column="29" />
