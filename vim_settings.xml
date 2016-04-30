@@ -370,10 +370,11 @@
         <mark key="^" line="7" column="54" />
         <mark key="." line="7" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/MyApplication/app/src/main/java/com/imallan/playground/MainActivity.kt" timestamp="1462056504083">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/MyApplication/app/src/main/java/com/imallan/playground/MainActivity.kt" timestamp="1462057647541">
+        <mark key="[" line="9" column="46" />
+        <mark key="]" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+        <mark key="^" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" timestamp="1461325570223">
         <mark key="'" line="362" column="20" />
@@ -1315,7 +1316,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lcmF0ZSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>ProductActivity</text>
@@ -1327,31 +1328,31 @@
         <text encoding="base64">ICAgICAgICB2aWV3QS5zZXRSb3RhdGlvblgoODApOwogICAgICAgIHZpZXdCLnNldFJvdGF0aW9uWCg4MCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lcmF0ZSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBnZW5lcmF0ZSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text>ProductActivity</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB5aWVsZAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>6</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBnZW5lcmF0ZSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="6" type="4">
-        <text>1</text>
+        <text>ProductActivity</text>
       </register>
       <register name="7" type="4">
-        <text>3</text>
+        <text>6</text>
       </register>
       <register name="8" type="4">
-        <text>150f</text>
+        <text>1</text>
       </register>
       <register name="9" type="4">
-        <text>100f</text>
+        <text>3</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
