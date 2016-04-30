@@ -370,7 +370,11 @@
         <mark key="^" line="7" column="54" />
         <mark key="." line="7" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/MyApplication/app/src/main/java/com/imallan/playground/MainActivity.kt" timestamp="1462054499525" />
+      <file name="$USER_HOME$/Documents/GitHub/MyApplication/app/src/main/java/com/imallan/playground/MainActivity.kt" timestamp="1462056504083">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" timestamp="1461325570223">
         <mark key="'" line="362" column="20" />
         <mark key="[" line="483" column="8" />
@@ -556,6 +560,9 @@
       </file>
       <file name="/fragment.java" timestamp="1461244349001">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/MyApplication/app/build.gradle" timestamp="1462056474842">
+        <mark key="'" line="29" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/UserModule.java" timestamp="1460971214432">
         <mark key="[" line="16" column="13" />
@@ -1205,7 +1212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="351" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" />
       <jump line="610" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" />
       <jump line="44" column="39" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
       <jump line="3" column="33" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
@@ -1305,10 +1311,11 @@
       <jump line="98" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/CrossoverApplication.kt" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/RotationExamples/app/src/main/res/layout/activity_main.xml" />
       <jump line="298" column="32" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_content_product.xml" />
+      <jump line="29" column="40" filename="$USER_HOME$/Documents/GitHub/MyApplication/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ProductActivity</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBnZW5lcmF0ZSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>ProductActivity</text>
@@ -1319,32 +1326,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2aWV3QS5zZXRSb3RhdGlvblgoODApOwogICAgICAgIHZpZXdCLnNldFJvdGF0aW9uWCg4MCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>ProductActivity</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBnZW5lcmF0ZSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text>6</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB5aWVsZAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>1</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBnZW5lcmF0ZSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="4" type="4">
-        <text>3</text>
+        <text>ProductActivity</text>
       </register>
       <register name="5" type="4">
-        <text>150f</text>
+        <text>6</text>
       </register>
       <register name="6" type="4">
-        <text>100f</text>
+        <text>1</text>
       </register>
       <register name="7" type="4">
-        <text>8</text>
+        <text>3</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGQK</text>
+      <register name="8" type="4">
+        <text>150f</text>
       </register>
       <register name="9" type="4">
-        <text>viewById</text>
+        <text>100f</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
