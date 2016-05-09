@@ -224,11 +224,11 @@
         <mark key="." line="103" column="21" />
         <mark key="^" line="103" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/MainActivity.java" timestamp="1462826046944">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="14" column="95" />
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/MainActivity.java" timestamp="1462826897836">
+        <mark key="[" line="39" column="59" />
+        <mark key="]" line="39" column="60" />
+        <mark key="." line="39" column="60" />
+        <mark key="^" line="40" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/PrefsActivity.java" timestamp="1461170412057">
         <mark key="[" line="89" column="78" />
@@ -339,6 +339,11 @@
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/api/TwitterServiceFactory.java" timestamp="1462826457575">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/di/module/UserActivityModule.kt" timestamp="1461016188158">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="24" />
@@ -363,11 +368,12 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/griffin/app/build.gradle" timestamp="1462825551552">
-        <mark key="[" line="97" column="60" />
-        <mark key="]" line="99" column="18" />
-        <mark key="." line="99" column="18" />
-        <mark key="^" line="99" column="18" />
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/build.gradle" timestamp="1462827550489">
+        <mark key="'" line="67" column="18" />
+        <mark key="[" line="96" column="62" />
+        <mark key="]" line="96" column="63" />
+        <mark key="." line="96" column="63" />
+        <mark key="^" line="96" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/AppModule.kt" timestamp="1460971047594">
         <mark key="[" line="21" column="13" />
@@ -387,6 +393,11 @@
         <mark key="]" line="7" column="55" />
         <mark key="^" line="7" column="54" />
         <mark key="." line="7" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/LoginActivity.java" timestamp="1462826843627">
+        <mark key="'" line="48" column="44" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" timestamp="1461325570223">
         <mark key="'" line="362" column="20" />
@@ -1000,10 +1011,15 @@
         <mark key="^" line="10" column="63" />
         <mark key="." line="10" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1462825385042">
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/GriffinApplication.java" timestamp="1462826567613">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1462826968835">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="60" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="186" column="5" />
         <mark key="^" line="149" column="83" />
         <mark key="." line="19" column="33" />
       </file>
@@ -1242,8 +1258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="26" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
-      <jump line="0" column="13" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
       <jump line="567" column="44" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" />
       <jump line="606" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" />
       <jump line="6" column="30" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/scope/PostActivityScope.java" />
@@ -1342,46 +1356,48 @@
       <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="87" column="0" filename="$USER_HOME$/Documents/GitHub/griffin/app/build.gradle" />
       <jump line="91" column="48" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/StatusActivity.java" />
+      <jump line="67" column="18" filename="$USER_HOME$/Documents/GitHub/griffin/app/build.gradle" />
+      <jump line="48" column="44" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/LoginActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1.3.0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGltcGxlbWVudHMgU2luZ2xlU3RhdHVzVmlldyA=</text>
+        <text>1.3.0</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5zcXVhcmV1cC5va2h0dHAzOmxvZ2dpbmctaW50ZXJjZXB0b3I6My4yLjAiCg==</text>
+      <register name="0" type="4">
+        <text>3.2.0</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>1.3.0</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIFNpbmdsZVN0YXR1c1ByZXNlbnRlciBtU2luZ2xlU3RhdHVzUHJlc2VudGVyOwoKCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBDb250ZXh0IGdldENvbnRleHQoKSB7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9CgoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2hvd0xvYWRpbmcoYm9vbGVhbiBwdWxsVG9SZWZyZXNoKSB7CiAgICAgICAgVUlVdGlscy5zZXRWaXNpYmlsZShtVmlld0xvYWRpbmcpOwogICAgICAgIFVJVXRpbHMuc2V0R29uZShtVmlld0Vycm9yLCBtVGV4dFZpZXdDb250ZW50KTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHNob3dDb250ZW50KCkgewogICAgICAgIFVJVXRpbHMuc2V0VmlzaWJpbGUobVRleHRWaWV3Q29udGVudCk7CiAgICAgICAgVUlVdGlscy5zZXRHb25lKG1WaWV3RXJyb3IsIG1WaWV3TG9hZGluZyk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBzaG93RXJyb3IoVGhyb3dhYmxlIHRocm93YWJsZSwgYm9vbGVhbiBwdWxsVG9SZWZyZXNoKSB7CiAgICAgICAgVUlVdGlscy5zZXRWaXNpYmlsZShtVmlld0Vycm9yKTsKICAgICAgICBVSVV0aWxzLnNldEdvbmUobVZpZXdMb2FkaW5nLCBtVGV4dFZpZXdDb250ZW50KTsKICAgIH0K</text>
+        <text>1.3.0</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>3.2.0</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHNldERhdGEoU3RhdHVzIHN0YXR1cykgewogICAgICAgIG1TaW5nbGVTdGF0dXNBZGFwdGVyLnNldFN0YXR1cyhzdGF0dXMpOwogICAgfQo=</text>
+        <text>3.2.0</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5wdXNodG9yZWZyZXNoLnN0b3JpbzpzcWxpdGU6JHN0b3Jpb1ZlcnNpb24iCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIG1TaW5nbGVTdGF0dXNQcmVzZW50ZXIgPSBuZXcgU2luZ2xlU3RhdHVzUHJlc2VudGVyKCk7CiAgICAgICAgbVNpbmdsZVN0YXR1c1ByZXNlbnRlci5hdHRhY2hWaWV3KHRoaXMpOwogICAgICAgIG1TdGF0dXNJZCA9IGdldEludGVudCgpLmdldExvbmdFeHRyYShFWFRSQV9TVEFUVVNfSUQsIC0xKTsKICAgICAgICBpZiAobVN0YXR1c0lkID4gMCkgewogICAgICAgICAgICBtU2luZ2xlU3RhdHVzUHJlc2VudGVyLmxvYWRTdGF0dXMobVN0YXR1c0lkKTsKICAgICAgICB9</text>
+      <register name="7" type="4">
+        <text encoding="base64">Y29tcGlsZSgnY29tLnR3aXR0ZXIuc2RrLmFuZHJvaWQ6dHdpdHRlcjoxLjExLjBAYWFyJykgewogICAgICAgIHRyYW5zaXRpdmUgPSB0cnVlOwogICAgfQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVHdpdHRlcgo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uRGVzdHJveSgpIHsKICAgICAgICBzdXBlci5vbkRlc3Ryb3koKTsKICAgICAgICBtU2luZ2xlU3RhdHVzUHJlc2VudGVyLmRldGFjaFZpZXcoKTsKICAgICAgICBtU2luZ2xlU3RhdHVzUHJlc2VudGVyID0gbnVsbDsKICAgIH0=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGltcGxlbWVudHMgU2luZ2xlU3RhdHVzVmlldyA=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
