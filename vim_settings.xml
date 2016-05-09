@@ -66,6 +66,12 @@
         <mark key="]" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/MediaGalleryActivity.java" timestamp="1462826136656">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="19" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/DataComponent.java" timestamp="1461079807853">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -218,6 +224,12 @@
         <mark key="." line="103" column="21" />
         <mark key="^" line="103" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/MainActivity.java" timestamp="1462826046944">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="14" column="95" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/activities/PrefsActivity.java" timestamp="1461170412057">
         <mark key="[" line="89" column="78" />
         <mark key="]" line="89" column="77" />
@@ -351,10 +363,11 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/griffin/app/build.gradle" timestamp="1462825317852">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/build.gradle" timestamp="1462825551552">
+        <mark key="[" line="97" column="60" />
+        <mark key="]" line="99" column="18" />
+        <mark key="." line="99" column="18" />
+        <mark key="^" line="99" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/AppModule.kt" timestamp="1460971047594">
         <mark key="[" line="21" column="13" />
@@ -811,6 +824,12 @@
         <mark key="^" line="79" column="60" />
         <mark key="." line="79" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/StatusActivity.java" timestamp="1462826186303">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="24" column="48" />
+        <mark key="." line="60" column="0" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/ViewGroup.java" timestamp="1461066254571">
         <mark key="'" line="7780" column="0" />
       </file>
@@ -981,10 +1000,10 @@
         <mark key="^" line="10" column="63" />
         <mark key="." line="10" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1462825293963">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1462825385042">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="212" column="0" />
-        <mark key="]" line="214" column="46" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="60" />
         <mark key="^" line="149" column="83" />
         <mark key="." line="19" column="33" />
       </file>
@@ -1196,6 +1215,11 @@
         <mark key="." line="145" column="45" />
         <mark key="^" line="145" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/di/DataModule.java" timestamp="1462825876233">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/VideoUtils.java" timestamp="1460986239111">
         <mark key="'" line="203" column="35" />
         <mark key="[" line="190" column="4" />
@@ -1218,8 +1242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="31" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
-      <jump line="42" column="32" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
       <jump line="34" column="26" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
       <jump line="0" column="13" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
       <jump line="567" column="44" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" />
@@ -1318,46 +1340,48 @@
       <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/griffin/app/build.gradle" />
       <jump line="75" column="34" filename="$USER_HOME$/Documents/GitHub/griffin/app/build.gradle" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/GitHub/griffin/app/build.gradle" />
+      <jump line="91" column="48" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/ui/activity/StatusActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuZGFnZ2VyOmRhZ2dlcjoyLjAuMicKICAgIHByb3ZpZGVkICdjb20uZ29vZ2xlLmRhZ2dlcjpkYWdnZXItY29tcGlsZXI6Mi4wLjInCiAgICBwcm92aWRlZCAnb3JnLmdsYXNzZmlzaDpqYXZheC5hbm5vdGF0aW9uOjEwLjAtYjI4Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IGltcGxlbWVudHMgU2luZ2xlU3RhdHVzVmlldyA=</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuZGFnZ2VyOmRhZ2dlcjoyLjEnCiAgICBhcHQgJ2NvbS5nb29nbGUuZGFnZ2VyOmRhZ2dlci1jb21waWxlcjoyLjEnCiAgICBwcm92aWRlZCAiamF2YXguYW5ub3RhdGlvbjpqc3IyNTAtYXBpOjEuMCIK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5zcXVhcmV1cC5va2h0dHAzOmxvZ2dpbmctaW50ZXJjZXB0b3I6My4yLjAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuZGFnZ2VyOmRhZ2dlcjoyLjAuMicKICAgIHByb3ZpZGVkICdjb20uZ29vZ2xlLmRhZ2dlcjpkYWdnZXItY29tcGlsZXI6Mi4wLjInCiAgICBwcm92aWRlZCAnb3JnLmdsYXNzZmlzaDpqYXZheC5hbm5vdGF0aW9uOjEwLjAtYjI4Jwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIFNpbmdsZVN0YXR1c1ByZXNlbnRlciBtU2luZ2xlU3RhdHVzUHJlc2VudGVyOwoKCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBDb250ZXh0IGdldENvbnRleHQoKSB7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9CgoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2hvd0xvYWRpbmcoYm9vbGVhbiBwdWxsVG9SZWZyZXNoKSB7CiAgICAgICAgVUlVdGlscy5zZXRWaXNpYmlsZShtVmlld0xvYWRpbmcpOwogICAgICAgIFVJVXRpbHMuc2V0R29uZShtVmlld0Vycm9yLCBtVGV4dFZpZXdDb250ZW50KTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHNob3dDb250ZW50KCkgewogICAgICAgIFVJVXRpbHMuc2V0VmlzaWJpbGUobVRleHRWaWV3Q29udGVudCk7CiAgICAgICAgVUlVdGlscy5zZXRHb25lKG1WaWV3RXJyb3IsIG1WaWV3TG9hZGluZyk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBzaG93RXJyb3IoVGhyb3dhYmxlIHRocm93YWJsZSwgYm9vbGVhbiBwdWxsVG9SZWZyZXNoKSB7CiAgICAgICAgVUlVdGlscy5zZXRWaXNpYmlsZShtVmlld0Vycm9yKTsKICAgICAgICBVSVV0aWxzLnNldEdvbmUobVZpZXdMb2FkaW5nLCBtVGV4dFZpZXdDb250ZW50KTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHNldERhdGEoU3RhdHVzIHN0YXR1cykgewogICAgICAgIG1TaW5nbGVTdGF0dXNBZGFwdGVyLnNldFN0YXR1cyhzdGF0dXMpOwogICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>/</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text encoding="base64">ICAgIG1TaW5nbGVTdGF0dXNQcmVzZW50ZXIgPSBuZXcgU2luZ2xlU3RhdHVzUHJlc2VudGVyKCk7CiAgICAgICAgbVNpbmdsZVN0YXR1c1ByZXNlbnRlci5hdHRhY2hWaWV3KHRoaXMpOwogICAgICAgIG1TdGF0dXNJZCA9IGdldEludGVudCgpLmdldExvbmdFeHRyYShFWFRSQV9TVEFUVVNfSUQsIC0xKTsKICAgICAgICBpZiAobVN0YXR1c0lkID4gMCkgewogICAgICAgICAgICBtU2luZ2xlU3RhdHVzUHJlc2VudGVyLmxvYWRTdGF0dXMobVN0YXR1c0lkKTsKICAgICAgICB9</text>
       </register>
-      <register name="7" type="4">
-        <text>6</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uRGVzdHJveSgpIHsKICAgICAgICBzdXBlci5vbkRlc3Ryb3koKTsKICAgICAgICBtU2luZ2xlU3RhdHVzUHJlc2VudGVyLmRldGFjaFZpZXcoKTsKICAgICAgICBtU2luZ2xlU3RhdHVzUHJlc2VudGVyID0gbnVsbDsKICAgIH0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGltcGxlbWVudHMgU2luZ2xlU3RhdHVzVmlldyA=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
