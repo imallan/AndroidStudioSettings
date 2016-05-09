@@ -15,7 +15,7 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
       </file>
-      <file name="/a.dummy" timestamp="1462832725684">
+      <file name="/a.dummy" timestamp="1462832873667">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/TrendingPostRecyclerAdapter.java" timestamp="1459526962183">
@@ -262,6 +262,12 @@
         <mark key="]" line="14" column="61" />
         <mark key="^" line="14" column="61" />
         <mark key="." line="14" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/di/module/DatabaseModule.java" timestamp="1462833051439">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="32" column="3" />
+        <mark key="^" line="32" column="3" />
+        <mark key="." line="32" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1460392705615">
         <mark key="'" line="424" column="4" />
@@ -521,6 +527,9 @@
         <mark key="^" line="88" column="65" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1462832873662">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/trending/TrendingPresenter.java" timestamp="1460538677875">
         <mark key="'" line="96" column="13" />
         <mark key="[" line="17" column="74" />
@@ -561,11 +570,12 @@
         <mark key="^" line="851" column="72" />
         <mark key="." line="851" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/androidTest/java/com/imallan/griffin/ApplicationTest.java" timestamp="1462832566513">
-        <mark key="[" line="44" column="63" />
-        <mark key="]" line="44" column="81" />
-        <mark key="." line="44" column="81" />
-        <mark key="^" line="44" column="81" />
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/androidTest/java/com/imallan/griffin/ApplicationTest.java" timestamp="1462833194639">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="49" column="59" />
+        <mark key="]" line="49" column="80" />
+        <mark key="^" line="49" column="80" />
+        <mark key="." line="49" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRepository.java" timestamp="1461232896842">
         <mark key="'" line="15" column="13" />
@@ -1017,12 +1027,12 @@
         <mark key="^" line="10" column="63" />
         <mark key="." line="10" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/GriffinApplication.java" timestamp="1462832764920">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="56" column="21" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/GriffinApplication.java" timestamp="1462833263966">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="39" column="47" />
+        <mark key="]" line="41" column="51" />
+        <mark key="^" line="41" column="51" />
+        <mark key="." line="41" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/di/module/AppModule.java" timestamp="1462829895749">
         <mark key="[" line="33" column="73" />
@@ -1174,10 +1184,11 @@
         <mark key="^" line="22" column="32" />
         <mark key="." line="22" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/di/component/AppComponent.java" timestamp="1462831506676">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="10" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/di/component/AppComponent.java" timestamp="1462833235956">
+        <mark key="[" line="21" column="39" />
+        <mark key="]" line="22" column="52" />
+        <mark key="." line="22" column="52" />
+        <mark key="^" line="22" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_details.xml" timestamp="1459787865427">
         <mark key="'" line="37" column="0" />
@@ -1278,7 +1289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="52" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRepository.java" />
       <jump line="44" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRepository.java" />
       <jump line="51" column="45" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
       <jump line="11" column="22" filename="$USER_HOME$/Documents/GitHub/AgeraExample/app/build.gradle" />
@@ -1378,46 +1388,47 @@
       <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/di/module/NetworkModule.java" />
       <jump line="62" column="28" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/di/module/NetworkModule.java" />
       <jump line="89" column="0" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/di/module/NetworkModule.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/androidTest/java/com/imallan/griffin/ApplicationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDT05TVU1FUl9TRUNSRVQgPSAiZmZ1Nll3ZGVETnVSbHk3SUdPeEFHOUxlZVdRdTdVVHd0bHN5dDBRQVVBdHRNaXV5OFMiOwo=</text>
+      <register name="&quot;" type="4">
+        <text>DBHelper</text>
       </register>
       <register name="-" type="4">
-        <text>getTwitterSession</text>
+        <text>DBHelper</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvL25vaW5zcGVjdGlvbiBDb25zdGFudENvbmRpdGlvbnMKICAgICAgICBhc3NlcnROb3ROdWxsKEdyaWZmaW5BcHBsaWNhdGlvbi5nZXRUd2l0dGVyQ29tcG9uZW50KCkuZ2V0VHdpdHRlclNlc3Npb24oKSk7Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0U3FsQnJpdGVOb3ROdWxsKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgYXNzZXJ0Tm90TnVsbChHcmlmZmluQXBwbGljYXRpb24uZ2V0QXBwQ29tcG9uZW50KCkuZ2V0U3FsQnJpdGUoKSk7CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDT05TVU1FUl9TRUNSRVQgPSAiZmZ1Nll3ZGVETnVSbHk3SUdPeEFHOUxlZVdRdTdVVHd0bHN5dDBRQVVBdHRNaXV5OFMiOwo=</text>
+      <register name="1" type="4">
+        <text>DBHelper</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDT05TVU1FUl9LRVkgPSAiamtYd1BUM0lGU3k3TlRGaUNZRUdLZ1RvSyI7Cg==</text>
+      <register name="2" type="4">
+        <text>getSqlBrite</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>SqlBriteNotNull</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uaW1hbGxhbi5ncmlmZmluLmFwaS5Ud2l0dGVyQVBJU2V0dGluZ3MuQ09OU1VNRVJfS0VZOwppbXBvcnQgc3RhdGljIGNvbS5pbWFsbGFuLmdyaWZmaW4uYXBpLlR3aXR0ZXJBUElTZXR0aW5ncy5DT05TVU1FUl9TRUNSRVQ7Cg==</text>
+      <register name="4" type="4">
+        <text>getBriteDatabase</text>
       </register>
       <register name="5" type="4">
-        <text>getTwitterSession</text>
+        <text>e</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHRlYXJEb3duKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgc3VwZXIudGVhckRvd24oKTsKICAgIH0=</text>
+        <text>a</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBHcml2Cg==</text>
+      <register name="8" type="4">
+        <text>b</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
