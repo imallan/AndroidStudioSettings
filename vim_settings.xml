@@ -152,6 +152,12 @@
         <mark key="." line="57" column="54" />
         <mark key="^" line="57" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/KonamiCode/app/src/main/java/com/imallan/konamicode/MainActivity.kt" timestamp="1463000340116">
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="27" column="44" />
+        <mark key="." line="27" column="44" />
+        <mark key="^" line="27" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/mapper/BaseMapper.java" timestamp="1460549425593">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="10" />
@@ -464,6 +470,13 @@
         <mark key="]" line="16" column="52" />
         <mark key="^" line="16" column="52" />
         <mark key="." line="16" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/KonamiCode/app/build.gradle" timestamp="1462997222923">
+        <mark key="'" line="53" column="54" />
+        <mark key="[" line="49" column="48" />
+        <mark key="]" line="49" column="54" />
+        <mark key="." line="49" column="54" />
+        <mark key="^" line="49" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/presenter/ShotsPresenterImpl.kt" timestamp="1461057822841">
         <mark key="[" line="30" column="24" />
@@ -864,6 +877,12 @@
         <mark key="." line="25" column="28" />
         <mark key="^" line="25" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/KonamiCode/app/src/main/java/com/imallan/konamicode/LogExtensions.kt" timestamp="1462998775434">
+        <mark key="[" line="12" column="75" />
+        <mark key="]" line="12" column="79" />
+        <mark key="." line="12" column="79" />
+        <mark key="^" line="12" column="79" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/di/module/ShotActivityModule.kt" timestamp="1461016586780">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="22" />
@@ -946,6 +965,12 @@
         <mark key="]" line="38" column="81" />
         <mark key="^" line="38" column="81" />
         <mark key="." line="38" column="81" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/KonamiCode/app/src/main/res/layout/activity_main.xml" timestamp="1462996962760">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="38" />
+        <mark key="." line="11" column="38" />
+        <mark key="^" line="11" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/PostComponent.java" timestamp="1460646964883">
         <mark key="[" line="9" column="13" />
@@ -1286,9 +1311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRepository.java" />
-      <jump line="51" column="45" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
-      <jump line="11" column="22" filename="$USER_HOME$/Documents/GitHub/AgeraExample/app/build.gradle" />
       <jump line="54" column="16" filename="$USER_HOME$/Documents/GitHub/AgeraExample/app/src/main/java/com/imallan/ageraexample/MainActivity.java" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/AgeraExample/app/src/main/java/com/imallan/ageraexample/MainActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/AgeraExample/app/src/main/AndroidManifest.xml" />
@@ -1386,46 +1408,49 @@
       <jump line="62" column="28" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/di/module/NetworkModule.java" />
       <jump line="89" column="0" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/di/module/NetworkModule.java" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/androidTest/java/com/imallan/griffin/ApplicationTest.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/KonamiCode/app/build.gradle" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/KonamiCode/app/build.gradle" />
+      <jump line="52" column="54" filename="$USER_HOME$/Documents/GitHub/KonamiCode/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DBHelper</text>
+        <text>MILLISECONDS</text>
       </register>
       <register name="-" type="4">
-        <text>DBHelper</text>
+        <text>MILLISECONDS</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0U3FsQnJpdGVOb3ROdWxsKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgYXNzZXJ0Tm90TnVsbChHcmlmZmluQXBwbGljYXRpb24uZ2V0QXBwQ29tcG9uZW50KCkuZ2V0U3FsQnJpdGUoKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ZnVuIEFueS5sb2dkKG1lc3NhZ2U6IFN0cmluZywgdGFnOiBTdHJpbmcgPSB0aGlzLmphdmFDbGFzcy5zaW1wbGVOYW1lKSB7CiAgICBMb2cuZCh0YWcsIG1lc3NhZ2UpCn0K</text>
       </register>
       <register name="1" type="4">
-        <text>DBHelper</text>
+        <text>MILLISECONDS</text>
       </register>
       <register name="2" type="4">
-        <text>getSqlBrite</text>
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>SqlBriteNotNull</text>
+        <text>1</text>
       </register>
-      <register name="4" type="4">
-        <text>getBriteDatabase</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aW5kb3coNTAwMCwgVGltZVVuaXQuTUlMTElTRUNPTkRTKQogICAgICAgICAgICAgICAgLmZsYXRNYXAgeyBpdCB9Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>map</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>a</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>b</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aW5kb3coNCwgMSkK</text>
       </register>
-      <register name="9" type="4">
-        <text>a</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
