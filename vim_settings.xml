@@ -152,11 +152,12 @@
         <mark key="." line="57" column="54" />
         <mark key="^" line="57" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/KonamiCode/app/src/main/java/com/imallan/konamicode/MainActivity.kt" timestamp="1463008419887">
-        <mark key="[" line="32" column="51" />
-        <mark key="]" line="32" column="52" />
-        <mark key="." line="32" column="52" />
-        <mark key="^" line="32" column="52" />
+      <file name="$USER_HOME$/Documents/GitHub/KonamiCode/app/src/main/java/com/imallan/konamicode/MainActivity.kt" timestamp="1463010050352">
+        <mark key="'" line="11" column="24" />
+        <mark key="[" line="38" column="36" />
+        <mark key="]" line="39" column="15" />
+        <mark key="." line="33" column="57" />
+        <mark key="^" line="39" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/mapper/BaseMapper.java" timestamp="1460549425593">
         <mark key="[" line="10" column="4" />
@@ -1311,9 +1312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="16" filename="$USER_HOME$/Documents/GitHub/AgeraExample/app/src/main/java/com/imallan/ageraexample/MainActivity.java" />
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/AgeraExample/app/src/main/java/com/imallan/ageraexample/MainActivity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/AgeraExample/app/src/main/AndroidManifest.xml" />
       <jump line="62" column="30" filename="$USER_HOME$/Documents/GitHub/agera/samples/BasicSample/app/src/main/java/com/example/android/agera/basicsample/UsernamesRepository.java" />
       <jump line="99" column="20" filename="$USER_HOME$/Documents/GitHub/agera/samples/BasicSample/app/src/main/java/com/example/android/agera/basicsample/UsernamesRepository.java" />
       <jump line="83" column="35" filename="$USER_HOME$/Documents/GitHub/agera/samples/BasicSample/app/src/main/java/com/example/android/agera/basicsample/UsernamesRepository.java" />
@@ -1411,13 +1409,16 @@
       <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/KonamiCode/app/build.gradle" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/KonamiCode/app/build.gradle" />
       <jump line="52" column="54" filename="$USER_HOME$/Documents/GitHub/KonamiCode/app/build.gradle" />
+      <jump line="37" column="37" filename="$USER_HOME$/Documents/GitHub/KonamiCode/app/src/main/java/com/imallan/konamicode/MainActivity.kt" />
+      <jump line="38" column="29" filename="$USER_HOME$/Documents/GitHub/KonamiCode/app/src/main/java/com/imallan/konamicode/MainActivity.kt" />
+      <jump line="11" column="24" filename="$USER_HOME$/Documents/GitHub/KonamiCode/app/src/main/java/com/imallan/konamicode/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5kb09uTmV4dCB7IGxvZ2QoaXQudG9TdHJpbmcoKSkgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vYnNlcnZlT24oQW5kcm9pZFNjaGVkdWxlcnMubWFpblRocmVhZCgpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>concatMap</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -1426,31 +1427,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uTmV4dCB7IGxvZ2QoaXQpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5kb09uTmV4dCB7IGxvZ2QoaXQudG9TdHJpbmcoKSkgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vYnNlcnZlT24oQW5kcm9pZFNjaGVkdWxlcnMubWFpblRocmVhZCgpKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>concatMap</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uTmV4dCB7IGxvZ2QoaXQpIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5maWx0ZXIgeyBpdC4gfQo=</text>
+      <register name="3" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5maWx0ZXIgeyBpdC4gfQo=</text>
+      <register name="4" type="4">
+        <text>&quot;</text>
       </register>
       <register name="5" type="4">
-        <text>4</text>
+        <text>ABCDDCBA</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>8</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>8</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uTmV4dCB7IGxvZ2QoImVtaXQgb25jZSIpIH0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbCBDT0RFID0gIkFCQ0QiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUgeyAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5kb09uTmV4dCB7IGxvZ2QoaXQudG9TdHJpbmcoKSkgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
