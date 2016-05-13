@@ -105,10 +105,6 @@
         <mark key="^" line="28" column="52" />
         <mark key="." line="28" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/api/TwitterAPISettings.java" timestamp="1462830483843">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_item_category.xml" timestamp="1459850723045">
         <mark key="'" line="2" column="4" />
         <mark key="[" line="40" column="25" />
@@ -134,10 +130,6 @@
         <mark key="]" line="7" column="37" />
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/ApplicationComponent.java" timestamp="1462831045473">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/DomainModule.java" timestamp="1460640295758">
         <mark key="[" line="16" column="13" />
@@ -197,6 +189,11 @@
         <mark key="]" line="20" column="29" />
         <mark key="^" line="63" column="54" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/products/ProductmemorySource.java" timestamp="1463132603027">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/di/component/TwitterComponent.java" timestamp="1462831374159">
         <mark key="[" line="20" column="39" />
@@ -515,7 +512,7 @@
         <mark key="^" line="8" column="43" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIFactory.java" timestamp="1460981989054">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIFactory.java" timestamp="1463132231627">
         <mark key="'" line="68" column="31" />
         <mark key="[" line="74" column="0" />
         <mark key="]" line="75" column="76" />
