@@ -1030,6 +1030,13 @@
         <mark key="^" line="77" column="10" />
         <mark key="." line="77" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SettingsActivity.java" timestamp="1463147675750">
+        <mark key="'" line="115" column="18" />
+        <mark key="[" line="141" column="76" />
+        <mark key="]" line="141" column="74" />
+        <mark key="^" line="141" column="74" />
+        <mark key="." line="141" column="93" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/AppDetailsFragment.java" timestamp="1459787987141">
         <mark key="'" line="73" column="17" />
         <mark key="[" line="269" column="51" />
@@ -1317,8 +1324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRemoteSource.java" />
-      <jump line="20" column="22" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
       <jump line="278" column="19" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" />
       <jump line="639" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" />
       <jump line="85" column="12" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" />
@@ -1417,13 +1422,15 @@
       <jump line="16" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="66" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
       <jump line="320" column="0" filename="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/ui/activity/ShotActivity.kt" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SettingsActivity.java" />
+      <jump line="115" column="18" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SettingsActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BaseActivity</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1Td2l0Y2hQcml2YWN5LnNldE9uQ2hlY2tlZENoYW5nZUxpc3RlbmVyKHRoaXMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>BaseActivity</text>
+        <text>error_no_network</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -1431,32 +1438,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBtVGV4dFZpZXdDb3VudDogVGV4dFZpZXcgYnkgYmluZChSLmlkLnRleHRfdmlld19jb3VudCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>BaseActivity</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1Td2l0Y2hQcml2YWN5LnNldE9uQ2hlY2tlZENoYW5nZUxpc3RlbmVyKHRoaXMpOwo=</text>
       </register>
       <register name="2" type="4">
+        <text>error_no_network</text>
+      </register>
+      <register name="3" type="4">
+        <text>setOnCheckedChangeListener</text>
+      </register>
+      <register name="4" type="4">
+        <text>BaseActivity</text>
+      </register>
+      <register name="5" type="4">
         <text>PullToReturnActivity</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHZhbCBtU2Nyb2xsVmlldzogU2Nyb2xsVmlldyBieSBiaW5kKFIuaWQuc2Nyb2xsX3Nob3QpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgICAgICAgc2V0VmVydGljYWxTY3JvbGxhYmxlVmlldyhtU2Nyb2xsVmlldykK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">a290bGluLmluY3JlbWVudGFsPXRydWUK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">a290bGluLgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">a290bGluCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">a290bGluLgo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
