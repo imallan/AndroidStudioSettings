@@ -612,10 +612,10 @@
         <mark key="^" line="105" column="31" />
         <mark key="." line="105" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/di/module/NetworkModule.java" timestamp="1462832871377">
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/di/module/NetworkModule.java" timestamp="1463162411329">
         <mark key="'" line="89" column="0" />
-        <mark key="[" line="51" column="16" />
-        <mark key="]" line="51" column="34" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="20" />
         <mark key="^" line="51" column="34" />
         <mark key="." line="51" column="34" />
       </file>
@@ -1450,8 +1450,8 @@
       <jump line="82" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QFR3aXR0ZXJTZXNzaW9uU2NvcGUK</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -1460,7 +1460,7 @@
         <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icHJlZmVyZW5jZV9sYW5ndWFnZV9zeXN0ZW1fZGVmYXVsdCIgdHJhbnNsYXRhYmxlPSJmYWxzZSI+Rm9sbG93IHN5c3RlbTwvc3RyaW5nPgo=</text>
+        <text encoding="base64">QFR3aXR0ZXJTZXNzaW9uU2NvcGUK</text>
       </register>
       <register name="1" type="4">
         <text>true</text>
