@@ -209,6 +209,9 @@
         <mark key="^" line="17" column="47" />
         <mark key="." line="17" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" timestamp="1463155005416">
+        <mark key="'" line="82" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/database/DatabaseComponent.java" timestamp="1460651466103">
         <mark key="[" line="12" column="3" />
         <mark key="]" line="13" column="9" />
@@ -1095,6 +1098,13 @@
         <mark key="." line="35" column="69" />
         <mark key="^" line="35" column="69" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1463154550405">
+        <mark key="'" line="247" column="0" />
+        <mark key="[" line="106" column="23" />
+        <mark key="]" line="106" column="27" />
+        <mark key="^" line="106" column="27" />
+        <mark key="." line="106" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/res/layout/activity_main.xml" timestamp="1460987992475">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="22" column="0" />
@@ -1337,10 +1347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostDBSource.java" />
-      <jump line="190" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostDBSource.java" />
-      <jump line="157" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostDBSource.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRemoteSource.java" />
       <jump line="57" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRepository.java" />
       <jump line="201" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostDBSource.java" />
       <jump line="230" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostDBSource.java" />
@@ -1437,13 +1443,17 @@
       <jump line="26" column="53" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values-fr/strings.xml" />
       <jump line="547" column="45" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values-fr/strings.xml" />
       <jump line="95" column="40" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/SettingsActivity.java" />
+      <jump line="247" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
+      <jump line="113" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
+      <jump line="82" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Select Language</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>Select Language</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -1452,31 +1462,31 @@
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icHJlZmVyZW5jZV9sYW5ndWFnZV9zeXN0ZW1fZGVmYXVsdCIgdHJhbnNsYXRhYmxlPSJmYWxzZSI+Rm9sbG93IHN5c3RlbTwvc3RyaW5nPgo=</text>
       </register>
       <register name="1" type="4">
-        <text>Select Language</text>
+        <text>true</text>
       </register>
       <register name="2" type="4">
-        <text>&quot;Select Language&quot;</text>
+        <text>true</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IHRyYW5zbGF0YWJsZT0iZmFsc2Ui</text>
+        <text>Select Language</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>&quot;Select Language&quot;</text>
       </register>
       <register name="5" type="4">
-        <text>n</text>
+        <text encoding="base64">IHRyYW5zbGF0YWJsZT0iZmFsc2Ui</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>n</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
