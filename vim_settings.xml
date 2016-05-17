@@ -1216,6 +1216,12 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/kotlin/com/imallan/griffin/extension/LogExtensions.kt" timestamp="1463521747812">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" timestamp="1460458297666">
         <mark key="'" line="132" column="22" />
         <mark key="[" line="74" column="0" />
@@ -1255,7 +1261,9 @@
         <mark key="^" line="128" column="50" />
         <mark key="." line="128" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/java/com/imallan/griffin/model/source/status/StatusDataSource.java" timestamp="1463157966236" />
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/androidTest/java/com/imallan/griffin/model/source/user/UserRemoteSourceTest.java" timestamp="1463438803493">
+        <mark key="'" line="53" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/CursorUtils.java" timestamp="1460549272373">
         <mark key="[" line="12" column="48" />
         <mark key="]" line="12" column="52" />
@@ -1348,8 +1356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRepository.java" />
-      <jump line="201" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostDBSource.java" />
       <jump line="230" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostDBSource.java" />
       <jump line="34" column="34" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRemoteSource.java" />
       <jump line="32" column="15" filename="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/utils/receivers/WifiScanReceiver.java" />
@@ -1448,10 +1454,12 @@
       <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
       <jump line="113" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
       <jump line="82" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/proguard.txt" />
+      <jump line="53" column="9" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/androidTest/java/com/imallan/griffin/model/source/user/UserRemoteSourceTest.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/kotlin/com/imallan/griffin/extension/LogExtensions.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QFR3aXR0ZXJTZXNzaW9uU2NvcGUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CmltcG9ydCBhbmRyb2lkLnV0aWwuTG9nCmltcG9ydCBjb20uaW1hbGxhbi5ncmlmZmluLkJ1aWxkQ29uZmlnCgovKioKICogVXNlcjogeWlsdW4KICogRGF0ZTogMTcvMDUvMjAxNgogKi8KZnVuIEFueS5sb2dkKG1zZzogU3RyaW5nLCB0YWc6IFN0cmluZz8gPSBqYXZhQ2xhc3Muc2ltcGxlTmFtZSkgewogICAgaWYgKEJ1aWxkQ29uZmlnLkRFQlVHKSB7CiAgICAgICAgTG9nLmQodGFnLCBtc2cpCiAgICB9Cn0KCmZ1biBBbnkubG9nZShtc2c6IFN0cmluZywgdGhyb3dhYmxlOiBUaHJvd2FibGU/LCB0YWc6IFN0cmluZz8gPSBqYXZhQ2xhc3Muc2ltcGxlTmFtZSkgewogICAgaWYgKEJ1aWxkQ29uZmlnLkRFQlVHKSB7CiAgICAgICAgaWYgKHRocm93YWJsZSA9PSBudWxsKSB7CiAgICAgICAgICAgIExvZy5lKHRhZywgbXNnKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIExvZy5lKHRhZywgbXNnLCB0aHJvd2FibGUpCiAgICAgICAgfQogICAgfQp9CgpmdW4gQW55LmxvZ0V4ZWN1dGlvbihtc2c6IFN0cmluZywgdGFnOiBTdHJpbmc/ID0gamF2YUNsYXNzLnNpbXBsZU5hbWUsIGZ1bmM6ICgpIC0+IFVuaXQpIHsKICAgIGlmIChCdWlsZENvbmZpZy5ERUJVRykgewogICAgICAgIHZhbCBzdGFydCA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpCiAgICAgICAgbG9nZCgiQmVmb3JlIEV4ZWN1dGlvbjogJG1zZyIsIHRhZykKICAgICAgICBmdW5jKCkKICAgICAgICBsb2dkKCJBZnRlciBFeGVjdXRpb246ICRtc2ciLCB0YWcpCiAgICAgICAgdmFsIGR0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydAogICAgICAgIGxvZ2QoIlRpbWUgZWxhcHNlZDogJGR0IikKICAgIH0gZWxzZSB7CiAgICAgICAgZnVuYygpCiAgICB9Cn0=</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -1463,31 +1471,31 @@
         <text encoding="base64">QFR3aXR0ZXJTZXNzaW9uU2NvcGUK</text>
       </register>
       <register name="1" type="4">
-        <text>true</text>
+        <text encoding="base64">CmltcG9ydCBhbmRyb2lkLnV0aWwuTG9nCmltcG9ydCBjb20uaW1hbGxhbi5ncmlmZmluLkJ1aWxkQ29uZmlnCgovKioKICogVXNlcjogeWlsdW4KICogRGF0ZTogMTcvMDUvMjAxNgogKi8KZnVuIEFueS5sb2dkKG1zZzogU3RyaW5nLCB0YWc6IFN0cmluZz8gPSBqYXZhQ2xhc3Muc2ltcGxlTmFtZSkgewogICAgaWYgKEJ1aWxkQ29uZmlnLkRFQlVHKSB7CiAgICAgICAgTG9nLmQodGFnLCBtc2cpCiAgICB9Cn0KCmZ1biBBbnkubG9nZShtc2c6IFN0cmluZywgdGhyb3dhYmxlOiBUaHJvd2FibGU/LCB0YWc6IFN0cmluZz8gPSBqYXZhQ2xhc3Muc2ltcGxlTmFtZSkgewogICAgaWYgKEJ1aWxkQ29uZmlnLkRFQlVHKSB7CiAgICAgICAgaWYgKHRocm93YWJsZSA9PSBudWxsKSB7CiAgICAgICAgICAgIExvZy5lKHRhZywgbXNnKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIExvZy5lKHRhZywgbXNnLCB0aHJvd2FibGUpCiAgICAgICAgfQogICAgfQp9CgpmdW4gQW55LmxvZ0V4ZWN1dGlvbihtc2c6IFN0cmluZywgdGFnOiBTdHJpbmc/ID0gamF2YUNsYXNzLnNpbXBsZU5hbWUsIGZ1bmM6ICgpIC0+IFVuaXQpIHsKICAgIGlmIChCdWlsZENvbmZpZy5ERUJVRykgewogICAgICAgIHZhbCBzdGFydCA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpCiAgICAgICAgbG9nZCgiQmVmb3JlIEV4ZWN1dGlvbjogJG1zZyIsIHRhZykKICAgICAgICBmdW5jKCkKICAgICAgICBsb2dkKCJBZnRlciBFeGVjdXRpb246ICRtc2ciLCB0YWcpCiAgICAgICAgdmFsIGR0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydAogICAgICAgIGxvZ2QoIlRpbWUgZWxhcHNlZDogJGR0IikKICAgIH0gZWxzZSB7CiAgICAgICAgZnVuYygpCiAgICB9Cn0=</text>
       </register>
       <register name="2" type="4">
         <text>true</text>
       </register>
       <register name="3" type="4">
-        <text>Select Language</text>
+        <text>true</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;Select Language&quot;</text>
+        <text>Select Language</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IHRyYW5zbGF0YWJsZT0iZmFsc2Ui</text>
+        <text>&quot;Select Language&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text encoding="base64">IHRyYW5zbGF0YWJsZT0iZmFsc2Ui</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>n</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
