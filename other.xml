@@ -114,6 +114,10 @@
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
   </component>
   <component name="ErrorReportConfigurable">
     <option name="ITN_LOGIN" value="" />
@@ -123,6 +127,7 @@
   </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
 </application>
