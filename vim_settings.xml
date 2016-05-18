@@ -501,6 +501,9 @@
         <mark key="^" line="88" column="65" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1463599857424">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/trending/TrendingPresenter.java" timestamp="1460538677875">
         <mark key="'" line="96" column="13" />
         <mark key="[" line="17" column="74" />
@@ -1213,7 +1216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="610" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" />
       <jump line="44" column="39" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
       <jump line="3" column="33" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
       <jump line="41" column="31" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
@@ -1313,13 +1315,14 @@
       <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/RotationExamples/app/src/main/res/layout/activity_main.xml" />
       <jump line="298" column="32" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_content_product.xml" />
       <jump line="29" column="40" filename="$USER_HOME$/Documents/GitHub/MyApplication/app/build.gradle" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/MyPlayground/app/src/main/res/layout/activity_main.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>wrap_content</text>
       </register>
       <register name="-" type="4">
-        <text>ProductActivity</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -1327,32 +1330,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2aWV3QS5zZXRSb3RhdGlvblgoODApOwogICAgICAgIHZpZXdCLnNldFJvdGF0aW9uWCg4MCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>wrap_content</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lcmF0ZSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+      <register name="3" type="4">
+        <text>wrap_content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZAo=</text>
+        <text encoding="base64">ICAgICAgICBuYW1lPSJhbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LkNhcmRWaWV3Igo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lcmF0ZSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+      <register name="5" type="4">
+        <text>TextView</text>
       </register>
       <register name="6" type="4">
-        <text>ProductActivity</text>
+        <text encoding="base64">CiAgICA8YW5kcm9pZC5zdXBwb3J0LnY3LndpZGdldC5DYXJkVmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvY2FyZFZpZXciCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjM4NGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6ZWxldmF0aW9uPSI4ZHAiCiAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVg9IjE2ZHAiCiAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVk9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iMTZkcCIKICAgICAgICB0b29sczpsYXlvdXRfY29uc3RyYWludExlZnRfY3JlYXRvcj0iMCI+CgoKICAgICAgICA8VmlldwogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3ZpZXciCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIzODRkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIzMDBkcCIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvY29sb3JBY2NlbnQiCiAgICAgICAgICAgIHRvb2xzOmxheW91dF9lZGl0b3JfYWJzb2x1dGVYPSIwZHAiCiAgICAgICAgICAgIHRvb2xzOmxheW91dF9lZGl0b3JfYWJzb2x1dGVZPSIwZHAiLz4KCiAgICA8L2FuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuQ2FyZFZpZXc+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>6</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJAK2lkL2FjdGl2aXR5X21haW4iCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>1</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsYXlvdXRjb25zdHIK</text>
       </register>
       <register name="9" type="4">
-        <text>3</text>
+        <text>7dp</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
