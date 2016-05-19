@@ -590,6 +590,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/AndroidPayActivity.java" timestamp="1463652638612">
+        <mark key="[" line="50" column="71" />
+        <mark key="]" line="50" column="80" />
+        <mark key="^" line="50" column="80" />
+        <mark key="." line="50" column="80" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/PostPaginatedDataSource.java" timestamp="1460454379794">
         <mark key="[" line="14" column="42" />
         <mark key="]" line="14" column="60" />
@@ -805,11 +811,11 @@
       <jump line="40" column="0" filename="$USER_HOME$/Documents/GitHub/GankExample/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>TEST</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>TEST</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -817,32 +823,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2UoaXQubWVzc2FnZS50b1N0cmluZygpLCBpdCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0Cg==</text>
+      <register name="1" type="4">
+        <text>TEST</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBidXR0Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uTmV4dCB7CiAgICAgICAgICAgICAgICAgICAgcmVhbG0udHJhbnNhY3QgewogICAgICAgICAgICAgICAgICAgICAgICBjb3B5VG9SZWFsbU9yVXBkYXRlKGl0LnJlc3VsdHMpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uTmV4dCB7CiAgICAgICAgICAgICAgICAgICAgcmVhbG0udHJhbnNhY3QgewogICAgICAgICAgICAgICAgICAgICAgICBjb3B5VG9SZWFsbU9yVXBkYXRlKGl0LnJlc3VsdHMpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uTmV4dCB7CiAgICAgICAgICAgICAgICAgICAgcmVhbG0udHJhbnNhY3QgewogICAgICAgICAgICAgICAgICAgICAgICBjb3B5VG9SZWFsbU9yVXBkYXRlKGl0LnJlc3VsdHMpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
