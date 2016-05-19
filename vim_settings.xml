@@ -164,6 +164,12 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/DialogBuilder.java" timestamp="1463654306022">
+        <mark key="[" line="71" column="23" />
+        <mark key="]" line="71" column="37" />
+        <mark key="." line="71" column="37" />
+        <mark key="^" line="71" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/GankExample/app/src/main/kotlin/com/imallan/gankexample/api/API.kt" timestamp="1461338012416">
         <mark key="[" line="28" column="13" />
         <mark key="]" line="28" column="21" />
@@ -814,10 +820,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TEST</text>
+        <text>NeutralButton</text>
       </register>
       <register name="-" type="4">
-        <text>TEST</text>
+        <text>NeutralButton</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -826,31 +832,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2UoaXQubWVzc2FnZS50b1N0cmluZygpLCBpdCkK</text>
       </register>
       <register name="1" type="4">
+        <text>NeutralButton</text>
+      </register>
+      <register name="2" type="4">
         <text>TEST</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBidXR0Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uTmV4dCB7CiAgICAgICAgICAgICAgICAgICAgcmVhbG0udHJhbnNhY3QgewogICAgICAgICAgICAgICAgICAgICAgICBjb3B5VG9SZWFsbU9yVXBkYXRlKGl0LnJlc3VsdHMpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uTmV4dCB7CiAgICAgICAgICAgICAgICAgICAgcmVhbG0udHJhbnNhY3QgewogICAgICAgICAgICAgICAgICAgICAgICBjb3B5VG9SZWFsbU9yVXBkYXRlKGl0LnJlc3VsdHMpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uTmV4dCB7CiAgICAgICAgICAgICAgICAgICAgcmVhbG0udHJhbnNhY3QgewogICAgICAgICAgICAgICAgICAgICAgICBjb3B5VG9SZWFsbU9yVXBkYXRlKGl0LnJlc3VsdHMpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
