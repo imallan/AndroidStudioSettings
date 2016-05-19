@@ -120,7 +120,7 @@
         <mark key="^" line="1479" column="52" />
         <mark key="." line="1479" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" timestamp="1463665292359">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" timestamp="1463667243518">
         <mark key="'" line="1740" column="0" />
         <mark key="[" line="1738" column="57" />
         <mark key="]" line="1739" column="7" />
@@ -836,6 +836,9 @@
       <file name="$USER_HOME$/Documents/GitHub/android-UniversalMusicPlayer/mobile/src/main/java/com/example/android/uamp/ui/MusicPlayerActivity.java" timestamp="1461147589770">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ExploreRecyclerAdapter.java" timestamp="1463667675094">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/GankExample/app/src/main/AndroidManifest.xml" timestamp="1461336514886">
         <mark key="[" line="6" column="16" />
         <mark key="]" line="7" column="35" />
@@ -1228,7 +1231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="26" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
       <jump line="0" column="13" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
       <jump line="567" column="44" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" />
       <jump line="606" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" />
@@ -1328,6 +1330,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/UserService.java" />
       <jump line="749" column="13" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" />
       <jump line="1733" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ExploreRecyclerAdapter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
