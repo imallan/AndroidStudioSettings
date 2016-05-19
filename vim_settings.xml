@@ -114,7 +114,7 @@
         <mark key="^" line="17" column="85" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Analytics.java" timestamp="1463655761555">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Analytics.java" timestamp="1463657187670">
         <mark key="[" line="1479" column="42" />
         <mark key="]" line="1479" column="52" />
         <mark key="^" line="1479" column="52" />
@@ -742,6 +742,12 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="36" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/gradle.properties" timestamp="1463657585571">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/BluetoothExample/app/build.gradle" timestamp="1460042044852">
         <mark key="'" line="4" column="1" />
         <mark key="[" line="29" column="52" />
@@ -1324,10 +1330,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LIKE_DIALOG</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>LIKE_DIALOG</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -1336,28 +1342,28 @@
         <text encoding="base64">ICAgICAgICBBbmFseXRpY3MudHJhY2tBbnN3ZXJzQ29udGVudFZpZXcoCiAgICAgICAgICAgICAgICBuZXcgQ29udGVudFZpZXdFdmVudCgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5wdXRDb250ZW50VHlwZShBbmFseXRpY3MuRmFicmljQW5zd2Vycy5SRVZJRVdfTElLRV9ESUFMT0cpCiAgICAgICAgKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>LIKE_DIALOG</text>
+        <text>8</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>4</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>0</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdXQK</text>
+      <register name="4" type="4">
+        <text>2</text>
       </register>
       <register name="5" type="4">
-        <text>LIKE_DIALOG</text>
+        <text>2</text>
       </register>
-      <register name="6" type="4">
-        <text>Like</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBbmFseXRpY3MudHJhY2tBbnN3ZXJzQ29udGVudFZpZXcoCiAgICAgICAgICAgICAgICBuZXcgQ29udGVudFZpZXdFdmVudCgpLik7Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">a290bGluLmluY3JlbWVudGFsPXRydWUK</text>
+      </register>
+      <register name="8" type="4">
+        <text>LIKE_DIALOG</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
