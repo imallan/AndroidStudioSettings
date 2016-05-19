@@ -29,7 +29,7 @@
         <mark key="^" line="35" column="91" />
         <mark key="." line="35" column="91" />
       </file>
-      <file name="/a.dummy" timestamp="1463674316222">
+      <file name="/a.dummy" timestamp="1463676834766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/di/component/ShotActivityComponent.kt" timestamp="1461016647844">
@@ -380,11 +380,11 @@
         <mark key="^" line="296" column="75" />
         <mark key="." line="296" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/explore/ExploreRemoteSourceTest.java" timestamp="1463674182952">
-        <mark key="[" line="15" column="14" />
-        <mark key="]" line="15" column="38" />
-        <mark key="^" line="15" column="38" />
-        <mark key="." line="15" column="38" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/explore/ExploreRemoteSourceTest.java" timestamp="1463676941300">
+        <mark key="[" line="30" column="77" />
+        <mark key="]" line="31" column="39" />
+        <mark key="." line="31" column="39" />
+        <mark key="^" line="31" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/GankExample/app/src/main/kotlin/com/imallan/gankexample/model/Response.kt" timestamp="1461337776220">
         <mark key="[" line="10" column="22" />
@@ -404,8 +404,11 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/DataComponent.java" timestamp="1463674395264">
-        <mark key="[" line="48" column="64" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/DataComponent.java" timestamp="1463676826222">
+        <mark key="[" line="37" column="46" />
+        <mark key="]" line="37" column="47" />
+        <mark key="^" line="37" column="47" />
+        <mark key="." line="37" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/DaggerExamples/app/src/main/java/com/imallan/daggerexamples/ActivityComponent.java" timestamp="1460640128967">
         <mark key="[" line="8" column="0" />
@@ -1300,7 +1303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="35" filename="$USER_HOME$/Documents/GitHub/agera/samples/BasicSample/app/src/main/java/com/example/android/agera/basicsample/UsernamesRepository.java" />
       <jump line="39" column="0" filename="$USER_HOME$/Documents/GitHub/agera/samples/BasicSample/app/src/main/java/com/example/android/agera/basicsample/UsernamesRepository.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/android-UniversalMusicPlayer/mobile/src/main/java/com/example/android/uamp/ui/MusicPlayerActivity.java" />
       <jump line="642" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" />
@@ -1400,51 +1402,44 @@
       <jump line="11087" column="0" filename="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/recyclerview-v7/23.4.0/recyclerview-v7-23.4.0-sources.jar!/android/support/v7/widget/RecyclerView.java" />
       <jump line="22" column="25" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ExploreFragment.java" />
       <jump line="57" column="51" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ExploreFragment.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/explore/ExploreRemoteSourceTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmlldyBtSGVhZGVyVmlldzsK</text>
+      <register name="&quot;" type="4">
+        <text>getPostRemoteSource</text>
       </register>
       <register name="-" type="4">
-        <text>inject</text>
+        <text>getPostRemoteSource</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoKE1haW5BY3Rpdml0eUNvbXBvbmVudCkgU2hvcGNhZGVBcHBsaWNhdGlvbi5nZXRDb21wb25lbnQoCiAgICAgICAgICAgICAgICBnZXRDb21wb25lbnRLZXkoTWFpbkFjdGl2aXR5Q29tcG9uZW50LmNsYXNzKSwKICAgICAgICAgICAgICAgICgpIC0+IFNob3BjYWRlQXBwbGljYXRpb24uZ2V0RGF0YUNvbXBvbmVudCgpLnBsdXMobmV3IE1haW5BY3Rpdml0eU1vZHVsZSgpKQogICAgICAgICkpLmluamVjdCh0aGlzKTsK</text>
+        <text encoding="base64">ICAgIFByb2R1Y3RSZW1vdGVTb3VyY2UgZ2V0UHJvZHVjdFJlbW90ZVNvdXJjZSgpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmlldyBtSGVhZGVyVmlldzsK</text>
+      <register name="1" type="4">
+        <text>getPostRemoteSource</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1SZWN5Y2xlclZpZXcuc2V0SGFzSGVhZGVyKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtUG9zdFJlbW90ZVNvdXJjZS5nZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1IZWFkZXJWaWV3LmZpbmRWaWV3QnlJZChSLmlkLmV4cGxvcmVfaGVhZGVyX25ldykuc2V0T25DbGlja0xpc3Rlc3BhcmVudCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0c3ViCg==</text>
       </register>
       <register name="4" type="4">
-        <text>ner(this);
-//        mHeaderView.findViewById(R.id.explore_header_hot).setOnClickListener(this);
-//        mHeaderView.findViewById(R.id.explore_header_for_you).setOnClickListener(this);
-//        ((ImageView) mHeaderView.findViewById(R.id.explore_header_new_image))
-//                .setColorFilter(getResources().getColor(R.color.black_transparent));
-//        ((ImageView) mHeaderView.findViewById(R.id.explore_header_hot_image))
-//                .setColorFilter(getResources().getColor(R.color.black_transparent));
-//        ((ImageView) mHeaderView.findViewById(R.id.explore_header_trends_image))
-//                .setColorFilter(getResources().getColor(R.color.black_tran</text>
+        <text>Name</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBFeHBsb3JlRnJhZ21lbnQgZXhwbG9yZUZyYWdtZW50ID0gKEV4cGxvcmVGcmFnbWVudCkgbUFkYXB0ZXIuZ2V0UmVnaXN0ZXJlZEZyYWdtZW50KDEpOwovLyAgICAgICAgICAgICAgICBpZiAoZXhwbG9yZUZyYWdtZW50ICE9IG51bGwpIHsKLy8gICAgICAgICAgICAgICAgICAgIGV4cGxvcmVGcmFnbWVudC5zZWFyY2godik7Ci8vICAgICAgICAgICAgICAgIH0=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>getPostDbSource</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRBcHBsaWNhdGlvbigpLmdldAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
