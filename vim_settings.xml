@@ -120,12 +120,12 @@
         <mark key="^" line="1479" column="52" />
         <mark key="." line="1479" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" timestamp="1460458297666">
-        <mark key="'" line="132" column="22" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="101" />
-        <mark key="^" line="450" column="60" />
-        <mark key="." line="450" column="60" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" timestamp="1463664617066">
+        <mark key="'" line="1740" column="0" />
+        <mark key="[" line="1738" column="57" />
+        <mark key="]" line="1739" column="7" />
+        <mark key="^" line="1739" column="7" />
+        <mark key="." line="1739" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/TYPE_LIKE.java" timestamp="1461231348492">
         <mark key="[" line="6" column="12" />
@@ -855,11 +855,12 @@
         <mark key="^" line="79" column="60" />
         <mark key="." line="79" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" timestamp="1461231546657">
-        <mark key="[" line="986" column="4" />
-        <mark key="]" line="986" column="13" />
-        <mark key="." line="986" column="13" />
-        <mark key="^" line="986" column="13" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" timestamp="1463664320736">
+        <mark key="'" line="749" column="13" />
+        <mark key="[" line="1035" column="5" />
+        <mark key="]" line="1035" column="5" />
+        <mark key="." line="1035" column="5" />
+        <mark key="^" line="1035" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/MainActivityComponent.kt" timestamp="1460986673124">
         <mark key="[" line="7" column="3" />
@@ -1227,8 +1228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="31" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
-      <jump line="42" column="32" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
       <jump line="34" column="26" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
       <jump line="0" column="13" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
       <jump line="567" column="44" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" />
@@ -1327,46 +1326,50 @@
       <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/MyPlayground/app/src/main/res/layout/activity_main.xml" />
       <jump line="148" column="86" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/StoreRatingHelper.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/UserService.java" />
+      <jump line="749" column="13" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" />
+      <jump line="1733" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Optimizing build time</text>
+        <text>APIPost.VERSION, APIPost.PLATFORM, user.getDeviceId(),
+                user.getServerId()</text>
       </register>
       <register name="-" type="4">
-        <text>Optimizing build time</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBbmFseXRpY3MudHJhY2tBbnN3ZXJzQ29udGVudFZpZXcoCiAgICAgICAgICAgICAgICBuZXcgQ29udGVudFZpZXdFdmVudCgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5wdXRDb250ZW50VHlwZShBbmFseXRpY3MuRmFicmljQW5zd2Vycy5SRVZJRVdfTElLRV9ESUFMT0cpCiAgICAgICAgKTsK</text>
+      <register name="0" type="4">
+        <text>APIPost.VERSION, APIPost.PLATFORM, user.getDeviceId(),
+                user.getServerId()</text>
       </register>
-      <register name="1" type="4">
-        <text>Optimizing build time</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgL2V4cGxvcmUvaW5kZXgvP3Y9NS4xJnBsdD13ZWImZGk9d2ViCg==</text>
       </register>
       <register name="2" type="4">
-        <text>0</text>
+        <text>A</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text>Page</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text>/</text>
       </register>
       <register name="5" type="4">
-        <text>6</text>
+        <text>Optimizing build time</text>
       </register>
       <register name="6" type="4">
-        <text>2</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>2</text>
+        <text>6</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
