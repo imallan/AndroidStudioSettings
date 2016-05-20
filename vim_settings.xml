@@ -15,8 +15,8 @@
         <mark key="^" line="29" column="48" />
         <mark key="." line="29" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1463734102796">
-        <mark key="'" line="533" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1463737960509">
+        <mark key="'" line="77" column="2" />
         <mark key="[" line="533" column="0" />
         <mark key="]" line="533" column="0" />
         <mark key="^" line="533" column="0" />
@@ -557,6 +557,9 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProductActivity.java" timestamp="1461326589910">
         <mark key="'" line="233" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1463737970808">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AgeraExample/app/src/main/res/layout/activity_main.xml" timestamp="1461143770749">
         <mark key="[" line="12" column="14" />
@@ -1261,12 +1264,12 @@
         <mark key="^" line="128" column="50" />
         <mark key="." line="128" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/explore/ExploreRepository.java" timestamp="1463736058323">
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/explore/ExploreRepository.java" timestamp="1463737994846">
         <mark key="'" line="58" column="0" />
-        <mark key="[" line="40" column="39" />
-        <mark key="]" line="40" column="42" />
-        <mark key="^" line="40" column="42" />
-        <mark key="." line="40" column="42" />
+        <mark key="[" line="32" column="41" />
+        <mark key="]" line="32" column="53" />
+        <mark key="^" line="32" column="53" />
+        <mark key="." line="32" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/Post/PostDataSource.java" timestamp="1460454613964">
         <mark key="[" line="23" column="30" />
@@ -1315,7 +1318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostDBSource.java" />
       <jump line="230" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostDBSource.java" />
       <jump line="34" column="34" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRemoteSource.java" />
       <jump line="32" column="15" filename="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/utils/receivers/WifiScanReceiver.java" />
@@ -1415,13 +1417,14 @@
       <jump line="71" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/ExploreComponent.java" />
       <jump line="50" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/ExploreComponent.java" />
       <jump line="87" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/ExploreComponent.java" />
+      <jump line="77" column="2" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>type</text>
+        <text>ForceRefresh</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>ForceRefresh</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -1430,7 +1433,7 @@
         <text encoding="base64">ICAgIEBTZXJpYWxpemVkTmFtZSgidHlwZSIpCiAgICBwcml2YXRlIFN0cmluZyB0eXBlOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>type</text>
+        <text>ForceRefresh</text>
       </register>
       <register name="2" type="4">
         <text>type</text>
@@ -1439,22 +1442,22 @@
         <text>type</text>
       </register>
       <register name="4" type="4">
-        <text>title</text>
+        <text>type</text>
       </register>
       <register name="5" type="4">
         <text>title</text>
       </register>
       <register name="6" type="4">
+        <text>title</text>
+      </register>
+      <register name="7" type="4">
         <text>String</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIEBTZXJpYWxpemVkTmFtZSgidGl0bGUiKQogICAgcHJpdmF0ZSBTdHJpbmcgdGl0bGU7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>image</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
