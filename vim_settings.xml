@@ -164,6 +164,11 @@
         <mark key="^" line="50" column="39" />
         <mark key="." line="50" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/build.gradle" timestamp="1463740848622">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/AppModule.kt" timestamp="1460971047594">
         <mark key="[" line="21" column="13" />
         <mark key="]" line="22" column="13" />
@@ -999,6 +1004,9 @@
         <mark key="^" line="30" column="33" />
         <mark key="." line="30" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" timestamp="1463740831203">
+        <mark key="'" line="7" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/SearchBrandsFragment.java" timestamp="1459353003923">
         <mark key="'" line="75" column="71" />
         <mark key="[" line="81" column="53" />
@@ -1319,8 +1327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="34" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRemoteSource.java" />
-      <jump line="32" column="15" filename="$USER_HOME$/Documents/GitHub/TreatmentDevice/app/src/main/java/com/bjghhnt/app/treatmentdevice/utils/receivers/WifiScanReceiver.java" />
       <jump line="133" column="12" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" />
       <jump line="587" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRemoteSource.java" />
@@ -1419,10 +1425,12 @@
       <jump line="87" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/ExploreComponent.java" />
       <jump line="77" column="2" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
+      <jump line="6" column="76" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
+      <jump line="7" column="4" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwhLS08dXNlcy1mZWF0dXJlLS0+CiAgICAgICAgPCEtLWFuZHJvaWQ6bmFtZT0iYW5kcm9pZC4iLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5uZWVuYmVkYW5rdC5ncmFkbGUucGx1Z2luczphbmRyb2lkLWFwdDoxLjQnCg==</text>
       </register>
       <register name="-" type="4">
         <text>ForceRefresh</text>
@@ -1434,13 +1442,13 @@
         <text encoding="base64">ICAgIEBTZXJpYWxpemVkTmFtZSgidHlwZSIpCiAgICBwcml2YXRlIFN0cmluZyB0eXBlOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5uZWVuYmVkYW5rdC5ncmFkbGUucGx1Z2luczphbmRyb2lkLWFwdDoxLjQnCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIDwhLS08dXNlcy1mZWF0dXJlLS0+CiAgICAgICAgPCEtLWFuZHJvaWQ6bmFtZT0iYW5kcm9pZC4iLS0+Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>ForceRefresh</text>
-      </register>
       <register name="3" type="4">
-        <text>type</text>
+        <text>ForceRefresh</text>
       </register>
       <register name="4" type="4">
         <text>type</text>
@@ -1449,16 +1457,16 @@
         <text>type</text>
       </register>
       <register name="6" type="4">
-        <text>title</text>
+        <text>type</text>
       </register>
       <register name="7" type="4">
         <text>title</text>
       </register>
       <register name="8" type="4">
-        <text>String</text>
+        <text>title</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>String</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
