@@ -164,7 +164,7 @@
         <mark key="^" line="50" column="39" />
         <mark key="." line="50" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/build.gradle" timestamp="1463740848622">
+      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/build.gradle" timestamp="1463740965239">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -745,6 +745,11 @@
         <mark key="^" line="380" column="30" />
         <mark key="." line="380" column="77" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_main.xml" timestamp="1463741006775">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/behavior/ScrollingAwareFABBehavior.java" timestamp="1460712685324">
         <mark key="'" line="28" column="12" />
         <mark key="[" line="14" column="78" />
@@ -1004,8 +1009,8 @@
         <mark key="^" line="30" column="33" />
         <mark key="." line="30" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" timestamp="1463740831203">
-        <mark key="'" line="7" column="4" />
+      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" timestamp="1463740981785">
+        <mark key="'" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/SearchBrandsFragment.java" timestamp="1459353003923">
         <mark key="'" line="75" column="71" />
@@ -1327,10 +1332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="12" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/PostAdapter.java" />
-      <jump line="587" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/PostActivity.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRemoteSource.java" />
-      <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRepository.java" />
       <jump line="56" column="17" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRepository.java" />
       <jump line="95" column="16" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRepository.java" />
       <jump line="68" column="15" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/post/PostPresenter.java" />
@@ -1427,10 +1428,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
       <jump line="6" column="76" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
       <jump line="7" column="4" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
+      <jump line="50" column="16" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
+      <jump line="51" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_main.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5uZWVuYmVkYW5rdC5ncmFkbGUucGx1Z2luczphbmRyb2lkLWFwdDoxLjQnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ForceRefresh</text>
@@ -1442,31 +1447,31 @@
         <text encoding="base64">ICAgIEBTZXJpYWxpemVkTmFtZSgidHlwZSIpCiAgICBwcml2YXRlIFN0cmluZyB0eXBlOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICA8Y29tLmdvb2dsZS5hbmRyb2lkLmZsZXhib3guRmxleGJveExheW91dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbGF5b3V0X2ZsZXhib3giCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhcHA6YWxpZ25Db250ZW50PSJzdHJldGNoIgogICAgICAgIGFwcDphbGlnbkl0ZW1zPSJmbGV4X3N0YXJ0IgogICAgICAgIGFwcDpmbGV4RGlyZWN0aW9uPSJyb3ciCiAgICAgICAgYXBwOmZsZXhXcmFwPSJ3cmFwIgogICAgICAgIGFwcDpqdXN0aWZ5Q29udGVudD0iZmxleF9zdGFydCI+CgogICAgICAgIDxUZXh0VmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSI0ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGFuZHJvaWQ6Y29sb3IvaG9sb19ncmVlbl9kYXJrIgogICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjhkcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSI2NjY2NjYiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dEFsaWdubWVudD0iY2VudGVyIgogICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjQwc3AiLz4KCiAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW49IjRkcCIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAYW5kcm9pZDpjb2xvci9ob2xvX2dyZWVuX2RhcmsiCiAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iOGRwIgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9Ijc3Nzc3NzciCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dEFsaWdubWVudD0iY2VudGVyIgogICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjQwc3AiLz4KCiAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW49IjRkcCIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAYW5kcm9pZDpjb2xvci9ob2xvX2dyZWVuX2RhcmsiCiAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iOGRwIgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9Ijk5OTk5OTk5OSIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0QWxpZ25tZW50PSJjZW50ZXIiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAYW5kcm9pZDpjb2xvci93aGl0ZSIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iNDBzcCIvPgoKICAgIDwvY29tLmdvb2dsZS5hbmRyb2lkLmZsZXhib3guRmxleGJveExheW91dD4=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5uZWVuYmVkYW5rdC5ncmFkbGUucGx1Z2luczphbmRyb2lkLWFwdDoxLjQnCg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIDwhLS08dXNlcy1mZWF0dXJlLS0+CiAgICAgICAgPCEtLWFuZHJvaWQ6bmFtZT0iYW5kcm9pZC4iLS0+Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>ForceRefresh</text>
-      </register>
-      <register name="4" type="4">
-        <text>type</text>
-      </register>
       <register name="5" type="4">
-        <text>type</text>
+        <text>ForceRefresh</text>
       </register>
       <register name="6" type="4">
         <text>type</text>
       </register>
       <register name="7" type="4">
-        <text>title</text>
+        <text>type</text>
       </register>
       <register name="8" type="4">
-        <text>title</text>
+        <text>type</text>
       </register>
       <register name="9" type="4">
-        <text>String</text>
+        <text>title</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
