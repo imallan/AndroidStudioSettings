@@ -380,11 +380,11 @@
         <mark key="^" line="296" column="75" />
         <mark key="." line="296" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/explore/ExploreRemoteSourceTest.java" timestamp="1463676941300">
-        <mark key="[" line="30" column="77" />
-        <mark key="]" line="31" column="39" />
-        <mark key="." line="31" column="39" />
-        <mark key="^" line="31" column="39" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/explore/ExploreRemoteSourceTest.java" timestamp="1463733390726">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="33" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/GankExample/app/src/main/kotlin/com/imallan/gankexample/model/Response.kt" timestamp="1461337776220">
         <mark key="[" line="10" column="22" />
@@ -1405,44 +1405,44 @@
       <jump line="26" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/explore/ExploreRemoteSourceTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getPostRemoteSource</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getPostRemoteSource</text>
+        <text>assertNoErrors</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFByb2R1Y3RSZW1vdGVTb3VyY2UgZ2V0UHJvZHVjdFJlbW90ZVNvdXJjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpYmVyLmFzc2VydE5vRXJyb3JzKCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>getPostRemoteSource</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtUG9zdFJlbW90ZVNvdXJjZS5nZXQK</text>
+      <register name="2" type="4">
+        <text>assertNoErrors</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0c3ViCg==</text>
+      <register name="3" type="4">
+        <text>assertCompleted</text>
       </register>
       <register name="4" type="4">
-        <text>Name</text>
+        <text encoding="base64">Pg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>Request</text>
       </register>
       <register name="7" type="4">
-        <text>getPostDbSource</text>
+        <text>getPostRemoteSource</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRBcHBsaWNhdGlvbigpLmdldAo=</text>
+        <text encoding="base64">ICAgICAgICBtUG9zdFJlbW90ZVNvdXJjZS5nZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0c3ViCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
