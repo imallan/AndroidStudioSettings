@@ -22,10 +22,11 @@
         <mark key="^" line="533" column="0" />
         <mark key="." line="533" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" timestamp="1463741167044">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/java/com/imallan/kotlinplayground/MainActivity.kt" timestamp="1463744802400">
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="9" column="42" />
+        <mark key="." line="9" column="42" />
+        <mark key="^" line="9" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/db/PostDBSourceTest.java" timestamp="1460979245393">
         <mark key="'" line="36" column="0" />
@@ -169,10 +170,12 @@
         <mark key="^" line="50" column="39" />
         <mark key="." line="50" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/build.gradle" timestamp="1463740965239">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/build.gradle" timestamp="1463745501038">
+        <mark key="'" line="7" column="61" />
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="7" column="61" />
+        <mark key="." line="7" column="61" />
+        <mark key="^" line="7" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/AppModule.kt" timestamp="1460971047594">
         <mark key="[" line="21" column="13" />
@@ -536,12 +539,12 @@
         <mark key="^" line="18" column="76" />
         <mark key="." line="18" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_my.xml" timestamp="1463743453620">
+      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_my.xml" timestamp="1463744580661">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="8" />
-        <mark key="." line="12" column="8" />
-        <mark key="^" line="12" column="8" />
+        <mark key="[" line="105" column="30" />
+        <mark key="]" line="105" column="41" />
+        <mark key="." line="105" column="41" />
+        <mark key="^" line="105" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/repository/UserRepository.kt" timestamp="1461016099524">
         <mark key="[" line="10" column="49" />
@@ -585,7 +588,7 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProductActivity.java" timestamp="1461326589910">
         <mark key="'" line="233" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463743655599">
+      <file name="/Dummy.txt" timestamp="1463745485186">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AgeraExample/app/src/main/res/layout/activity_main.xml" timestamp="1461143770749">
@@ -1030,8 +1033,8 @@
         <mark key="^" line="30" column="33" />
         <mark key="." line="30" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" timestamp="1463741263252">
-        <mark key="'" line="49" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" timestamp="1463745512378">
+        <mark key="'" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/SearchBrandsFragment.java" timestamp="1459353003923">
         <mark key="'" line="75" column="71" />
@@ -1353,9 +1356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="20" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Product.java" />
-      <jump line="88" column="44" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/mapper/ProductMapper.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/mapper/ProductMapper.java" />
       <jump line="96" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/mapper/ProductMapper.java" />
       <jump line="78" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProductActivity.java" />
       <jump line="233" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProductActivity.java" />
@@ -1453,13 +1453,16 @@
       <jump line="19" column="4" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_my.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_my.xml" />
       <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_my.xml" />
+      <jump line="7" column="61" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/build.gradle" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ImageView</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>ImageView</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -1468,31 +1471,31 @@
         <text encoding="base64">ICAgIEBTZXJpYWxpemVkTmFtZSgidHlwZSIpCiAgICBwcml2YXRlIFN0cmluZyB0eXBlOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>ImageView</text>
+        <text>-</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGNvbG9yL2FiY19zZWFyY2hfdXJsX3RleHRfbm9ybWFsIgo=</text>
+      <register name="2" type="4">
+        <text>main</text>
       </register>
       <register name="3" type="4">
-        <text>41c1dp</text>
+        <text>16dp</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWT0iMGRwIgo=</text>
+      <register name="4" type="4">
+        <text>mcwini</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iOGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICBzaXplCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRvb2xzOmxheW91dF9lZGl0b3JfYWJzb2x1dGVZPSIyNGRwIj4K</text>
+      <register name="6" type="4">
+        <text>ImageView</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRvb2xzOmxheW91dF9lZGl0b3JfYWJzb2x1dGVYPSIwZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGNvbG9yL2FiY19zZWFyY2hfdXJsX3RleHRfbm9ybWFsIgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjE2ZHAiCg==</text>
+      <register name="8" type="4">
+        <text>41c1dp</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjE2ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWT0iMGRwIgo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
