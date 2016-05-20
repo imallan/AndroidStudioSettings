@@ -770,11 +770,10 @@
         <mark key="^" line="380" column="30" />
         <mark key="." line="380" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_main.xml" timestamp="1463755070001">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="15" column="49" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_main.xml" timestamp="1463756515015">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/behavior/ScrollingAwareFABBehavior.java" timestamp="1460712685324">
         <mark key="'" line="28" column="12" />
@@ -1456,12 +1455,12 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_my.xml" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_main.xml" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_main.xml" />
-      <jump line="1" column="10" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_main.xml" />
       <jump line="52" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_main.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_main.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSBsYXlvdXQ9IkBsYXlvdXQvbGF5b3V0X2NvbnN0cmFpbnQiLz4K</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPExpbmVhckxheW91dAo=</text>
       </register>
       <register name="-" type="4">
         <text>7</text>
@@ -1470,34 +1469,34 @@
         <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSBsYXlvdXQ9IkBsYXlvdXQvbGF5b3V0X2NvbnN0cmFpbnQiLz4K</text>
+        <text encoding="base64">ICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSBsYXlvdXQ9IkBsYXlvdXQvbGF5b3V0X2NvbnN0cmFpbnQiLz4K</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPExpbmVhckxheW91dAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>7</text>
-      </register>
-      <register name="3" type="4">
-        <text>7</text>
-      </register>
-      <register name="4" type="4">
-        <text>8</text>
-      </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIj4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PFNjcm9sbFZpZXcKICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSBsYXlvdXQ9IkBsYXlvdXQvbGF5b3V0X2NvbnN0cmFpbnQiLz4K</text>
+        <text encoding="base64">PC9TY3JvbGxWaWV3Pgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSBsYXlvdXQ9IkBsYXlvdXQvbGF5b3V0X2NvbnN0cmFpbnQiLz4K</text>
+        <text encoding="base64">PC9TY3JvbGxWaWV3Pgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>408dp</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
