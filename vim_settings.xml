@@ -15,8 +15,8 @@
         <mark key="^" line="29" column="48" />
         <mark key="." line="29" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1463994438297">
-        <mark key="'" line="483" column="4" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1463995040387">
+        <mark key="'" line="521" column="0" />
         <mark key="[" line="533" column="0" />
         <mark key="]" line="533" column="0" />
         <mark key="^" line="533" column="0" />
@@ -1379,10 +1379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="8" filename="$USER_HOME$/Documents/GitHub/GankExample/app/build.gradle" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/GitHub/GankExample/app/build.gradle" />
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/GankExample/app/build.gradle" />
-      <jump line="51" column="0" filename="$USER_HOME$/Documents/GitHub/GankExample/app/build.gradle" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/GitHub/GankExample/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="21" column="23" filename="$USER_HOME$/Documents/GitHub/GankExample/app/build.gradle" />
@@ -1479,6 +1475,10 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_main.xml" />
       <jump line="106" column="16" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="483" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
+      <jump line="78" column="51" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
+      <jump line="476" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
+      <jump line="521" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

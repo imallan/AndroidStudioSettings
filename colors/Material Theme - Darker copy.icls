@@ -1412,9 +1412,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XPATH.XPATH_NAME">
-      <value />
-    </option>
     <option name="XPATH.XPATH_VARIABLE">
       <value>
         <option name="FOREGROUND" value="f38630" />
