@@ -15,8 +15,8 @@
         <mark key="^" line="29" column="48" />
         <mark key="." line="29" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1463737960509">
-        <mark key="'" line="77" column="2" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" timestamp="1463993446560">
+        <mark key="'" line="483" column="4" />
         <mark key="[" line="533" column="0" />
         <mark key="]" line="533" column="0" />
         <mark key="^" line="533" column="0" />
@@ -444,7 +444,6 @@
         <mark key="." line="57" column="54" />
         <mark key="^" line="57" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.kt" timestamp="1463759975031" />
       <file name="$USER_HOME$/Documents/GitHub/Playground/build.gradle" timestamp="1463760035655">
         <mark key="[" line="8" column="55" />
         <mark key="]" line="8" column="55" />
@@ -1258,12 +1257,12 @@
         <mark key="^" line="14" column="60" />
         <mark key="." line="14" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1463759395154">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="116" column="23" />
-        <mark key="]" line="116" column="27" />
-        <mark key="." line="116" column="27" />
-        <mark key="^" line="116" column="27" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1463993422365">
+        <mark key="'" line="106" column="16" />
+        <mark key="[" line="111" column="23" />
+        <mark key="]" line="111" column="27" />
+        <mark key="." line="111" column="27" />
+        <mark key="^" line="111" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/TrendingPostContract.java" timestamp="1460467155553">
         <mark key="[" line="14" column="5" />
@@ -1380,8 +1379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="16" filename="$USER_HOME$/Documents/GitHub/GankExample/app/build.gradle" />
-      <jump line="50" column="0" filename="$USER_HOME$/Documents/GitHub/GankExample/app/build.gradle" />
       <jump line="8" column="8" filename="$USER_HOME$/Documents/GitHub/GankExample/app/build.gradle" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/GitHub/GankExample/app/build.gradle" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/GankExample/app/build.gradle" />
@@ -1480,6 +1477,8 @@
       <jump line="15" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_main.xml" />
       <jump line="52" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_main.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_main.xml" />
+      <jump line="106" column="16" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="483" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
