@@ -82,11 +82,10 @@
       <file name="$USER_HOME$/Documents/GitHub/GankExample/app/src/main/res/layout/activity_main.xml" timestamp="1461337299972">
         <mark key="[" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ShoppingBasketFragment.java" timestamp="1465316996709">
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="^" line="188" column="7" />
-        <mark key="." line="185" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ShoppingBasketFragment.java" timestamp="1465318119538">
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="282" column="0" />
+        <mark key="." line="282" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/DataComponent.java" timestamp="1463676826222">
         <mark key="[" line="37" column="46" />
@@ -1519,7 +1518,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWN0aXZpdHkK</text>
       </register>
       <register name="-" type="4">
         <text>tokenStr</text>
@@ -1531,35 +1530,35 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2hvcHBpbmdTZXJ2aWNlLnBheUJhc2tldChhY3Rpdml0eSwgc2VydmljZXNSZWNlaXZlciwgc2VsZWN0ZWRBZGRyZXNzSWQsIGNhcmRJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWN0aXZpdHkK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2V0QWN0aXZpdHkoKS4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0QWN0aXZpdHlDaGVja291dEJ1dHRvbih0cnVlKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25TdGFydCgpIHsKICAgICAgICBzdXBlci5vblN0YXJ0KCk7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>updateBasket();
         if (UserUtils.performLoginCheck(activity, false)) {
             checkCard();
             checkAddress();
         }</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtUHJvZ3Jlc3NEaWFsb2cuZGlzbWlzcygpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>tokenStr</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaW5hbCBTdHJpbmcgdG9rZW5TdHIgPSB0b2tlbkpTT047Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>cardId</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cGRhdGVDaGVja291dEJ1dHRvbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
