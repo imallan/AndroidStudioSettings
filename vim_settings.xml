@@ -15,9 +15,6 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
       </file>
-      <file name="/a.dummy" timestamp="1465306873462">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values/styles.xml" timestamp="1465298376588">
         <mark key="[" line="368" column="0" />
         <mark key="]" line="368" column="0" />
@@ -642,9 +639,6 @@
         <mark key="]" line="9" column="44" />
         <mark key="." line="9" column="44" />
         <mark key="^" line="9" column="44" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1465307912218">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/explore/ExploreDataSource.java" timestamp="1463734624843">
         <mark key="[" line="14" column="51" />
