@@ -15,7 +15,7 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
       </file>
-      <file name="/a.dummy" timestamp="1463736058713">
+      <file name="/a.dummy" timestamp="1465291587940">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostDBSource.java" timestamp="1463673283316">
@@ -1405,6 +1405,12 @@
         <mark key="." line="80" column="26" />
         <mark key="^" line="80" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ShoppingBasketActivity.java" timestamp="1465291908765">
+        <mark key="[" line="51" column="71" />
+        <mark key="]" line="51" column="74" />
+        <mark key="." line="51" column="74" />
+        <mark key="^" line="51" column="74" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="29" column="40" filename="$USER_HOME$/Documents/GitHub/MyApplication/app/build.gradle" />
@@ -1510,10 +1516,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>PRODUCTION</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>PRODUCTION</text>
       </register>
       <register name="/" type="4">
         <text>googleService</text>
@@ -1522,31 +1528,31 @@
         <text>statusLocalSource.getStatus(1L)</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>PRODUCTION</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMSwgZmlyc3QuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICB3YWxsZXRGcmFnbWVudC51cGRhdGVNYXNrZWRXYWxsZXRSZXF1ZXN0KCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZmlyc3QgPSBzdGF0dXNMb2NhbFNvdXJjZS5nZXRTdGF0dXMoMUwpLnRvQmxvY2tpbmcoKS5maXJzdCgpCg==</text>
+      <register name="3" type="4">
+        <text>Wallet</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maXJzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB3YWxsZXRGcmFnbWVudC4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHN0YXR1cyA9PSBudWxsKSBudWxsIGVsc2Ugc3RhdHVzCg==</text>
+      <register name="5" type="4">
+        <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMSwgZmlyc3QuaWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZmlyc3QgPSBzdGF0dXNMb2NhbFNvdXJjZS5nZXRTdGF0dXMoMUwpLnRvQmxvY2tpbmcoKS5maXJzdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXQ/Lm1vdmVUb0ZpcnN0KCkgPzogZmFsc2UpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maXJzdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maXJzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHN0YXR1cyA9PSBudWxsKSBudWxsIGVsc2Ugc3RhdHVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
