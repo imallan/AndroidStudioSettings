@@ -18,6 +18,11 @@
       <file name="/a.dummy" timestamp="1465291587940">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values/styles.xml" timestamp="1465298376588">
+        <mark key="[" line="368" column="0" />
+        <mark key="]" line="368" column="0" />
+        <mark key="." line="368" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostDBSource.java" timestamp="1463673283316">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="28" />
@@ -183,11 +188,6 @@
         <mark key="." line="21" column="42" />
         <mark key="^" line="21" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainTabActivity.java" timestamp="1463676043803">
-        <mark key="[" line="261" column="0" />
-        <mark key="]" line="261" column="0" />
-        <mark key="." line="261" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/build.gradle" timestamp="1460567621058">
         <mark key="[" line="7" column="55" />
         <mark key="]" line="7" column="55" />
@@ -216,11 +216,6 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ProductActivity.java" timestamp="1461326589910">
         <mark key="'" line="233" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_main.xml" timestamp="1463756515015">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/explore/ExplorePresenter.java" timestamp="1463675004141">
         <mark key="[" line="22" column="8" />
@@ -289,6 +284,11 @@
         <mark key="]" line="14" column="60" />
         <mark key="^" line="14" column="60" />
         <mark key="." line="14" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ShoppingCheckoutFragment.java" timestamp="1465299101371">
+        <mark key="[" line="352" column="0" />
+        <mark key="]" line="352" column="0" />
+        <mark key="." line="352" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" timestamp="1463733999622">
         <mark key="'" line="40" column="0" />
@@ -571,6 +571,13 @@
         <mark key="^" line="296" column="75" />
         <mark key="." line="296" column="75" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_shopping_checkout.xml" timestamp="1465298391027">
+        <mark key="'" line="124" column="14" />
+        <mark key="[" line="46" column="45" />
+        <mark key="]" line="47" column="44" />
+        <mark key="." line="47" column="44" />
+        <mark key="^" line="47" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/di/component/AppComponent.kt" timestamp="1461016676613">
         <mark key="[" line="14" column="51" />
         <mark key="]" line="14" column="51" />
@@ -672,12 +679,12 @@
         <mark key="^" line="34" column="7" />
         <mark key="." line="34" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Settings.java" timestamp="1459785306488">
-        <mark key="'" line="851" column="70" />
-        <mark key="[" line="851" column="56" />
-        <mark key="]" line="851" column="73" />
-        <mark key="^" line="851" column="72" />
-        <mark key="." line="851" column="56" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Settings.java" timestamp="1465296031632">
+        <mark key="'" line="289" column="10" />
+        <mark key="[" line="164" column="50" />
+        <mark key="]" line="164" column="58" />
+        <mark key="^" line="164" column="58" />
+        <mark key="." line="164" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/posts/PostRepository.java" timestamp="1461232896842">
         <mark key="'" line="15" column="13" />
@@ -1085,16 +1092,14 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/build.gradle" timestamp="1463760035655">
-        <mark key="[" line="8" column="55" />
-        <mark key="]" line="8" column="55" />
-        <mark key="." line="8" column="55" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/di/component/ShotsActivityComponent.kt" timestamp="1461056278699">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="19" />
         <mark key="^" line="14" column="42" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ShoppingCheckoutActivity.java" timestamp="1465295338796">
+        <mark key="'" line="43" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/StateMaintainer.java" timestamp="1460475112146">
         <mark key="'" line="24" column="33" />
@@ -1405,28 +1410,15 @@
         <mark key="." line="80" column="26" />
         <mark key="^" line="80" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ShoppingBasketActivity.java" timestamp="1465291908765">
-        <mark key="[" line="51" column="71" />
-        <mark key="]" line="51" column="74" />
-        <mark key="." line="51" column="74" />
-        <mark key="^" line="51" column="74" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ShoppingBasketActivity.java" timestamp="1465295875582">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="135" column="62" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="40" filename="$USER_HOME$/Documents/GitHub/MyApplication/app/build.gradle" />
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/MyPlayground/app/src/main/res/layout/activity_main.xml" />
-      <jump line="148" column="86" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/StoreRatingHelper.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/service/UserService.java" />
-      <jump line="749" column="13" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/APIService.java" />
-      <jump line="1733" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/adapter/ExploreRecyclerAdapter.java" />
-      <jump line="19" column="14" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Explore.java" />
-      <jump line="30" column="3" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/ExploreComponent.java" />
-      <jump line="75" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/ExploreComponent.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Explore.java" />
-      <jump line="1720" column="40" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/API.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/explore/ExploreRepository.java" />
-      <jump line="58" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/explore/ExploreRepository.java" />
       <jump line="84" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/APIModule.java" />
       <jump line="45" column="11" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/CacheModule.java" />
       <jump line="31" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/CacheModule.java" />
@@ -1513,46 +1505,60 @@
       <jump line="45" column="0" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/androidTest/java/com/imallan/griffin/model/source/status/StatusLocalSourceTest.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
       <jump line="172" column="62" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="277" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ShoppingBasketActivity.java" />
+      <jump line="200" column="32" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ShoppingBasketActivity.java" />
+      <jump line="40" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ShoppingBasketActivity.java" />
+      <jump line="225" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ShoppingBasketActivity.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ShoppingBasketActivity.java" />
+      <jump line="217" column="99" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ShoppingBasketActivity.java" />
+      <jump line="284" column="10" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/Settings.java" />
+      <jump line="197" column="24" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ShoppingBasketActivity.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ShoppingBasketActivity.java" />
+      <jump line="51" column="13" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/ShoppingCheckoutActivity.java" />
+      <jump line="223" column="39" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ShoppingCheckoutFragment.java" />
+      <jump line="211" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ShoppingCheckoutFragment.java" />
+      <jump line="123" column="14" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_shopping_checkout.xml" />
+      <jump line="566" column="27" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ShoppingCheckoutFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PRODUCTION</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVdhbGxldEZyYWdtZW50LnVwZGF0ZU1hc2tlZFdhbGxldFJlcXVlc3QoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>PRODUCTION</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>googleService</text>
       </register>
       <register name="0" type="4">
-        <text>statusLocalSource.getStatus(1L)</text>
+        <text>mWalletFragment</text>
       </register>
-      <register name="1" type="4">
-        <text>PRODUCTION</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVdhbGxldEZyYWdtZW50LnVwZGF0ZU1hc2tlZFdhbGxldFJlcXVlc3QoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3YWxsZXRGcmFnbWVudC51cGRhdGVNYXNrZWRXYWxsZXRSZXF1ZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>Wallet</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWFza2VkV2FsbGV0IG1hc2tlZFdhbGxldDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3YWxsZXRGcmFnbWVudC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWFza2VkV2FsbGV0Lgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgIHN1cGVyLm9uQWN0aXZpdHlSZXN1bHQocmVxdWVzdENvZGUsIHJlc3VsdENvZGUsIGRhdGEpOwogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMSwgZmlyc3QuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoKEZ1bGxXYWxsZXRDb25maXJtYXRpb25CdXR0b25GcmFnbWVudCkgZ2V0UmVzdWx0VGFyZ2V0RnJhZ21lbnQoKSkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZmlyc3QgPSBzdGF0dXNMb2NhbFNvdXJjZS5nZXRTdGF0dXMoMUwpLnRvQmxvY2tpbmcoKS5maXJzdCgpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maXJzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHN0YXR1cyA9PSBudWxsKSBudWxsIGVsc2Ugc3RhdHVzCg==</text>
+      <register name="9" type="4">
+        <text>M</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
