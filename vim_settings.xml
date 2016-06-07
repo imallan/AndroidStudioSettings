@@ -1151,8 +1151,8 @@
         <mark key="^" line="22" column="11" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1463993422365">
-        <mark key="'" line="106" column="16" />
+      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" timestamp="1465290345558">
+        <mark key="'" line="172" column="62" />
         <mark key="[" line="111" column="23" />
         <mark key="]" line="111" column="27" />
         <mark key="." line="111" column="27" />
@@ -1171,7 +1171,6 @@
         <mark key="^" line="30" column="33" />
         <mark key="." line="30" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/kotlin/com/imallan/griffin/extension/ContentValuesExtensions.kt" timestamp="1464737881167" />
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/build.gradle" timestamp="1460370714219">
         <mark key="[" line="1" column="31" />
         <mark key="]" line="1" column="32" />
@@ -1408,8 +1407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/RotationExamples/app/src/main/res/layout/activity_main.xml" />
-      <jump line="298" column="32" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/view_content_product.xml" />
       <jump line="29" column="40" filename="$USER_HOME$/Documents/GitHub/MyApplication/app/build.gradle" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/MyPlayground/app/src/main/res/layout/activity_main.xml" />
       <jump line="148" column="86" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/util/StoreRatingHelper.java" />
@@ -1508,6 +1505,8 @@
       <jump line="21" column="4" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/androidTest/java/com/imallan/griffin/model/source/status/StatusLocalSourceTest.kt" />
       <jump line="55" column="12" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/kotlin/com/imallan/griffin/model/Status.kt" />
       <jump line="45" column="0" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/androidTest/java/com/imallan/griffin/model/source/status/StatusLocalSourceTest.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
+      <jump line="172" column="62" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1517,7 +1516,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>post</text>
+        <text>googleService</text>
       </register>
       <register name="0" type="4">
         <text>statusLocalSource.getStatus(1L)</text>
@@ -1554,9 +1553,9 @@
       </register>
     </registers>
     <search>
-      <last-search>post</last-search>
+      <last-search>googleService</last-search>
       <last-offset />
-      <last-pattern>post</last-pattern>
+      <last-pattern>googleService</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1567,6 +1566,8 @@
         <entry encoding="base64">XDxhbmRyb2lkXD4=</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>post</entry>
+        <entry>wallet</entry>
+        <entry>googleService</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
