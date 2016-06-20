@@ -454,6 +454,13 @@
         <mark key="." line="19" column="26" />
         <mark key="^" line="19" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/build.gradle" timestamp="1466459376525">
+        <mark key="'" line="64" column="49" />
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="44" />
+        <mark key="." line="8" column="44" />
+        <mark key="^" line="8" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/java/com/imallan/kotlindaggerexample/AppModule.kt" timestamp="1460971047594">
         <mark key="[" line="21" column="13" />
         <mark key="]" line="22" column="13" />
@@ -1414,13 +1421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/CacheModule.java" />
-      <jump line="141" column="40" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
-      <jump line="17" column="13" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/ExploreActivityModule.java" />
-      <jump line="16" column="42" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/ExploreActivityComponent.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/ExploreActivityComponent.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ExploreFragment.java" />
-      <jump line="143" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ExploreFragment.java" />
       <jump line="30" column="48" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ExploreFragment.java" />
       <jump line="975" column="5" filename="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/recyclerview-v7/23.4.0/recyclerview-v7-23.4.0-sources.jar!/android/support/v7/widget/RecyclerView.java" />
       <jump line="11087" column="0" filename="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/recyclerview-v7/23.4.0/recyclerview-v7-23.4.0-sources.jar!/android/support/v7/widget/RecyclerView.java" />
@@ -1514,59 +1514,62 @@
       <jump line="566" column="27" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ShoppingCheckoutFragment.java" />
       <jump line="19" column="16" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/kotlin/com/imallan/griffin/model/source/status/StatusLocalSource.kt" />
       <jump line="30" column="26" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/androidTest/java/com/imallan/griffin/model/source/status/StatusLocalSourceTest.kt" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/griffin/app/build.gradle" />
+      <jump line="20" column="6" filename="$USER_HOME$/Documents/GitHub/griffin/app/build.gradle" />
+      <jump line="18" column="6" filename="$USER_HOME$/Documents/GitHub/griffin/app/build.gradle" />
+      <jump line="19" column="6" filename="$USER_HOME$/Documents/GitHub/griffin/app/build.gradle" />
+      <jump line="116" column="50" filename="$USER_HOME$/Documents/GitHub/griffin/app/build.gradle" />
+      <jump line="37" column="14" filename="$USER_HOME$/Documents/GitHub/griffin/app/build.gradle" />
+      <jump line="64" column="49" filename="$USER_HOME$/Documents/GitHub/griffin/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWN0aXZpdHkK</text>
+      <register name="&quot;" type="4">
+        <text>21.1</text>
       </register>
       <register name="-" type="4">
-        <text>tokenStr</text>
+        <text>21.1</text>
       </register>
       <register name="/" type="4">
-        <text>vsp</text>
+        <text>plugin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2hvcHBpbmdTZXJ2aWNlLnBheUJhc2tldChhY3Rpdml0eSwgc2VydmljZXNSZWNlaXZlciwgc2VsZWN0ZWRBZGRyZXNzSWQsIGNhcmRJZCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWN0aXZpdHkK</text>
+      <register name="1" type="4">
+        <text>21.1</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2V0QWN0aXZpdHkoKS4K</text>
+      <register name="2" type="4">
+        <text>21.1</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0QWN0aXZpdHlDaGVja291dEJ1dHRvbih0cnVlKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25TdGFydCgpIHsKICAgICAgICBzdXBlci5vblN0YXJ0KCk7CiAgICAgICAgCiAgICB9Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWUudGF0YXJrYS5yZXRyb2xhbWJkYScK</text>
       </register>
-      <register name="7" type="4">
-        <text>updateBasket();
-        if (UserUtils.performLoginCheck(activity, false)) {
-            checkCard();
-            checkAddress();
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ21lLnRhdGFya2E6Z3JhZGxlLXJldHJvbGFtYmRhOjMuMi41Jwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWN0aXZpdHkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2V0QWN0aXZpdHkoKS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtUHJvZ3Jlc3NEaWFsb2cuZGlzbWlzcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0QWN0aXZpdHlDaGVja291dEJ1dHRvbih0cnVlKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
-      <register name="9" type="4">
-        <text>tokenStr</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
       </register>
     </registers>
     <search>
-      <last-search>vsp</last-search>
+      <last-search>plugin</last-search>
       <last-offset />
-      <last-pattern>vsp</last-pattern>
+      <last-pattern>plugin</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1580,6 +1583,7 @@
         <entry>wallet</entry>
         <entry>googleService</entry>
         <entry>vsp</entry>
+        <entry>plugin</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
