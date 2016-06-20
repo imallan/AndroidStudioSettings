@@ -426,11 +426,8 @@
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/presenter/explore/ExploreContract.java" timestamp="1463674604547">
         <mark key="[" line="17" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/kotlin/com/imallan/griffin/model/source/status/StatusLocalSource.kt" timestamp="1464740087807">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="24" />
-        <mark key="^" line="20" column="38" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/main/kotlin/com/imallan/griffin/model/source/status/StatusLocalSource.kt" timestamp="1466458309339">
+        <mark key="'" line="19" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/activity_product.xml" timestamp="1461940608652">
         <mark key="[" line="5" column="32" />
@@ -641,6 +638,9 @@
         <mark key="]" line="9" column="44" />
         <mark key="." line="9" column="44" />
         <mark key="^" line="9" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/griffin/app/src/androidTest/java/com/imallan/griffin/model/source/status/StatusLocalSourceTest.kt" timestamp="1466458312755">
+        <mark key="'" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/model/source/explore/ExploreDataSource.java" timestamp="1463734624843">
         <mark key="[" line="14" column="51" />
@@ -973,7 +973,6 @@
         <mark key="." line="25" column="28" />
         <mark key="^" line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/viewholder/ShoppingTotalViewHolder.java" timestamp="1465306542679" />
       <file name="$USER_HOME$/Documents/GitHub/Crossover/app/src/main/kotlin/com/imallan/crossover/di/module/ShotActivityModule.kt" timestamp="1461016586780">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="22" />
@@ -1415,8 +1414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/APIModule.java" />
-      <jump line="45" column="11" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/CacheModule.java" />
       <jump line="31" column="4" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/CacheModule.java" />
       <jump line="141" column="40" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
       <jump line="17" column="13" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/ExploreActivityModule.java" />
@@ -1515,6 +1512,8 @@
       <jump line="211" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ShoppingCheckoutFragment.java" />
       <jump line="123" column="14" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/layout/fragment_shopping_checkout.xml" />
       <jump line="566" column="27" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ShoppingCheckoutFragment.java" />
+      <jump line="19" column="16" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/main/kotlin/com/imallan/griffin/model/source/status/StatusLocalSource.kt" />
+      <jump line="30" column="26" filename="$USER_HOME$/Documents/GitHub/griffin/app/src/androidTest/java/com/imallan/griffin/model/source/status/StatusLocalSourceTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1524,7 +1523,7 @@
         <text>tokenStr</text>
       </register>
       <register name="/" type="4">
-        <text>googleService</text>
+        <text>vsp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2hvcHBpbmdTZXJ2aWNlLnBheUJhc2tldChhY3Rpdml0eSwgc2VydmljZXNSZWNlaXZlciwgc2VsZWN0ZWRBZGRyZXNzSWQsIGNhcmRJZCk7Cg==</text>
@@ -1561,13 +1560,13 @@
         <text>tokenStr</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
-      <last-search>googleService</last-search>
+      <last-search>vsp</last-search>
       <last-offset />
-      <last-pattern>googleService</last-pattern>
+      <last-pattern>vsp</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1580,9 +1579,12 @@
         <entry>post</entry>
         <entry>wallet</entry>
         <entry>googleService</entry>
+        <entry>vsp</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
+        <entry>hsp</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1623,6 +1625,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
