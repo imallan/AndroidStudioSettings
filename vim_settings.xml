@@ -1317,12 +1317,13 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" timestamp="1467545384339">
-        <mark key="'" line="195" column="42" />
-        <mark key="[" line="110" column="37" />
-        <mark key="]" line="110" column="37" />
-        <mark key="^" line="110" column="37" />
-        <mark key="." line="110" column="37" />
+      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" timestamp="1467562148698">
+        <mark key="'" line="92" column="0" />
+        <mark key="i" line="33" column="25" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="42" />
+        <mark key="^" line="75" column="27" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/res/layout/activity_main.xml" timestamp="1467501168678">
         <mark key="[" line="10" column="5" />
@@ -1468,16 +1469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="533" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
-      <jump line="69" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Explore.java" />
-      <jump line="77" column="26" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Explore.java" />
-      <jump line="24" column="13" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/ExploreComponent.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/ExploreComponent.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/ExploreComponent.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/ExploreComponent.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/ExploreComponent.java" />
-      <jump line="87" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/ExploreComponent.java" />
-      <jump line="77" column="2" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
       <jump line="6" column="76" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
       <jump line="7" column="4" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
@@ -1554,10 +1545,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/build.gradle" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/build.gradle" />
       <jump line="21" column="74" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/build.gradle" />
-      <jump line="47" column="73" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
       <jump line="60" column="34" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
-      <jump line="77" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
       <jump line="25" column="51" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
       <jump line="83" column="36" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
       <jump line="56" column="32" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
@@ -1565,49 +1554,61 @@
       <jump line="118" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
       <jump line="104" column="16" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
-      <jump line="57" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
       <jump line="194" column="14" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
       <jump line="195" column="42" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="159" column="7" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="34" column="13" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="51" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="77" column="23" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="54" column="8" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="99" column="3" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="125" column="4" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="112" column="3" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="72" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="57" column="33" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="141" column="6" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="92" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1NYXRyaXguZ2V0VmFsdWVzKG1WYWx1ZXMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">dG9TY2FsZSAvIGNoYW5nZVNjYWxlLCA=</text>
       </register>
       <register name="/" type="4">
         <text>plugin</text>
       </register>
-      <register name="0" type="4">
-        <text>animatedValue / scaleX, animatedValue / scaleY</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbU1hdHJpeC5nZXRWYWx1ZXMobVZhbHVlcykK</text>
       </register>
-      <register name="1" type="4">
-        <text>-</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1NYXRyaXguZ2V0VmFsdWVzKG1WYWx1ZXMpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>-</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbU1hdHJpeC5wb3N0U2NhbGUoc2NhbGUsIHNjYWxlLCB4LCB5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNjYWxlID0gbUZpdFNjYWxlICogMyAvIGN1cnJlbnRTY2FsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtTWF0cml4LnBvc3RTY2FsZShhbmltYXRlZFZhbHVlIC8gc2NhbGVYLCBhbmltYXRlZFZhbHVlIC8gc2NhbGVZLCBldmVudC54LCBldmVudC55KQo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZU1hdHJpeCA9IG1NYXRyaXgK</text>
       </register>
       <register name="6" type="4">
-        <text>Width</text>
+        <text encoding="base64">dG9TY2FsZSAvIGNoYW5nZVNjYWxlLCA=</text>
       </register>
       <register name="7" type="4">
-        <text>width</text>
+        <text>scale1</text>
       </register>
       <register name="8" type="4">
-        <text>width</text>
+        <text>)</text>
       </register>
-      <register name="9" type="4">
-        <text>Width</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
