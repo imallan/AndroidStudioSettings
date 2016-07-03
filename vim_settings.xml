@@ -45,10 +45,11 @@
         <mark key="." line="6" column="65" />
         <mark key="^" line="6" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/MainActivity.kt" timestamp="1467536538521">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/MainActivity.kt" timestamp="1467568222263">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="56" />
+        <mark key="." line="19" column="56" />
+        <mark key="^" line="19" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/explore/ExploreRemoteSourceTest.java" timestamp="1463734604143">
         <mark key="'" line="34" column="0" />
@@ -1169,7 +1170,7 @@
         <mark key="^" line="10" column="63" />
         <mark key="." line="10" column="63" />
       </file>
-      <file name="/fragment.kt" timestamp="1467535345185">
+      <file name="/fragment.kt" timestamp="1467565292543">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/build.gradle" timestamp="1467500054722">
@@ -1317,13 +1318,13 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" timestamp="1467562148698">
-        <mark key="'" line="92" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" timestamp="1467568671616">
+        <mark key="'" line="217" column="3" />
         <mark key="i" line="33" column="25" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="42" />
-        <mark key="^" line="75" column="27" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="153" column="9" />
+        <mark key="]" line="154" column="7" />
+        <mark key="^" line="154" column="7" />
+        <mark key="." line="154" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/res/layout/activity_main.xml" timestamp="1467501168678">
         <mark key="[" line="10" column="5" />
@@ -1469,19 +1470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/AndroidManifest.xml" />
-      <jump line="6" column="76" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
-      <jump line="7" column="4" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
-      <jump line="50" column="16" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
-      <jump line="51" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_main.xml" />
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_my.xml" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_my.xml" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_my.xml" />
-      <jump line="61" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_my.xml" />
-      <jump line="19" column="4" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_my.xml" />
       <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_my.xml" />
       <jump line="7" column="61" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/build.gradle" />
       <jump line="45" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
@@ -1569,46 +1557,59 @@
       <jump line="57" column="33" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
       <jump line="141" column="6" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
       <jump line="92" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="182" column="4" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="111" column="21" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="80" column="40" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="18" column="2" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="209" column="5" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="202" column="18" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="16" column="9" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="200" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="208" column="25" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="214" column="28" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="217" column="3" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1NYXRyaXguZ2V0VmFsdWVzKG1WYWx1ZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dG9TY2FsZSAvIGNoYW5nZVNjYWxlLCA=</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text>plugin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbU1hdHJpeC5nZXRWYWx1ZXMobVZhbHVlcykK</text>
+        <text encoding="base64">ICAgICAgICBkb3duWCA9IG1vdGlvbkV2ZW50LngKICAgICAgICBkb3duWSA9IG1vdGlvbkV2ZW50LnkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1NYXRyaXguZ2V0VmFsdWVzKG1WYWx1ZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG1SZXNldERvd25Db29yZGluYXRlczogQm9vbGVhbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbU1hdHJpeC5wb3N0U2NhbGUoc2NhbGUsIHNjYWxlLCB4LCB5KQo=</text>
+        <text encoding="base64">ICAgICAgICBkLmdldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNjYWxlID0gbUZpdFNjYWxlICogMyAvIGN1cnJlbnRTY2FsZQo=</text>
+        <text encoding="base64">ICAgICAgICBtRG93bgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZU1hdHJpeCA9IG1NYXRyaXgK</text>
+      <register name="5" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">dG9TY2FsZSAvIGNoYW5nZVNjYWxlLCA=</text>
+        <text encoding="base64">Jg==</text>
       </register>
-      <register name="7" type="4">
-        <text>scale1</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRyYW5zWCA9IG1WYWx1ZXNbTWF0cml4Lk1UUkFOU19YXQogICAgICAgICAgICB2YWwgdHJhbnNZID0gbVZhbHVlc1tNYXRyaXguTVRSQU5TX1ldCg==</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>currentScale == mFitScale</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="9" type="4">
+        <text>return</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
