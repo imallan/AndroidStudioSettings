@@ -1317,12 +1317,12 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" timestamp="1467541257577">
+      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" timestamp="1467545384339">
         <mark key="'" line="195" column="42" />
-        <mark key="[" line="80" column="61" />
-        <mark key="]" line="80" column="62" />
-        <mark key="^" line="80" column="62" />
-        <mark key="." line="80" column="62" />
+        <mark key="[" line="110" column="37" />
+        <mark key="]" line="110" column="37" />
+        <mark key="^" line="110" column="37" />
+        <mark key="." line="110" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/res/layout/activity_main.xml" timestamp="1467501168678">
         <mark key="[" line="10" column="5" />
@@ -1571,43 +1571,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>plugin</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgc2NhbGVYID0gbVZhbHVlc1tNYXRyaXguTVNDQUxFX1hdCiAgICAgICAgICAgICAgICAgICAgdmFsIHNjYWxlWSA9IG1WYWx1ZXNbTWF0cml4Lk1TQ0FMRV9ZXQo=</text>
+      <register name="0" type="4">
+        <text>animatedValue / scaleX, animatedValue / scaleY</text>
       </register>
       <register name="1" type="4">
-        <text>f</text>
+        <text>-</text>
       </register>
       <register name="2" type="4">
-        <text>2</text>
+        <text>-</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBzY2FsZVkgPSBtVmFsdWVzW01hdHJpeC5NU0NBTEVfWV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>animatedValue</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtTWF0cml4LnBvc3RTY2FsZShhbmltYXRlZFZhbHVlIC8gc2NhbGVYLCBhbmltYXRlZFZhbHVlIC8gc2NhbGVZLCBldmVudC54LCBldmVudC55KQo=</text>
       </register>
       <register name="6" type="4">
-        <text>animatedValue</text>
+        <text>Width</text>
       </register>
       <register name="7" type="4">
-        <text>setScale</text>
+        <text>width</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYW5pCg==</text>
+      <register name="8" type="4">
+        <text>width</text>
       </register>
       <register name="9" type="4">
-        <text>values</text>
+        <text>Width</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
