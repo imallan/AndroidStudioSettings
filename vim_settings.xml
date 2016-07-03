@@ -1317,12 +1317,12 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" timestamp="1467536463137">
-        <mark key="'" line="194" column="14" />
-        <mark key="[" line="136" column="8" />
-        <mark key="]" line="136" column="14" />
-        <mark key="^" line="136" column="14" />
-        <mark key="." line="136" column="14" />
+      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" timestamp="1467541257577">
+        <mark key="'" line="195" column="42" />
+        <mark key="[" line="80" column="61" />
+        <mark key="]" line="80" column="62" />
+        <mark key="^" line="80" column="62" />
+        <mark key="." line="80" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/res/layout/activity_main.xml" timestamp="1467501168678">
         <mark key="[" line="10" column="5" />
@@ -1468,7 +1468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="480" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
       <jump line="533" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
       <jump line="69" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Explore.java" />
       <jump line="77" column="26" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Explore.java" />
@@ -1568,46 +1567,47 @@
       <jump line="104" column="16" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
       <jump line="57" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
       <jump line="194" column="14" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="195" column="42" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>plugin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmltYXRvciA9IFZhbHVlQW5pbWF0b3Iub2ZGbG9hdChzY2FsZVgsIDJmKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgc2NhbGVYID0gbVZhbHVlc1tNYXRyaXguTVNDQUxFX1hdCiAgICAgICAgICAgICAgICAgICAgdmFsIHNjYWxlWSA9IG1WYWx1ZXNbTWF0cml4Lk1TQ0FMRV9ZXQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>f</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQaWNhc3NvLndpdGgodGhpcykKICAgICAgICAgICAgICAgIC5sb2FkKCJodHRwOi8vMC5zb29tcGkuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMTYvMDQvMjkxNjIxMTIvQU9BLmpwZyIpCiAgICAgICAgICAgICAgICAuaW50byhtSW1hZ2VWaWV3KQogICAgfQo=</text>
+      <register name="2" type="4">
+        <text>2</text>
       </register>
-      <register name="3" type="4">
-        <text>value</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBzY2FsZVkgPSBtVmFsdWVzW01hdHJpeC5NU0NBTEVfWV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9IDEuMDhmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9IDJmCg==</text>
+      <register name="5" type="4">
+        <text>animatedValue</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1NYXRyaXgucG9zdFNjYWxlKHZhbHVlLCB2YWx1ZSwgZXZlbnQueCwgZXZlbnQueSkK</text>
+      <register name="6" type="4">
+        <text>animatedValue</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1NYXRyaXguZ2V0VmFsdWVzKG1WYWx1ZXMpCiAgICAgICAgICAgICAgICB2YWwgc2NhbGVYID0gbVZhbHVlc1tNYXRyaXguTVNDQUxFX1hdCiAgICAgICAgICAgICAgICB2YWwgc2NhbGVZID0gbVZhbHVlc1tNYXRyaXguTVNDQUxFX1ldCiAgICAgICAgICAgICAgICB2YWwgYW5pbWF0b3I6IFZhbHVlQW5pbWF0b3IKICAgICAgICAgICAgICAgIGlmIChzY2FsZVggPj0gMmYpIHsKICAgICAgICAgICAgICAgICAgICBhbmltYXRvciA9IFZhbHVlQW5pbWF0b3Iub2ZGbG9hdChzY2FsZVgsIDEuMDhmKQogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBhbmltYXRvciA9IFZhbHVlQW5pbWF0b3Iub2ZGbG9hdChzY2FsZVgsIDJmKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgYW5pbWF0b3IuYWRkVXBkYXRlTGlzdGVuZXIgewogICAgICAgICAgICAgICAgICAgIHZhbCB2YWx1ZSA9IGl0LmFuaW1hdGVkVmFsdWUgYXMgRmxvYXQKICAgICAgICAgICAgICAgICAgICBtTWF0cml4LnNldFNjYWxlKHZhbHVlLCB2YWx1ZSkKICAgICAgICAgICAgICAgICAgICBpbWFnZU1hdHJpeCA9IG1NYXRyaXgKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGFuaW1hdG9yLnN0YXJ0KCk=</text>
+        <text>setScale</text>
       </register>
-      <register name="8" type="4">
-        <text>?</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYW5pCg==</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>values</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
