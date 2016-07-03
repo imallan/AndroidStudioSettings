@@ -15,6 +15,9 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
       </file>
+      <file name="/a.dummy" timestamp="1467501697883">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/res/values/styles.xml" timestamp="1465298376588">
         <mark key="[" line="368" column="0" />
         <mark key="]" line="368" column="0" />
@@ -42,8 +45,11 @@
         <mark key="." line="6" column="65" />
         <mark key="^" line="6" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/MainActivity.kt" timestamp="1467498938760">
-        <mark key="[" line="5" column="42" />
+      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/MainActivity.kt" timestamp="1467501159972">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="31" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/explore/ExploreRemoteSourceTest.java" timestamp="1463734604143">
         <mark key="'" line="34" column="0" />
@@ -357,6 +363,10 @@
         <mark key="." line="54" column="53" />
         <mark key="^" line="54" column="53" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/platforms/android-24/android.jar!/android/view/MotionEvent.class" timestamp="1467502210134">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/BluetoothExample/app/build.gradle" timestamp="1460042044852">
         <mark key="'" line="4" column="1" />
         <mark key="[" line="29" column="52" />
@@ -382,6 +392,12 @@
         <mark key="]" line="330" column="62" />
         <mark key="." line="330" column="62" />
         <mark key="^" line="330" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/AndroidManifest.xml" timestamp="1467499089207">
+        <mark key="[" line="2" column="55" />
+        <mark key="]" line="4" column="64" />
+        <mark key="^" line="4" column="64" />
+        <mark key="." line="4" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ProfileFollowingsFragment.java" timestamp="1460027621608">
         <mark key="[" line="110" column="15" />
@@ -721,7 +737,7 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1464735933126">
+      <file name="/fragment.java" timestamp="1467501013426">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/UserModule.java" timestamp="1460971214432">
@@ -1123,6 +1139,12 @@
         <mark key="^" line="270" column="8" />
         <mark key="." line="270" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/LogExtensions.kt" timestamp="1467500473864">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/crossover/app/src/main/kotlin/com/imallan/crossover/di/scope/ShotsActivityScope.kt" timestamp="1461055659616">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="9" column="37" />
@@ -1151,12 +1173,12 @@
       <file name="/fragment.kt" timestamp="1464739751228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/build.gradle" timestamp="1467498931434">
+      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/build.gradle" timestamp="1467500054722">
         <mark key="'" line="24" column="74" />
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="52" column="38" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/KotlinDaggerExample/app/src/main/res/layout/activity_main.xml" timestamp="1460987992475">
         <mark key="'" line="1" column="0" />
@@ -1296,11 +1318,17 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/res/layout/activity_main.xml" timestamp="1467498787768">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="11" column="35" />
-        <mark key="^" line="11" column="35" />
-        <mark key="." line="11" column="35" />
+      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" timestamp="1467505432374">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="96" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/res/layout/activity_main.xml" timestamp="1467501168678">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/CacheModule.java" timestamp="1463673463320">
         <mark key="'" line="31" column="4" />
@@ -1440,14 +1468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="25" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ExploreFragment.java" />
-      <jump line="57" column="51" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/fragment/ExploreFragment.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/explore/ExploreRemoteSourceTest.java" />
-      <jump line="23" column="3" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/explore/ExploreRemoteSourceTest.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/explore/ExploreRemoteSourceTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
-      <jump line="314" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
       <jump line="263" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
       <jump line="150" column="30" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
@@ -1540,46 +1560,54 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/build.gradle" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/build.gradle" />
       <jump line="21" column="74" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/build.gradle" />
+      <jump line="47" column="73" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="60" column="34" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="77" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="25" column="51" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="83" column="36" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="56" column="32" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="89" column="39" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuLi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>DarkActionBar</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>plugin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2hvcHBpbmdTZXJ2aWNlLnBheUJhc2tldChhY3Rpdml0eSwgc2VydmljZXNSZWNlaXZlciwgc2VsZWN0ZWRBZGRyZXNzSWQsIGNhcmRJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCByaWdodCA9IHRyYW5zWCArIHNjYWxlWCAqIG1CaXRtYXBXaWR0aAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuLi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR4ID0gTWF0aC5taW4oMGYsIGR4KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuQ2VudHJhbCgpCn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR4ID0gCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>DarkActionBar</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChsZWZ0KQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1NYXRyaXguZ2V0VmFsdWVzKG1WYWx1ZXMpCgogICAgICAgICAgICAgICAgdmFsIHRyYW5zWCA9IG1WYWx1ZXNbTWF0cml4Lk1UUkFOU19YXQogICAgICAgICAgICAgICAgdmFsIHRyYW5zWSA9IG1WYWx1ZXNbTWF0cml4Lk1UUkFOU19ZXQogICAgICAgICAgICAgICAgdmFsIHNjYWxlWCA9IG1WYWx1ZXNbTWF0cml4Lk1TQ0FMRV9YXQogICAgICAgICAgICAgICAgdmFsIHNjYWxlWSA9IG1WYWx1ZXNbTWF0cml4Lk1TQ0FMRV9ZXQoKICAgICAgICAgICAgICAgIHZhbCBsZWZ0ID0gdHJhbnNYCiAgICAgICAgICAgICAgICB2YWwgcmlnaHQgPSB0cmFuc1ggKyBzY2FsZVggKiBtQml0bWFwV2lkdGgKICAgICAgICAgICAgICAgIHZhbCB0b3AgPSB0cmFuc1kKICAgICAgICAgICAgICAgIHZhbCBib3R0b20gPSB0cmFuc1kgKyBzY2FsZVkgKiBtQml0bWFwSGVpZ2h0Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJIZWxsbyBXb3JsZCEiLz4K</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICB2YWwgdHJhbnNYID0gbVZhbHVlc1tNYXRyaXguTVRSQU5TX1hdCiAgICAgICAgICAgICAgICB2YWwgdHJhbnNZID0gbVZhbHVlc1tNYXRyaXguTVRSQU5TX1ldCiAgICAgICAgICAgICAgICB2YWwgc2NhbGVYID0gbVZhbHVlc1tNYXRyaXguTVNDQUxFX1hdCiAgICAgICAgICAgICAgICB2YWwgc2NhbGVZID0gbVZhbHVlc1tNYXRyaXguTVNDQUxFX1ldCgogICAgICAgICAgICAgICAgdmFsIGxlZnQgPSB0cmFuc1gKICAgICAgICAgICAgICAgIHZhbCByaWdodCA9IHRyYW5zWCArIHNjYWxlWCAqIG1CaXRtYXBXaWR0aAogICAgICAgICAgICAgICAgdmFsIHRvcCA9IHRyYW5zWQogICAgICAgICAgICAgICAgdmFsIGJvdHRvbSA9IHRyYW5zWSArIHNjYWxlWSAqIG1CaXRtYXBIZWlnaHQ=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQCtpZC9hY3Rpdml0eV9tYWluIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9IkAraWQvYWN0aXZpdHlfbWFpbiIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9IkAraWQvYWN0aXZpdHlfbWFpbiIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQCtpZC9hY3Rpdml0eV9tYWluIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="4">
-        <text>.support.constraint.ConstraintLayout</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
