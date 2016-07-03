@@ -45,11 +45,10 @@
         <mark key="." line="6" column="65" />
         <mark key="^" line="6" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/MainActivity.kt" timestamp="1467501159972">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="31" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/MainActivity.kt" timestamp="1467536538521">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/androidTest/java/com/shopcade/model/source/explore/ExploreRemoteSourceTest.java" timestamp="1463734604143">
         <mark key="'" line="34" column="0" />
@@ -1170,7 +1169,7 @@
         <mark key="^" line="10" column="63" />
         <mark key="." line="10" column="63" />
       </file>
-      <file name="/fragment.kt" timestamp="1464739751228">
+      <file name="/fragment.kt" timestamp="1467535345185">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/build.gradle" timestamp="1467500054722">
@@ -1318,11 +1317,12 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" timestamp="1467505432374">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="96" column="29" />
+      <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" timestamp="1467536463137">
+        <mark key="'" line="194" column="14" />
+        <mark key="[" line="136" column="8" />
+        <mark key="]" line="136" column="14" />
+        <mark key="^" line="136" column="14" />
+        <mark key="." line="136" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/res/layout/activity_main.xml" timestamp="1467501168678">
         <mark key="[" line="10" column="5" />
@@ -1468,11 +1468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="263" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
-      <jump line="40" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainActivity.java" />
-      <jump line="150" column="30" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
-      <jump line="106" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
-      <jump line="530" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
       <jump line="480" column="8" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
       <jump line="533" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/ui/activity/MainDrawerActivity.java" />
       <jump line="69" column="0" filename="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/api/Explore.java" />
@@ -1568,46 +1563,51 @@
       <jump line="83" column="36" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
       <jump line="56" column="32" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
       <jump line="89" column="39" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="118" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="104" column="16" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="57" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="194" column="14" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>plugin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCByaWdodCA9IHRyYW5zWCArIHNjYWxlWCAqIG1CaXRtYXBXaWR0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmltYXRvciA9IFZhbHVlQW5pbWF0b3Iub2ZGbG9hdChzY2FsZVgsIDJmKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQaWNhc3NvLndpdGgodGhpcykKICAgICAgICAgICAgICAgIC5sb2FkKCJodHRwOi8vMC5zb29tcGkuaW8vd3AtY29udGVudC91cGxvYWRzLzIwMTYvMDQvMjkxNjIxMTIvQU9BLmpwZyIpCiAgICAgICAgICAgICAgICAuaW50byhtSW1hZ2VWaWV3KQogICAgfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR4ID0gTWF0aC5taW4oMGYsIGR4KQo=</text>
+      <register name="3" type="4">
+        <text>value</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR4ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9IDEuMDhmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChsZWZ0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9IDJmCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1NYXRyaXguZ2V0VmFsdWVzKG1WYWx1ZXMpCgogICAgICAgICAgICAgICAgdmFsIHRyYW5zWCA9IG1WYWx1ZXNbTWF0cml4Lk1UUkFOU19YXQogICAgICAgICAgICAgICAgdmFsIHRyYW5zWSA9IG1WYWx1ZXNbTWF0cml4Lk1UUkFOU19ZXQogICAgICAgICAgICAgICAgdmFsIHNjYWxlWCA9IG1WYWx1ZXNbTWF0cml4Lk1TQ0FMRV9YXQogICAgICAgICAgICAgICAgdmFsIHNjYWxlWSA9IG1WYWx1ZXNbTWF0cml4Lk1TQ0FMRV9ZXQoKICAgICAgICAgICAgICAgIHZhbCBsZWZ0ID0gdHJhbnNYCiAgICAgICAgICAgICAgICB2YWwgcmlnaHQgPSB0cmFuc1ggKyBzY2FsZVggKiBtQml0bWFwV2lkdGgKICAgICAgICAgICAgICAgIHZhbCB0b3AgPSB0cmFuc1kKICAgICAgICAgICAgICAgIHZhbCBib3R0b20gPSB0cmFuc1kgKyBzY2FsZVkgKiBtQml0bWFwSGVpZ2h0Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1NYXRyaXgucG9zdFNjYWxlKHZhbHVlLCB2YWx1ZSwgZXZlbnQueCwgZXZlbnQueSkK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICB2YWwgdHJhbnNYID0gbVZhbHVlc1tNYXRyaXguTVRSQU5TX1hdCiAgICAgICAgICAgICAgICB2YWwgdHJhbnNZID0gbVZhbHVlc1tNYXRyaXguTVRSQU5TX1ldCiAgICAgICAgICAgICAgICB2YWwgc2NhbGVYID0gbVZhbHVlc1tNYXRyaXguTVNDQUxFX1hdCiAgICAgICAgICAgICAgICB2YWwgc2NhbGVZID0gbVZhbHVlc1tNYXRyaXguTVNDQUxFX1ldCgogICAgICAgICAgICAgICAgdmFsIGxlZnQgPSB0cmFuc1gKICAgICAgICAgICAgICAgIHZhbCByaWdodCA9IHRyYW5zWCArIHNjYWxlWCAqIG1CaXRtYXBXaWR0aAogICAgICAgICAgICAgICAgdmFsIHRvcCA9IHRyYW5zWQogICAgICAgICAgICAgICAgdmFsIGJvdHRvbSA9IHRyYW5zWSArIHNjYWxlWSAqIG1CaXRtYXBIZWlnaHQ=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1NYXRyaXguZ2V0VmFsdWVzKG1WYWx1ZXMpCiAgICAgICAgICAgICAgICB2YWwgc2NhbGVYID0gbVZhbHVlc1tNYXRyaXguTVNDQUxFX1hdCiAgICAgICAgICAgICAgICB2YWwgc2NhbGVZID0gbVZhbHVlc1tNYXRyaXguTVNDQUxFX1ldCiAgICAgICAgICAgICAgICB2YWwgYW5pbWF0b3I6IFZhbHVlQW5pbWF0b3IKICAgICAgICAgICAgICAgIGlmIChzY2FsZVggPj0gMmYpIHsKICAgICAgICAgICAgICAgICAgICBhbmltYXRvciA9IFZhbHVlQW5pbWF0b3Iub2ZGbG9hdChzY2FsZVgsIDEuMDhmKQogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBhbmltYXRvciA9IFZhbHVlQW5pbWF0b3Iub2ZGbG9hdChzY2FsZVgsIDJmKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgYW5pbWF0b3IuYWRkVXBkYXRlTGlzdGVuZXIgewogICAgICAgICAgICAgICAgICAgIHZhbCB2YWx1ZSA9IGl0LmFuaW1hdGVkVmFsdWUgYXMgRmxvYXQKICAgICAgICAgICAgICAgICAgICBtTWF0cml4LnNldFNjYWxlKHZhbHVlLCB2YWx1ZSkKICAgICAgICAgICAgICAgICAgICBpbWFnZU1hdHJpeCA9IG1NYXRyaXgKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGFuaW1hdG9yLnN0YXJ0KCk=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="8" type="4">
+        <text>?</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
