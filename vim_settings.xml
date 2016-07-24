@@ -976,11 +976,10 @@
         <mark key="." line="26" column="89" />
         <mark key="^" line="26" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1469396830534">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1469398376488">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/scope/UserScope.java" timestamp="1460970471312">
         <mark key="[" line="10" column="6" />
@@ -1578,11 +1577,11 @@
       <jump line="13" column="0" filename="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBwcmludCgpIHsKICAgICAgICAKICAgIH0KICAgIAogICAgcHVibGljIFN0cmluZyBwcmludCgpIHsKICAgICAgICAKICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>@Nullable String msg2</text>
       </register>
       <register name="/" type="4">
         <text>plugin</text>
@@ -1590,32 +1589,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkb3duWCA9IG1vdGlvbkV2ZW50LngKICAgICAgICBkb3duWSA9IG1vdGlvbkV2ZW50LnkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBwcmludCgpIHsKICAgICAgICAKICAgIH0KICAgIAogICAgcHVibGljIFN0cmluZyBwcmludCgpIHsKICAgICAgICAKICAgIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsKICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYzIgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAxMzkwMTY5Mzg4Mgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsKICAgICAgICAxMzkwMTY5Mzg4Mgo=</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAxMjM0MTIzMTI0MjMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChudWxsKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
