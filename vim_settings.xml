@@ -737,7 +737,7 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1467501013426">
+      <file name="/fragment.java" timestamp="1469396533522">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/module/UserModule.java" timestamp="1460971214432">
@@ -975,6 +975,12 @@
         <mark key="]" line="35" column="5" />
         <mark key="." line="26" column="89" />
         <mark key="^" line="26" column="89" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" timestamp="1469396830534">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/shopcade.android/shopcade/src/main/java/com/shopcade/di/scope/UserScope.java" timestamp="1460970471312">
         <mark key="[" line="10" column="6" />
@@ -1470,10 +1476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_my.xml" />
-      <jump line="7" column="61" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/build.gradle" />
-      <jump line="45" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
-      <jump line="53" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/build.gradle" />
       <jump line="128" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_my.xml" />
       <jump line="11" column="42" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_my.xml" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/GitHub/KotlinPlayground/app/src/main/res/layout/activity_my.xml" />
@@ -1570,10 +1572,14 @@
       <jump line="59" column="0" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
       <jump line="214" column="28" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
       <jump line="217" column="3" filename="$USER_HOME$/Documents/GitHub/ImageScalingPlayground/app/src/main/java/com/imallan/imagescalingplayground/GestureImageView.kt" />
+      <jump line="10" column="36" filename="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" />
+      <jump line="0" column="1" filename="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/GitHub/Playground/app/src/main/java/com/imallan/playground/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Jg==</text>
@@ -1585,31 +1591,31 @@
         <text encoding="base64">ICAgICAgICBkb3duWCA9IG1vdGlvbkV2ZW50LngKICAgICAgICBkb3duWSA9IG1vdGlvbkV2ZW50LnkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG1SZXNldERvd25Db29yZGluYXRlczogQm9vbGVhbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkLmdldAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtRG93bgo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsKICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAxMzkwMTY5Mzg4Mgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsKICAgICAgICAxMzkwMTY5Mzg4Mgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRyYW5zWCA9IG1WYWx1ZXNbTWF0cml4Lk1UUkFOU19YXQogICAgICAgICAgICB2YWwgdHJhbnNZID0gbVZhbHVlc1tNYXRyaXguTVRSQU5TX1ldCg==</text>
+        <text encoding="base64">ICAgICAgICAxMjM0MTIzMTI0MjMK</text>
       </register>
-      <register name="8" type="4">
-        <text>currentScale == mFitScale</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>return</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
