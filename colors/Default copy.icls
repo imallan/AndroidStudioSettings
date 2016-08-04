@@ -4,7 +4,4 @@
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
-  <attributes>
-    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
-  </attributes>
 </scheme>
